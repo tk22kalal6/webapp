@@ -1,0 +1,169 @@
+{
+  "subjectName": "Marrow",
+  "lectures": [
+    {
+      "title": "01.Introduction to Radiology",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4272/1_watermarked.mp4?hash=AgAD_R"
+    },
+    {
+      "title": "02.X-ray Fundamentals",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4273/2_watermarked.mp4?hash=AgAD_h"
+    },
+    {
+      "title": "03.X-ray Production and Interactions",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4274/3_watermarked.mp4?hash=AgAD_x"
+    },
+    {
+      "title": "04.CT basics",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4275/4_watermarked.mp4?hash=AgAEFg"
+    },
+    {
+      "title": "05.USG basics",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4276/5_watermarked.mp4?hash=AgADAR"
+    },
+    {
+      "title": "06.MRI basics",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4277/6_watermarked.mp4?hash=AgADBR"
+    },
+    {
+      "title": "07.Contrast Media",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4278/7_watermarked.mp4?hash=AgADBx"
+    },
+    {
+      "title": "08.USG interpretation module",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4279/8_watermarked.mp4?hash=AgADCB"
+    },
+    {
+      "title": "09.CT interpretation module",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4280/9_watermarked.mp4?hash=AgADEx"
+    },
+    {
+      "title": "10.CXR basics: Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4281/10_watermarked.mp4?hash=AgADFh"
+    },
+    {
+      "title": "11.CXR basics: Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4282/11_watermarked.mp4?hash=AgADHR"
+    },
+    {
+      "title": "12.Pleural abnormalities and Lobar collapse",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4283/12_watermarked.mp4?hash=AgADIh"
+    },
+    {
+      "title": "13.Silhouette sign and Lung infections:Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4284/13_watermarked.mp4?hash=AgADIx"
+    },
+    {
+      "title": "14.Silhouette sign and Lung infections: Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4285/14_watermarked.mp4?hash=AgADJB"
+    },
+    {
+      "title": "15.Mediastinum: Lung tumors and Miscellaneous",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4286/15_watermarked.mp4?hash=AgADJR"
+    },
+    {
+      "title": "16.Congenital heart disease",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4287/16_watermarked.mp4?hash=AgADJh"
+    },
+    {
+      "title": "17.Acquired heart disease",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4288/17_watermarked.mp4?hash=AgADJx"
+    },
+    {
+      "title": "18.CNS: Stroke imaging",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4289/18_watermarked.mp4?hash=AgADKR"
+    },
+    {
+      "title": "19.CNS: Trauma imaging",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4290/19_watermarked.mp4?hash=AgADKB"
+    },
+    {
+      "title": "20.CNS: Tumor imaging",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4291/20_watermarked.mp4?hash=AgADKh"
+    },
+    {
+      "title": "21.CNS: Infections and Miscellaneous",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4292/21_watermarked.mp4?hash=AgADKx"
+    },
+    {
+      "title": "22.MRI: Blood appearance",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4293/22_watermarked.mp4?hash=AgADLR"
+    },
+    {
+      "title": "23.GUT: Conventional procedures",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4294/23_watermarked.mp4?hash=AgADLh"
+    },
+    {
+      "title": "24.GUT imaging",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4295/24_watermarked.mp4?hash=AgADLx"
+    },
+    {
+      "title": "25.Renal papillary necrosis: Animation module",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4296/25_watermarked.mp4?hash=AgADMB"
+    },
+    {
+      "title": "26.GIT: Conventional procedures",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4297/26_watermarked.mp4?hash=AgADMR"
+    },
+    {
+      "title": "27.GIT imaging",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4298/27_watermarked.mp4?hash=AgADMh"
+    },
+    {
+      "title": "28.Hydatid cyst: Animation module",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4299/28_watermarked.mp4?hash=AgADMx"
+    },
+    {
+      "title": "29 . Hepatobiliary and Pancreatic imaging",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4300/29_watermarked.mp4?hash=AgADNB"
+    },
+    {
+      "title": "30.Radionuclide imaging basics",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4301/30_watermarked.mp4?hash=AgADNR"
+    },
+    {
+      "title": "31. PET scan: Animation module",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4302/31_watermarked.mp4?hash=AgADNh"
+    },
+    {
+      "title": "32.Systemic Radionuclide imaging: Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4303/32_watermarked.mp4?hash=AgADOR"
+    },
+    {
+      "title": "33.Systemic Radionuclide imaging: Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4304/33_watermarked.mp4?hash=AgADPx"
+    },
+    {
+      "title": "34.Radiotherapy. Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4305/34_watermarked.mp4?hash=AgADQB"
+    },
+    {
+      "title": "35.Radiotherapy. Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4306/35_watermarked.mp4?hash=AgADQh"
+    },
+    {
+      "title": "36.Obstetrics and Gynaecology imaging",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4307/36_watermarked.mp4?hash=AgADQx"
+    },
+    {
+      "title": "37.Breast imaging",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4308/37_watermarked.mp4?hash=AgADRB"
+    },
+    {
+      "title": "38.MSK: Arthritis and infections",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4309/38_watermarked.mp4?hash=AgADRR"
+    },
+    {
+      "title": "39.MSK: Systemic bone disorders and Miscellaneous imaging",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4310/39_watermarked.mp4?hash=AgADRh"
+    },
+    {
+      "title": "40.MSK: Bone tumors",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4311/40_watermarked.mp4?hash=AgADSh"
+    },
+    {
+      "title": "41.MSK: Trauma rapid review",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4312/41_watermarked.mp4?hash=AgADTh"
+    }
+  ]
+}

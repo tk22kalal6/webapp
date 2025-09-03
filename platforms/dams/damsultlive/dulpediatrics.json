@@ -1,0 +1,233 @@
+{
+  "subjectName": "dulpediatrics",
+  "lectures": [
+    {
+      "title": "1.1.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/21441/1.1.mp4?hash=AgADAR"
+    },
+    {
+      "title": "1.2.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/21442/1.2.mp4?hash=AgADAx"
+    },
+    {
+      "title": "1.3.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/21443/1.3.mp4?hash=AgADBx"
+    },
+    {
+      "title": "1.4.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/21444/1.4.mp4?hash=AgADCR"
+    },
+    {
+      "title": "2.1.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/21445/2.1.mp4?hash=AgADJR"
+    },
+    {
+      "title": "2.2.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/21446/2.2.mp4?hash=AgADPR"
+    },
+    {
+      "title": "3.1.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/21447/3.1.mp4?hash=AgADSR"
+    },
+    {
+      "title": "3.2.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/21448/3.2.mp4?hash=AgADVR"
+    },
+    {
+      "title": "3.3.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/21449/3.3.mp4?hash=AgADXR"
+    },
+    {
+      "title": "4.1.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/21450/4.1.mp4?hash=AgADZR"
+    },
+    {
+      "title": "4.2.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/21451/4.2.mp4?hash=AgADbB"
+    },
+    {
+      "title": "4.3.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/21452/4.3.mp4?hash=AgADcR"
+    },
+    {
+      "title": "4.4.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/21453/4.4.mp4?hash=AgADdR"
+    },
+    {
+      "title": "4.5.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/21454/4.5.mp4?hash=AgADgB"
+    },
+    {
+      "title": "4.6.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/21455/4.6.mp4?hash=AgADqR"
+    },
+    {
+      "title": "5.1.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/21456/5.1.mp4?hash=AgAD1x"
+    },
+    {
+      "title": "5.2.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/21457/5.2.mp4?hash=AgAD8B"
+    },
+    {
+      "title": "5.3.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/21458/5.3.mp4?hash=AgAD-x"
+    },
+    {
+      "title": "6.1.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/21459/6.1.mp4?hash=AgADJR"
+    },
+    {
+      "title": "6.2.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/21460/6.2.mp4?hash=AgADYh"
+    },
+    {
+      "title": "6.3.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/21461/6.3.mp4?hash=AgADgh"
+    },
+    {
+      "title": "6.4.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/21462/6.4.mp4?hash=AgADoh"
+    },
+    {
+      "title": "6.5.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/21463/6.5.mp4?hash=AgADxx"
+    },
+    {
+      "title": "6.6.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/21464/6.6.mp4?hash=AgAD1h"
+    },
+    {
+      "title": "6.7.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/21465/6.7.mp4?hash=AgAD5B"
+    },
+    {
+      "title": "7.1.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/21466/7.1.mp4?hash=AgADDS"
+    },
+    {
+      "title": "7.2.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/21467/7.2.mp4?hash=AgADHS"
+    },
+    {
+      "title": "8.1.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/21468/8.1.mp4?hash=AgADKi"
+    },
+    {
+      "title": "8.2.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/21469/8.2.mp4?hash=AgADFR"
+    },
+    {
+      "title": "8.3.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/21470/8.3.mp4?hash=AgADey"
+    },
+    {
+      "title": "1.1 Normal Neonate.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/21471/1.1+Normal+Neonate.mp4?hash=AgADEC"
+    },
+    {
+      "title": "1.2 Neonatal-Screening; Reflexes; IUGR Basics.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/21472/1.2+Neonatal-Screening%3B+Reflexes%3B+IUGR+Basics.mp4?hash=AgAD5i"
+    },
+    {
+      "title": "1.3 Preterm-I.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/21473/1.3+Preterm-I.mp4?hash=AgADGS"
+    },
+    {
+      "title": "2.1 Preterm-II.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/21474/2.1+Preterm-II.mp4?hash=AgADvC"
+    },
+    {
+      "title": "2.2 Preterm-III.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/21475/2.2+Preterm-III.mp4?hash=AgADSi"
+    },
+    {
+      "title": "2.3 Newborn Respiratory Distress.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/21476/2.3+Newborn+Respiratory+Distress.mp4?hash=AgADkC"
+    },
+    {
+      "title": "2.4 Torch.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/21477/2.4+Torch.mp4?hash=AgAD5S"
+    },
+    {
+      "title": "2.5 Torch Others.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/21478/2.5+Torch+Others.mp4?hash=AgADIy"
+    },
+    {
+      "title": "3.1 Neonatal Jaundice.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/21479/3.1+Neonatal+Jaundice.mp4?hash=AgAD9y"
+    },
+    {
+      "title": "3.2 Neonatal Seizures, Neural tube defects.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/21480/3.2+Neonatal+Seizures%2C+Neural+tube+defects.mp4?hash=AgADyi"
+    },
+    {
+      "title": "3.3 Neonatal Resuscitation.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/21481/3.3+Neonatal+Resuscitation.mp4?hash=AgAD2C"
+    },
+    {
+      "title": "3.4 Genetics- Mendelian.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/21482/3.4+Genetics-+Mendelian.mp4?hash=AgAD8S"
+    },
+    {
+      "title": "4.1 Genetics-Non Mendelian and Syndromes.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/21483/4.1+Genetics-Non+Mendelian+and+Syndromes.mp4?hash=AgADjS"
+    },
+    {
+      "title": "4.2 Developmental Milestones",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/21484/4.2+Developmental+Milestones?hash=AgADqy"
+    },
+    {
+      "title": "4.3 Endocrine-Growth",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/21485/4.3+Endocrine-Growth?hash=AgADxi"
+    },
+    {
+      "title": "4.4 Endocrine-Puberty, CAH",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/21486/4.4+Endocrine-Puberty%2C+CAH?hash=AgAD2C"
+    },
+    {
+      "title": "4.5 Malnutrition",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/21487/4.5+Malnutrition?hash=AgADDS"
+    },
+    {
+      "title": "5.1 CVS: Emergencies & Acquired.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/21488/5.1+CVS%3A+Emergencies+%26+Acquired.mp4?hash=AgADLi"
+    },
+    {
+      "title": "5.2 Congenital Heart Disease- Basics & Fetal Circulation.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/21489/5.2+Congenital+Heart+Disease-+Basics+%26+Fetal+Circulation.mp4?hash=AgADSC"
+    },
+    {
+      "title": "6.1 Congenital Heart Disease- Acyanotic.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/21490/6.1+Congenital+Heart+Disease-+Acyanotic.mp4?hash=AgADHz"
+    },
+    {
+      "title": "6.2 Congenital heart - Cyanotic & Ductal Dependent.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/21491/6.2+Congenital+heart+-+Cyanotic+%26+Ductal+Dependent.mp4?hash=AgADXz"
+    },
+    {
+      "title": "6.3 Hypertension.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/21492/6.3+Hypertension.mp4?hash=AgADcz"
+    },
+    {
+      "title": "7.1 Respiratory System.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/21493/7.1+Respiratory+System.mp4?hash=AgADsz"
+    },
+    {
+      "title": "7.2 Respiratory- Recurrent Pneumonia.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/21494/7.2+Respiratory-+Recurrent+Pneumonia.mp4?hash=AgAD2j"
+    },
+    {
+      "title": "7.3 CNS - Seizures & Epilepsy.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/21495/7.3+CNS+-+Seizures+%26+Epilepsy.mp4?hash=AgADBT"
+    },
+    {
+      "title": "7.4 CNS-II.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/21496/7.4+CNS-II.mp4?hash=AgADPj"
+    },
+    {
+      "title": "7.5 Nephrology.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/21497/7.5+Nephrology.mp4?hash=AgADaj"
+    }
+  ]
+}

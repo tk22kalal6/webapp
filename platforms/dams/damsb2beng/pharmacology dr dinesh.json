@@ -1,0 +1,273 @@
+{
+  "subjectName": "Damsb2Beng",
+  "lectures": [
+    {
+      "title": "<b>1. Introduction &amp; ROA </b><b></b>",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15367/%3Cb%3E1.+Introduction+%26amp%3B+ROA%3C%2Fb%3E?hash=AgADKh"
+    },
+    {
+      "title": "<b>2. Pharmacokinetics </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15368/%3Cb%3E2.+Pharmacokinetics%3C%2Fb%3E?hash=AgADPB"
+    },
+    {
+      "title": "<b>3. Pharmacodynamics </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15369/%3Cb%3E3.+Pharmacodynamics%3C%2Fb%3E?hash=AgADOR"
+    },
+    {
+      "title": "<b>4. Pharmacovigilance &amp; ADRs </b><b></b>",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15370/%3Cb%3E4.+Pharmacovigilance+%26amp%3B+ADRs%3C%2Fb%3E?hash=AgADQh"
+    },
+    {
+      "title": "<b>5. Clinical Trials &amp; Drug Regulations </b><b></b>",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15371/%3Cb%3E5.+Clinical+Trials+%26amp%3B+Drug+Regulations%3C%2Fb%3E?hash=AgADSR"
+    },
+    {
+      "title": "<b>1. Introduction to ANS </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15372/%3Cb%3E1.+Introduction+to+ANS%3C%2Fb%3E?hash=AgADVB"
+    },
+    {
+      "title": "<b>2. Cholinergic Drugs </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15373/%3Cb%3E2.+Cholinergic+Drugs%3C%2Fb%3E?hash=AgADYR"
+    },
+    {
+      "title": "<b>3. Anticholinegric Drurgs </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15374/%3Cb%3E3.+Anticholinegric+Drurgs%3C%2Fb%3E?hash=AgADax"
+    },
+    {
+      "title": "<b>4. Adrenergic Drugs </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15375/%3Cb%3E4.+Adrenergic+Drugs%3C%2Fb%3E?hash=AgADfR"
+    },
+    {
+      "title": "<b>5. Antiadrenergic Drugs </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/15376/%3Cb%3E5.+Antiadrenergic+Drugs%3C%2Fb%3E?hash=AgADnh"
+    },
+    {
+      "title": "<b>1. Histamine &amp; H-1 Antihistaminics </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/15377/%3Cb%3E1.+Histamine+%26amp%3B+H-1+Antihistaminics%3C%2Fb%3E?hash=AgADpR"
+    },
+    {
+      "title": "<b>2. Serotonin Modifiers &amp; Drugs to treat Migraine </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15378/%3Cb%3E2.+Serotonin+Modifiers+%26amp%3B+Drugs+to+treat+Migraine%3C%2Fb%3E?hash=AgADtx"
+    },
+    {
+      "title": "<b>3. Prostaglandins &amp; PG analogue </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15379/%3Cb%3E3.+Prostaglandins+%26amp%3B+PG+analogue%3C%2Fb%3E?hash=AgADwB"
+    },
+    {
+      "title": "<b>4. NSAIDs </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15380/%3Cb%3E4.+NSAIDs%3C%2Fb%3E?hash=AgAD1B"
+    },
+    {
+      "title": "<b>5. Drugs to treat Gout </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15381/%3Cb%3E5.+Drugs+to+treat+Gout%3C%2Fb%3E?hash=AgAD3R"
+    },
+    {
+      "title": "<b>6. Drugs to treat RA (DMARDs) </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15382/%3Cb%3E6.+Drugs+to+treat+RA+%28DMARDs%29%3C%2Fb%3E?hash=AgAD5R"
+    },
+    {
+      "title": "<b>1. Sedative-Hypnotics </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15383/%3Cb%3E1.+Sedative-Hypnotics%3C%2Fb%3E?hash=AgAD_R"
+    },
+    {
+      "title": "<b>2. Alcohol </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15384/%3Cb%3E2.+Alcohol%3C%2Fb%3E?hash=AgADEB"
+    },
+    {
+      "title": "<b>3. Opioids </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15385/%3Cb%3E3.+Opioids%3C%2Fb%3E?hash=AgADLB"
+    },
+    {
+      "title": "<b>4. Anti-epileptic Drugs </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15386/%3Cb%3E4.+Anti-epileptic+Drugs%3C%2Fb%3E?hash=AgADWh"
+    },
+    {
+      "title": "<b>5. Anti-parkinsonism Drugs </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15387/%3Cb%3E5.+Anti-parkinsonism+Drugs%3C%2Fb%3E?hash=AgADbx"
+    },
+    {
+      "title": "<b>1. Local Anaesthetics &amp; SMR </b><b></b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15388/%3Cb%3E1.+Local+Anaesthetics+%26amp%3B+SMR%3C%2Fb%3E?hash=AgADiB"
+    },
+    {
+      "title": "<b>1. Diuretics </b><b></b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15389/%3Cb%3E1.+Diuretics%3C%2Fb%3E?hash=AgADrh"
+    },
+    {
+      "title": "<b>2. Anti-Diuretics </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15390/%3Cb%3E2.+Anti-Diuretics%3C%2Fb%3E?hash=AgADwh"
+    },
+    {
+      "title": "<b>1. RAAS Inhibitors </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15391/%3Cb%3E1.+RAAS+Inhibitors%3C%2Fb%3E?hash=AgAD1h"
+    },
+    {
+      "title": "<b>2. Antihypertensive drugs </b><b></b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15392/%3Cb%3E2.+Antihypertensive+drugs%3C%2Fb%3E?hash=AgAD5R"
+    },
+    {
+      "title": "<b>3. Drugs to treat Heart Failure </b><b></b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15393/%3Cb%3E3.+Drugs+to+treat+Heart+Failure%3C%2Fb%3E?hash=AgAD8R"
+    },
+    {
+      "title": "<b>4. Anti-arrhythmic Drugs </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15394/%3Cb%3E4.+Anti-arrhythmic+Drugs%3C%2Fb%3E?hash=AgAD-h"
+    },
+    {
+      "title": "<b>5. Drugs to treat IHD (Angina &amp; MI) </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15395/%3Cb%3E5.+Drugs+to+treat+IHD+%28Angina+%26amp%3B+MI%29%3C%2Fb%3E?hash=AgADAx"
+    },
+    {
+      "title": "<b>1. Fibrinolytics &amp; Antifibrinolytics </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15396/%3Cb%3E1.+Fibrinolytics+%26amp%3B+Antifibrinolytics%3C%2Fb%3E?hash=AgADCB"
+    },
+    {
+      "title": "<b>2. Antiplatelets </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15397/%3Cb%3E2.+Antiplatelets%3C%2Fb%3E?hash=AgADDh"
+    },
+    {
+      "title": "<b>3. Anticoagulants </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15398/%3Cb%3E3.+Anticoagulants%3C%2Fb%3E?hash=AgADFh"
+    },
+    {
+      "title": "<b>4. Drugs to treat Dyslipidemia </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15399/%3Cb%3E4.+Drugs+to+treat+Dyslipidemia%3C%2Fb%3E?hash=AgADGx"
+    },
+    {
+      "title": "<b>1. Drugs to treat Asthma </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/15400/%3Cb%3E1.+Drugs+to+treat+Asthma%3C%2Fb%3E?hash=AgADIR"
+    },
+    {
+      "title": "<b>2. Drugs to treat Cough </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/15401/%3Cb%3E2.+Drugs+to+treat+Cough%3C%2Fb%3E?hash=AgADJR"
+    },
+    {
+      "title": "<b>3. Drugs to treat Pulmonary Hypertension </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15402/%3Cb%3E3.+Drugs+to+treat+Pulmonary+Hypertension%3C%2Fb%3E?hash=AgADKh"
+    },
+    {
+      "title": "<b>1. Drugs to treat Acid Peptic Diseases </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15403/%3Cb%3E1.+Drugs+to+treat+Acid+Peptic+Diseases%3C%2Fb%3E?hash=AgADMB"
+    },
+    {
+      "title": "<b>2. Antiemetics and Prokinetics </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15404/%3Cb%3E2.+Antiemetics+and+Prokinetics%3C%2Fb%3E?hash=AgADNx"
+    },
+    {
+      "title": "<b>3. Drugs to treat Constipation and Diarrhea </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15405/%3Cb%3E3.+Drugs+to+treat+Constipation+and+Diarrhea%3C%2Fb%3E?hash=AgADPx"
+    },
+    {
+      "title": "<b>1. Anti-Diabetic Drugs </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/15406/%3Cb%3E1.+Anti-Diabetic+Drugs%3C%2Fb%3E?hash=AgADUR"
+    },
+    {
+      "title": "<b>2. Durgs for Thyroid Disorders </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/15407/%3Cb%3E2.+Durgs+for+Thyroid+Disorders%3C%2Fb%3E?hash=AgADVx"
+    },
+    {
+      "title": "<b>3. Drugs for Acromegaly &amp; Hyperprolactinemia </b><b></b>",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15408/%3Cb%3E3.+Drugs+for+Acromegaly+%26amp%3B+Hyperprolactinemia%3C%2Fb%3E?hash=AgADXx"
+    },
+    {
+      "title": "<b>4. GnRH Agonist &amp; Antagonists </b><b></b>",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15409/%3Cb%3E4.+GnRH+Agonist+%26amp%3B+Antagonists%3C%2Fb%3E?hash=AgADYx"
+    },
+    {
+      "title": "<b>5. Anabolic steroids &amp; Anti-androgens </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15410/%3Cb%3E5.+Anabolic+steroids+%26amp%3B+Anti-androgens%3C%2Fb%3E?hash=AgADbR"
+    },
+    {
+      "title": "<b>6. SERMs </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15411/%3Cb%3E6.+SERMs%3C%2Fb%3E?hash=AgADdR"
+    },
+    {
+      "title": "<b>7. Corticosteroids </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15412/%3Cb%3E7.+Corticosteroids%3C%2Fb%3E?hash=AgADfx"
+    },
+    {
+      "title": "<b>8. Uterine Oxytocics &amp; Relaxants </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15413/%3Cb%3E8.+Uterine+Oxytocics+%26amp%3B+Relaxants%3C%2Fb%3E?hash=AgADiB"
+    },
+    {
+      "title": "<b>9. Drugs affecting Calcium Balance &amp; Osteoporosis </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15414/%3Cb%3E9.+Drugs+affecting+Calcium+Balance+%26amp%3B+Osteoporosis%3C%2Fb%3E?hash=AgADjx"
+    },
+    {
+      "title": "<b>1. Introduction &amp; General Considerations </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15415/%3Cb%3E1.+Introduction+%26amp%3B+General+Considerations%3C%2Fb%3E?hash=AgADoh"
+    },
+    {
+      "title": "<b>2. Beta Lactams </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15416/%3Cb%3E2.+Beta+Lactams%3C%2Fb%3E?hash=AgADwh"
+    },
+    {
+      "title": "<b>3. Vancomycin, Colistin &amp; Daptomycin </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15417/%3Cb%3E3.+Vancomycin%2C+Colistin+%26amp%3B+Daptomycin%3C%2Fb%3E?hash=AgADxh"
+    },
+    {
+      "title": "<b>4. Aminoglycosides </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15418/%3Cb%3E4.+Aminoglycosides%3C%2Fb%3E?hash=AgADzB"
+    },
+    {
+      "title": "<b>5. Tetracyclines &amp; Chloramphenicol </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15419/%3Cb%3E5.+Tetracyclines+%26amp%3B+Chloramphenicol%3C%2Fb%3E?hash=AgAD1B"
+    },
+    {
+      "title": "<b>6. Macrolides, Clindamycin &amp; Sreptogramins </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15420/%3Cb%3E6.+Macrolides%2C+Clindamycin+%26amp%3B+Sreptogramins%3C%2Fb%3E?hash=AgAD2h"
+    },
+    {
+      "title": "<b>7. Linezolid </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15421/%3Cb%3E7.+Linezolid%3C%2Fb%3E?hash=AgAD3h"
+    },
+    {
+      "title": "<b>8. Sulfonamides &amp; Cotrimoxazole </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15422/%3Cb%3E8.+Sulfonamides+%26amp%3B+Cotrimoxazole%3C%2Fb%3E?hash=AgAD4R"
+    },
+    {
+      "title": "<b>9. Quinolones </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15423/%3Cb%3E9.+Quinolones%3C%2Fb%3E?hash=AgAD6B"
+    },
+    {
+      "title": "<b>10. Drugs used for UTI &amp; Typhoid </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15424/%3Cb%3E10.+Drugs+used+for+UTI+%26amp%3B+Typhoid%3C%2Fb%3E?hash=AgAD7h"
+    },
+    {
+      "title": "<b>11. Metronidazole </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15425/%3Cb%3E11.+Metronidazole%3C%2Fb%3E?hash=AgAD8x"
+    },
+    {
+      "title": "<b>12. Anti-Tubercular Drugs </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15426/%3Cb%3E12.+Anti-Tubercular+Drugs%3C%2Fb%3E?hash=AgAD-h"
+    },
+    {
+      "title": "<b>13. Anti-Leprotic Drugs </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15427/%3Cb%3E13.+Anti-Leprotic+Drugs%3C%2Fb%3E?hash=AgAD_x"
+    },
+    {
+      "title": "<b>14. Antiviral Drugs </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15428/%3Cb%3E14.+Antiviral+Drugs%3C%2Fb%3E?hash=AgADER"
+    },
+    {
+      "title": "<b>15. Antifungal Drugs </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15429/%3Cb%3E15.+Antifungal+Drugs%3C%2Fb%3E?hash=AgADGR"
+    },
+    {
+      "title": "<b>16. Antiprotozoal Drugs (Malaria, Amoebiasis, Trypnosomiasis &amp; Leishmaniasis) </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15430/%3Cb%3E16.+Antiprotozoal+Drugs+%28Malaria%2C+Amoebiasis%2C+Trypnosomiasis+%26amp%3B+Leishmaniasis%29%3C%2Fb%3E?hash=AgADKB"
+    },
+    {
+      "title": "<b>17. Antihelminthic Drugs </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15431/%3Cb%3E17.+Antihelminthic+Drugs%3C%2Fb%3E?hash=AgADLR"
+    },
+    {
+      "title": "<b>18. Drugs used to treat Scabies &amp; Pediculosis </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15432/%3Cb%3E18.+Drugs+used+to+treat+Scabies+%26amp%3B+Pediculosis%3C%2Fb%3E?hash=AgADMR"
+    },
+    {
+      "title": "<b>1. Cytotoxic Agents </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15433/%3Cb%3E1.+Cytotoxic+Agents%3C%2Fb%3E?hash=AgADOx"
+    }
+  ]
+}

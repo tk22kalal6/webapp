@@ -1,0 +1,310 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Marrow Anatomy Lectures - NEXTPULSE | NEET PG Preparation</title>
+  <meta name="description" content="Access comprehensive Anatomy video lectures from Marrow. Expert faculty teaching human anatomy for NEET PG preparation.">
+  <meta name="keywords" content="Marrow anatomy, human anatomy lectures, NEET PG anatomy, medical anatomy videos">
+  <link rel="stylesheet" href="../../styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <style>
+    .completion-toggle {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      cursor: pointer;
+      z-index: 10;
+    }
+
+    .completion-circle {
+      width: 32px;
+      height: 32px;
+      border: 2px solid #e2e8f0;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: white;
+      transition: all 0.3s ease;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .completion-circle:hover {
+      border-color: #4299e1;
+      transform: scale(1.05);
+    }
+
+    .completion-circle.completed {
+      background: #48bb78;
+      border-color: #48bb78;
+    }
+
+    .completion-circle .fas.fa-check {
+      color: white;
+      font-size: 14px;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .completion-circle .fas.fa-check.visible {
+      opacity: 1;
+    }
+
+    .lecture-card {
+      position: relative;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <button onclick="history.back()" class="back-button" style="display: block;"> <i class="fas fa-arrow-left"></i> </button>
+      </button>
+      <h1>Anatomy Lectures</h1>
+      <p class="header-subtitle">Marrow - Expert Faculty</p>
+      <div class="search-bar">
+        <i class="fas fa-search"></i>
+        <input type="text" placeholder="Search lectures..." id="searchInput">
+      </div>
+    </div>
+  </header>
+  <main>
+    <div class="lecture-list" id="lectureList">
+      <p>Loading lectures...</p>
+    </div>
+  </main>
+  
+<nav class="bottom-nav">
+  <a href="../../app.html" class="active"><i class="fas fa-lightbulb"></i><span>Home</span></a>
+  <a href="../../platforms.html"><i class="fas fa-play-circle"></i><span>Videos</span></a>
+  <a href="../../search.html"><i class="fas fa-search"></i><span>Search</span></a>
+  <a href="../../quiz/index.html"><i class="fas fa-question-circle"></i><span>Q Bank</span></a>
+</nav>
+
+  <script>
+    let lecturesData = [];
+
+    // Completion tracking functionality
+    class LectureCompletion {
+      constructor() {
+        this.storageKey = 'lectureCompletions';
+      }
+
+      isCompleted(platform, subject, lectureTitle) {
+        const completions = this.getCompletions();
+        const key = `${platform}-${subject}-${lectureTitle}`;
+        return completions[key] || false;
+      }
+
+      toggleCompletion(platform, subject, lectureTitle) {
+        const completions = this.getCompletions();
+        const key = `${platform}-${subject}-${lectureTitle}`;
+        completions[key] = !completions[key];
+        this.saveCompletions(completions);
+        return completions[key];
+      }
+
+      getCompletions() {
+        try {
+          const stored = localStorage.getItem(this.storageKey);
+          return stored ? JSON.parse(stored) : {};
+        } catch (error) {
+          console.error('Error reading completions from localStorage:', error);
+          return {};
+        }
+      }
+
+      saveCompletions(completions) {
+        try {
+          localStorage.setItem(this.storageKey, JSON.stringify(completions));
+        } catch (error) {
+          console.error('Error saving completions to localStorage:', error);
+        }
+      }
+
+      createCompletionToggle(platform, subject, lectureTitle) {
+        const isCompleted = this.isCompleted(platform, subject, lectureTitle);
+        
+        const toggle = document.createElement('div');
+        toggle.className = 'completion-toggle';
+        toggle.innerHTML = `
+          <div class="completion-circle ${isCompleted ? 'completed' : ''}">
+            <i class="fas fa-check ${isCompleted ? 'visible' : ''}"></i>
+          </div>
+        `;
+
+        toggle.onclick = (e) => {
+          e.stopPropagation();
+          const newStatus = this.toggleCompletion(platform, subject, lectureTitle);
+          const circle = toggle.querySelector('.completion-circle');
+          const checkIcon = toggle.querySelector('.fas.fa-check');
+          
+          if (newStatus) {
+            circle.classList.add('completed');
+            checkIcon.classList.add('visible');
+          } else {
+            circle.classList.remove('completed');
+            checkIcon.classList.remove('visible');
+          }
+        };
+
+        return toggle;
+      }
+    }
+
+    const completionTracker = new LectureCompletion();
+
+    // Function to load lectures from JSON
+    async function loadLectures() {
+      console.log('Starting to load lectures...');
+      try {
+        console.log('Fetching from pwradiology2.json...');
+        const response = await fetch('pwradiology2.json');
+        console.log('Fetch response status:', response.status, response.statusText);
+        
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        
+        const data = await response.json();
+        console.log('JSON data received:', data);
+        
+        lecturesData = data.lectures || [];
+        console.log('Loaded lectures from JSON:', lecturesData.length, 'lectures');
+        
+        if (lecturesData.length > 0) {
+          renderLectures(lecturesData);
+        } else {
+          console.log('No lectures found in JSON, using fallback');
+          useFallbackLectures();
+        }
+      } catch (error) {
+        console.error('Error loading lectures:', error);
+        console.log('Using fallback lectures due to error');
+        useFallbackLectures();
+      }
+    }
+
+    function useFallbackLectures() {
+      lecturesData = [
+        {
+          title: "Introduction to Human Anatomy",
+          streamingUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+        },
+        {
+          title: "Basic Anatomical Terminology", 
+          streamingUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+        },
+        {
+          title: "Cell Structure and Function",
+          streamingUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+        },
+        {
+          title: "Tissue Types and Classification",
+          streamingUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+        },
+        {
+          title: "Skeletal System Overview",
+          streamingUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+        }
+      ];
+      console.log('Using fallback lectures:', lecturesData.length, 'lectures');
+      renderLectures(lecturesData);
+    }
+
+    // Function to render lectures
+    function renderLectures(lectures) {
+      console.log('Rendering lectures:', lectures.length);
+      const lectureList = document.getElementById('lectureList');
+      
+      if (!lectureList) {
+        console.error('lectureList element not found!');
+        return;
+      }
+      
+      lectureList.innerHTML = '';
+
+      if (lectures.length === 0) {
+        lectureList.innerHTML = '<p>No lectures available.</p>';
+        return;
+      }
+
+      lectures.forEach((lecture, index) => {
+        console.log(`Rendering lecture ${index + 1}:`, lecture.title);
+        const lectureCard = document.createElement('div');
+        lectureCard.className = 'lecture-card';
+        
+        lectureCard.innerHTML = `
+          <h3>${lecture.title}</h3>
+          <div class="button-container">
+            <button class="stream-button" onclick="openVideo('${lecture.title}', '${lecture.streamingUrl}')">
+              <i class="fas fa-play"></i> Stream
+            </button>
+            <button class="download-button" onclick="downloadVideo('${lecture.streamingUrl}')">
+              <i class="fas fa-download"></i> Download
+            </button>
+          </div>
+        `;
+        
+        // Add completion toggle
+        const completionToggle = completionTracker.createCompletionToggle('marrow', 'anatomy', lecture.title);
+        lectureCard.appendChild(completionToggle);
+        
+        lectureList.appendChild(lectureCard);
+      });
+      
+      console.log('Finished rendering all lectures');
+    }
+
+    function openVideo(title, url) {
+      const popup = document.createElement('div');
+      popup.className = 'video-popup';
+      popup.innerHTML = `
+        <div class="video-popup-content">
+          <button class="close-popup" onclick="closeVideo(this)">&times;</button>
+          <h2 class="video-title">${title}</h2>
+          <div class="iframe-container">
+            <iframe src="${url}" allowfullscreen></iframe>
+          </div>
+        </div>
+      `;
+      
+      popup.onclick = function(e) {
+        if (e.target === popup) {
+          closeVideo(popup.querySelector('.close-popup'));
+        }
+      };
+      
+      document.body.appendChild(popup);
+    }
+
+    function closeVideo(button) {
+      const popup = button.closest('.video-popup');
+      document.body.removeChild(popup);
+    }
+
+    function downloadVideo(streamUrl) {
+      // Convert streaming URL to download URL
+      const downloadUrl = streamUrl.replace('/watch/', '/dl/');
+      window.open(downloadUrl, '_blank');
+    }
+
+    // Search functionality
+    document.getElementById('searchInput').addEventListener('input', function(e) {
+      const query = e.target.value.toLowerCase();
+      const filteredLectures = lecturesData.filter(lecture =>
+        lecture.title.toLowerCase().includes(query)
+      );
+      renderLectures(filteredLectures);
+    });
+
+    // Load lectures when page loads
+    document.addEventListener('DOMContentLoaded', function() {
+      console.log('DOM loaded, starting lecture load...');
+      loadLectures();
+    });
+  </script>
+</body>
+</html>

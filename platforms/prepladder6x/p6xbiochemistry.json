@@ -1,0 +1,201 @@
+{
+  "subjectName": "p6xbiochemistry",
+  "lectures": [
+    {
+      "title": "<b>1. Cell &amp; Suborganalle.mp4 </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19155/%3Cb%3E1.+Cell+%26amp%3B+Suborganalle.mp4%3C%2Fb%3E?hash=AgADcB"
+    },
+    {
+      "title": "<b>2. Transport &amp; Receptors.mp4 </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19156/%3Cb%3E2.+Transport+%26amp%3B+Receptors.mp4%3C%2Fb%3E?hash=AgADcR"
+    },
+    {
+      "title": "<b>3. Carbohydrate Chemistry and Simple Carbohydrates.mp4 </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19157/%3Cb%3E3.+Carbohydrate+Chemistry+and+Simple+Carbohydrates.mp4%3C%2Fb%3E?hash=AgADch"
+    },
+    {
+      "title": "<b>4. Reducing &amp; Non-reducing sugar- Urine Investigations Clinical Diagnosis.mp4 </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19158/%3Cb%3E4.+Reducing+%26amp%3B+Non-reducing+sugar-+Urine+Investigations+Clinical+Diagnosis.mp4%3C%2Fb%3E?hash=AgADcx"
+    },
+    {
+      "title": "<b>5. Mucopolysaccharides and Complex Carbohydrates.mp4 </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19159/%3Cb%3E5.+Mucopolysaccharides+and+Complex+Carbohydrates.mp4%3C%2Fb%3E?hash=AgADdB"
+    },
+    {
+      "title": "<b>6. Isomerism.mp4 </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19160/%3Cb%3E6.+Isomerism.mp4%3C%2Fb%3E?hash=AgADdR"
+    },
+    {
+      "title": "<b>7. Introduction &amp; Integration of Metabolism.mp4 </b><b></b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19161/%3Cb%3E7.+Introduction+%26amp%3B+Integration+of+Metabolism.mp4%3C%2Fb%3E?hash=AgADdx"
+    },
+    {
+      "title": "<b>8. Glycolysis.mp4 </b><b></b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19162/%3Cb%3E8.+Glycolysis.mp4%3C%2Fb%3E?hash=AgADeR"
+    },
+    {
+      "title": "<b>9. Starvation-Fates of Pyruvate and PDH Complex.mp4 </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19163/%3Cb%3E9.+Starvation-Fates+of+Pyruvate+and+PDH+Complex.mp4%3C%2Fb%3E?hash=AgADex"
+    },
+    {
+      "title": "<b>10. TCA Cycle.mp4 </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19164/%3Cb%3E10.+TCA+Cycle.mp4%3C%2Fb%3E?hash=AgADfR"
+    },
+    {
+      "title": "<b>11. Gluconeogenesis.mp4 </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19165/%3Cb%3E11.+Gluconeogenesis.mp4%3C%2Fb%3E?hash=AgADgB"
+    },
+    {
+      "title": "<b>12. HMP Shunt.mp4 </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19166/%3Cb%3E12.+HMP+Shunt.mp4%3C%2Fb%3E?hash=AgADgh"
+    },
+    {
+      "title": "<b>13. Fructose and Galactose Metabolism.mp4 </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19167/%3Cb%3E13.+Fructose+and+Galactose+Metabolism.mp4%3C%2Fb%3E?hash=AgADgx"
+    },
+    {
+      "title": "<b>14. Glycogen Metabolism.mp4 </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19168/%3Cb%3E14.+Glycogen+Metabolism.mp4%3C%2Fb%3E?hash=AgADhR"
+    },
+    {
+      "title": "<b>15. Glycogen Storage Disorders.mp4 </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19169/%3Cb%3E15.+Glycogen+Storage+Disorders.mp4%3C%2Fb%3E?hash=AgADhh"
+    },
+    {
+      "title": "<b>16. Glut Transporters Alcohol Metabolism.mp4 </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19170/%3Cb%3E16.+Glut+Transporters+Alcohol+Metabolism.mp4%3C%2Fb%3E?hash=AgADhx"
+    },
+    {
+      "title": "<b>17. Lipid Chemistry and Complex Lipids.mp4 </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19171/%3Cb%3E17.+Lipid+Chemistry+and+Complex+Lipids.mp4%3C%2Fb%3E?hash=AgADiB"
+    },
+    {
+      "title": "<b>18. Fatty Acid , Cholesterol and Glycolipids.mp4 </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19172/%3Cb%3E18.+Fatty+Acid+%2C+Cholesterol+and+Glycolipids.mp4%3C%2Fb%3E?hash=AgADiR"
+    },
+    {
+      "title": "<b>19. Fatty Acid Synthesis.mp4 </b><b></b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19173/%3Cb%3E19.+Fatty+Acid+Synthesis.mp4%3C%2Fb%3E?hash=AgADih"
+    },
+    {
+      "title": "<b>20. Cholesterol and Bile Acid Synthesis.mp4 </b><b></b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19174/%3Cb%3E20.+Cholesterol+and+Bile+Acid+Synthesis.mp4%3C%2Fb%3E?hash=AgADjB"
+    },
+    {
+      "title": "<b>21. Fatty Acid Oxidation.mp4 </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19175/%3Cb%3E21.+Fatty+Acid+Oxidation.mp4%3C%2Fb%3E?hash=AgADjh"
+    },
+    {
+      "title": "<b>22. Lipoprotein Metabolism.mp4 </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19176/%3Cb%3E22.+Lipoprotein+Metabolism.mp4%3C%2Fb%3E?hash=AgADkB"
+    },
+    {
+      "title": "<b>23. Dyslipoprotienemia.mp4 </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19177/%3Cb%3E23.+Dyslipoprotienemia.mp4%3C%2Fb%3E?hash=AgADkR"
+    },
+    {
+      "title": "<b>24. Amino Acid Chemistry.mp4 </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19178/%3Cb%3E24.+Amino+Acid+Chemistry.mp4%3C%2Fb%3E?hash=AgADkh"
+    },
+    {
+      "title": "<b>25. Protein Chemistry.mp4 </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19179/%3Cb%3E25.+Protein+Chemistry.mp4%3C%2Fb%3E?hash=AgADkx"
+    },
+    {
+      "title": "<b>26. Hemoglobin and Myoglobin.mp4 </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19180/%3Cb%3E26.+Hemoglobin+and+Myoglobin.mp4%3C%2Fb%3E?hash=AgADlB"
+    },
+    {
+      "title": "<b>27. Electrophoresis Chromatography.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19181/%3Cb%3E27.+Electrophoresis+Chromatography.mp4%3C%2Fb%3E?hash=AgADlh"
+    },
+    {
+      "title": "<b>28. Aminoacid Breakdown.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19182/%3Cb%3E28.+Aminoacid+Breakdown.mp4%3C%2Fb%3E?hash=AgADmR"
+    },
+    {
+      "title": "<b>29. Urea Cycle and Disorder.mp4 </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19183/%3Cb%3E29.+Urea+Cycle+and+Disorder.mp4%3C%2Fb%3E?hash=AgADmx"
+    },
+    {
+      "title": "<b>30. Glycine and One Carbon Pool.mp4 </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19184/%3Cb%3E30.+Glycine+and+One+Carbon+Pool.mp4%3C%2Fb%3E?hash=AgADnR"
+    },
+    {
+      "title": "<b>31. Other Aminoacid Metabolism.mp4 </b><b></b>",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/19185/%3Cb%3E31.+Other+Aminoacid+Metabolism.mp4%3C%2Fb%3E?hash=AgADnh"
+    },
+    {
+      "title": "<b>32. Urine Odours and Phenylalanine Tyrosine Metabolism.mp4 </b><b></b>",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/19186/%3Cb%3E32.+Urine+Odours+and+Phenylalanine+Tyrosine+Metabolism.mp4%3C%2Fb%3E?hash=AgADnx"
+    },
+    {
+      "title": "<b>33. Nucleotide Chemistry, Chromosome and Gene Organisation.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19187/%3Cb%3E33.+Nucleotide+Chemistry%2C+Chromosome+and+Gene+Organisation.mp4%3C%2Fb%3E?hash=AgADoB"
+    },
+    {
+      "title": "<b>34. Cell Cycle and Human Genomic Sequences.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19188/%3Cb%3E34.+Cell+Cycle+and+Human+Genomic+Sequences.mp4%3C%2Fb%3E?hash=AgADoR"
+    },
+    {
+      "title": "<b>35. DNA and RNA.mp4 </b><b></b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19189/%3Cb%3E35.+DNA+and+RNA.mp4%3C%2Fb%3E?hash=AgADox"
+    },
+    {
+      "title": "<b>37. DNA Repair Mechanism.mp4 </b><b></b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19190/%3Cb%3E37.+DNA+Repair+Mechanism.mp4%3C%2Fb%3E?hash=AgADpB"
+    },
+    {
+      "title": "<b>36. Replication.mp4 </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/19191/%3Cb%3E36.+Replication.mp4%3C%2Fb%3E?hash=AgADpR"
+    },
+    {
+      "title": "<b>38. Transcription.mp4 </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/19192/%3Cb%3E38.+Transcription.mp4%3C%2Fb%3E?hash=AgADpx"
+    },
+    {
+      "title": "<b>39. Genetic Code and Mutation.mp4 </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19193/%3Cb%3E39.+Genetic+Code+and+Mutation.mp4%3C%2Fb%3E?hash=AgADqR"
+    },
+    {
+      "title": "<b>40. Translation.mp4 </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19194/%3Cb%3E40.+Translation.mp4%3C%2Fb%3E?hash=AgADqx"
+    },
+    {
+      "title": "<b>42. Recombinant DNA Technology.mp4 </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19195/%3Cb%3E42.+Recombinant+DNA+Technology.mp4%3C%2Fb%3E?hash=AgADrR"
+    },
+    {
+      "title": "<b>43. Heme-Synthesis and Porphyria&;s.mp4 </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19196/%3Cb%3E43.+Heme-Synthesis+and+Porphyria%26amp%3B%3Bs.mp4%3C%2Fb%3E?hash=AgADsB"
+    },
+    {
+      "title": "<b>41. PCR Detection of Known Mutations Sites.mp4 </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/19197/%3Cb%3E41.+PCR+Detection+of+Known+Mutations+Sites.mp4%3C%2Fb%3E?hash=AgADsx"
+    },
+    {
+      "title": "<b>44. Heme Breakdown and Hyperbilirubinemias.mp4 </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/19198/%3Cb%3E44.+Heme+Breakdown+and+Hyperbilirubinemias.mp4%3C%2Fb%3E?hash=AgADtB"
+    },
+    {
+      "title": "<b>45. Vitamin A, E and K.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19199/%3Cb%3E45.+Vitamin+A%2C+E+and+K.mp4%3C%2Fb%3E?hash=AgADtR"
+    },
+    {
+      "title": "<b>46. Vitamin D-Calcium and Phosphorus Homeostasis.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19200/%3Cb%3E46.+Vitamin+D-Calcium+and+Phosphorus+Homeostasis.mp4%3C%2Fb%3E?hash=AgADth"
+    },
+    {
+      "title": "<b>47. Vitamin B.mp4 </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19201/%3Cb%3E47.+Vitamin+B.mp4%3C%2Fb%3E?hash=AgADuR"
+    },
+    {
+      "title": "<b>48. Vitamin C &amp; Collagen.mp4 </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19202/%3Cb%3E48.+Vitamin+C+%26amp%3B+Collagen.mp4%3C%2Fb%3E?hash=AgADuh"
+    },
+    {
+      "title": "<b>50. Copper, Zinc, Fluoride, Selenium and Molybdenum.mp4 </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19203/%3Cb%3E50.+Copper%2C+Zinc%2C+Fluoride%2C+Selenium+and+Molybdenum.mp4%3C%2Fb%3E?hash=AgADux"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "subjectName": "E-Gurukul",
+  "lectures": [
+    {
+      "title": "1. Introduction to Radiology Topic : Introduction to Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9068/6450b3c295d91c441d1962b1.mp4?hash=AgADXS"
+    },
+    {
+      "title": "1. Basics of Investigations Topic : Basics of Investigations Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9069/6450b3c295d91c441d1962a3.mp4?hash=AgADXi"
+    },
+    {
+      "title": "1. Basics of Radiography Topic : Basics of Radiography Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9070/6450b3c295d91c441d1962a4.mp4?hash=AgADXy"
+    },
+    {
+      "title": "1. Mammography Topic : Mammography Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9071/6450b3c295d91c441d1962a5.mp4?hash=AgADYC"
+    },
+    {
+      "title": "1. Ultrasonography (Part-1) Topic : Ultrasonography Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9072/6450b3c295d91c441d1962af.mp4?hash=AgADYS"
+    },
+    {
+      "title": "2. Ultrasonography (Part-2) Topic : Ultrasonography Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9073/6450b3c295d91c441d1962b0.mp4?hash=AgADYi"
+    },
+    {
+      "title": "1. CT Scan (Part- 1) Topic : CT Scan Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9074/6450b3c295d91c441d1962be.mp4?hash=AgADYy"
+    },
+    {
+      "title": "2. CT Scan (Part -2) Topic : CT Scan Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9075/6450b3c295d91c441d1962bf.mp4?hash=AgADZS"
+    },
+    {
+      "title": "1. MRI Topic : MRI Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9076/6450b3c295d91c441d1962a6.mp4?hash=AgADZi"
+    },
+    {
+      "title": "1. Radiation Hazards And Protection Topic : Radiation Hazards and Protection Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9077/6450b3c295d91c441d1962c0.mp4?hash=AgADZy"
+    },
+    {
+      "title": "1. MRI & USG Contrast Agents Topic : Contrast Agents in Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9078/6450b3c295d91c441d1962b2.mp4?hash=AgADaC"
+    },
+    {
+      "title": "2. Iodinated Contrast Agents Topic : Contrast Agents in Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9079/6450b3c295d91c441d1962a9.mp4?hash=AgADaS"
+    },
+    {
+      "title": "1. Nuclear Scans Topic : Nuclear Scans Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9080/6450b3c295d91c441d1962c2.mp4?hash=AgADai"
+    },
+    {
+      "title": "1. PET Scan Topic : PET Scan Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9081/6450b3c295d91c441d1962c3.mp4?hash=AgADay"
+    },
+    {
+      "title": "1. (Part-1) Topic : Neuro Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9082/6450b3c295d91c441d1962b3.mp4?hash=AgADbC"
+    },
+    {
+      "title": "2. (Part-2) Topic : Neuro Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9083/6450b3c295d91c441d1962b4.mp4?hash=AgADbS"
+    },
+    {
+      "title": "3. (Part-3) Topic : Neuro Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9084/6450b3c295d91c441d1962b5.mp4?hash=AgADbi"
+    },
+    {
+      "title": "4. (Part-4) Topic : Neuro Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9085/6450b3c295d91c441d1962b6.mp4?hash=AgADby"
+    },
+    {
+      "title": "1. Spine Imaging Topic : Head and Neck Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9086/6450b3c295d91c441d1962ab.mp4?hash=AgADcC"
+    },
+    {
+      "title": "2. Face & PNS Imaging Topic : Head and Neck Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9087/6450b3c295d91c441d1962aa.mp4?hash=AgADcS"
+    },
+    {
+      "title": "1. (Part-1) Topic : Thoracic & Cardiovascular Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9088/6450b3c295d91c441d1962ba.mp4?hash=AgADdC"
+    },
+    {
+      "title": "2. (Part-2) Topic : Thoracic & Cardiovascular Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9089/6450b3c295d91c441d1962bb.mp4?hash=AgADdS"
+    },
+    {
+      "title": "3. (Part-3) Topic : Thoracic & Cardiovascular Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9090/6450b3c295d91c441d1962b7.mp4?hash=AgADdi"
+    },
+    {
+      "title": "4. (Part-4) Topic : Thoracic & Cardiovascular Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9091/6450b3c295d91c441d1962b8.mp4?hash=AgADdy"
+    },
+    {
+      "title": "5. (Part-5) Topic : Thoracic & Cardiovascular Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9092/6450b3c295d91c441d1962b9.mp4?hash=AgADeC"
+    },
+    {
+      "title": "6. (Part-6) Topic : Thoracic & Cardiovascular Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9093/6450b3c295d91c441d1962cf.mp4?hash=AgADeS"
+    },
+    {
+      "title": "1. Abdominal Radiology Topic : Abdominal Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9094/6450b3c295d91c441d1962ae.mp4?hash=AgADei"
+    },
+    {
+      "title": "1. Musculoskeletal Radiology Topic : Musculoskeletal Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9095/6450b3c295d91c441d1962a7.mp4?hash=AgADey"
+    },
+    {
+      "title": "1. Genitourinary Radiology Topic : Genitourinary Radiology Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9096/6450b3c295d91c441d1962a8.mp4?hash=AgADfC"
+    },
+    {
+      "title": "1. Obstetric Imaging Topic : Women’s Imaging Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9097/6450b3c295d91c441d1962d0.mp4?hash=AgADfS"
+    },
+    {
+      "title": "2. Breast Imaging Topic : Women’s Imaging Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9098/6450b3c295d91c441d1962ad.mp4?hash=AgADgC"
+    },
+    {
+      "title": "1. Radio Therapy Topic : Radio Therapy Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9099/6450b3c295d91c441d1962ac.mp4?hash=AgADgS"
+    },
+    {
+      "title": "1. Understanding Anatomy on Radiological Images Topic : Understanding Anatomy on Radiological Images Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9100/6450b3c295d91c441d1962c4.mp4?hash=AgADgi"
+    },
+    {
+      "title": "1. CT vs MRI & MRI Sequences Topic : CT vs MRI & MRI Sequences Subject : Radiology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9101/6450b3c295d91c441d1962c5.mp4?hash=AgADgy"
+    }
+  ]
+}

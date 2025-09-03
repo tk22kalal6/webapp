@@ -1,0 +1,797 @@
+/* Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+/* Container Styles */
+.setup-container, .quiz-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: 2rem;
+}
+
+
+/* API Key Container Styles */
+.api-key-container {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    background: #f8fafc;
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+}
+
+.api-key-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+}
+
+.api-key-form .form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.api-key-form input[type="text"] {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #cbd5e1;
+    border-radius: 4px;
+    font-size: 1rem;
+    transition: border-color 0.2s;
+}
+
+.api-key-form input[type="text"]:focus {
+    outline: none;
+    border-color: #2563eb;
+    box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.1);
+}
+
+.api-key-form input[type="text"]::placeholder {
+    color: #94a3b8;
+}
+
+.save-api-keys-btn {
+    background-color: #2c5281;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.save-api-keys-btn:hover {
+    background-color: #2c5281;
+}
+
+
+/* Setup Form Styles */
+.setup-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+/* Add this below the select styles for uniformity */
+.setup-form input[type="text"] {
+    padding: 0.75rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+    background-color: white;
+}
+
+.setup-form input[type="text"]:disabled {
+    background-color: #f5f5f5;
+    cursor: not-allowed;
+}
+
+label {
+    font-weight: 500;
+    color: #2c3e50;
+}
+
+select {
+    padding: 0.75rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+    background-color: white;
+}
+
+select:disabled {
+    background-color: #f5f5f5;
+    cursor: not-allowed;
+}
+
+.difficulty-info {
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    background: #f8f9fa;
+    border-radius: 4px;
+    display: none;
+}
+
+.difficulty-info.show {
+    display: block;
+}
+
+/* Button Styles */
+button {
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #2c5281;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+button:hover {
+    background-color: #2c5281;
+}
+
+button:disabled {
+    background-color: #f0f9ff;
+    cursor: not-allowed;
+}
+
+/* Quiz Content Styles */
+.quiz-stats {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 4px;
+}
+
+.timer, .progress {
+    font-weight: 500;
+    color: #2c5281;
+}
+
+#question-container {
+    margin-bottom: 1.5rem;
+    padding: 1.5rem;
+    background: white;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+#question-text {
+    font-size: 1.1rem;
+    color: #2c3e50;
+    line-height: 1.6;
+}
+
+.question-image {
+    max-width: 100%;
+    height: auto;
+    margin: 1rem 0;
+    border-radius: 4px;
+}
+
+/* Options Styles */
+#options-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.option {
+    width: 100%;
+    padding: 1rem;
+    text-align: left;
+    background: white;
+    color: #2c3e50;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    transition: all 0.2s;
+}
+
+.option:hover:not(:disabled) {
+    background: #f0f9ff;
+    border-color: #2563eb;
+}
+
+.option.correct {
+    background-color: #dcfce7;
+    border-color: #22c55e;
+    color: #166534;
+}
+
+.option.wrong {
+    background-color: #fee2e2;
+    border-color: #ef4444;
+    color: #991b1b;
+}
+
+/* Next Button Container */
+.next-button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.2rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Score Container Styles */
+.score-container {
+    text-align: center;
+}
+
+.results-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+}
+
+.result-card {
+    padding: 1.5rem;
+    background: white;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.result-card h3 {
+    font-size: 0.9rem;
+    color: #64748b;
+    margin-bottom: 0.5rem;
+}
+
+.result-card p {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+.result-card.correct p {
+    color: #22c55e;
+}
+
+.result-card.wrong p {
+    color: #ef4444;
+}
+
+.result-card.percentage p {
+    color: #2563eb;
+}
+
+/* Loader Styles */
+.loader {
+    text-align: center;
+    padding: 2rem;
+    color: #64748b;
+}
+
+/* Explanation and Learning Objectives Styles */
+.collapsible-sections {
+    margin-top: 2rem;
+}
+
+details {
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+
+summary {
+    padding: 1rem;
+    cursor: pointer;
+    font-weight: 500;
+    background: #f8fafc;
+}
+
+summary:hover {
+    background: #f1f5f9;
+}
+
+.explanation {
+    padding: 1.25rem;
+}
+
+.explanation-content {
+    background: white;
+    padding: 1rem;
+    border-radius: 4px;
+    color: #444;
+    line-height: 1.6;
+}
+
+.explanation-content pre {
+    white-space: pre-wrap;
+    font-family: inherit;
+}
+
+.explanation-image {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.medical-diagram {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Doubt Section Styles */
+.doubt-section {
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #e5e7eb;
+}
+
+.doubt-input-container {
+    margin: 1rem 0;
+}
+
+.doubt-input {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    resize: vertical;
+    min-height: 100px;
+}
+
+.ask-doubt-btn {
+    background-color: #2563eb;
+}
+
+.doubt-answer {
+    margin-top: 1rem;
+    padding: 1rem;
+    background: #f8fafc;
+    border-radius: 4px;
+}
+
+.doubt-text {
+    color: #444;
+    line-height: 1.6;
+}
+
+.doubt-image {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+/* Learning Objectives Styles */
+.learning-objectives {
+    padding: 1.25rem;
+}
+
+.learning-objectives-content {
+    color: #444;
+    line-height: 1.6;
+    background: white;
+    padding: 1rem;
+    border-radius: 4px;
+}
+
+/* Key Points */
+.key-points {
+    background: #f8f9fa;
+    border-left: 4px solid #1a73e8;
+    padding: 1.5rem;
+    margin: 1rem 0;
+    border-radius: 0 4px 4px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.key-points h4 {
+    color: #1a73e8;
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.key-points ul {
+    margin: 0.5rem 0;
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.key-points li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.75rem;
+    color: #555;
+}
+
+.key-points li:before {
+    content: "•";
+    color: #1a73e8;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+    font-size: 1.2rem;
+}
+
+/* Tables */
+.concept-table-container {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.concept-table-container h4 {
+    color: #1a73e8;
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.concept-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border: 1px solid #e0e0e0;
+}
+
+.concept-table th {
+    background: #f0f4ff;
+    color: #1a73e8;
+    font-weight: 500;
+    text-align: left;
+    padding: 1rem;
+    border: 1px solid #ccd9ff;
+}
+
+.concept-table td {
+    padding: 1rem;
+    border: 1px solid #e0e0e0;
+    color: #555;
+}
+
+.concept-table tr:nth-child(even) {
+    background: #f8f9fa;
+}
+
+/* Formulas */
+.formula-box {
+    background: #f0f4ff;
+    border: 1px solid #ccd9ff;
+    border-radius: 4px;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.formula-title {
+    color: #1a73e8;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+}
+
+.formula {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    margin: 1rem 0;
+    font-size: 1.3rem;
+    color: #333;
+    font-family: 'Times New Roman', serif;
+    background: white;
+    border-radius: 4px;
+}
+
+.formula-variables {
+    color: #666;
+    padding: 1rem;
+    background: white;
+    border-radius: 4px;
+    margin: 1rem 0;
+    line-height: 1.6;
+}
+
+.formula-description {
+    font-size: 0.95rem;
+    color: #666;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid #ccd9ff;
+}
+
+/* Mnemonics */
+.mnemonic {
+    background: #fff3e0;
+    border-left: 4px solid #ff9800;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    border-radius: 0 4px 4px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.mnemonic-title {
+    color: #f57c00;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+}
+
+.mnemonic-word {
+    font-size: 1.3rem;
+    color: #ff9800;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem 0;
+    background: white;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.mnemonic-explanation {
+    list-style-type: none;
+    padding: 0;
+    margin: 1rem 0;
+}
+
+.mnemonic-explanation li {
+    padding: 0.5rem 0;
+    color: #666;
+    border-bottom: 1px solid rgba(255,152,0,0.2);
+}
+
+.mnemonic-explanation li:last-child {
+    border-bottom: none;
+}
+
+/* Flowcharts */
+.flowchart-container {
+    margin: 1.5rem 0;
+    padding: 1.5rem;
+    background: white;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.flowchart-container h4 {
+    color: #1a73e8;
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+    text-align: center;
+}
+
+.flowchart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.flowchart-step {
+    background: #f0f4ff;
+    border: 1px solid #ccd9ff;
+    border-radius: 4px;
+    padding: 1rem;
+    width: 100%;
+    max-width: 300px;
+    text-align: center;
+    position: relative;
+}
+
+.step-number {
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    background: #1a73e8;
+    color: white;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.9rem;
+}
+
+.step-content {
+    color: #555;
+}
+
+.flowchart-arrow {
+    color: #1a73e8;
+    font-size: 1.5rem;
+}
+
+.flowchart-connections {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid #e0e0e0;
+}
+
+.connection {
+    color: #666;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+/* Flashcards */
+.flashcard {
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    perspective: 1000px;
+}
+
+.flashcard:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.flashcard-front {
+    font-weight: 500;
+    color: #1a73e8;
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+}
+
+.flashcard-back {
+    color: #666;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    border-top: 1px solid #e0e0e0;
+    display: none;
+}
+
+.flashcard.flipped .flashcard-back {
+    display: block;
+}
+
+/* Utility Classes */
+.hidden {
+    display: none !important;
+}
+
+
+  .custom-popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2000;
+  }
+  .custom-popup.hidden {
+    display: none;
+  }
+  .popup-content {
+    background: #fff;
+    padding: 20px 30px;
+    border-radius: 12px;
+    text-align: center;
+    max-width: 320px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.25);
+  }
+  .popup-content p {
+    margin-bottom: 15px;
+    font-size: 16px;
+  }
+  #popup-close {
+    background: #2c5281;
+    color: #fff;
+    border: none;
+    padding: 8px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .setup-container,
+    .quiz-container {
+        margin: 1rem;
+        padding: 1rem;
+    }
+
+    .results-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .learning-objectives {
+        padding: 1rem;
+    }
+
+    .formula {
+        font-size: 1.1rem;
+        padding: 0.75rem;
+    }
+
+    .flowchart-step {
+        max-width: 250px;
+    }
+
+    .concept-table th,
+    .concept-table td {
+        padding: 0.75rem;
+        font-size: 0.9rem;
+    }
+    .api-key-container {
+        padding: 1rem;
+        margin-bottom: 1.5rem;
+    }
+    
+    .api-key-form input[type="text"] {
+        padding: 0.5rem;
+        font-size: 0.9rem;
+    }
+    
+    .save-api-keys-btn {
+        padding: 0.5rem 1rem;
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .results-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .key-points,
+    .mnemonic,
+    .formula-box,
+    .flowchart-container {
+        padding: 1rem;
+    }
+
+    .formula {
+        font-size: 1rem;
+    }
+
+    .concept-table-container {
+        overflow-x: auto;
+    }
+
+    .flowchart-step {
+        max-width: 200px;
+    }
+}

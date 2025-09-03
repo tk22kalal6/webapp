@@ -1,0 +1,553 @@
+{
+  "subjectName": "E-Gurukul",
+  "lectures": [
+    {
+      "title": "1. Introduction to General Microbiology Topic : General Microbiology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8359/6482bfeda8ec5f002c776904.mp4?hash=AgADTR"
+    },
+    {
+      "title": "2. Scientists Topic : General Microbiology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8360/6482bff7a8ec5f002c77696b.mp4?hash=AgADTx"
+    },
+    {
+      "title": "3. Sterilization & Disinfection (Physical agents) Topic : General Microbiology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8361/6482bff9f18f28002b825027.mp4?hash=AgADUx"
+    },
+    {
+      "title": "4. Sterilization & Disinfection (Chemical agents) Topic : General Microbiology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8362/6482bffa5e7937002b35ed16.mp4?hash=AgADVx"
+    },
+    {
+      "title": "5. Morphology & Growth of bacteria) Topic : General Microbiology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8363/6482bffca8ec5f002c7769bc.mp4?hash=AgADWB"
+    },
+    {
+      "title": "6. Microscopy & staining Topic : General Microbiology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8364/6482bffea8ec5f002c7769c9.mp4?hash=AgADWx"
+    },
+    {
+      "title": "7. Culture & Identification Topic : General Microbiology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8365/6482c000a8ec5f002c7769d8.mp4?hash=AgADXx"
+    },
+    {
+      "title": "8. Antimicrobial Susceptibility Testing & Genetics Topic : General Microbiology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8366/6482c002f18f28002b825070.mp4?hash=AgADeR"
+    },
+    {
+      "title": "1. Introduction to Immunology Topic : Immunology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8367/6482c15af18f28002b825922.mp4?hash=AgADeh"
+    },
+    {
+      "title": "2. Antigen & Antibody Topic : Immunology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8368/6482c169f18f28002b825970.mp4?hash=AgADex"
+    },
+    {
+      "title": "3. Antigen -Antibody Reactions Topic : Immunology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8369/6482c16bf18f28002b825981.mp4?hash=AgADfh"
+    },
+    {
+      "title": "4. Immunodeficiency Diseases Topic : Immunology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8370/6482c16df18f28002b82598b.mp4?hash=AgADfx"
+    },
+    {
+      "title": "5. Hypersensitivity Topic : Immunology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8371/6482c16ff18f28002b82599c.mp4?hash=AgADgx"
+    },
+    {
+      "title": "6. Autoimmunity Topic : Immunology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8372/6482c170a8ec5f002c777331.mp4?hash=AgADhh"
+    },
+    {
+      "title": "7. Transplant Immunology Topic : Immunology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8373/6482c1726bfc46002b6db778.mp4?hash=AgADiB"
+    },
+    {
+      "title": "1. Introduction To Bacteriology Topic : Bacteriology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8374/6482c27ff18f28002b8260b7.mp4?hash=AgADiR"
+    },
+    {
+      "title": "2. GPC- Staphylococcus Topic : Bacteriology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8375/6482c28b6bfc46002b6dbf44.mp4?hash=AgADlB"
+    },
+    {
+      "title": "3. GPC - Strepto, Penumo & Enterococci Topic : Bacteriology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8376/6482c28df18f28002b826120.mp4?hash=AgADlh"
+    },
+    {
+      "title": "4. GPC - Meningo & Gono Cocci Topic : Bacteriology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8377/6482c28f6bfc46002b6dbf58.mp4?hash=AgADlx"
+    },
+    {
+      "title": "5. GPC - Bacillus & Clostridium Topic : Bacteriology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8378/6482c2905e7937002b35fe14.mp4?hash=AgADmB"
+    },
+    {
+      "title": "6. GPC - Corynebacterium and Mycobacterium Topic : Bacteriology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8379/6482c2926bfc46002b6dbf68.mp4?hash=AgADmR"
+    },
+    {
+      "title": "7. GPC - Actinomyces, Nocardia & Listeria Topic : Bacteriology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8380/6482c2946bfc46002b6dbf78.mp4?hash=AgADmh"
+    },
+    {
+      "title": "8. GPC - Enterobacteriaceae Topic : Bacteriology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8381/6482c295a8ec5f002c777b6f.mp4?hash=AgADnB"
+    },
+    {
+      "title": "9. GPC - Oxidase Positive Topic : Bacteriology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8382/6482c297a8ec5f002c777b7c.mp4?hash=AgADnR"
+    },
+    {
+      "title": "10. GPC - Rickettsia & Atypical Pneumonia Organisms Topic : Bacteriology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8383/6482c2995e7937002b35fe46.mp4?hash=AgADnh"
+    },
+    {
+      "title": "11. GPC - Spirochetes Topic : Bacteriology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8384/6482c2a76bfc46002b6dc047.mp4?hash=AgADnx"
+    },
+    {
+      "title": "1. Introduction To Virology Topic : Virology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8385/6482db80f381fe002bc6324a.mp4?hash=AgADoR"
+    },
+    {
+      "title": "2. General Virology Topic : Virology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8386/6482dba10e4a75002b6fdd51.mp4?hash=AgADoh"
+    },
+    {
+      "title": "3. DNA ENV – Hepatitis Topic : Virology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8387/6482dba2da2937002b0d684c.mp4?hash=AgADpB"
+    },
+    {
+      "title": "4. DNA ENV-Herpes & Pox Topic : Virology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8388/6482dba4690661002bd5b661.mp4?hash=AgADpR"
+    },
+    {
+      "title": "5. DNA NON-Env - Papova, Adeno & Parvo Topic : Virology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8389/6482dba60e4a75002b6fdd76.mp4?hash=AgADph"
+    },
+    {
+      "title": "6. RNA ENV-Retro (HIV) Topic : Virology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8390/6482dba8da2937002b0d6874.mp4?hash=AgADpx"
+    },
+    {
+      "title": "7. RNA ENV-Flavi & Toga Topic : Virology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8391/6482dba9da2937002b0d6883.mp4?hash=AgADqR"
+    },
+    {
+      "title": "8. RNA-ENV-Myxo (Ortho& Para) Topic : Virology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8392/6482dbac0e4a75002b6fdda4.mp4?hash=AgADsx"
+    },
+    {
+      "title": "9. RNA -ENV-RHABDO (Rabies) Topic : Virology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8393/6482dbad0e4a75002b6fddc5.mp4?hash=AgADtB"
+    },
+    {
+      "title": "10. RNA-ENV -Corona Virus Topic : Virology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8394/6482dbaff381fe002bc63360.mp4?hash=AgADtR"
+    },
+    {
+      "title": "11. RNA-ENV-Arena, Bunya, Filo & Delta Topic : Virology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8395/6482dbb1da2937002b0d6895.mp4?hash=AgADth"
+    },
+    {
+      "title": "12. RNA NON ENV - PICORNA, CALCI & REO Topic : Virology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8396/6482dda20e4a75002b6fe9a6.mp4?hash=AgADtx"
+    },
+    {
+      "title": "1. Introduction To Protozoa Topic : Parasitology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8397/6482de43f381fe002bc642ff.mp4?hash=AgADuB"
+    },
+    {
+      "title": "2. Protozoa-Intestinal & Free Living Topic : Parasitology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8398/6482de5e690661002bd5c6a3.mp4?hash=AgADvB"
+    },
+    {
+      "title": "3. Protozoa -Blood & Tissue Topic : Parasitology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8399/6482de6bf381fe002bc643d1.mp4?hash=AgADxR"
+    },
+    {
+      "title": "4. Introduction To Helminths Topic : Parasitology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8400/6482de6b0e4a75002b6fedb4.mp4?hash=AgADxh"
+    },
+    {
+      "title": "5. Helminths- Cestodes & Trematodes Topic : Parasitology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8401/6482def1f381fe002bc646ca.mp4?hash=AgADxx"
+    },
+    {
+      "title": "6. Helminths-Nematodes Topic : Parasitology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8402/6482def2f381fe002bc646d6.mp4?hash=AgADyB"
+    },
+    {
+      "title": "1. Introduction To Mycology Topic : Mycology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8403/6482e1850e4a75002b7005f8.mp4?hash=AgADyR"
+    },
+    {
+      "title": "2. Superficial, Deep & Systemic Mycoses Topic : Mycology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8404/6482e1f10e4a75002b700ccf.mp4?hash=AgADyh"
+    },
+    {
+      "title": "3. Opportunistic Mycoses Topic : Mycology Subject : Microbiology (Organism)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8405/6482e1f30e4a75002b700cdc.mp4?hash=AgADyx"
+    },
+    {
+      "title": "1. Introduction to General Microbiology Topic : General Microbiology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8406/6450b3c295d91c441d1962d1.mp4?hash=AgADzB"
+    },
+    {
+      "title": "2. Scientists Topic : General Microbiology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8407/6450b3c295d91c441d1962d2.mp4?hash=AgADzR"
+    },
+    {
+      "title": "3. General Bacteriology (GB) Topic : General Microbiology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8408/6450b3c295d91c441d1962d3.mp4?hash=AgADzx"
+    },
+    {
+      "title": "4. GB- Morphology and growth of Bacteria Topic : General Microbiology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8409/6450b3c295d91c441d1962d4.mp4?hash=AgAD0R"
+    },
+    {
+      "title": "5. GB- Microscopy and Staining Topic : General Microbiology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8410/6450b3c295d91c441d1962d5.mp4?hash=AgAD0x"
+    },
+    {
+      "title": "6. GB- Culture and Identification Topic : General Microbiology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8411/6450b3c295d91c441d1962d6.mp4?hash=AgAD1R"
+    },
+    {
+      "title": "7. GB- Antibacterial Susceptibility Testing and Genetics Topic : General Microbiology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8412/6450b3c295d91c441d1962d7.mp4?hash=AgAD1h"
+    },
+    {
+      "title": "8. General Virology (Part-1) Topic : General Microbiology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8413/6450b3c295d91c441d1962d8.mp4?hash=AgAD1x"
+    },
+    {
+      "title": "9. General Virology (Part-2) Topic : General Microbiology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8414/6450b3c295d91c441d1962d9.mp4?hash=AgAD2B"
+    },
+    {
+      "title": "10. General Mycology Topic : General Microbiology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8415/6450b3c295d91c441d1962da.mp4?hash=AgAD2R"
+    },
+    {
+      "title": "11. General Parasitology (Part-1) Topic : General Microbiology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8416/6450b3c295d91c441d1962db.mp4?hash=AgAD2h"
+    },
+    {
+      "title": "12. General Parasitology (Part-2) Topic : General Microbiology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8417/6450b3c295d91c441d1962dc.mp4?hash=AgAD2x"
+    },
+    {
+      "title": "1. Hand Hygiene and PPE Topic : Hospital Infection Control Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8418/6450b3c295d91c441d1962dd.mp4?hash=AgAD3B"
+    },
+    {
+      "title": "2. Biomedical Waste Management Topic : Hospital Infection Control Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8419/6450b3c295d91c441d1962de.mp4?hash=AgAD3R"
+    },
+    {
+      "title": "3. Sterilization and Disinfection (Physical method) Topic : Hospital Infection Control Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8420/6450b3c295d91c441d1962df.mp4?hash=AgAD3h"
+    },
+    {
+      "title": "4. Sterilization and Disinfection (Chemical method) Topic : Hospital Infection Control Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8421/6450b3c295d91c441d1962e0.mp4?hash=AgAD3x"
+    },
+    {
+      "title": "1. Immunity Topic : Immunology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8422/6450b3c295d91c441d1962e1.mp4?hash=AgAD4B"
+    },
+    {
+      "title": "2. Antigen and Antibody Topic : Immunology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8423/6450b3c295d91c441d1962e2.mp4?hash=AgAD4R"
+    },
+    {
+      "title": "3. Antigen and Antibody Reactions Topic : Immunology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8424/6450b3c295d91c441d1962e3.mp4?hash=AgAD4h"
+    },
+    {
+      "title": "4. Immunodeficiency Disorders Topic : Immunology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8425/6450b3c295d91c441d1962e4.mp4?hash=AgAD4x"
+    },
+    {
+      "title": "5. Hypersensitivity Topic : Immunology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8426/6450b3c295d91c441d1962e5.mp4?hash=AgADQh"
+    },
+    {
+      "title": "6. Autoimmunity Topic : Immunology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8427/6450b3c295d91c441d1962e6.mp4?hash=AgADQx"
+    },
+    {
+      "title": "7. Transplant Immunology Topic : Immunology Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8428/6450b3c295d91c441d1962e7.mp4?hash=AgADRB"
+    },
+    {
+      "title": "1. Infective Endocarditis Topic : Cardio Vascular System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8429/6450b3c295d91c441d1962e8.mp4?hash=AgADRR"
+    },
+    {
+      "title": "2. Rheumatic Fever Topic : Cardio Vascular System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8430/6450b3c295d91c441d1962e9.mp4?hash=AgADRh"
+    },
+    {
+      "title": "3. Blood Stream Infection Topic : Cardio Vascular System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8431/6450b3c295d91c441d1962ea.mp4?hash=AgADRx"
+    },
+    {
+      "title": "4. Rickettsial & Related Diseases Topic : Cardio Vascular System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8432/6450b3c295d91c441d1962eb.mp4?hash=AgADSB"
+    },
+    {
+      "title": "5. Typhoid Fever Topic : Cardio Vascular System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8433/6450b3c295d91c441d1962fe.mp4?hash=AgADSR"
+    },
+    {
+      "title": "6. Brucellosis Topic : Cardio Vascular System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8434/6450b3c295d91c441d1962ec.mp4?hash=AgADSx"
+    },
+    {
+      "title": "7. Leptospirosis Topic : Cardio Vascular System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8435/6450b3c295d91c441d1962ed.mp4?hash=AgADTB"
+    },
+    {
+      "title": "8. Hiv Infection Topic : Cardio Vascular System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8436/6450b3c295d91c441d1962ee.mp4?hash=AgADTx"
+    },
+    {
+      "title": "9. Viral Hemorrhagic Fever Topic : Cardio Vascular System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8437/6450b3c295d91c441d19630a.mp4?hash=AgADUB"
+    },
+    {
+      "title": "10. Blood and Tissue Protozoal Infections Topic : Cardio Vascular System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8438/6450b3c295d91c441d1962fd.mp4?hash=AgADUh"
+    },
+    {
+      "title": "1. Bacterial Food poisoning Topic : Gastro Intestinal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8439/6450b3c295d91c441d1962ff.mp4?hash=AgADUx"
+    },
+    {
+      "title": "2. E. coli Diarrhoeal Disease Topic : Gastro Intestinal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8440/6450b3c295d91c441d196301.mp4?hash=AgADVB"
+    },
+    {
+      "title": "3. Cholera Topic : Gastro Intestinal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8441/6450b3c295d91c441d196302.mp4?hash=AgADVR"
+    },
+    {
+      "title": "4. Pseudomembranous Colitis Topic : Gastro Intestinal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8442/6450b3c295d91c441d1962f7.mp4?hash=AgADVh"
+    },
+    {
+      "title": "5. Peptic Ulcer Disease Topic : Gastro Intestinal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8443/6450b3c295d91c441d1962f8.mp4?hash=AgADVx"
+    },
+    {
+      "title": "6. Viral Gastro Enteritis Topic : Gastro Intestinal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8444/6450b3c295d91c441d1962f9.mp4?hash=AgADWB"
+    },
+    {
+      "title": "7. Protozoal Gastro Enteritis Topic : Gastro Intestinal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8445/6450b3c295d91c441d1962fa.mp4?hash=AgADWh"
+    },
+    {
+      "title": "8. Helminthic Gastro Enteritis Topic : Gastro Intestinal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8446/6450b3c295d91c441d1962fb.mp4?hash=AgADXB"
+    },
+    {
+      "title": "9. Miscellaneous – Fungal Food Poisoning Topic : Gastro Intestinal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8447/6450b3c295d91c441d1962fc.mp4?hash=AgADXR"
+    },
+    {
+      "title": "1. Viral Hepatitis Topic : Hepato Biliary System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8448/6450b3c295d91c441d196306.mp4?hash=AgADXh"
+    },
+    {
+      "title": "2. Hepatitis Topic : Hepato Biliary System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8449/6450b3c295d91c441d19630b.mp4?hash=AgADXx"
+    },
+    {
+      "title": "3. Hepatic Hydatid Disease Topic : Hepato Biliary System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8450/6450b3c295d91c441d19630c.mp4?hash=AgADYB"
+    },
+    {
+      "title": "4. Hepatic Fascioliasis Topic : Hepato Biliary System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8451/6450b3c295d91c441d19630d.mp4?hash=AgADYR"
+    },
+    {
+      "title": "1. Staphylococcal Skin Infections Topic : Skin, Soft Tissue and Musculo Skeletal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8452/6450b3c295d91c441d1962ef.mp4?hash=AgADYh"
+    },
+    {
+      "title": "2. Streptococcal Skin Infections Topic : Skin, Soft Tissue and Musculo Skeletal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8453/6450b3c295d91c441d1962f0.mp4?hash=AgADYx"
+    },
+    {
+      "title": "3. Anthrax Topic : Skin, Soft Tissue and Musculo Skeletal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8454/6450b3c295d91c441d1962f1.mp4?hash=AgADZB"
+    },
+    {
+      "title": "4. Gas Gangrene Topic : Skin, Soft Tissue and Musculo Skeletal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8455/6450b3c295d91c441d1962f2.mp4?hash=AgADZR"
+    },
+    {
+      "title": "5. Leprosy Topic : Skin, Soft Tissue and Musculo Skeletal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8456/6450b3c295d91c441d1962f3.mp4?hash=AgADZh"
+    },
+    {
+      "title": "6. Actinomycosis Topic : Skin, Soft Tissue and Musculo Skeletal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8457/6450b3c295d91c441d1962f4.mp4?hash=AgADZx"
+    },
+    {
+      "title": "7. Actinomycetoma Topic : Skin, Soft Tissue and Musculo Skeletal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8458/6450b3c295d91c441d196309.mp4?hash=AgADaB"
+    },
+    {
+      "title": "8. DNA Viruses Skin Infections Topic : Skin, Soft Tissue and Musculo Skeletal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8459/6450b3c295d91c441d19630f.mp4?hash=AgADaR"
+    },
+    {
+      "title": "9. RNA Viruses Skin Infections Topic : Skin, Soft Tissue and Musculo Skeletal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8460/6450b3c295d91c441d196311.mp4?hash=AgADah"
+    },
+    {
+      "title": "10. Superficial Fungal Skin Infections Topic : Skin, Soft Tissue and Musculo Skeletal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8461/6450b3c295d91c441d196312.mp4?hash=AgADbB"
+    },
+    {
+      "title": "11. Deep Fungal Skin Infections Topic : Skin, Soft Tissue and Musculo Skeletal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8462/6450b3c295d91c441d196313.mp4?hash=AgADbR"
+    },
+    {
+      "title": "12. Parasitic Skin Infections Topic : Skin, Soft Tissue and Musculo Skeletal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8463/6450b3c295d91c441d196310.mp4?hash=AgADbh"
+    },
+    {
+      "title": "13. Nocardiosis Topic : Skin, Soft Tissue and Musculo Skeletal System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8464/6450b3c295d91c441d19630e.mp4?hash=AgADbx"
+    },
+    {
+      "title": "1. Introduction Topic : Central Nervous System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8465/6450b3c295d91c441d196307.mp4?hash=AgADcB"
+    },
+    {
+      "title": "2. Bacterial Meningitis Topic : Central Nervous System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8466/6450b3c295d91c441d196315.mp4?hash=AgADcR"
+    },
+    {
+      "title": "3. Viral Meningitis Topic : Central Nervous System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8467/6450b3c295d91c441d196316.mp4?hash=AgADch"
+    },
+    {
+      "title": "4. Viral Encephalitis Topic : Central Nervous System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8468/6450b3c295d91c441d196317.mp4?hash=AgADdB"
+    },
+    {
+      "title": "5. Parasitic Encephalitis Topic : Central Nervous System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8469/6450b3c295d91c441d196318.mp4?hash=AgADdR"
+    },
+    {
+      "title": "6. Miscellaneous-Slow Viral Diseases Topic : Central Nervous System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8470/6450b3c295d91c441d196304.mp4?hash=AgADdh"
+    },
+    {
+      "title": "7. Miscellaneous- Neurotoxin Related Diseases Topic : Central Nervous System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8471/6450b3c295d91c441d196319.mp4?hash=AgADeB"
+    },
+    {
+      "title": "1. Introduction to Respiratory System Topic : Respiratory System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8472/6450b3c295d91c441d196305.mp4?hash=AgADeR"
+    },
+    {
+      "title": "2. Bacterial Typical Pneumonia Topic : Respiratory System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8473/6450b3c295d91c441d19631a.mp4?hash=AgADeh"
+    },
+    {
+      "title": "3. Bacterial Atypical Pneumonia Topic : Respiratory System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8474/6450b3c295d91c441d19631b.mp4?hash=AgADex"
+    },
+    {
+      "title": "4. Viral Pneumonia-(Part-1) Topic : Respiratory System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8475/6450b3c295d91c441d19631c.mp4?hash=AgADfB"
+    },
+    {
+      "title": "5. Viral Pneumonia-(Part-2) Topic : Respiratory System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8476/6450b3c295d91c441d19631d.mp4?hash=AgADfx"
+    },
+    {
+      "title": "6. Fungal Pneumonia-(Part-1) Topic : Respiratory System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8477/6450b3c295d91c441d19631e.mp4?hash=AgADgB"
+    },
+    {
+      "title": "7. Fungal Pneumonia-(Part-2) Topic : Respiratory System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8478/6450b3c295d91c441d19631f.mp4?hash=AgADgR"
+    },
+    {
+      "title": "8. Parasitic Pneumonia Topic : Respiratory System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8479/6450b3c295d91c441d196320.mp4?hash=AgADgh"
+    },
+    {
+      "title": "9. Tuberculosis Topic : Respiratory System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8480/6450b3c295d91c441d196321.mp4?hash=AgADhB"
+    },
+    {
+      "title": "10. Diphtheria Topic : Respiratory System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8481/6450b3c295d91c441d196322.mp4?hash=AgADhR"
+    },
+    {
+      "title": "11. Whooping Cough Topic : Respiratory System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8482/6450b3c295d91c441d196323.mp4?hash=AgADhh"
+    },
+    {
+      "title": "12. Plague Topic : Respiratory System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8483/6450b3c295d91c441d196324.mp4?hash=AgADhx"
+    },
+    {
+      "title": "1. Introduction to Uro Genital System Topic : Uro Genital System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8484/6450b3c295d91c441d196308.mp4?hash=AgADiB"
+    },
+    {
+      "title": "2. Introduction Topic : Uro Genital System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8485/6450b3c295d91c441d196325.mp4?hash=AgADiR"
+    },
+    {
+      "title": "3. Bacteria Causing UTI Topic : Uro Genital System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8486/6450b3c295d91c441d196326.mp4?hash=AgADih"
+    },
+    {
+      "title": "4. Parasites Causing UTI Topic : Uro Genital System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8487/6450b3c295d91c441d196303.mp4?hash=AgADix"
+    },
+    {
+      "title": "5. Urethritis Topic : Uro Genital System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8488/6450b3c295d91c441d196300.mp4?hash=AgADjB"
+    },
+    {
+      "title": "6. Genital Ulcerative Diseases Topic : Uro Genital System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8489/6450b3c295d91c441d1962f5.mp4?hash=AgADjh"
+    },
+    {
+      "title": "7. Vaginitis Topic : Uro Genital System Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8490/6450b3c295d91c441d1962f6.mp4?hash=AgADjx"
+    },
+    {
+      "title": "1. Special Staining and Stool Examination Topic : Clinical World Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8491/6454ffb6429aa3002b127c26.mp4?hash=AgADkB"
+    },
+    {
+      "title": "2. Special Staining and Stool Examination Topic : Clinical World Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8492/64550034429aa3002b127d80.mp4?hash=AgADkR"
+    },
+    {
+      "title": "3. Spots and Viva Topic : Clinical World Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8493/6455008d429aa3002b127e17.mp4?hash=AgADkx"
+    },
+    {
+      "title": "1. Microbiology (Q-1 to Q-50) Topic : SWT-2023 Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8494/649d26246ce589002a399152.mp4?hash=AgADmR"
+    },
+    {
+      "title": "2. Microbiology (Q-51 to Q-100) Topic : SWT-2023 Subject : Microbiology (System)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8495/649d23707dda78002bfa92f3.mp4?hash=AgADoR"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "subjectName": "Marrow",
+  "lectures": [
+    {
+      "title": "01: How to approach Pathology",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4313/1_watermarked.mp4?hash=AgADJx"
+    },
+    {
+      "title": "02: Cell Adaptations",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4314/2_watermarked.mp4?hash=AgADKB"
+    },
+    {
+      "title": "03: Cell Injury",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4315/3_watermarked.mp4?hash=AgADKR"
+    },
+    {
+      "title": "04: Cell Death",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4316/4_watermarked.mp4?hash=AgADKh"
+    },
+    {
+      "title": "05: Intracellular Accumulations",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4317/5_watermarked.mp4?hash=AgADLh"
+    },
+    {
+      "title": "07: Chronic Inflammation",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4318/7_watermarked.mp4?hash=AgADMB"
+    },
+    {
+      "title": "08: Mediators of Inflammation",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4319/8_watermarked.mp4?hash=AgADMR"
+    },
+    {
+      "title": "09: Wound Healing & Tissue Repair",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4320/9_watermarked.mp4?hash=AgADMx"
+    },
+    {
+      "title": "11: Neoplasia Basics",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4321/11_watermarked.mp4?hash=AgADPR"
+    },
+    {
+      "title": "12: Types of Carcinogenesis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4322/12_watermarked.mp4?hash=AgADPh"
+    },
+    {
+      "title": "13: Hallmarks of Neoplasia",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4323/13_watermarked.mp4?hash=AgADQB"
+    },
+    {
+      "title": "14: Lab Diagnosis of Cancer",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4324/14_watermarked.mp4?hash=AgADQR"
+    },
+    {
+      "title": "15: Tricks to Diagnose Tumors",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4325/15_watermarked.mp4?hash=AgADQh"
+    },
+    {
+      "title": "16: Genetics - Basic Concepts & Diagnosis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4326/16_watermarked.mp4?hash=AgADQx"
+    },
+    {
+      "title": "17: Genetics - Mendelian Modes",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4327/17_watermarked.mp4?hash=AgADRh"
+    },
+    {
+      "title": "18: Genetics - Non Mendelian Modes & Pedigree",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4328/18_watermarked.mp4?hash=AgADSh"
+    },
+    {
+      "title": "19: Genetics - Chromosomal Disorders",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4329/19_watermarked.mp4?hash=AgADTB"
+    },
+    {
+      "title": "20: Immunity - Types of Immune Cells",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4330/20_watermarked.mp4?hash=AgADTh"
+    },
+    {
+      "title": "21: Hypersensitivity Reactions",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4331/21_watermarked.mp4?hash=AgAD0h"
+    },
+    {
+      "title": "22: HLA & Graft Rejection",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4332/22_watermarked.mp4?hash=AgAD0x"
+    },
+    {
+      "title": "23: Immunodeficiency Disorders",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4333/23_watermarked.mp4?hash=AgAD1B"
+    },
+    {
+      "title": "24. Amyloidosis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4334/24_watermarked.mp4?hash=AgAD1R"
+    },
+    {
+      "title": "25: General Pathology Images",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4335/25_watermarked.mp4?hash=AgAD1h"
+    },
+    {
+      "title": "26: RBC - Introduction & Hypoproliferative Anemias",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4336/26_watermarked.mp4?hash=AgAD1x"
+    },
+    {
+      "title": "27: Peripheral Smear Examination",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4337/27_watermarked.mp4?hash=AgAD2B"
+    },
+    {
+      "title": "28: Microcytic Hypochromic Anemias",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4338/28_watermarked.mp4?hash=AgAD2R"
+    },
+    {
+      "title": "29: Megaloblastic Anemia",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4339/29_watermarked.mp4?hash=AgAD2h"
+    },
+    {
+      "title": "30: Hemolytic Anemia - Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4340/30_watermarked.mp4?hash=AgAD2x"
+    },
+    {
+      "title": "31: Hemolytic Anemia - Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4341/31_watermarked.mp4?hash=AgAD4B"
+    },
+    {
+      "title": "32: WBC Introduction",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4342/32_watermarked.mp4?hash=AgAD3B"
+    },
+    {
+      "title": "33: Acute Lymphoblastic Leukemia",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4343/33_watermarked.mp4?hash=AgAD4R"
+    },
+    {
+      "title": "34: Acute Myeloid Leukemia",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4344/34_watermarked.mp4?hash=AgAD4h"
+    },
+    {
+      "title": "35: Myeloid Disorders",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4345/35_watermarked.mp4?hash=AgAD5B"
+    },
+    {
+      "title": "36: Hodgkin’s Lymphoma",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4346/36_watermarked.mp4?hash=AgAD5h"
+    },
+    {
+      "title": "37: Non Hodgkin’s Lymphoma",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4347/37_watermarked.mp4?hash=AgAD5x"
+    },
+    {
+      "title": "38: Plasma Cell Disorders",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4348/38_watermarked.mp4?hash=AgAD6B"
+    },
+    {
+      "title": "39: Haemostatis - Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4349/39_watermarked.mp4?hash=AgAD6x"
+    },
+    {
+      "title": "40: Haemostatis - Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4350/40_watermarked.mp4?hash=AgAD7B"
+    },
+    {
+      "title": "41: Blood Banking & Transfusion Medicine",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4351/41_watermarked.mp4?hash=AgAD-h"
+    },
+    {
+      "title": "42: Practical Hematology",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4352/42_watermarked.mp4?hash=AgAD_R"
+    },
+    {
+      "title": "43: Hematology Clinical Case Discussions",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4353/43_watermarked.mp4?hash=AgAD_h"
+    },
+    {
+      "title": "44: Hematology Images",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4354/44_watermarked.mp4?hash=AgAD_x"
+    },
+    {
+      "title": "45: Blood Vessels - Sclerosis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4355/45_watermarked.mp4?hash=AgAEFQ"
+    },
+    {
+      "title": "46: Blood Vessels - Vasculitis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4356/46_watermarked.mp4?hash=AgADAx"
+    },
+    {
+      "title": "47: Vascular Tumors",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4357/47_watermarked.mp4?hash=AgADBB"
+    },
+    {
+      "title": "48: Cardiovascular System - Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4358/48_watermarked.mp4?hash=AgADBR"
+    },
+    {
+      "title": "49: Cardiovascular System - Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4359/49_watermarked.mp4?hash=AgADBx"
+    },
+    {
+      "title": "50: Obstructive Lung Diseases",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4360/50_watermarked.mp4?hash=AgADCB"
+    },
+    {
+      "title": "51: Restrictive Lung Diseases",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4361/51_watermarked.mp4?hash=AgADCR"
+    },
+    {
+      "title": "52: Granulomas & Infections of the Lung",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4362/52_watermarked.mp4?hash=AgADCh"
+    },
+    {
+      "title": "53: Lung Tumors",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4363/53_watermarked.mp4?hash=AgADCx"
+    },
+    {
+      "title": "54: Esophagus",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4364/54_watermarked.mp4?hash=AgADDB"
+    },
+    {
+      "title": "55: Stomach",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4365/55_watermarked.mp4?hash=AgADDR"
+    },
+    {
+      "title": "56: Intestinal Disorders",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4366/56_watermarked.mp4?hash=AgADDh"
+    },
+    {
+      "title": "57: Inflammatory Bowel Disease",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4367/57_watermarked.mp4?hash=AgADDx"
+    },
+    {
+      "title": "58: Polyps & Colon Cancer",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4368/58_watermarked.mp4?hash=AgADEB"
+    },
+    {
+      "title": "59: Liver Pathology - Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4369/59_watermarked.mp4?hash=AgADEh"
+    },
+    {
+      "title": "60: Liver Pathology - Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4370/60_watermarked.mp4?hash=AgADEx"
+    },
+    {
+      "title": "61: Kidney - Basics",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4371/61_watermarked.mp4?hash=AgADFB"
+    },
+    {
+      "title": "62: Nephritic Syndromes",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4372/62_watermarked.mp4?hash=AgADFR"
+    },
+    {
+      "title": "63: Nephrotic Syndromes",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4373/63_watermarked.mp4?hash=AgADFh"
+    },
+    {
+      "title": "64: Renal Involvement in Systemic Diseases",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4374/64_watermarked.mp4?hash=AgADGR"
+    },
+    {
+      "title": "65: Kidney Tumors",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4375/65_watermarked.mp4?hash=AgADGh"
+    },
+    {
+      "title": "66: Male Genital - Penis & Prostate",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4376/66_watermarked.mp4?hash=AgADHB"
+    },
+    {
+      "title": "67: Testis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4377/67_watermarked.mp4?hash=AgADHR"
+    },
+    {
+      "title": "68: Female Genital Tract - Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4378/68_watermarked.mp4?hash=AgADHh"
+    },
+    {
+      "title": "69: Uterus & Endometrium",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4379/69_watermarked.mp4?hash=AgADHx"
+    },
+    {
+      "title": "70: Ovarian Tumors",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4380/70_watermarked.mp4?hash=AgADIB"
+    },
+    {
+      "title": "71: Breast Pathology",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4381/71_watermarked.mp4?hash=AgADNR"
+    },
+    {
+      "title": "72: Non Neoplastic Lesions - Thyroid",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4382/72_watermarked.mp4?hash=AgADOR"
+    },
+    {
+      "title": "73: Thyroid Tumors",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4383/73_watermarked.mp4?hash=AgADPB"
+    },
+    {
+      "title": "74: Adrenal Medulla",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4384/74_watermarked.mp4?hash=AgADPh"
+    },
+    {
+      "title": "75: Pituitary & Parathyroid Gland",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4385/75_watermarked.mp4?hash=AgADQR"
+    },
+    {
+      "title": "76: Dermatopathology",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4386/76_watermarked.mp4?hash=AgADSB"
+    },
+    {
+      "title": "77: Bone & Soft Tissue Lesions",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4387/77_watermarked.mp4?hash=AgADSx"
+    },
+    {
+      "title": "78: CNS- Non Neoplastic Lesions",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4388/78_watermarked.mp4?hash=AgADUR"
+    },
+    {
+      "title": "79: CNS Tumors",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4389/79_watermarked.mp4?hash=AgADVB"
+    },
+    {
+      "title": "80: Systemic Pathology Images - Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4390/80_watermarked.mp4?hash=AgADWx"
+    },
+    {
+      "title": "81: Systemic Pathology Images - Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4391/81_watermarked.mp4?hash=AgADXx"
+    }
+  ]
+}

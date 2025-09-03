@@ -1,0 +1,281 @@
+{
+  "subjectName": "Damsb2Bhinglish",
+  "lectures": [
+    {
+      "title": "1.Introduction and routes of drug administration atf.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/16092/1.Introduction+and+routes+of+drug+administration+atf.mp4?hash=AgADVB"
+    },
+    {
+      "title": "2. New drug devellopment atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16093/2.+New+drug+devellopment+atf.mp4?hash=AgADVx"
+    },
+    {
+      "title": "3. Pharmacokinetics atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16094/3.+Pharmacokinetics+atf.mp4?hash=AgADWx"
+    },
+    {
+      "title": "4. Pharmacodynamics atf.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/16095/4.+Pharmacodynamics+atf.mp4?hash=AgADYB"
+    },
+    {
+      "title": "5.Drug Interactions atf.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/16096/5.Drug+Interactions+atf.mp4?hash=AgADYh"
+    },
+    {
+      "title": "6. Pharmacovigilance atf.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16097/6.+Pharmacovigilance+atf.mp4?hash=AgADZB"
+    },
+    {
+      "title": "1.Introduction to ANS atf.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16098/1.Introduction+to+ANS+atf.mp4?hash=AgADZR"
+    },
+    {
+      "title": "2. Cholinergic System atf.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/16099/2.+Cholinergic+System+atf.mp4?hash=AgADZh"
+    },
+    {
+      "title": "3.Cholinergics atf.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/16100/3.Cholinergics+atf.mp4?hash=AgADZx"
+    },
+    {
+      "title": "4.Anti Cholinergis atf.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/16101/4.Anti+Cholinergis+atf.mp4?hash=AgADaB"
+    },
+    {
+      "title": "5.Clinical Pharmacology (Eyes and Bladder) atf.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/16102/5.Clinical+Pharmacology+%28Eyes+and+Bladder%29+atf.mp4?hash=AgADaR"
+    },
+    {
+      "title": "6.Sympathetic System atf.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16103/6.Sympathetic+System+atf.mp4?hash=AgADax"
+    },
+    {
+      "title": "7.Adrenergics atf.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16104/7.Adrenergics+atf.mp4?hash=AgADbR"
+    },
+    {
+      "title": "8. Anti Adrenergics atf.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/16105/8.+Anti+Adrenergics+atf.mp4?hash=AgADbx"
+    },
+    {
+      "title": "1.Sedative & Hypnotics atf.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/16106/1.Sedative+%26+Hypnotics+atf.mp4?hash=AgADch"
+    },
+    {
+      "title": "2.Alcohol atf.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16107/2.Alcohol+atf.mp4?hash=AgADdR"
+    },
+    {
+      "title": "3.Antiepileptics atf.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16108/3.Antiepileptics+atf.mp4?hash=AgADdh"
+    },
+    {
+      "title": "4.Antipsychotics atf.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/16109/4.Antipsychotics+atf.mp4?hash=AgADeB"
+    },
+    {
+      "title": "5.Drug for Mood Disorders atf.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/16110/5.Drug+for+Mood+Disorders+atf.mp4?hash=AgADfx"
+    },
+    {
+      "title": "6.Opioids atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16111/6.Opioids+atf.mp4?hash=AgADgB"
+    },
+    {
+      "title": "7.Antiparkinsonism atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16112/7.Antiparkinsonism+atf.mp4?hash=AgADgR"
+    },
+    {
+      "title": "8.SMR & GA atf.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16113/8.SMR+%26+GA+atf.mp4?hash=AgADgh"
+    },
+    {
+      "title": "1.Diuretics atf.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16114/1.Diuretics+atf.mp4?hash=AgADgx"
+    },
+    {
+      "title": "2.Anti-Diuretics atf.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/16115/2.Anti-Diuretics+atf.mp4?hash=AgADhB"
+    },
+    {
+      "title": "1.RAAS Inhibitors atf.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/16116/1.RAAS+Inhibitors+atf.mp4?hash=AgADhR"
+    },
+    {
+      "title": "2. Anti HTN Drugs atf.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/16117/2.+Anti+HTN+Drugs+atf.mp4?hash=AgADhh"
+    },
+    {
+      "title": "3. Drugs to treat CHF atf.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/16118/3.+Drugs+to+treat+CHF+atf.mp4?hash=AgADhx"
+    },
+    {
+      "title": "4. Anti Anginal Drugs atf.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/16119/4.+Anti+Anginal+Drugs+atf.mp4?hash=AgADiB"
+    },
+    {
+      "title": "5. Anti Arrhythmics atf.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/16120/5.+Anti+Arrhythmics+atf.mp4?hash=AgADiR"
+    },
+    {
+      "title": "1.Histamine & Antihistaminics atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16121/1.Histamine+%26+Antihistaminics+atf.mp4?hash=AgADih"
+    },
+    {
+      "title": "2. Serotonin & Drugs acting on Serotonin receptors atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16122/2.+Serotonin+%26+Drugs+acting+on+Serotonin+receptors+atf.mp4?hash=AgADix"
+    },
+    {
+      "title": "3.Drugs for Migraine atf.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/16123/3.Drugs+for+Migraine+atf.mp4?hash=AgADjB"
+    },
+    {
+      "title": "4.Prostaglandins & Drugs for Pulmonary Hypertension atf.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/16124/4.Prostaglandins+%26+Drugs+for+Pulmonary+Hypertension+atf.mp4?hash=AgADjR"
+    },
+    {
+      "title": "5.NSAIDs atf.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16125/5.NSAIDs+atf.mp4?hash=AgADjx"
+    },
+    {
+      "title": "6.Gout atf.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16126/6.Gout+atf.mp4?hash=AgADkB"
+    },
+    {
+      "title": "7.Drugs to treat RA atf.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/16127/7.Drugs+to+treat+RA+atf.mp4?hash=AgADkh"
+    },
+    {
+      "title": "1.Anti Diabetics atf.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/16128/1.Anti+Diabetics+atf.mp4?hash=AgADlR"
+    },
+    {
+      "title": "2.Drugs for Thyroid disorders atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16129/2.Drugs+for+Thyroid+disorders+atf.mp4?hash=AgADlh"
+    },
+    {
+      "title": "3.Drugs to treat Osteoporosis & Calcium imbalance atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16130/3.Drugs+to+treat+Osteoporosis+%26+Calcium+imbalance+atf.mp4?hash=AgADlx"
+    },
+    {
+      "title": "4.Hypothalamus & Pituitary Hormones atf.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/16131/4.Hypothalamus+%26+Pituitary+Hormones+atf.mp4?hash=AgADnR"
+    },
+    {
+      "title": "5. Sex Hormones atf.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/16132/5.+Sex+Hormones+atf.mp4?hash=AgADox"
+    },
+    {
+      "title": "6. Uterine Stimulants & Tocolytics atf.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16133/6.+Uterine+Stimulants+%26+Tocolytics+atf.mp4?hash=AgADpR"
+    },
+    {
+      "title": "7. Adrenal gland hormones & Corticosteroids atf.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16134/7.+Adrenal+gland+hormones+%26+Corticosteroids+atf.mp4?hash=AgADph"
+    },
+    {
+      "title": "1.Antiplatelets atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16135/1.Antiplatelets+atf.mp4?hash=AgADpx"
+    },
+    {
+      "title": "2. Anticoagulants atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16136/2.+Anticoagulants+atf.mp4?hash=AgADqB"
+    },
+    {
+      "title": "3. Thrombolytics atf.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/16137/3.+Thrombolytics+atf.mp4?hash=AgADqh"
+    },
+    {
+      "title": "4. Drugs for Dyslipidemia atf.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/16138/4.+Drugs+for+Dyslipidemia+atf.mp4?hash=AgADrB"
+    },
+    {
+      "title": "1. Cell wall inhibitors atf.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/16139/1.+Cell+wall+inhibitors+atf.mp4?hash=AgADrR"
+    },
+    {
+      "title": "2. Cell membrane Inhibitors atf.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/16140/2.+Cell+membrane+Inhibitors+atf.mp4?hash=AgADrh"
+    },
+    {
+      "title": "3.Protein synthesis inhibitors atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16141/3.Protein+synthesis+inhibitors+atf.mp4?hash=AgADsB"
+    },
+    {
+      "title": "4.DNA inhibitors atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16142/4.DNA+inhibitors+atf.mp4?hash=AgADsR"
+    },
+    {
+      "title": "5. Quinolones & Sulfonamides atf.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/16143/5.+Quinolones+%26+Sulfonamides+atf.mp4?hash=AgADsh"
+    },
+    {
+      "title": "6. Special points in Antibiotics atf.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/16144/6.+Special+points+in+Antibiotics+atf.mp4?hash=AgADtB"
+    },
+    {
+      "title": "7. Anti-Tubercular Drugs atf.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/16145/7.+Anti-Tubercular+Drugs+atf.mp4?hash=AgADtR"
+    },
+    {
+      "title": "8. Anti-Leprotic Drugs & MAC infection atf.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/16146/8.+Anti-Leprotic+Drugs+%26+MAC+infection+atf.mp4?hash=AgADth"
+    },
+    {
+      "title": "9. Antiviral Drugs atf.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16147/9.+Antiviral+Drugs+atf.mp4?hash=AgADtx"
+    },
+    {
+      "title": "10.Antifungal Drugs.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16148/10.Antifungal+Drugs.mp4?hash=AgADux"
+    },
+    {
+      "title": "11.Antimalarial Drugs.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/16149/11.Antimalarial+Drugs.mp4?hash=AgADwB"
+    },
+    {
+      "title": "12.Anthelmintic Drugs.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/16150/12.Anthelmintic+Drugs.mp4?hash=AgADwh"
+    },
+    {
+      "title": "13.Antiparasitic agent.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/16151/13.Antiparasitic+agent.mp4?hash=AgADwx"
+    },
+    {
+      "title": "14.Antiamoebic drugs.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/16152/14.Antiamoebic+drugs.mp4?hash=AgADxR"
+    },
+    {
+      "title": "1.Drugs to treat Acid peptic disease atf.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16153/1.Drugs+to+treat+Acid+peptic+disease+atf.mp4?hash=AgADxx"
+    },
+    {
+      "title": "2.Antiemetics atf.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16154/2.Antiemetics+atf.mp4?hash=AgADyR"
+    },
+    {
+      "title": "3. Drugs to treat Constipation atf.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16155/3.+Drugs+to+treat+Constipation+atf.mp4?hash=AgADyh"
+    },
+    {
+      "title": "4. Drugs to treat Diarrhoea atf.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16156/4.+Drugs+to+treat+Diarrhoea+atf.mp4?hash=AgADyx"
+    },
+    {
+      "title": "1. Drugs to treat Cough atf.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/16157/1.+Drugs+to+treat+Cough+atf.mp4?hash=AgADzB"
+    },
+    {
+      "title": "2. Drugs to treat asthma .mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/16158/2.+Drugs+to+treat+asthma+.mp4?hash=AgADzR"
+    },
+    {
+      "title": "1. Anti cancer♋ drugs.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16159/1.+Anti+cancer%E2%99%8B+drugs.mp4?hash=AgADGR"
+    },
+    {
+      "title": "New Drugs and updates in pharmacology.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16160/New+Drugs+and+updates+in+pharmacology.mp4?hash=AgAEHQ"
+    }
+  ]
+}

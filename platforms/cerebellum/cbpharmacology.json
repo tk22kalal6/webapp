@@ -1,0 +1,253 @@
+{
+  "subjectName": "cbpharmacology",
+  "lectures": [
+    {
+      "title": "Introduction and Routes of Drug Administration",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22143/Introduction+and+Routes+of+Drug+Administration?hash=AgAD6h"
+    },
+    {
+      "title": "Pharmacokinetics Absorption",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22144/Pharmacokinetics+Absorption?hash=AgADMQ"
+    },
+    {
+      "title": "Pharmacokinetics Distribution",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22145/Pharmacokinetics+Distribution?hash=AgADNA"
+    },
+    {
+      "title": "Pharmacokinetics Metabolism",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22146/Pharmacokinetics+Metabolism?hash=AgADNw"
+    },
+    {
+      "title": "Pharmacokinetics Excretion",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22147/Pharmacokinetics+Excretion?hash=AgADMw"
+    },
+    {
+      "title": "Kinetics of Elimination",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22148/Kinetics+of+Elimination?hash=AgADLQ"
+    },
+    {
+      "title": "Pharmacodynamics Introduction and Enzyme inhibitors",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22149/Pharmacodynamics+Introduction+and+Enzyme+inhibitors?hash=AgADLg"
+    },
+    {
+      "title": "Pharmacodynamics Receptors",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22150/Pharmacodynamics+Receptors?hash=AgADLw"
+    },
+    {
+      "title": "Dose Response Curve",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22151/Dose+Response+Curve?hash=AgADSB"
+    },
+    {
+      "title": "Clinical trial and pharmacovigilance",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/22152/Clinical+trial+and+pharmacovigilance?hash=AgADzQ"
+    },
+    {
+      "title": "Factors affecting Drug Action",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/22153/Factors+affecting+Drug+Action?hash=AgAD8w"
+    },
+    {
+      "title": "Combined Effect of Drugs",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22154/Combined+Effect+of+Drugs?hash=AgADQR"
+    },
+    {
+      "title": "Practicals in General Pharmacology",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22155/Practicals+in+General+Pharmacology?hash=AgADZA"
+    },
+    {
+      "title": "Basics and Cholinergic Drugs",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22156/Basics+and+Cholinergic+Drugs?hash=AgADOA"
+    },
+    {
+      "title": "Anti-cholinergic Drugs",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22157/Anti-cholinergic+Drugs?hash=AgADQA"
+    },
+    {
+      "title": "<b>Anti-Adrenergic Drugs.mp4</b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22158/%3Cb%3EAnti-Adrenergic+Drugs.mp4%3C%2Fb%3E?hash=AgADzh"
+    },
+    {
+      "title": "<b>Adrenergic Drugs</b>.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22159/%3Cb%3EAdrenergic+Drugs%3C%2Fb%3E.mp4?hash=AgAD3B"
+    },
+    {
+      "title": "Glaucoma",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22160/Glaucoma?hash=AgADbQ"
+    },
+    {
+      "title": "Practicals in ANS",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22161/Practicals+in+ANS?hash=AgADLR"
+    },
+    {
+      "title": "Histamine and Serotonin",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22162/Histamine+and+Serotonin?hash=AgADMg"
+    },
+    {
+      "title": "Migraine",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22163/Migraine?hash=AgADbw"
+    },
+    {
+      "title": "Gout and Rheumatoid Arthritis",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22164/Gout+and+Rheumatoid+Arthritis?hash=AgADLw"
+    },
+    {
+      "title": "PG and NSAIDs",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22165/PG+and+NSAIDs?hash=AgADNA"
+    },
+    {
+      "title": "Drug Used in Hypertension",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22166/Drug+Used+in+Hypertension?hash=AgADPA"
+    },
+    {
+      "title": "Ischemic Heart Disease",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22167/Ischemic+Heart+Disease?hash=AgADPQ"
+    },
+    {
+      "title": "Anti-Arrhythmic Drugs",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22168/Anti-Arrhythmic+Drugs?hash=AgADXg"
+    },
+    {
+      "title": "Congestive Heart Failure",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22169/Congestive+Heart+Failure?hash=AgADOw"
+    },
+    {
+      "title": "Anti-Dyslipidemic",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22170/Anti-Dyslipidemic?hash=AgADbR"
+    },
+    {
+      "title": "Diuretics",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22171/Diuretics?hash=AgADPg"
+    },
+    {
+      "title": "Adrenal",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22172/Adrenal?hash=AgADPw"
+    },
+    {
+      "title": "oral contraceptives",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22173/oral+contraceptives?hash=AgADQA"
+    },
+    {
+      "title": "Pancreas",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/22174/Pancreas?hash=AgADbg"
+    },
+    {
+      "title": "Osteoporosis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/22175/Osteoporosis?hash=AgADQQ"
+    },
+    {
+      "title": "Thyroid",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22176/Thyroid?hash=AgADTQ"
+    },
+    {
+      "title": "Pituitary Hypothalamic System",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22177/Pituitary+Hypothalamic+System?hash=AgADbw"
+    },
+    {
+      "title": "sex hormones",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22178/sex+hormones?hash=AgADZg"
+    },
+    {
+      "title": "Anti-epileptic Drugs",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22179/Anti-epileptic+Drugs?hash=AgADNQ"
+    },
+    {
+      "title": "drug of abuse",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22180/drug+of+abuse?hash=AgADXQ"
+    },
+    {
+      "title": "Neurodegenerative Diseases",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22181/Neurodegenerative+Diseases?hash=AgADEh"
+    },
+    {
+      "title": "Anti-psychotics Drugs",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22182/Anti-psychotics+Drugs?hash=AgADTA"
+    },
+    {
+      "title": "Drugs for Mania and Depression",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22183/Drugs+for+Mania+and+Depression?hash=AgAD4x"
+    },
+    {
+      "title": "Sedative hypnotics",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22184/Sedative+hypnotics?hash=AgADfB"
+    },
+    {
+      "title": "Local Anaesthetics and Skeletal Muscle Relaxants",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22185/Local+Anaesthetics+and+Skeletal+Muscle+Relaxants?hash=AgADLg"
+    },
+    {
+      "title": "General Anaesthetics",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22186/General+Anaesthetics?hash=AgADRA"
+    },
+    {
+      "title": "Drugs Affecting Blood Flow",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22187/Drugs+Affecting+Blood+Flow?hash=AgADPQ"
+    },
+    {
+      "title": "Drugs Affecting Cells of Blood",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22188/Drugs+Affecting+Cells+of+Blood?hash=AgADUA"
+    },
+    {
+      "title": "Cough and Bronchial Asthma",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22189/Cough+and+Bronchial+Asthma?hash=AgADYQ"
+    },
+    {
+      "title": "Gastro-Intestinal Tract (GIT)",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22190/Gastro-Intestinal+Tract+%28GIT%29?hash=AgADXA"
+    },
+    {
+      "title": "Anti-Fungal Drugs",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22191/Anti-Fungal+Drugs?hash=AgADSw"
+    },
+    {
+      "title": "Anti-Viral Drugs",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22192/Anti-Viral+Drugs?hash=AgADTQ"
+    },
+    {
+      "title": "Malaria and Other Parasites",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22193/Malaria+and+Other+Parasites?hash=AgADTw"
+    },
+    {
+      "title": "Tuberculosis and Leprosy",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/22194/Tuberculosis+and+Leprosy?hash=AgADUA"
+    },
+    {
+      "title": "Ama acting by other mechanism",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/22195/Ama+acting+by+other+mechanism?hash=AgADbB"
+    },
+    {
+      "title": "Drugs Inhibiting Cell Wall Synthesis",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22196/Drugs+Inhibiting+Cell+Wall+Synthesis?hash=AgADPw"
+    },
+    {
+      "title": "General Considerations about Anti-Microbial Agents",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22197/General+Considerations+about+Anti-Microbial+Agents?hash=AgADTg"
+    },
+    {
+      "title": "Immunospuressants",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22198/Immunospuressants?hash=AgAD_B"
+    },
+    {
+      "title": "Cytotoxic Drugs",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22199/Cytotoxic+Drugs?hash=AgADUQ"
+    },
+    {
+      "title": "Monoclonal Antibodies",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22200/Monoclonal+Antibodies?hash=AgADVA"
+    },
+    {
+      "title": "Targeted Anti-Cancer Drugs",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22201/Targeted+Anti-Cancer+Drugs?hash=AgADVg"
+    },
+    {
+      "title": "Drug Interactions and Antidotes",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22202/Drug+Interactions+and+Antidotes?hash=AgAD4Q"
+    },
+    {
+      "title": "Miscellaneous Topics",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22203/Miscellaneous+Topics?hash=AgADUg"
+    },
+    {
+      "title": "New Drugs",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/22204/New+Drugs?hash=AgADWg"
+    }
+  ]
+}

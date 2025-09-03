@@ -1,0 +1,337 @@
+{
+  "subjectName": "p6pharmacology",
+  "lectures": [
+    {
+      "title": "1 Introduction to general Pharmacology yw.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22728/1+Introduction+to+general+Pharmacology+yw.mp4?hash=AgADEh"
+    },
+    {
+      "title": "2 Pharmacokinetics Absorption 1 yw.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22729/2+Pharmacokinetics+Absorption+1+yw.mp4?hash=AgADEx"
+    },
+    {
+      "title": "3 Pharmacokinetics Absorption 2 yw.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22730/3+Pharmacokinetics+Absorption+2+yw.mp4?hash=AgADFB"
+    },
+    {
+      "title": "4 Pharmacokinetics Distribution.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22731/4+Pharmacokinetics+Distribution.mp4?hash=AgADFR"
+    },
+    {
+      "title": "5 Pharmacokinetics Meetabolism .mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22732/5+Pharmacokinetics+Meetabolism+.mp4?hash=AgADFh"
+    },
+    {
+      "title": "6 Pharmacokinetics Elimination yw.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22733/6+Pharmacokinetics+Elimination+yw.mp4?hash=AgADFx"
+    },
+    {
+      "title": "7_Pharmacokinetics_Half_life,_Loading_dose_and_maintenance_Dose.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22734/7_Pharmacokinetics_Half_life%2C_Loading_dose_and_maintenance_Dose.mp4?hash=AgADGB"
+    },
+    {
+      "title": "8 Pharmacodynamics Agonist and Antagonists yw.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22735/8+Pharmacodynamics+Agonist+and+Antagonists+yw.mp4?hash=AgADGh"
+    },
+    {
+      "title": "9 Pharmacodynamics Dose response curve yw.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22736/9+Pharmacodynamics+Dose+response+curve+yw.mp4?hash=AgADGx"
+    },
+    {
+      "title": "10 Pharmacodynamics Drug Receptors yw.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22737/10+Pharmacodynamics+Drug+Receptors+yw.mp4?hash=AgADHB"
+    },
+    {
+      "title": "11 Drug Development clinical trials yw.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22738/11+Drug+Development+clinical+trials+yw.mp4?hash=AgADHR"
+    },
+    {
+      "title": "12_Types_of_Drugs,_Adverse_Drug_Reaction_and_Pharmacogenetics_yw.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22739/12_Types_of_Drugs%2C_Adverse_Drug_Reaction_and_Pharmacogenetics_yw.mp4?hash=AgADHh"
+    },
+    {
+      "title": "13 Introduction and Acetyl Choline ye.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22740/13+Introduction+and+Acetyl+Choline+ye.mp4?hash=AgADHx"
+    },
+    {
+      "title": "14 cholinergic drugs.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22741/14+cholinergic+drugs.mp4?hash=AgADIB"
+    },
+    {
+      "title": "15 Anticholinergic drugs yw.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22742/15+Anticholinergic+drugs+yw.mp4?hash=AgADIR"
+    },
+    {
+      "title": "16 Adrenergic Drugs 1 yw.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22743/16+Adrenergic+Drugs+1+yw.mp4?hash=AgADIh"
+    },
+    {
+      "title": "17 Adrenergic drugs 2.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22744/17+Adrenergic+drugs+2.mp4?hash=AgADIx"
+    },
+    {
+      "title": "18 Anti Adrenergic drugs yw.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22745/18+Anti+Adrenergic+drugs+yw.mp4?hash=AgADJB"
+    },
+    {
+      "title": "19 Glucoma yw.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22746/19+Glucoma+yw.mp4?hash=AgADJR"
+    },
+    {
+      "title": "20 Serotonin yw.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22747/20+Serotonin+yw.mp4?hash=AgADJh"
+    },
+    {
+      "title": "21 Histamine yw.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22748/21+Histamine+yw.mp4?hash=AgADJx"
+    },
+    {
+      "title": "22 Lipid autocoids yw.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22749/22+Lipid+autocoids+yw.mp4?hash=AgADZR"
+    },
+    {
+      "title": "23 NSAIDS yw.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22750/23+NSAIDS+yw.mp4?hash=AgADZh"
+    },
+    {
+      "title": "24 GOUT ye.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/22751/24+GOUT+ye.mp4?hash=AgADZx"
+    },
+    {
+      "title": "25 Rheumatoid Arthritis yw.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/22752/25+Rheumatoid+Arthritis+yw.mp4?hash=AgADaB"
+    },
+    {
+      "title": "26 Renal Diuretics yw.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22753/26+Renal+Diuretics+yw.mp4?hash=AgADaR"
+    },
+    {
+      "title": "27 Renal ADH yw.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22754/27+Renal+ADH+yw.mp4?hash=AgADah"
+    },
+    {
+      "title": "28 RAAS inhibitors ye.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22755/28+RAAS+inhibitors+ye.mp4?hash=AgADax"
+    },
+    {
+      "title": "29 Calcium Channel blockers yw.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22756/29+Calcium+Channel+blockers+yw.mp4?hash=AgADbB"
+    },
+    {
+      "title": "30 Vasodilators yw.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22757/30+Vasodilators+yw.mp4?hash=AgADbR"
+    },
+    {
+      "title": "31 Anti anginal Drugs yw.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22758/31+Anti+anginal+Drugs+yw.mp4?hash=AgADbh"
+    },
+    {
+      "title": "32 Hypolipidemic Drugs yw.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22759/32+Hypolipidemic+Drugs+yw.mp4?hash=AgADbx"
+    },
+    {
+      "title": "33 Hypertension yw.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22760/33+Hypertension+yw.mp4?hash=AgADcB"
+    },
+    {
+      "title": "34 Drugs for heart failure yw.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22761/34+Drugs+for+heart+failure+yw.mp4?hash=AgADcR"
+    },
+    {
+      "title": "35 Cardiac glycosides Digitalis yw.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22762/35+Cardiac+glycosides+Digitalis+yw.mp4?hash=AgADch"
+    },
+    {
+      "title": "36 Arrhythmias yw.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22763/36+Arrhythmias+yw.mp4?hash=AgADcx"
+    },
+    {
+      "title": "37 Myocardial Infarction yw.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22764/37+Myocardial+Infarction+yw.mp4?hash=AgADdB"
+    },
+    {
+      "title": "38 Sedatives Hypnotics Drugs For Insomnia yw.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22765/38+Sedatives+Hypnotics+Drugs+For+Insomnia+yw.mp4?hash=AgADdR"
+    },
+    {
+      "title": "39 Alcohols yw.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22766/39+Alcohols+yw.mp4?hash=AgADdh"
+    },
+    {
+      "title": "40 Opioids yw.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22767/40+Opioids+yw.mp4?hash=AgADdx"
+    },
+    {
+      "title": "41 Ant Epileptic drugs yw.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22768/41+Ant+Epileptic+drugs+yw.mp4?hash=AgADeB"
+    },
+    {
+      "title": "42 Parkinson disease and Other disorders yw.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22769/42+Parkinson+disease+and+Other+disorders+yw.mp4?hash=AgADeR"
+    },
+    {
+      "title": "43 Anti Psychotic drugs yw.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22770/43+Anti+Psychotic+drugs+yw.mp4?hash=AgADeh"
+    },
+    {
+      "title": "44 Mood stabilizer yw.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22771/44+Mood+stabilizer+yw.mp4?hash=AgADex"
+    },
+    {
+      "title": "45 Antidepressants drugs yw.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22772/45+Antidepressants+drugs+yw.mp4?hash=AgADfB"
+    },
+    {
+      "title": "46 Diabetes mellitus Insulin yw.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22773/46+Diabetes+mellitus+Insulin+yw.mp4?hash=AgADfR"
+    },
+    {
+      "title": "47 Diabetes mellitus Oral Hypoglycemic Agents yw.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22774/47+Diabetes+mellitus+Oral+Hypoglycemic+Agents+yw.mp4?hash=AgADfh"
+    },
+    {
+      "title": "48 Thyroid and Antithyroid Drugs yw.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22775/48+Thyroid+and+Antithyroid+Drugs+yw.mp4?hash=AgADfx"
+    },
+    {
+      "title": "49 Drugs Acting on Bone and Osteoporosis.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22776/49+Drugs+Acting+on+Bone+and+Osteoporosis.mp4?hash=AgADgB"
+    },
+    {
+      "title": "50 Gonadal Hormones yw.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22777/50+Gonadal+Hormones+yw.mp4?hash=AgADgR"
+    },
+    {
+      "title": "51 HPA axis Hormones yw.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22778/51+HPA+axis+Hormones+yw.mp4?hash=AgADgh"
+    },
+    {
+      "title": "52 Contraceptive yw.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/22779/52+Contraceptive+yw.mp4?hash=AgADgx"
+    },
+    {
+      "title": "53 corticosteroids.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/22780/53+corticosteroids.mp4?hash=AgADhB"
+    },
+    {
+      "title": "54 Cell Wall and cell membrane synthesis inhibitors 1.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22781/54+Cell+Wall+and+cell+membrane+synthesis+inhibitors+1.mp4?hash=AgADhR"
+    },
+    {
+      "title": "55 Cell Wall and cell membrane synthesis inhibitors 2.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22782/55+Cell+Wall+and+cell+membrane+synthesis+inhibitors+2.mp4?hash=AgADhh"
+    },
+    {
+      "title": "56 DNA Nucleic Acid Inhibitors yw.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22783/56+DNA+Nucleic+Acid+Inhibitors+yw.mp4?hash=AgADhx"
+    },
+    {
+      "title": "57 protein synthesis inhibitors.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22784/57+protein+synthesis+inhibitors.mp4?hash=AgADiB"
+    },
+    {
+      "title": "58 anti helmantic and scabies.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22785/58+anti+helmantic+and+scabies.mp4?hash=AgADiR"
+    },
+    {
+      "title": "59 microbacterial infections tuberculosis leprosy Mac part 1.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22786/59+microbacterial+infections+tuberculosis+leprosy+Mac+part+1.mp4?hash=AgADih"
+    },
+    {
+      "title": "60 microbacterial infection tuberculosis leprosy MAC part 2.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22787/60+microbacterial+infection+tuberculosis+leprosy+MAC+part+2.mp4?hash=AgADix"
+    },
+    {
+      "title": "61 antifungal.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22788/61+antifungal.mp4?hash=AgADjB"
+    },
+    {
+      "title": "62 Anti protozoans.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22789/62+Anti+protozoans.mp4?hash=AgADjR"
+    },
+    {
+      "title": "63 antiviral drugs.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22790/63+antiviral+drugs.mp4?hash=AgADjh"
+    },
+    {
+      "title": "64 folic acid inhibitors.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22791/64+folic+acid+inhibitors.mp4?hash=AgADKR"
+    },
+    {
+      "title": "65 antimicrobials choice properties and resistance.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22792/65+antimicrobials+choice+properties+and+resistance.mp4?hash=AgADKh"
+    },
+    {
+      "title": "66 pulmonary artery hypertension.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22793/66+pulmonary+artery+hypertension.mp4?hash=AgADKx"
+    },
+    {
+      "title": "67 asthma.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22794/67+asthma.mp4?hash=AgADLB"
+    },
+    {
+      "title": "68 acid peptic disease.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22795/68+acid+peptic+disease.mp4?hash=AgADLR"
+    },
+    {
+      "title": "69 drug for constipation and diarrhea.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22796/69+drug+for+constipation+and+diarrhea.mp4?hash=AgADLh"
+    },
+    {
+      "title": "70_amitrix,_antimatics,_drug_for_gallstones_and_short_bowels_syndrome.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/22797/70_amitrix%2C_antimatics%2C_drug_for_gallstones_and_short_bowels_syndrome.mp4?hash=AgADLx"
+    },
+    {
+      "title": "71 antiplate and pro platelet drugs.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/22798/71+antiplate+and+pro+platelet+drugs.mp4?hash=AgADMB"
+    },
+    {
+      "title": "72 oral anticoagulants.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22799/72+oral+anticoagulants.mp4?hash=AgADMR"
+    },
+    {
+      "title": "73 parental anticoagulants.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22800/73+parental+anticoagulants.mp4?hash=AgADMh"
+    },
+    {
+      "title": "74 thrombolytics and anti-thrombolytics.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/22801/74+thrombolytics+and+anti-thrombolytics.mp4?hash=AgADMx"
+    },
+    {
+      "title": "75 Hematinics , iron and chelators.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/22802/75+Hematinics+%2C+iron+and+chelators.mp4?hash=AgADNB"
+    },
+    {
+      "title": "76 cytotoxic agents part 1.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22803/76+cytotoxic+agents+part+1.mp4?hash=AgADNR"
+    },
+    {
+      "title": "77 cytotoxic agents part 2.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22804/77+cytotoxic+agents+part+2.mp4?hash=AgADNh"
+    },
+    {
+      "title": "78 targeted therapy in cancers.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22805/78+targeted+therapy+in+cancers.mp4?hash=AgADNx"
+    },
+    {
+      "title": "79 monoclonal antibodies.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22806/79+monoclonal+antibodies.mp4?hash=AgADOB"
+    },
+    {
+      "title": "80 immuno modulators.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/22807/80+immuno+modulators.mp4?hash=AgADOR"
+    },
+    {
+      "title": "81 general anaesthetics.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/22808/81+general+anaesthetics.mp4?hash=AgADOx"
+    },
+    {
+      "title": "82 local anesthetics.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22809/82+local+anesthetics.mp4?hash=AgADOh"
+    },
+    {
+      "title": "83 skeletal muscle relaxants.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22810/83+skeletal+muscle+relaxants.mp4?hash=AgADPB"
+    }
+  ]
+}

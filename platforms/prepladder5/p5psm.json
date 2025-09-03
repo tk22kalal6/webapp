@@ -1,0 +1,461 @@
+{
+  "subjectName": "Prepladder5",
+  "lectures": [
+    {
+      "title": "1. Definition , Components and Tools of Epidemiology",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5056/1.+Definition+%2C+Components+and+Tools+of+Epidemiology.mp4?hash=AgADKA"
+    },
+    {
+      "title": "2. need-classification-unit-approach-to-study-designs",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5057/2.+need-classification-unit-approach-to-study-designs.mp4?hash=AgADKQ"
+    },
+    {
+      "title": "3. descriptive-study-disease-distribution",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5058/3.+descriptive-study-disease-distribution.mp4?hash=AgADKg"
+    },
+    {
+      "title": "4. cohort-study",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5059/4.+cohort-study.mp4?hash=AgADKw"
+    },
+    {
+      "title": "5. case-control-study",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5060/5.+case-control-study.mp4?hash=AgADLA"
+    },
+    {
+      "title": "6. nested-case-control",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5061/6.+nested-case-control.mp4?hash=AgADLQ"
+    },
+    {
+      "title": "7. cross-sectional-ecological-study-design-and-longitudinal-study-design",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5062/7_cross_sectional_ecological_study_design_and_longitudinal_study.mp4?hash=AgADLg"
+    },
+    {
+      "title": "8. bias",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5063/8.+bias.mp4?hash=AgADLw"
+    },
+    {
+      "title": "9. confounders",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5064/9.+confounders.mp4?hash=AgADMA"
+    },
+    {
+      "title": "10. experimental-studies-randomized-and-non-randomized-control-trials",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5065/10_experimental_studies_randomized_and_non_randomized_control_trials.mp4?hash=AgADMQ"
+    },
+    {
+      "title": "11. clinical-trials",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5066/11.+clinical-trials.mp4?hash=AgADMg"
+    },
+    {
+      "title": "12. systematic-review-and-meta-analysis-evidence-based",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5067/12.+systematic-review-and-meta-analysis-evidence-based.mp4?hash=AgADMw"
+    },
+    {
+      "title": "13. hills-criteria",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5068/13.+hills-criteria.mp4?hash=AgADNA"
+    },
+    {
+      "title": "1. concept-of-disease",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5069/1.+concept-of-disease.mp4?hash=AgADNQ"
+    },
+    {
+      "title": "2. concept-of-well-being",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5070/2.+concept-of-well-being.mp4?hash=AgADNg"
+    },
+    {
+      "title": "3. disease-control-elimination-and-eradication-of-disease",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5071/3.+disease-control-elimination-and-eradication-of-disease.mp4?hash=AgADNw"
+    },
+    {
+      "title": "4. levels-of-prevention",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5072/4.+levels-of-prevention.mp4?hash=AgADOA"
+    },
+    {
+      "title": "5. health-indicators",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5073/5.+health-indicators.mp4?hash=AgADOQ"
+    },
+    {
+      "title": "v6. monitoring-evaluation-surveillance",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5074/6.+monitoring-evaluation-surveillance.mp4?hash=AgADOg"
+    },
+    {
+      "title": "1. vaccines",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5075/1.+vaccines.mp4?hash=AgADOw"
+    },
+    {
+      "title": "2. national-immunization-schedule-delayed-immunization",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5076/2.+national-immunization-schedule-delayed-immunization.mp4?hash=AgADPA"
+    },
+    {
+      "title": "3. open-vial-policy-misson-indradhanush",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5077/3.+open-vial-policy-misson-indradhanush.mp4?hash=AgADPQ"
+    },
+    {
+      "title": "4. cold-chain",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5078/4.+cold-chain.mp4?hash=AgADPg"
+    },
+    {
+      "title": "5. vaccines-cold-chain",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5079/5.+vaccines-cold-chain.mp4?hash=AgADPw"
+    },
+    {
+      "title": "1. screening-test",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5080/1.+screening-test.mp4?hash=AgADQA"
+    },
+    {
+      "title": "2. properties-of-screening-test",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5081/2.+properties-of-screening-test.mp4?hash=AgADQQ"
+    },
+    {
+      "title": "3. tests-in-combination",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5082/3.+tests-in-combination.mp4?hash=AgADQg"
+    },
+    {
+      "title": "1. demography",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5083/1.+demography.mp4?hash=AgADQw"
+    },
+    {
+      "title": "2. indicators-of-demography",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5084/2.+indicators-of-demography.mp4?hash=AgADRA"
+    },
+    {
+      "title": "3. fertility-indicators",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5085/3.+fertility-indicators.mp4?hash=AgADRQ"
+    },
+    {
+      "title": "4. sources-of-health-information",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5086/4.+sources-of-health-information.mp4?hash=AgADRg"
+    },
+    {
+      "title": "1. family-planning-definition-concept",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5087/1.+family-planning-definition-concept.mp4?hash=AgADRw"
+    },
+    {
+      "title": "2. Classification of Contraceptives and Barrier Methods of Contraceptive",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5088/2_Classification_of_Contraceptives_and_Barrier_Methods_of_Contraceptive.mp4?hash=AgADSA"
+    },
+    {
+      "title": "3. intra uterine devices",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5089/3.+intra+uterine+devices.mp4?hash=AgADSQ"
+    },
+    {
+      "title": "4. hormonal-contraceptives",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5090/4.+hormonal-contraceptives.mp4?hash=AgADSg"
+    },
+    {
+      "title": "5. physiological-methods-sterilization",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5091/5.+physiological-methods-sterilization.mp4?hash=AgADSw"
+    },
+    {
+      "title": "6. National Family Planning Welfare Program",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5092/6.+National+Family+Planning+Welfare+Program.mp4?hash=AgADTA"
+    },
+    {
+      "title": "1. Preventive Obstetrics , Maternal Health",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5093/1.+Preventive+Obstetrics+%2C+Maternal+Health.mp4?hash=AgADTQ"
+    },
+    {
+      "title": "2. preventive-paediatrics-child-health-indicators",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5094/2.+preventive-paediatrics-child-health-indicators.mp4?hash=AgADTg"
+    },
+    {
+      "title": "3. Growth and Devlopment . School Health Services",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5095/3.+Growth+and+Devlopment+.+School+Health+Services.mp4?hash=AgADTw"
+    },
+    {
+      "title": "1. nutrition-macronutrient-micronutrient",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5096/1.+nutrition-macronutrient-micronutrient.mp4?hash=AgADUA"
+    },
+    {
+      "title": "2. micronutrition-vitamins",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5097/2.+micronutrition-vitamins.mp4?hash=AgADUQ"
+    },
+    {
+      "title": "3. Food Adulteration and Food Fortification",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5098/3.+Food+Adulteration+and+Food+Fortification.mp4?hash=AgADUg"
+    },
+    {
+      "title": "4.Nutrition Health Programmers and Food Logos",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5099/4.Nutrition+Health+Programmers+and+Food+Logos.mp4?hash=AgADUw"
+    },
+    {
+      "title": "5. Recommended Dietary Allowance",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5100/5.+Recommended+Dietary+Allowance.mp4?hash=AgADVA"
+    },
+    {
+      "title": "1. sociology",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5101/1.+sociology.mp4?hash=AgADVQ"
+    },
+    {
+      "title": "2. Family and Socioeconomic Scales",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5102/2.+Family+and+Socioeconomic+Scales.mp4?hash=AgADVg"
+    },
+    {
+      "title": "3. health-economics-doctor-patient-relationship-right-of-an-individuals-social-security",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5103/3_health_economics_doctor_patient_relationship_right_of_an_individuals.mp4?hash=AgADVw"
+    },
+    {
+      "title": "1. Water - Introduction",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5104/1.+Water+-+Introduction.mp4?hash=AgADWA"
+    },
+    {
+      "title": "2. Purification of Water",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5105/2.+Purification+of+Water.mp4?hash=AgADWQ"
+    },
+    {
+      "title": "3. Air Pollution",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5106/3.+Air+Pollution.mp4?hash=AgADWg"
+    },
+    {
+      "title": "4. waste-disposal",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5107/4.+waste-disposal.mp4?hash=AgADWw"
+    },
+    {
+      "title": "5. noise-light-housing-radiation",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5108/5.+noise-light-housing-radiation.mp4?hash=AgADXA"
+    },
+    {
+      "title": "6. entomology",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5109/6.+entomology.mp4?hash=AgADXQ"
+    },
+    {
+      "title": "1. infectious-disease-epidemiology part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5110/1.+infectious-disease-epidemiology+part+1.mp4?hash=AgADXg"
+    },
+    {
+      "title": "2. Infectious Disease Epidemiology Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5111/2.+Infectious+Disease+Epidemiology+Part+2.mp4?hash=AgADXw"
+    },
+    {
+      "title": "3. measels-and-rubella",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5112/3.+measels-and-rubella.mp4?hash=AgADYA"
+    },
+    {
+      "title": "4. chicken-pox-and-small-pox",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5113/4.+chicken-pox-and-small-pox.mp4?hash=AgADYQ"
+    },
+    {
+      "title": "5. mumps-and-pertussis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5114/5.+mumps-and-pertussis.mp4?hash=AgADYg"
+    },
+    {
+      "title": "6. diptheria",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5115/6.+diptheria.mp4?hash=AgADYw"
+    },
+    {
+      "title": "7. acute-respiratory-infection",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5116/7.+acute-respiratory-infection.mp4?hash=AgADZA"
+    },
+    {
+      "title": "8. tuberculosis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5117/8.+tuberculosis.mp4?hash=AgADZQ"
+    },
+    {
+      "title": "9. polio",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5118/9.+polio.mp4?hash=AgADZg"
+    },
+    {
+      "title": "10. hepatitis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5119/10.+hepatitis.mp4?hash=AgADZw"
+    },
+    {
+      "title": "11. diarrhea",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5120/11.+diarrhea.mp4?hash=AgADaA"
+    },
+    {
+      "title": "12. cholera",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5121/12.+cholera.mp4?hash=AgADaQ"
+    },
+    {
+      "title": "13. typhoid",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5122/13.+typhoid.mp4?hash=AgADag"
+    },
+    {
+      "title": "14. soil-transmitted-helminthic-infections",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5123/14.+soil-transmitted-helminthic-infections.mp4?hash=AgADaw"
+    },
+    {
+      "title": "15. dengue",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5124/15.+dengue.mp4?hash=AgADbA"
+    },
+    {
+      "title": "16. malaria",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5125/16.+malaria.mp4?hash=AgADbQ"
+    },
+    {
+      "title": "17. lymphatic-filariasis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5126/17.+lymphatic-filariasis.mp4?hash=AgADbg"
+    },
+    {
+      "title": "18. kala-azar-leishmaniasis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5127/18.+kala-azar-leishmaniasis.mp4?hash=AgADbw"
+    },
+    {
+      "title": "19. japanese-encephalitis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5128/19.+japanese-encephalitis.mp4?hash=AgADcA"
+    },
+    {
+      "title": "20. yellow-fever-kfd",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5129/20.+yellow-fever-kfd.mp4?hash=AgADcQ"
+    },
+    {
+      "title": "21. Rabies",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5130/21.+Rabies.mp4?hash=AgADcg"
+    },
+    {
+      "title": "22. leptospirosis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5131/22.+leptospirosis.mp4?hash=AgADcw"
+    },
+    {
+      "title": "23. plague",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5132/23.+plague.mp4?hash=AgADdA"
+    },
+    {
+      "title": "24. tetanus",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5133/24.+tetanus.mp4?hash=AgADdQ"
+    },
+    {
+      "title": "25. hiv-aids",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5134/25.+hiv-aids.mp4?hash=AgAD7g"
+    },
+    {
+      "title": "26. rickettsial-diseases",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5135/26.+rickettsial-diseases.mp4?hash=AgAD7w"
+    },
+    {
+      "title": "27 ebola-nipah-zika-virus",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5136/27+ebola-nipah-zika-virus.mp4?hash=AgAD8w"
+    },
+    {
+      "title": "1. national-health-mission-rmnch-a-maternal-initiatives",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5137/1.+national-health-mission-rmnch-a-maternal-initiatives.mp4?hash=AgADdw"
+    },
+    {
+      "title": "2. child-adolescent-health-initiatives",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5138/2.+child-adolescent-health-initiatives.mp4?hash=AgADeA"
+    },
+    {
+      "title": "3. nacp-global-initiatives",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5139/3.+nacp-global-initiatives.mp4?hash=AgADeQ"
+    },
+    {
+      "title": "4. national-tuberculosis-elimination-programme",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5140/4.+national-tuberculosis-elimination-programme.mp4?hash=AgADeg"
+    },
+    {
+      "title": "5. nvbdcp-part1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5141/5.+nvbdcp-part1.mp4?hash=AgADew"
+    },
+    {
+      "title": "6. nvbdcp-part2(diagnosis-treatment-prophylaxis)",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5142/6.+nvbdcp-part2%28diagnosis-treatment-prophylaxis%29.mp4?hash=AgADfA"
+    },
+    {
+      "title": "7. polio-end-game-eradication-strategy-national-polio-surveillance-program",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5143/7_polio_end_game_eradication_strategy_national_polio_surveillance.mp4?hash=AgADfQ"
+    },
+    {
+      "title": "8. leprosy-and-national-leprosy-eradication-program",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5144/8.+leprosy-and-national-leprosy-eradication-program.mp4?hash=AgADfg"
+    },
+    {
+      "title": "9. ncds-npcdcs",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5145/9.+ncds-npcdcs.mp4?hash=AgADfw"
+    },
+    {
+      "title": "10. national-program-for-control-of-blindness-visual-impairment",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5146/10_national_program_for_control_of_blindness_visual_impairment.mp4?hash=AgADgA"
+    },
+    {
+      "title": "11. health-initiatives-idsp-ayushman-bharat-miscellaneous",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5147/11.+health-initiatives-idsp-ayushman-bharat-miscellaneous.mp4?hash=AgADgQ"
+    },
+    {
+      "title": "1. health-education",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5148/1.+health-education.mp4?hash=AgADgg"
+    },
+    {
+      "title": "2. health-communication-interviews",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5149/2.+health-communication-interviews.mp4?hash=AgADhA"
+    },
+    {
+      "title": "1. health-planing-and-planing-cycle",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5150/1.+health-planing-and-planing-cycle.mp4?hash=AgADhQ"
+    },
+    {
+      "title": "2. health-planning-committees-niti-aayog",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5151/2.+health-planning-committees-niti-aayog.mp4?hash=AgADhg"
+    },
+    {
+      "title": "3. health-management-techniques-inventory-management",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5152/3.+health-management-techniques-inventory-management.mp4?hash=AgADhw"
+    },
+    {
+      "title": "1. healh-care-of-the-community",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5153/1.+healh-care-of-the-community.mp4?hash=AgADiA"
+    },
+    {
+      "title": "2. health-care-delivery-system",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5154/2.+health-care-delivery-system.mp4?hash=AgADiQ"
+    },
+    {
+      "title": "1. international-health",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5155/1.+international-health.mp4?hash=AgADig"
+    },
+    {
+      "title": "2. sustainable-development-goals-miscellaneous",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5156/2.+sustainable-development-goals-miscellaneous.mp4?hash=AgADiw"
+    },
+    {
+      "title": "1. occupational-health",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5157/1.+occupational-health.mp4?hash=AgADjA"
+    },
+    {
+      "title": "2. ESI Act , Factory Acd and Nrega ACt",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5158/2.+ESI+Act+%2C+Factory+Acd+and+Nrega+ACt.mp4?hash=AgADjQ"
+    },
+    {
+      "title": "3. disaster-management",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5159/3.+disaster-management.mp4?hash=AgADjg"
+    },
+    {
+      "title": "4. biomedical-waste Managemenr",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5160/4.+biomedical-waste+Managemenr.mp4?hash=AgADjw"
+    },
+    {
+      "title": "5. genetics",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5161/5.+genetics+.mp4?hash=AgADkA"
+    },
+    {
+      "title": "1. biostatics",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5162/1.+biostatics.mp4?hash=AgADkQ"
+    },
+    {
+      "title": "2. measures-of-central-tendency",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5163/2.+measures-of-central-tendency.mp4?hash=AgADkg"
+    },
+    {
+      "title": "3. measures-of-dispersion",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5164/3.+measures-of-dispersion.mp4?hash=AgADkw"
+    },
+    {
+      "title": "4. types-of-distribution",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5165/4.+types-of-distribution.mp4?hash=AgADlA"
+    },
+    {
+      "title": "5. types-of-errors",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5166/5.+types-of-errors.mp4?hash=AgADlQ"
+    },
+    {
+      "title": "6. test-of-statistical-significance",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5167/6.+test-of-statistical-significance.mp4?hash=AgADlg"
+    },
+    {
+      "title": "7. graphical-representation-of-data",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5168/7.+graphical-representation-of-data.mp4?hash=AgADlw"
+    },
+    {
+      "title": "8. sampling-probability",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/5169/8.+sampling-probability.mp4?hash=AgADmA"
+    }
+  ]
+}

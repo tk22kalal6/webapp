@@ -1,0 +1,681 @@
+{
+  "subjectName": "E-Gurukul",
+  "lectures": [
+    {
+      "title": "1. Diabetes (Part-1) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9147/650e807df7fa46002a9936c6.mp4?hash=AgADVx"
+    },
+    {
+      "title": "2. Diabetes (Part-2) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9148/650e80bbc29145002bb11f69.mp4?hash=AgADWB"
+    },
+    {
+      "title": "3. Diabetes (Part-3) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9149/650e8102a02acc002ba80ce9.mp4?hash=AgADWR"
+    },
+    {
+      "title": "4. Diabetes (Part-4) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9150/650e81bbf7fa46002a994325.mp4?hash=AgADWh"
+    },
+    {
+      "title": "5. Thyroid Gland (Part-1) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9151/650e840bf7fa46002a996c29.mp4?hash=AgADWx"
+    },
+    {
+      "title": "6. Thyroid Gland (Part-2) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9152/650e847ca02acc002ba83fa4.mp4?hash=AgADXR"
+    },
+    {
+      "title": "7. Parathyroid Gland (Part-1) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9153/650e837ea02acc002ba822df.mp4?hash=AgADXh"
+    },
+    {
+      "title": "8. Parathyroid Gland (Part-2) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9154/650e83cca02acc002ba83d91.mp4?hash=AgADYB"
+    },
+    {
+      "title": "9. Adrenal Gland (Part-1) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9155/650e82aff7fa46002a994579.mp4?hash=AgADYh"
+    },
+    {
+      "title": "10. Adrenal Gland (Part-2) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9156/650e830fc29145002bb12d96.mp4?hash=AgADZB"
+    },
+    {
+      "title": "11. Pitutiary Glad Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9157/650e81ffa02acc002ba815ad.mp4?hash=AgADaB"
+    },
+    {
+      "title": "12. Reproductive Medicine (Part-1) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9158/650e84b7a02acc002ba84029.mp4?hash=AgADaR"
+    },
+    {
+      "title": "13. Reproductive Medicine (Part-2) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9159/650e84f3c29145002bb156a8.mp4?hash=AgADah"
+    },
+    {
+      "title": "14. Reproductive Medicine (Part-3) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9160/650e8530a02acc002ba841b0.mp4?hash=AgADax"
+    },
+    {
+      "title": "15. Reproductive Medicine (Part-4) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9161/650e85b6c29145002bb15bf2.mp4?hash=AgADbB"
+    },
+    {
+      "title": "16. LIPID (Part-1) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9162/650e7f66a02acc002ba805b8.mp4?hash=AgADbR"
+    },
+    {
+      "title": "17. LIPID (Part-2) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9163/650e7fb0a02acc002ba805f0.mp4?hash=AgADbh"
+    },
+    {
+      "title": "18. Lipid (Part-3) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9164/650e800cf7fa46002a99367d.mp4?hash=AgADcB"
+    },
+    {
+      "title": "19. LIPID (Part-4) Topic : Endocrine Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9165/650e8046a02acc002ba80912.mp4?hash=AgADch"
+    },
+    {
+      "title": "1. Pulmonary Function Test Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9166/649ec2acb57e6b002b9c51b8.mp4?hash=AgADcx"
+    },
+    {
+      "title": "2. Respiratory Failure Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9167/649ec2b899aa2a002b4aa770.mp4?hash=AgADdB"
+    },
+    {
+      "title": "3. Acute Respiratory Distress Syndrome (Ards) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9168/649eb9333e1fc7002bf8e932.mp4?hash=AgADdh"
+    },
+    {
+      "title": "4. Chronic Obstructive Pulmonary Disease (Chronic Bronchitis) (Part-1) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9169/649eb53d3e1fc7002bf8c199.mp4?hash=AgADdx"
+    },
+    {
+      "title": "5. Chronic Obstructive Pulmonary Disease (Emphysema) (Part-2) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9170/649eb5463e1fc7002bf8c1ee.mp4?hash=AgADeR"
+    },
+    {
+      "title": "6. Chronic Obstructive Pulmonary Disease (Complications & Investigations) (Part-3) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9171/649eb83cb57e6b002b9be394.mp4?hash=AgADeh"
+    },
+    {
+      "title": "7. Chronic Obstructive Pulmonary Disease (Treatment) (Part-4) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9172/649eb8483e1fc7002bf8df19.mp4?hash=AgADex"
+    },
+    {
+      "title": "8. Asthma (Definition) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9173/6530bcbd202fb5002b08f9fd.mp4?hash=AgADfB"
+    },
+    {
+      "title": "9. Asthma(Types of Asthma) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9174/6530bcf2202fb5002b08fa4d.mp4?hash=AgADfR"
+    },
+    {
+      "title": "10. Asthma(Symptom of Asthma) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9175/6530bd11202fb5002b08fa80.mp4?hash=AgADfh"
+    },
+    {
+      "title": "11. Asthma (Investigation) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9176/6530bd30527908002b54e520.mp4?hash=AgADfx"
+    },
+    {
+      "title": "12. Asthma (Pharmacology) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9177/6530bd58202fb5002b08fae6.mp4?hash=AgADgB"
+    },
+    {
+      "title": "13. Obstructive Sleep APNEA (OSA) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9178/649eb8df3e1fc7002bf8e566.mp4?hash=AgADgR"
+    },
+    {
+      "title": "14. Histiocytosis X and Bronchiolitis Obliterans Organizing Pneumonia (BOOP) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9179/649eb86db57e6b002b9be58c.mp4?hash=AgADgh"
+    },
+    {
+      "title": "15. Pneumonia (Part-1) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9180/649ec27b3e1fc7002bf944b5.mp4?hash=AgADgx"
+    },
+    {
+      "title": "16. Pneumonia (Part-2) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9181/649ec28799aa2a002b4aa565.mp4?hash=AgADhB"
+    },
+    {
+      "title": "17. Pneumonia Atypical Pneumonias Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9182/649ec22f213faf002c547b71.mp4?hash=AgADhR"
+    },
+    {
+      "title": "18. Pneumonia Pneumocystis Pneumonia Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9183/649ec2a0b57e6b002b9c5133.mp4?hash=AgADhh"
+    },
+    {
+      "title": "19. Pneumonia Hospital Acquired Ventilator Associated Pneumonia Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9184/649ec25a99aa2a002b4aa1b6.mp4?hash=AgADhx"
+    },
+    {
+      "title": "20. Pneumonia Lung Abscess Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9185/649ec25b99aa2a002b4aa1ca.mp4?hash=AgADiB"
+    },
+    {
+      "title": "21. Pneumonia Investigation & Treatment Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9186/649ec25a99aa2a002b4aa1bc.mp4?hash=AgADiR"
+    },
+    {
+      "title": "22. Covid-19 Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9187/649eb878b57e6b002b9be61d.mp4?hash=AgADih"
+    },
+    {
+      "title": "23. Tuberculosis (Part-1) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9188/649eb90eb57e6b002b9beafa.mp4?hash=AgADjR"
+    },
+    {
+      "title": "24. Tuberculosis (Part-2) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9189/649eb91c99aa2a002b4a457d.mp4?hash=AgADjh"
+    },
+    {
+      "title": "23. Cardiac-Pharmacology (Part-5) Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9190/649c2b313272e3002a03927f.mp4?hash=AgADjx"
+    },
+    {
+      "title": "24. Cardiac-Pharmacology (Part-6) Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9191/649c2b3486a755002b0936b5.mp4?hash=AgADkx"
+    },
+    {
+      "title": "25. Cardiac-Pharmacology (Part-7) Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9192/649c2b372c7cf9002ba3018e.mp4?hash=AgADlB"
+    },
+    {
+      "title": "26. Cardiac-Pharmacology (Part-8) Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9193/649c2b3a3272e3002a0392e5.mp4?hash=AgADlR"
+    },
+    {
+      "title": "27. Cardiac-Pharmacology (Part-9) Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9194/649c2b3d3272e3002a0392fa.mp4?hash=AgADlh"
+    },
+    {
+      "title": "28. Congenital Heart Disease (Part-1) Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9195/649c2b403272e3002a039318.mp4?hash=AgADmh"
+    },
+    {
+      "title": "29. Congenital Heart Disease (Part-2) Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9196/649c2b4286a755002b09371d.mp4?hash=AgADnB"
+    },
+    {
+      "title": "25. Tuberculosis ( Part-3) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9197/654486b3eacc16002a55f9a4.mp4?hash=AgADnh"
+    },
+    {
+      "title": "26. Tuberculosis Treatment (Part-4) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9198/649eb88499aa2a002b4a3f5a.mp4?hash=AgADoB"
+    },
+    {
+      "title": "27. Fungal Infections of The Lungs (Part-1) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9199/649eb85499aa2a002b4a3d3d.mp4?hash=AgADoR"
+    },
+    {
+      "title": "28. Pneumoconiosis Interstitial Lung Disease (Part-1) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9200/649eb8e9b57e6b002b9be9e7.mp4?hash=AgADoh"
+    },
+    {
+      "title": "29. Pleural Effusion & Pneumothorax Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9201/649eb89a99aa2a002b4a4047.mp4?hash=AgADox"
+    },
+    {
+      "title": "30. Lung Cancer (Part-1) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9202/649eb8a6b57e6b002b9be790.mp4?hash=AgADpR"
+    },
+    {
+      "title": "31. Lung Cancer (Part-2) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9203/649eb8d399aa2a002b4a421d.mp4?hash=AgADph"
+    },
+    {
+      "title": "32. Pulmonary Embolism (Pe) (Part-1) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9204/649eb8f599aa2a002b4a434a.mp4?hash=AgADpx"
+    },
+    {
+      "title": "33. Pulmonary Embolism (Pe) (Part-2) Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9205/649eb8bc213faf002c541b73.mp4?hash=AgADrh"
+    },
+    {
+      "title": "34. Sarcoidosis Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9206/649eb8c7b57e6b002b9be868.mp4?hash=AgADsB"
+    },
+    {
+      "title": "35. Pulmonary Artery Hypertension Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9207/649eb927213faf002c541fdf.mp4?hash=AgADuR"
+    },
+    {
+      "title": "36. Respiratory Pharmacology Topic : Pulmonology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9208/649eb9023e1fc7002bf8e706.mp4?hash=AgADuh"
+    },
+    {
+      "title": "1. Spinal Cord Disease Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9209/649c2d852c7cf9002ba31db8.mp4?hash=AgADvx"
+    },
+    {
+      "title": "2. Stroke Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9210/649c2dfb3272e3002a03b0a1.mp4?hash=AgADwR"
+    },
+    {
+      "title": "3. Parkinson, Shy Dragger Syndrome, Supranuclear Palsy, Involuntary Movement Disorders Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9211/649c2dfe86a755002b0953e0.mp4?hash=AgADwx"
+    },
+    {
+      "title": "4. Cerebral Hemispheres, Speech, Motor Neuron Disease Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9212/649c2e0186a755002b09540b.mp4?hash=AgADxB"
+    },
+    {
+      "title": "5. Multiple Sclerosis (Demyelinating Disorder) Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9213/649c2e0386a755002b095426.mp4?hash=AgADxh"
+    },
+    {
+      "title": "6. Seizures Disorder Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9214/649c2e063272e3002a03b102.mp4?hash=AgADyB"
+    },
+    {
+      "title": "7. Dementia Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9215/649c2df03272e3002a03b03b.mp4?hash=AgADzR"
+    },
+    {
+      "title": "8. Peripheral Neuropathy & Guillain-Barré Syndrome Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9216/649c2df3668891002b491ecb.mp4?hash=AgAD0R"
+    },
+    {
+      "title": "9. Autonomic Nervous System (Part-1) Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9217/6530ccf7202fb5002b090e68.mp4?hash=AgAD2B"
+    },
+    {
+      "title": "10. Autonomic Nervous System (Part-2) Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9218/6530cd21527908002b54f987.mp4?hash=AgAD3R"
+    },
+    {
+      "title": "11. Headache Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9219/649c2df5668891002b491ef1.mp4?hash=AgAD3x"
+    },
+    {
+      "title": "12. Raised Intracranial Pressure And Neuro Surgery Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9220/649c2df8668891002b491f06.mp4?hash=AgAD4R"
+    },
+    {
+      "title": "13. Brain Tumor Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9221/649c30cf668891002b493d39.mp4?hash=AgAD4h"
+    },
+    {
+      "title": "14. Brain Herniation & Neurocutaneous Syndrome Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9222/649c30ed2c7cf9002ba340b0.mp4?hash=AgAD5x"
+    },
+    {
+      "title": "15. Myasthenia Gravis And Muscle Diseases Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9223/649c30cf2c7cf9002ba33ee1.mp4?hash=AgAD6x"
+    },
+    {
+      "title": "16. Neuro Ophthalmology Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9224/649c30dd86a755002b09774f.mp4?hash=AgAD7B"
+    },
+    {
+      "title": "17. Cerebellar Diseases Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9225/649c30df3272e3002a03cf3b.mp4?hash=AgAD7R"
+    },
+    {
+      "title": "18. Coma & Brain Death Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9226/649c30e2668891002b493e08.mp4?hash=AgAD7x"
+    },
+    {
+      "title": "19. Sleep Reticular Activating System Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9227/6530cd56202fb5002b090f20.mp4?hash=AgAD8B"
+    },
+    {
+      "title": "20. Vertigo Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9228/649c30ea3272e3002a03d54a.mp4?hash=AgAD8h"
+    },
+    {
+      "title": "21. Neuro Pharmacology (Part-1) Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9229/649c30e53272e3002a03d4fb.mp4?hash=AgAD9R"
+    },
+    {
+      "title": "22. Neuro Pharmacology (Part-2) Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9230/649c30e8668891002b493ee0.mp4?hash=AgAD-B"
+    },
+    {
+      "title": "23. Meningitis Topic : Neurology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9231/6544879feacc16002a55fa29.mp4?hash=AgAD_B"
+    },
+    {
+      "title": "1. Hypertension Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9232/649c23f5fde7a8002bd3a680.mp4?hash=AgADBB"
+    },
+    {
+      "title": "2. Congestive Heart Failure Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9233/649c240dfde7a8002bd3a754.mp4?hash=AgADBh"
+    },
+    {
+      "title": "3. Cardiomyopathy Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9234/649c2413cc5a66002b59d13e.mp4?hash=AgADDR"
+    },
+    {
+      "title": "4. Pericardial Diseases Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9235/649c241086a755002b08cdfd.mp4?hash=AgADER"
+    },
+    {
+      "title": "5. Endocarditis Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9236/649c2415e432ce002b5e0d03.mp4?hash=AgADFB"
+    },
+    {
+      "title": "6. Coronary Artery Disease (Part-1) Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9237/649c2593e432ce002b5e1b4c.mp4?hash=AgADGx"
+    },
+    {
+      "title": "7. Coronary Artery Disease (Part-2) Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9238/649c2597fde7a8002bd3b578.mp4?hash=AgADHx"
+    },
+    {
+      "title": "8. Coronary Artery Disease (Part-3) Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9239/649c259a86a755002b08dca6.mp4?hash=AgADIh"
+    },
+    {
+      "title": "9. Coronary Artery Disease (Part-4) Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9240/649c259c86a755002b08dcb0.mp4?hash=AgADJR"
+    },
+    {
+      "title": "10. Rheumatic Fever Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9241/649c259fcc5a66002b59df99.mp4?hash=AgADKR"
+    },
+    {
+      "title": "11. Mitral Stenosis Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9242/649c26fd86a755002b08eab7.mp4?hash=AgADLR"
+    },
+    {
+      "title": "12. Mitral Regurgitation & Mitral Valve Prolapse Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9243/649c2700cc5a66002b59ed95.mp4?hash=AgADMR"
+    },
+    {
+      "title": "13. Aortic Stenosis & Aortic Regurgitation Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9244/649c2702e432ce002b5e29ab.mp4?hash=AgADNR"
+    },
+    {
+      "title": "14. Tricuspid, Pulmonary Valve Lesions & PAH Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9245/649c2706e432ce002b5e29cc.mp4?hash=AgADRh"
+    },
+    {
+      "title": "15. Heart Sound, JVP, Murmur Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9246/649c2708fde7a8002bd3c4cf.mp4?hash=AgADXh"
+    },
+    {
+      "title": "16. ECG Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9247/649c293386a755002b091db3.mp4?hash=AgADZx"
+    },
+    {
+      "title": "17. Atrial Arrythmias Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9248/649c2935668891002b48ea82.mp4?hash=AgADbx"
+    },
+    {
+      "title": "18. Ventricular Arrythmias & Heart Block Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9249/649c29383272e3002a037d05.mp4?hash=AgADdB"
+    },
+    {
+      "title": "19. Cardiac-Pharmacology (Part-1) Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9250/649c294086a755002b091e4b.mp4?hash=AgADeR"
+    },
+    {
+      "title": "20. Cardiac-Pharmacology (Part-2) Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9251/649c294286a755002b091e6b.mp4?hash=AgADfR"
+    },
+    {
+      "title": "21. Cardiac-Pharmacology (Part-3) Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9252/649c293a2c7cf9002ba2e855.mp4?hash=AgADgh"
+    },
+    {
+      "title": "22. Cardiac-Pharmacology (Part-4) Topic : Cardiology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9253/649c293d668891002b48eaf2.mp4?hash=AgADhh"
+    },
+    {
+      "title": "1. Genetic Disorders Causing Jaundice & Liver Function Test Topic : Hepatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9254/649ec6033e1fc7002bf96514.mp4?hash=AgADnB"
+    },
+    {
+      "title": "2. Viral Hepatitis (Part-1) Topic : Hepatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9255/649ece1b6e1a46002c93b1d6.mp4?hash=AgADnR"
+    },
+    {
+      "title": "3. Viral Hepatitis (Serology of Hepatitis B) (Part-2) Topic : Hepatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9256/649ece273b5320002beabcb8.mp4?hash=AgADnh"
+    },
+    {
+      "title": "4. Viral Hepatitis (Hepatitis C,D & E) (Part-3) Topic : Hepatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9257/649ed1963b5320002beadbca.mp4?hash=AgADoB"
+    },
+    {
+      "title": "5. Autoimmune Hepatitis Alcoholic Liver Disease & NAFLD. Topic : Hepatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9258/649ec60f3e1fc7002bf9658e.mp4?hash=AgADpR"
+    },
+    {
+      "title": "6. Portal Hypertension Classification Topic : Hepatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9259/649ecdf2070b9e002ac56c69.mp4?hash=AgADph"
+    },
+    {
+      "title": "7. Portal hypertension(Esophageal varices) Topic : Hepatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9260/6530d7978686d9002b589f3c.mp4?hash=AgADpx"
+    },
+    {
+      "title": "8. Portal Hypertension Ascites Topic : Hepatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9261/649ecde56e1a46002c93aef4.mp4?hash=AgADqB"
+    },
+    {
+      "title": "9. Portal Hypertension Spontaneous Bacterial Peritonitis Topic : Hepatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9262/649ece093b5320002beabb25.mp4?hash=AgADqR"
+    },
+    {
+      "title": "10. Budd-Chari Syndrome, Wilson Disease Hemochromatosis Topic : Hepatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9263/649ec5cab57e6b002b9c75e1.mp4?hash=AgADqx"
+    },
+    {
+      "title": "11. Liver Abscess Topic : Hepatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9264/649ec5d93e1fc7002bf9632f.mp4?hash=AgADrh"
+    },
+    {
+      "title": "12. Pregnancy-Associated Liver Diseases Topic : Hepatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9265/649ec5e53e1fc7002bf963c0.mp4?hash=AgADsB"
+    },
+    {
+      "title": "13. Drug Induced Diseases Liver Cancers Topic : Hepatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9266/649ec5f33e1fc7002bf9649c.mp4?hash=AgADth"
+    },
+    {
+      "title": "1. Esophageal Diseases Topic : GIT Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9267/649e7d33f63a51002b876619.mp4?hash=AgADuB"
+    },
+    {
+      "title": "2. Disease Of Stomach (Part-1) Topic : GIT Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9268/649e7d1df63a51002b876557.mp4?hash=AgADvh"
+    },
+    {
+      "title": "3. Disease Of Stomach (Part-2) Topic : GIT Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9269/649e7d292489be002bfa5feb.mp4?hash=AgADwB"
+    },
+    {
+      "title": "4. Disease Of Small Intestine (Part-1) Topic : GIT Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9270/649e7c48f63a51002b875b92.mp4?hash=AgADxB"
+    },
+    {
+      "title": "5. Disease Of Small Intestine (Part-2) Topic : GIT Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9271/649e7c5af63a51002b875c74.mp4?hash=AgADzB"
+    },
+    {
+      "title": "6. Disease Of Small Intestine (Part-3) Topic : GIT Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9272/649e7c5d3d2c7f002b30ed7c.mp4?hash=AgAD0B"
+    },
+    {
+      "title": "7. Disease Of Large Intestine (Part-1) Topic : GIT Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9273/649e7c2862e543002b9cd6bc.mp4?hash=AgAD1R"
+    },
+    {
+      "title": "8. Disease Of Large Intestine (Part-2) Topic : GIT Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9274/649e7c32f63a51002b875aaa.mp4?hash=AgAD2x"
+    },
+    {
+      "title": "9. Disease Of Large Intestine (Part-3) Topic : GIT Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9275/649e7c3df63a51002b875b04.mp4?hash=AgAD7B"
+    },
+    {
+      "title": "1. Hemato-Oncology (Non-Hodgkin's Lymphoma) Topic : Hematology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9276/649e8757ea3524002ce189c5.mp4?hash=AgAD7x"
+    },
+    {
+      "title": "2. Hemato-Oncology (Myeloproliferative Disorder) Topic : Hematology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9277/649e873a3b009c002b77da34.mp4?hash=AgAD-B"
+    },
+    {
+      "title": "3. Hemato-Oncology (Multiple Myeloma) Topic : Hematology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9278/649e872d3b009c002b7785e8.mp4?hash=AgADBx"
+    },
+    {
+      "title": "4. Hemato-Oncology (Hodgkin's Lymphoma) Topic : Hematology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9279/649e871857c623002ab1c330.mp4?hash=AgADCB"
+    },
+    {
+      "title": "5. Hemato-Oncology (CLL & HCL) Topic : Hematology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9280/649e8714ea3524002ce0c876.mp4?hash=AgADCR"
+    },
+    {
+      "title": "5. Hemato-Oncology (CLL & HCL) Topic : Hematology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9281/649e8714ea3524002ce0c876.mp4?hash=AgADCx"
+    },
+    {
+      "title": "6. Hemato-Oncology (AML & ALL) Topic : Hematology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9282/649e87043b009c002b769210.mp4?hash=AgADDR"
+    },
+    {
+      "title": "7. Anemia Topic : Hematology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9283/649e86e7581f19002b9fb01c.mp4?hash=AgADDh"
+    },
+    {
+      "title": "8. Anemia (IHA, AOCD, G6PD Deficiency) Topic : Hematology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9284/649e86d3581f19002b9f997d.mp4?hash=AgADDx"
+    },
+    {
+      "title": "9. Anemia (HS, Macrocytic Anemia) Topic : Hematology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9285/649e86c7581f19002b9f9903.mp4?hash=AgADER"
+    },
+    {
+      "title": "10. Anemia (Aplastic Anemia, Sickle cell Anemia) Topic : Hematology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9286/649e86b7ea3524002cdf6e68.mp4?hash=AgADEx"
+    },
+    {
+      "title": "11. Anemia (Hemolytic Anemia, PNH) Topic : Hematology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9287/649e86973b009c002b7635c2.mp4?hash=AgADFB"
+    },
+    {
+      "title": "12. Anemia (Thalassemia) Topic : Hematology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9288/649e8692581f19002b9f96d6.mp4?hash=AgADFh"
+    },
+    {
+      "title": "1. Glomerular Diseases Topic : Nephrology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9289/649e79be62e543002b9cbe3a.mp4?hash=AgADFx"
+    },
+    {
+      "title": "2. Chronic Renal Failure Topic : Nephrology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9290/649e79933d2c7f002b30d13d.mp4?hash=AgADGB"
+    },
+    {
+      "title": "3. Acute Renal Failure Topic : Nephrology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9291/649e78fcf63a51002b873cb7.mp4?hash=AgADGR"
+    },
+    {
+      "title": "1. Pulmonary Topic-Chickenpox, Measles, Rubella, Mumps Topic : Infectious Disease Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9292/649eacb378a468002badf0e8.mp4?hash=AgADGh"
+    },
+    {
+      "title": "2. Pulmonary Topic Cholera, Typhoid Topic : Infectious Disease Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9293/649eaca678a468002badf058.mp4?hash=AgADGx"
+    },
+    {
+      "title": "3. Malaria Topic : Infectious Disease Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9294/649eac5184ab6d002b87f223.mp4?hash=AgADHR"
+    },
+    {
+      "title": "4. Leishmaniasis Topic : Infectious Disease Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9295/649eac6578a468002badedab.mp4?hash=AgADHh"
+    },
+    {
+      "title": "5. Filarial Worms Infection Topic : Infectious Disease Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9296/649eac71e597e7002b2d243b.mp4?hash=AgADIB"
+    },
+    {
+      "title": "6. Leptospirosis, Parvovirus, Psittacosis, Cat Scrat Topic : Infectious Disease Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9297/649eac8084ab6d002b87f412.mp4?hash=AgADIR"
+    },
+    {
+      "title": "7. Rabies, Anthrax, Infectious mononucleosis Topic : Infectious Disease Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9298/649eac8ce597e7002b2d2549.mp4?hash=AgADIh"
+    },
+    {
+      "title": "8. Tetanus, Diphtheria, Dengue Topic : Infectious Disease Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9299/649eac9878a468002badefdd.mp4?hash=AgADIx"
+    },
+    {
+      "title": "9. HIV & COVID Topic : Infectious Disease Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9300/649eac56213faf002c5399d0.mp4?hash=AgADJh"
+    },
+    {
+      "title": "1. Rheumatoid Arthritis Topic : Rheumatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9301/649e76fa9429c4002bfcabf8.mp4?hash=AgADJx"
+    },
+    {
+      "title": "2. Seronegative Spondyloarthropathy Topic : Rheumatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9302/649e770a9429c4002bfcacc0.mp4?hash=AgADKB"
+    },
+    {
+      "title": "3. SLE, APLA, Sjogren Syndrome Topic : Rheumatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9303/649e7718f63a51002b8724e3.mp4?hash=AgADKx"
+    },
+    {
+      "title": "4. Vasculitis (Part-1) Topic : Rheumatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9304/649e77223d2c7f002b30b2d1.mp4?hash=AgADLB"
+    },
+    {
+      "title": "5. Vasculitis (Part-2) Topic : Rheumatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9305/649e772ef63a51002b872598.mp4?hash=AgADLR"
+    },
+    {
+      "title": "6. Crystal Arthropathy, Behcet Syndrome Topic : Rheumatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9306/649e76d49429c4002bfca970.mp4?hash=AgADLh"
+    },
+    {
+      "title": "7. Progressive Systemic Sclerosis,Fibromyalgia,Marfan Syndrome,CRP Topic : Rheumatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9307/649e76f03d2c7f002b30b118.mp4?hash=AgADLx"
+    },
+    {
+      "title": "8. Osteoarthritis & Avascular Necrosis Topic : Rheumatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9308/649e76bbf63a51002b8720da.mp4?hash=AgADMB"
+    },
+    {
+      "title": "9. Rickets & Osteomalacia Topic : Rheumatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9309/649e76c79429c4002bfca891.mp4?hash=AgADMR"
+    },
+    {
+      "title": "10. Osteoporosis & Paget Disease Topic : Rheumatology Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9310/649e76e6f63a51002b872368.mp4?hash=AgADMh"
+    },
+    {
+      "title": "1. Acid Base Disturbance Topic : Electrolyte & Acid Base Disturbance Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9311/649e7aa662e543002b9cc774.mp4?hash=AgADNR"
+    },
+    {
+      "title": "2. Electrolyte Disturbance Topic : Electrolyte & Acid Base Disturbance Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9312/649e7a3b2489be002bfa42d5.mp4?hash=AgADNh"
+    },
+    {
+      "title": "1. Diseases of Pancreas Topic : Pancreas and Gallbladder Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9313/649ed305b57e6b002b9cfcf3.mp4?hash=AgADNx"
+    },
+    {
+      "title": "2. Diseases of Gall Bladder (Part-1) Topic : Pancreas and Gallbladder Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9314/649ed29f3b5320002beae79b.mp4?hash=AgADOB"
+    },
+    {
+      "title": "3. Diseases of Gall Bladder (Part-2) Topic : Pancreas and Gallbladder Subject : Medicine By (Dr. Mukesh Bhatia)",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9315/649ed2d5b57e6b002b9cfab6.mp4?hash=AgADOh"
+    }
+  ]
+}

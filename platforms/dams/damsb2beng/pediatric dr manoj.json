@@ -1,0 +1,245 @@
+{
+  "subjectName": "Damsb2Beng",
+  "lectures": [
+    {
+      "title": "1.Neonatology Basics.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/14880/1.Neonatology+Basics.mp4?hash=AgADVS"
+    },
+    {
+      "title": "2.Neonatal Resuscitation.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/14881/2.Neonatal+Resuscitation.mp4?hash=AgADYS"
+    },
+    {
+      "title": "3.Neonatal CNS Disorders.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/14882/3.Neonatal+CNS+Disorders.mp4?hash=AgADdC"
+    },
+    {
+      "title": "4.Neonatalology HMD.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/14883/4.Neonatalology+HMD.mp4?hash=AgADfS"
+    },
+    {
+      "title": "5.AOP & BPD.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14884/5.AOP+%26+BPD.mp4?hash=AgADgy"
+    },
+    {
+      "title": "6.TTN,MAS & CDH.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14885/6.TTN%2CMAS+%26+CDH.mp4?hash=AgADlC"
+    },
+    {
+      "title": "7.PPHN.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/14886/7.PPHN.mp4?hash=AgADmS"
+    },
+    {
+      "title": "8.Neonatal sepsis & hypothermia.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/14887/8.Neonatal+sepsis+%26+hypothermia.mp4?hash=AgADqi"
+    },
+    {
+      "title": "9.Hemorrhagic disease of newborn.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14888/9.Hemorrhagic+disease+of+newborn.mp4?hash=AgADsy"
+    },
+    {
+      "title": "10.Neonatal jaundice.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14889/10.Neonatal+jaundice.mp4?hash=AgADwy"
+    },
+    {
+      "title": "11.Neonatal cholestasis.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14890/11.Neonatal+cholestasis.mp4?hash=AgAD0C"
+    },
+    {
+      "title": "12.Hypoglycemia & Hypocalcemia.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14891/12.Hypoglycemia+%26+Hypocalcemia.mp4?hash=AgAD3y"
+    },
+    {
+      "title": "13.Neonatal reflexes.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/14892/13.Neonatal+reflexes.mp4?hash=AgAD7y"
+    },
+    {
+      "title": "14. Necrotizing Enterocolitis.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/14893/14.+Necrotizing+Enterocolitis.mp4?hash=AgAD9i"
+    },
+    {
+      "title": "1. TORCH Infection.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/14894/1.+TORCH+Infection.mp4?hash=AgADBC"
+    },
+    {
+      "title": "2. VZV, Parvo & Zika Virus.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/14895/2.+VZV%2C+Parvo+%26+Zika+Virus.mp4?hash=AgADDC"
+    },
+    {
+      "title": "1. Cystic Fibrosis.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14896/1.+Cystic+Fibrosis.mp4?hash=AgADIi"
+    },
+    {
+      "title": "2. Bronchial Asthma.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14897/2.+Bronchial+Asthma.mp4?hash=AgADMi"
+    },
+    {
+      "title": "3. Bronchiolitis.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14898/3.+Bronchiolitis.mp4?hash=AgADOi"
+    },
+    {
+      "title": "4. Pneumonia.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14899/4.+Pneumonia.mp4?hash=AgADQy"
+    },
+    {
+      "title": "1. Rickets.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14900/1.+Rickets.mp4?hash=AgADVS"
+    },
+    {
+      "title": "2. Refractory rickets and scurvy.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14901/2.+Refractory+rickets+and+scurvy.mp4?hash=AgADXS"
+    },
+    {
+      "title": "3. Protein energy malnutrition.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14902/3.+Protein+energy+malnutrition.mp4?hash=AgADai"
+    },
+    {
+      "title": "4. Severe acute malnutrition.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14903/4.+Severe+acute+malnutrition.mp4?hash=AgADeC"
+    },
+    {
+      "title": "1. Congenital Adrenal Hyperplasia.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/14904/1.+Congenital+Adrenal+Hyperplasia.mp4?hash=AgADjC"
+    },
+    {
+      "title": "2. Lipoid Adrenal Hyperplasia.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/14905/2.+Lipoid+Adrenal+Hyperplasia.mp4?hash=AgADjy"
+    },
+    {
+      "title": "3. Congenital Hypothyroidism.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14906/3.+Congenital+Hypothyroidism.mp4?hash=AgADmS"
+    },
+    {
+      "title": "4. Acquired Hypothyroidism.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14907/4.+Acquired+Hypothyroidism.mp4?hash=AgADoi"
+    },
+    {
+      "title": "5. Short Stature.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14908/5.+Short+Stature.mp4?hash=AgADrC"
+    },
+    {
+      "title": "6. Precocious Puberty.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14909/6.+Precocious+Puberty.mp4?hash=AgADvS"
+    },
+    {
+      "title": "7. Delayed Puberty.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/14910/7.+Delayed+Puberty.mp4?hash=AgADxi"
+    },
+    {
+      "title": "1. Seizures in Childrens.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/14911/1.+Seizures+in+Childrens.mp4?hash=AgAD0C"
+    },
+    {
+      "title": "2. Status Epilepticus.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14912/2.+Status+Epilepticus.mp4?hash=AgAD1y"
+    },
+    {
+      "title": "3. Hydrocephalus.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14913/3.+Hydrocephalus.mp4?hash=AgAD3C"
+    },
+    {
+      "title": "4. Neurocutaneous Syndrome.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/14914/4.+Neurocutaneous+Syndrome.mp4?hash=AgAD5i"
+    },
+    {
+      "title": "5. Cerebral Palsy.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/14915/5.+Cerebral+Palsy.mp4?hash=AgAD7S"
+    },
+    {
+      "title": "6. Muscular Dystrophy.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/14916/6.+Muscular+Dystrophy.mp4?hash=AgAD9C"
+    },
+    {
+      "title": "1. CVS Basics.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/14917/1.+CVS+Basics.mp4?hash=AgAD_C"
+    },
+    {
+      "title": "2. CVS Murmurs.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14918/2.+CVS+Murmurs.mp4?hash=AgAEIg"
+    },
+    {
+      "title": "3. Acyanotic CHD.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14919/3.+Acyanotic+CHD.mp4?hash=AgADCi"
+    },
+    {
+      "title": "4. Cyanotic CHD.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/14920/4.+Cyanotic+CHD.mp4?hash=AgADGy"
+    },
+    {
+      "title": "5. COA.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/14921/5.+COA.mp4?hash=AgADIC"
+    },
+    {
+      "title": "6. Rheumatic Fever.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14922/6.+Rheumatic+Fever.mp4?hash=AgADKC"
+    },
+    {
+      "title": "1. Mendelian Disorders.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14923/1.+Mendelian+Disorders.mp4?hash=AgADNC"
+    },
+    {
+      "title": "2. Non Mendelian Inheritance.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14924/2.+Non+Mendelian+Inheritance.mp4?hash=AgADOy"
+    },
+    {
+      "title": "3. Chromosomal Disorders.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14925/3.+Chromosomal+Disorders.mp4?hash=AgADQy"
+    },
+    {
+      "title": "1. Acute Diarrhea.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/14926/1.+Acute+Diarrhea.mp4?hash=AgADSS"
+    },
+    {
+      "title": "1. Kawasaki Disease.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/14927/1.+Kawasaki+Disease.mp4?hash=AgADTi"
+    },
+    {
+      "title": "2. IGA Vasculitis.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/14928/2.+IGA+Vasculitis.mp4?hash=AgADUy"
+    },
+    {
+      "title": "3. Juvenile Idiopathic Arthritis.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/14929/3.+Juvenile+Idiopathic+Arthritis.mp4?hash=AgADWi"
+    },
+    {
+      "title": "4. Juvenile Dermatomyositis.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14930/4.+Juvenile+Dermatomyositis.mp4?hash=AgADYC"
+    },
+    {
+      "title": "1. Anthropometry.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14931/1.+Anthropometry.mp4?hash=AgADZS"
+    },
+    {
+      "title": "2. Milestones.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14932/2.+Milestones.mp4?hash=AgADai"
+    },
+    {
+      "title": "1. Nephrotic Syndrome.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14933/1.+Nephrotic+Syndrome.mp4?hash=AgADcS"
+    },
+    {
+      "title": "2. Disorders with Hematuria.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/14934/2.+Disorders+with+Hematuria.mp4?hash=AgADdC"
+    },
+    {
+      "title": "3. UTI.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/14935/3.+UTI.mp4?hash=AgADeC"
+    },
+    {
+      "title": "1. Abdominal Tumours.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/14936/1.+Abdominal+Tumours.mp4?hash=AgADfS"
+    },
+    {
+      "title": "2. Brain Tumour.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/14937/2.+Brain+Tumour.mp4?hash=AgADgy"
+    },
+    {
+      "title": "3. Acute Lymphoblastic Leukemia.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/14938/3.+Acute+Lymphoblastic+Leukemia.mp4?hash=AgADhy"
+    },
+    {
+      "title": "4. Langerhans Cell Histiocytosis.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/14939/4.+Langerhans+Cell+Histiocytosis.mp4?hash=AgADii"
+    }
+  ]
+}

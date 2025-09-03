@@ -1,0 +1,557 @@
+{
+  "subjectName": "p6xmedicine",
+  "lectures": [
+    {
+      "title": "<b>02. Heart Sounds Part 1.mp4 </b><b></b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19420/%3Cb%3E02.+Heart+Sounds+Part+1.mp4%3C%2Fb%3E?hash=AgAD0h"
+    },
+    {
+      "title": "<b>03. Heart Sounds Part 2.mp4 </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19421/%3Cb%3E03.+Heart+Sounds+Part+2.mp4%3C%2Fb%3E?hash=AgAD1R"
+    },
+    {
+      "title": "<b>04. Heart Sounds Part 3.mp4 </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19422/%3Cb%3E04.+Heart+Sounds+Part+3.mp4%3C%2Fb%3E?hash=AgAD2B"
+    },
+    {
+      "title": "<b>05. Mitral Valve Prolapse.mp4 </b><b></b>",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/19423/%3Cb%3E05.+Mitral+Valve+Prolapse.mp4%3C%2Fb%3E?hash=AgAD2h"
+    },
+    {
+      "title": "<b>06. Mitral Regurgitation.mp4 </b><b></b>",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/19424/%3Cb%3E06.+Mitral+Regurgitation.mp4%3C%2Fb%3E?hash=AgAD3B"
+    },
+    {
+      "title": "<b>07. Aortic Stenosis.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19425/%3Cb%3E07.+Aortic+Stenosis.mp4%3C%2Fb%3E?hash=AgAD4B"
+    },
+    {
+      "title": "<b>08. Aortic Regurgitation.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19426/%3Cb%3E08.+Aortic+Regurgitation.mp4%3C%2Fb%3E?hash=AgAD4x"
+    },
+    {
+      "title": "<b>09. Tricuspid Stenosis.mp4 </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19427/%3Cb%3E09.+Tricuspid+Stenosis.mp4%3C%2Fb%3E?hash=AgAD5R"
+    },
+    {
+      "title": "<b>10. Tricuspid Regurgitation, Pulmonic Stenosis and Pulmonic Regurgitation.mp4 </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19428/%3Cb%3E10.+Tricuspid+Regurgitation%2C+Pulmonic+Stenosis+and+Pulmonic+Regurgitation.mp4%3C%2Fb%3E?hash=AgAD6R"
+    },
+    {
+      "title": "<b>11. Murmurs.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19429/%3Cb%3E11.+Murmurs.mp4%3C%2Fb%3E?hash=AgAD7B"
+    },
+    {
+      "title": "<b>12. Takotsubo Cardiomyopathies and Brugada Syndrome.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19430/%3Cb%3E12.+Takotsubo+Cardiomyopathies+and+Brugada+Syndrome.mp4%3C%2Fb%3E?hash=AgAD8B"
+    },
+    {
+      "title": "<b>14. ECG Changes in Hypokalemia &amp; Hyperkalemia.mp4 </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19431/%3Cb%3E14.+ECG+Changes+in+Hypokalemia+%26amp%3B+Hyperkalemia.mp4%3C%2Fb%3E?hash=AgAD8R"
+    },
+    {
+      "title": "<b>15. Ischemic Heart Disease Part 1.mp4 </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19432/%3Cb%3E15.+Ischemic+Heart+Disease+Part+1.mp4%3C%2Fb%3E?hash=AgAD9R"
+    },
+    {
+      "title": "<b>16. Ischemic Heart Disease Part 2.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19433/%3Cb%3E16.+Ischemic+Heart+Disease+Part+2.mp4%3C%2Fb%3E?hash=AgAD-R"
+    },
+    {
+      "title": "<b>17. Symptomatic Bradycardia with a Pulse.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19434/%3Cb%3E17.+Symptomatic+Bradycardia+with+a+Pulse.mp4%3C%2Fb%3E?hash=AgAD_B"
+    },
+    {
+      "title": "<b>18. Congenital Heart Disease.mp4 </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19435/%3Cb%3E18.+Congenital+Heart+Disease.mp4%3C%2Fb%3E?hash=AgAD_x"
+    },
+    {
+      "title": "<b>19. Metabolic-Syndrome-X and Syndrome-Z.mp4 </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19436/%3Cb%3E19.+Metabolic-Syndrome-X+and+Syndrome-Z.mp4%3C%2Fb%3E?hash=AgADAR"
+    },
+    {
+      "title": "<b>20. Hypertension.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19437/%3Cb%3E20.+Hypertension.mp4%3C%2Fb%3E?hash=AgADBh"
+    },
+    {
+      "title": "<b>21. Diseases of Pericardium.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19438/%3Cb%3E21.+Diseases+of+Pericardium.mp4%3C%2Fb%3E?hash=AgADCR"
+    },
+    {
+      "title": "<b>22. Congestive Heart Failure.mp4 </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19439/%3Cb%3E22.+Congestive+Heart+Failure.mp4%3C%2Fb%3E?hash=AgADDR"
+    },
+    {
+      "title": "<b>23. Bundle Branch Block.mp4 </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19440/%3Cb%3E23.+Bundle+Branch+Block.mp4%3C%2Fb%3E?hash=AgADDh"
+    },
+    {
+      "title": "<b>24. Rheumatic Heart Disease.mp4 </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19441/%3Cb%3E24.+Rheumatic+Heart+Disease.mp4%3C%2Fb%3E?hash=AgADEh"
+    },
+    {
+      "title": "<b>25. Infective Endocarditis.mp4 </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19442/%3Cb%3E25.+Infective+Endocarditis.mp4%3C%2Fb%3E?hash=AgADFh"
+    },
+    {
+      "title": "<b>26. Cardiomyopathy.mp4 </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19443/%3Cb%3E26.+Cardiomyopathy.mp4%3C%2Fb%3E?hash=AgADGx"
+    },
+    {
+      "title": "<b>27. Multifocal Atrial Tachycardia.mp4 </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19444/%3Cb%3E27.+Multifocal+Atrial+Tachycardia.mp4%3C%2Fb%3E?hash=AgADHB"
+    },
+    {
+      "title": "<b>28. Cardiology Image Based Question.mp4 </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19445/%3Cb%3E28.+Cardiology+Image+Based+Question.mp4%3C%2Fb%3E?hash=AgADIR"
+    },
+    {
+      "title": "<b>29. Basic Life Support.mp4 </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19446/%3Cb%3E29.+Basic+Life+Support.mp4%3C%2Fb%3E?hash=AgADJB"
+    },
+    {
+      "title": "<b>30. Pulseless Electrical Activity.mp4 </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19447/%3Cb%3E30.+Pulseless+Electrical+Activity.mp4%3C%2Fb%3E?hash=AgADJR"
+    },
+    {
+      "title": "<b>31. Advanced Cardiac Life Support.mp4 </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19448/%3Cb%3E31.+Advanced+Cardiac+Life+Support.mp4%3C%2Fb%3E?hash=AgADKB"
+    },
+    {
+      "title": "<b>32. Mechanical Ventilation.mp4 </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19449/%3Cb%3E32.+Mechanical+Ventilation.mp4%3C%2Fb%3E?hash=AgADKh"
+    },
+    {
+      "title": "<b>33. Massive Transfusion Protocol.mp4 </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19450/%3Cb%3E33.+Massive+Transfusion+Protocol.mp4%3C%2Fb%3E?hash=AgADLB"
+    },
+    {
+      "title": "<b>34. ARDS.mp4 </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19451/%3Cb%3E34.+ARDS.mp4%3C%2Fb%3E?hash=AgADLx"
+    },
+    {
+      "title": "<b>35. Snake Bite.mp4 </b><b></b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19452/%3Cb%3E35.+Snake+Bite.mp4%3C%2Fb%3E?hash=AgADMB"
+    },
+    {
+      "title": "<b>36. High Altitude Pulmonary Edema.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19453/%3Cb%3E36.+High+Altitude+Pulmonary+Edema.mp4%3C%2Fb%3E?hash=AgADMx"
+    },
+    {
+      "title": "<b>37. Diabetes Mellitus Part 1.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19454/%3Cb%3E37.+Diabetes+Mellitus+Part+1.mp4%3C%2Fb%3E?hash=AgADOR"
+    },
+    {
+      "title": "<b>38. Diabetes Mellitus Part 2.mp4 </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19455/%3Cb%3E38.+Diabetes+Mellitus+Part+2.mp4%3C%2Fb%3E?hash=AgADPB"
+    },
+    {
+      "title": "<b>39. Diabetic Ketoacidosis and Hyperosmolar Coma.mp4 </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19456/%3Cb%3E39.+Diabetic+Ketoacidosis+and+Hyperosmolar+Coma.mp4%3C%2Fb%3E?hash=AgADPx"
+    },
+    {
+      "title": "<b>40. Diseases of Adrenal Gland.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19457/%3Cb%3E40.+Diseases+of+Adrenal+Gland.mp4%3C%2Fb%3E?hash=AgADRB"
+    },
+    {
+      "title": "<b>41. Cushing Syndrome.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19458/%3Cb%3E41.+Cushing+Syndrome.mp4%3C%2Fb%3E?hash=AgADRx"
+    },
+    {
+      "title": "<b>42. Diseases of Thyroid.mp4 </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19459/%3Cb%3E42.+Diseases+of+Thyroid.mp4%3C%2Fb%3E?hash=AgADSh"
+    },
+    {
+      "title": "<b>43. Pancreatic Neuroendocrine Tumors.mp4 </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19460/%3Cb%3E43.+Pancreatic+Neuroendocrine+Tumors.mp4%3C%2Fb%3E?hash=AgADTh"
+    },
+    {
+      "title": "<b>44. Disorders of Parathyroid Gland.mp4 </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19461/%3Cb%3E44.+Disorders+of+Parathyroid+Gland.mp4%3C%2Fb%3E?hash=AgADUR"
+    },
+    {
+      "title": "<b>45. Multiple Endocrine Neoplasia.mp4 </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19462/%3Cb%3E45.+Multiple+Endocrine+Neoplasia.mp4%3C%2Fb%3E?hash=AgADVB"
+    },
+    {
+      "title": "<b>46. Diseases of Anterior Pituitary.mp4 </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/19463/%3Cb%3E46.+Diseases+of+Anterior+Pituitary.mp4%3C%2Fb%3E?hash=AgADVh"
+    },
+    {
+      "title": "<b>47. Endocrinology Image Based Questions.mp4 </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/19464/%3Cb%3E47.+Endocrinology+Image+Based+Questions.mp4%3C%2Fb%3E?hash=AgADWB"
+    },
+    {
+      "title": "<b>48. Electrolyte Imbalances.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19465/%3Cb%3E48.+Electrolyte+Imbalances.mp4%3C%2Fb%3E?hash=AgADWx"
+    },
+    {
+      "title": "<b>49. Bartter Syndrome, Gitelman Syndrome, Liddle Syndrome and Comparison with SIADH.mp4 </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19466/%3Cb%3E49.+Bartter+Syndrome%2C+Gitelman+Syndrome%2C+Liddle+Syndrome+and+Comparison+with+SIADH.mp4%3C%2Fb%3E?hash=AgADXh"
+    },
+    {
+      "title": "<b>50. Ciliopathies.mp4 </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19467/%3Cb%3E50.+Ciliopathies.mp4%3C%2Fb%3E?hash=AgADXx"
+    },
+    {
+      "title": "<b>51. Polycystic Kidney Disease.mp4 </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19468/%3Cb%3E51.+Polycystic+Kidney+Disease.mp4%3C%2Fb%3E?hash=AgADYB"
+    },
+    {
+      "title": "<b>52. Thrombotic Thrombocytopenic Purpura.mp4 </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19469/%3Cb%3E52.+Thrombotic+Thrombocytopenic+Purpura.mp4%3C%2Fb%3E?hash=AgADZB"
+    },
+    {
+      "title": "53. Kidney Urine analysis.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19470/53.+Kidney+Urine+analysis.mp4?hash=AgADWx"
+    },
+    {
+      "title": "54.Acute kidney injury.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19471/54.Acute+kidney+injury.mp4?hash=AgADXB"
+    },
+    {
+      "title": "55.Chronic Kidney injury.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19472/55.Chronic+Kidney+injury.mp4?hash=AgADXR"
+    },
+    {
+      "title": "56. Kidney Stone.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19473/56.+Kidney+Stone.mp4?hash=AgADXh"
+    },
+    {
+      "title": "57. Renal Tubular Acidosis.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19474/57.+Renal+Tubular+Acidosis.mp4?hash=AgADXx"
+    },
+    {
+      "title": "58 - Nephrotic and nephritic syndrome.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19475/58+-+Nephrotic+and+nephritic+syndrome.mp4?hash=AgADYB"
+    },
+    {
+      "title": "59. Renal Artery Stenosis.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19476/59.+Renal+Artery+Stenosis.mp4?hash=AgADYR"
+    },
+    {
+      "title": "60. GI Bleeding.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19477/60.+GI+Bleeding.mp4?hash=AgADYh"
+    },
+    {
+      "title": "61. Peptic Ulcer Disease.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19478/61.+Peptic+Ulcer+Disease.mp4?hash=AgADYx"
+    },
+    {
+      "title": "62. Zollinger Ellison Syndrome.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19479/62.+Zollinger+Ellison+Syndrome.mp4?hash=AgADZB"
+    },
+    {
+      "title": "63. Malabsorption Syndrome.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19480/63.+Malabsorption+Syndrome.mp4?hash=AgADZR"
+    },
+    {
+      "title": "64. Inflammatory Bowel Disease.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19481/64.+Inflammatory+Bowel+Disease.mp4?hash=AgADZh"
+    },
+    {
+      "title": "65. Irritable Bowel Syndrome.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19482/65.+Irritable+Bowel+Syndrome.mp4?hash=AgADZx"
+    },
+    {
+      "title": "66. Chronic Lymphocytic Leukemia.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/19483/66.+Chronic+Lymphocytic+Leukemia.mp4?hash=AgADaB"
+    },
+    {
+      "title": "67. Chronic Myeloid Leukemia.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/19484/67.+Chronic+Myeloid+Leukemia.mp4?hash=AgADaR"
+    },
+    {
+      "title": "68. Acute Myeloid Leukemia.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19485/68.+Acute+Myeloid+Leukemia.mp4?hash=AgADah"
+    },
+    {
+      "title": "69. Acute Lymphoblastic Leukemia.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19486/69.+Acute+Lymphoblastic+Leukemia.mp4?hash=AgADax"
+    },
+    {
+      "title": "70. Multiple Myeloma.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/19487/70.+Multiple+Myeloma.mp4?hash=AgADbB"
+    },
+    {
+      "title": "71. Blood Components.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/19488/71.+Blood+Components.mp4?hash=AgADbR"
+    },
+    {
+      "title": "72. Complications of Blood Transfusion.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19489/72.+Complications+of+Blood+Transfusion.mp4?hash=AgADbx"
+    },
+    {
+      "title": "74. Thalassemia.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19490/74.+Thalassemia.mp4?hash=AgADcR"
+    },
+    {
+      "title": "75. Sickle Cell Disease, G-6PD Deficiency and Other Hemolytic Anemias.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19491/75.+Sickle+Cell+Disease%2C+G-6PD+Deficiency+and+Other+Hemolytic+Anemias.mp4?hash=AgADch"
+    },
+    {
+      "title": "76. Sideroblastic Anemia.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19492/76.+Sideroblastic+Anemia.mp4?hash=AgADcx"
+    },
+    {
+      "title": "77. Platelet Disorders.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19493/77.+Platelet+Disorders.mp4?hash=AgADdB"
+    },
+    {
+      "title": "78. Stroke.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19494/78.+Stroke.mp4?hash=AgADYB"
+    },
+    {
+      "title": "79. Headache and Migraine.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19495/79.+Headache+and+Migraine.mp4?hash=AgADZR"
+    },
+    {
+      "title": "80. Epilepsy and EEG.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19496/80.+Epilepsy+and+EEG.mp4?hash=AgADZx"
+    },
+    {
+      "title": "81. Raised ICP and Brain Death.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19497/81.+Raised+ICP+and+Brain+Death.mp4?hash=AgADaB"
+    },
+    {
+      "title": "82. Intracranial Space Occupying Lesion.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19498/82.+Intracranial+Space+Occupying+Lesion.mp4?hash=AgADah"
+    },
+    {
+      "title": "83. Meningitis Part 1.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19499/83.+Meningitis+Part+1.mp4?hash=AgADax"
+    },
+    {
+      "title": "84. Meningitis Part 2.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19500/84.+Meningitis+Part+2.mp4?hash=AgADbB"
+    },
+    {
+      "title": "85. Parkinsonism and Parkinsons Disease.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19501/85.+Parkinsonism+and+Parkinsons+Disease.mp4?hash=AgADbR"
+    },
+    {
+      "title": "86. Myasthenia Gravis.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19502/86.+Myasthenia+Gravis.mp4?hash=AgADbx"
+    },
+    {
+      "title": "87. Guillian Barre Syndrome.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19503/87.+Guillian+Barre+Syndrome.mp4?hash=AgADcB"
+    },
+    {
+      "title": "88. Alzheimer's Disease.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19504/88.+Alzheimer%27s+Disease.mp4?hash=AgADch"
+    },
+    {
+      "title": "89. Multiple Sclerosis.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19505/89.+Multiple+Sclerosis.mp4?hash=AgADcx"
+    },
+    {
+      "title": "90. Neuromyelitis Optica Spectrum Disorder.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19506/90.+Neuromyelitis+Optica+Spectrum+Disorder.mp4?hash=AgADdB"
+    },
+    {
+      "title": "91. Amyotrophic Lateral Sclerosis and Motor Neuron Disease.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19507/91.+Amyotrophic+Lateral+Sclerosis+and+Motor+Neuron+Disease.mp4?hash=AgADdR"
+    },
+    {
+      "title": "92. Syringomelia and Conus Medullaris Syndrome.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19508/92.+Syringomelia+and+Conus+Medullaris+Syndrome.mp4?hash=AgADdh"
+    },
+    {
+      "title": "93. Channelopathies.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/19509/93.+Channelopathies.mp4?hash=AgADdx"
+    },
+    {
+      "title": "94. Subarachnoid Hemorrhage.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/19510/94.+Subarachnoid+Hemorrhage.mp4?hash=AgADeB"
+    },
+    {
+      "title": "95. Transient Ischemic Attack and Stroke Interventions.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19511/95.+Transient+Ischemic+Attack+and+Stroke+Interventions.mp4?hash=AgADeh"
+    },
+    {
+      "title": "96. Neurocysticercosis and Brain Tumors.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19512/96.+Neurocysticercosis+and+Brain+Tumors.mp4?hash=AgADex"
+    },
+    {
+      "title": "97. Intracranial Hemorrhage.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19513/97.+Intracranial+Hemorrhage.mp4?hash=AgADfB"
+    },
+    {
+      "title": "98. Systemic Lupus Erythematosus.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19514/98.+Systemic+Lupus+Erythematosus.mp4?hash=AgADfR"
+    },
+    {
+      "title": "99. Rheumatoid Arthritis.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19515/99.+Rheumatoid+Arthritis.mp4?hash=AgADfh"
+    },
+    {
+      "title": "100.Crystal arthropathy.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19516/100.Crystal+arthropathy.mp4?hash=AgADfx"
+    },
+    {
+      "title": "101.Vasculitis.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19517/101.Vasculitis.mp4?hash=AgADgB"
+    },
+    {
+      "title": "102.Scleroderma sjogren s syndrome.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19518/102.Scleroderma+sjogren+s+syndrome.mp4?hash=AgADgR"
+    },
+    {
+      "title": "103.Sarcoidosis.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19519/103.Sarcoidosis.mp4?hash=AgADgh"
+    },
+    {
+      "title": "104. IgG4 Related Disease.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19520/104.+IgG4+Related+Disease.mp4?hash=AgADgx"
+    },
+    {
+      "title": "105. Axial Spondyloarthritis.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/19521/105.+Axial+Spondyloarthritis.mp4?hash=AgADhB"
+    },
+    {
+      "title": "106. Hepatitis B.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/19522/106.+Hepatitis+B.mp4?hash=AgADph"
+    },
+    {
+      "title": "107. Hepatitis C-D and Fulminant Hepatic Failure.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19523/107.+Hepatitis+C-D+and+Fulminant+Hepatic+Failure.mp4?hash=AgADpx"
+    },
+    {
+      "title": "108. Hepatorenal Syndrome and Hepatopulmonary Syndrome.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19524/108.+Hepatorenal+Syndrome+and+Hepatopulmonary+Syndrome.mp4?hash=AgADrx"
+    },
+    {
+      "title": "109. Autoimmune Hepatitis.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19525/109.+Autoimmune+Hepatitis.mp4?hash=AgADsB"
+    },
+    {
+      "title": "110. Cirrhosis and It's Complications.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19526/110.+Cirrhosis+and+It%27s+Complications.mp4?hash=AgADsh"
+    },
+    {
+      "title": "111. PBC and PSC.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19527/111.+PBC+and+PSC.mp4?hash=AgADtR"
+    },
+    {
+      "title": "112. Wilson Disease and Hemochromatosis.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19528/112.+Wilson+Disease+and+Hemochromatosis.mp4?hash=AgADth"
+    },
+    {
+      "title": "113. Alcoholic Hepatitis.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19529/113.+Alcoholic+Hepatitis.mp4?hash=AgADtx"
+    },
+    {
+      "title": "114. Hereditary Hyperbilirubinemia.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19530/114.+Hereditary+Hyperbilirubinemia.mp4?hash=AgADuB"
+    },
+    {
+      "title": "115. Paracetamol and Iron Toxicity.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19531/115.+Paracetamol+and+Iron+Toxicity.mp4?hash=AgADuR"
+    },
+    {
+      "title": "116. Budd Chiari Syndrome.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19532/116.+Budd+Chiari+Syndrome.mp4?hash=AgADuh"
+    },
+    {
+      "title": "117. Cystic Fibrosis.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/19533/117.+Cystic+Fibrosis.mp4?hash=AgADux"
+    },
+    {
+      "title": "118. Obstructive Sleep Apnea.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/19534/118.+Obstructive+Sleep+Apnea.mp4?hash=AgADvB"
+    },
+    {
+      "title": "119. Pulmonary Thromboembolism.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19535/119.+Pulmonary+Thromboembolism.mp4?hash=AgADvh"
+    },
+    {
+      "title": "120. Fat Embolism Syndrome.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19536/120.+Fat+Embolism+Syndrome.mp4?hash=AgADvx"
+    },
+    {
+      "title": "121. Bronchiectasis.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19537/121.+Bronchiectasis.mp4?hash=AgADwB"
+    },
+    {
+      "title": "122. Pneumonia.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19538/122.+Pneumonia.mp4?hash=AgADwR"
+    },
+    {
+      "title": "123. Bronchial Asthma.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19539/123.+Bronchial+Asthma.mp4?hash=AgADwh"
+    },
+    {
+      "title": "124. COPD.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19540/124.+COPD.mp4?hash=AgADwx"
+    },
+    {
+      "title": "125. Respiratory Failure.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19541/125.+Respiratory+Failure.mp4?hash=AgADxB"
+    },
+    {
+      "title": "126. Tuberculosis.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19542/126.+Tuberculosis.mp4?hash=AgADxR"
+    },
+    {
+      "title": "127. Interstitial Lung Disease.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19543/127.+Interstitial+Lung+Disease.mp4?hash=AgADxh"
+    },
+    {
+      "title": "128. Pulmonary Alveolar Proteinosis.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19544/128.+Pulmonary+Alveolar+Proteinosis.mp4?hash=AgADxx"
+    },
+    {
+      "title": "129. Pleural Effusion.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19545/129.+Pleural+Effusion.mp4?hash=AgADyB"
+    },
+    {
+      "title": "130. Pneumothorax.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19546/130.+Pneumothorax.mp4?hash=AgADhR"
+    },
+    {
+      "title": "131. Flow Volume Curve, Spirometry and DLCO.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19547/131.+Flow+Volume+Curve%2C+Spirometry+and+DLCO.mp4?hash=AgADhh"
+    },
+    {
+      "title": "132. ABG Analysis Simplified Part 1.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19548/132.+ABG+Analysis+Simplified+Part+1.mp4?hash=AgADhx"
+    },
+    {
+      "title": "133. ABG Analysis Simplified Part 2.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19549/133.+ABG+Analysis+Simplified+Part+2.mp4?hash=AgADiB"
+    },
+    {
+      "title": "134. ABG Analysis Simplified Part 3.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19550/134.+ABG+Analysis+Simplified+Part+3.mp4?hash=AgADiR"
+    },
+    {
+      "title": "135. Fever of Unknown Origin.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19551/135.+Fever+of+Unknown+Origin.mp4?hash=AgADih"
+    },
+    {
+      "title": "136. Dengue Fever.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19552/136.+Dengue+Fever.mp4?hash=AgADix"
+    },
+    {
+      "title": "137. Nipah, Zika and Monkeypox.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19553/137.+Nipah%2C+Zika+and+Monkeypox.mp4?hash=AgADjB"
+    },
+    {
+      "title": "138. Pneumocystis Jiroveci.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19554/138.+Pneumocystis+Jiroveci.mp4?hash=AgADjR"
+    },
+    {
+      "title": "139. Aspergillosis.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19555/139.+Aspergillosis.mp4?hash=AgADjh"
+    },
+    {
+      "title": "140. AIDS.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19556/140.+AIDS.mp4?hash=AgADjx"
+    },
+    {
+      "title": "141. SARS COV-2-COVID-19.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19557/141.+SARS+COV-2-COVID-19.mp4?hash=AgADkR"
+    }
+  ]
+}

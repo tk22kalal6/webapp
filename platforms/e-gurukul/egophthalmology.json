@@ -1,0 +1,457 @@
+{
+  "subjectName": "E-Gurukul",
+  "lectures": [
+    {
+      "title": "3D - Model.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7534/3D+-+Model.mp4?hash=AgADdh"
+    },
+    {
+      "title": "3D - Model [Hinglish] .mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7535/3D+-+Model+%5BHinglish%5D+.mp4?hash=AgADdx"
+    },
+    {
+      "title": "Anatomy and physiology.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7536/Anatomy+and+physiology.mp4?hash=AgADeR"
+    },
+    {
+      "title": "Anatomy and physiology [ Hinglish].mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7537/Anatomy+and+physiology+%5B+Hinglish%5D.mp4?hash=AgADeh"
+    },
+    {
+      "title": "Development of eyes.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7538/Development+of+eyes.mp4?hash=AgADex"
+    },
+    {
+      "title": "Development of eyes[ Hinglish].mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7539/Development+of+eyes%5B+Hinglish%5D.mp4?hash=AgADfB"
+    },
+    {
+      "title": "Visual acuity.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7540/Visual+acuity.mp4?hash=AgADfR"
+    },
+    {
+      "title": "Visual acuity[Hinglish].mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7541/Visual+acuity%5BHinglish%5D.mp4?hash=AgADfh"
+    },
+    {
+      "title": "1. Anatomy & Physiology Topic : Lens Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7542/6450b3c295d91c441d196387.mp4?hash=AgADCR"
+    },
+    {
+      "title": "2. Classification of Cataract Topic : Lens Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7543/6450b3c295d91c441d196388.mp4?hash=AgADCx"
+    },
+    {
+      "title": "3. Senile Cataract Topic : Lens Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7544/6450b3c295d91c441d196389.mp4?hash=AgADDR"
+    },
+    {
+      "title": "4. Other Types of Acquired Cataract Topic : Lens Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7545/6450b3c295d91c441d19638a.mp4?hash=AgADDx"
+    },
+    {
+      "title": "5. Cortex Maturation Topic : Lens Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7546/6450b3c295d91c441d19638b.mp4?hash=AgADEB"
+    },
+    {
+      "title": "6. Treatment of Cataract Topic : Lens Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7547/6450b3c295d91c441d19638d.mp4?hash=AgADFB"
+    },
+    {
+      "title": "7. Complication of Surgery Topic : Lens Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7548/6450b3c295d91c441d19638e.mp4?hash=AgADHR"
+    },
+    {
+      "title": "8. Lens Abnormalities Topic : Lens Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7549/6450b3c295d91c441d19638f.mp4?hash=AgADIB"
+    },
+    {
+      "title": "9. Clinical Cataract Topic : Lens Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7550/6450b3c295d91c441d196390.mp4?hash=AgADIx"
+    },
+    {
+      "title": "10. IOL Formulas Topic : Lens Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7551/6450b3c295d91c441d196391.mp4?hash=AgADJx"
+    },
+    {
+      "title": "1. Introduction Topic : Glaucoma Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7552/6450b3c295d91c441d196392.mp4?hash=AgADKB"
+    },
+    {
+      "title": "2. Congenital Glaucoma Topic : Glaucoma Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7553/6450b3c295d91c441d196393.mp4?hash=AgADKh"
+    },
+    {
+      "title": "3. Ocular HTN & LTG Topic : Glaucoma Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7554/6450b3c295d91c441d196394.mp4?hash=AgADLR"
+    },
+    {
+      "title": "4. POAG, IOP Topic : Glaucoma Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7555/6450b3c295d91c441d196395.mp4?hash=AgADLx"
+    },
+    {
+      "title": "5. Tonometry Topic : Glaucoma Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7556/6450b3c295d91c441d196396.mp4?hash=AgADMB"
+    },
+    {
+      "title": "6. Optic Disc Changes & Visual Field Defects Topic : Glaucoma Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7557/6450b3c295d91c441d196397.mp4?hash=AgADMR"
+    },
+    {
+      "title": "7. Treatment of POAG & Anti Glaucoma Drugs Topic : Glaucoma Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7558/6450b3c295d91c441d19640c.mp4?hash=AgADMx"
+    },
+    {
+      "title": "8. PACG Topic : Glaucoma Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7559/6450b3c295d91c441d196398.mp4?hash=AgADNR"
+    },
+    {
+      "title": "9. Acute Congestive Glaucoma Topic : Glaucoma Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7560/6450b3c295d91c441d196399.mp4?hash=AgADNh"
+    },
+    {
+      "title": "10. Secondary Glaucoma & Secondary Developmental Glaucoma Topic : Glaucoma Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7561/6450b3c295d91c441d19639a.mp4?hash=AgADNx"
+    },
+    {
+      "title": "1. Anatomy Topic : Uveal Tract Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7562/6450b3c295d91c441d19639b.mp4?hash=AgADOR"
+    },
+    {
+      "title": "2. Anterior Uveitis Topic : Uveal Tract Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7563/6450b3c295d91c441d19639c.mp4?hash=AgADOx"
+    },
+    {
+      "title": "3. Pars Planitis Topic : Uveal Tract Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7564/6450b3c295d91c441d19639d.mp4?hash=AgADPB"
+    },
+    {
+      "title": "4. Posterior Uveitis Topic : Uveal Tract Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7565/6450b3c295d91c441d19639e.mp4?hash=AgADPh"
+    },
+    {
+      "title": "5. Uveitis in Systemic Diseases Topic : Uveal Tract Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7566/6450b3c295d91c441d19639f.mp4?hash=AgADPx"
+    },
+    {
+      "title": "6. Congenital Anomalies Topic : Uveal Tract Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7567/6450b3c295d91c441d1963a0.mp4?hash=AgADQB"
+    },
+    {
+      "title": "7. Evisceration and Enucleation Topic : Uveal Tract Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7568/6450b3c295d91c441d1963a1.mp4?hash=AgADQh"
+    },
+    {
+      "title": "1. Introduction Topic : Retina Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7569/6450b3c295d91c441d1963a5.mp4?hash=AgADQx"
+    },
+    {
+      "title": "2. Vitreous & CMV Retinitis Topic : Retina Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7570/6450b3c295d91c441d1963a6.mp4?hash=AgADRB"
+    },
+    {
+      "title": "3. CRAO & CRVO Topic : Retina Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7571/6450b3c295d91c441d1963a7.mp4?hash=AgADRR"
+    },
+    {
+      "title": "4. CSR & CME Topic : Retina Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7572/6450b3c295d91c441d1963a8.mp4?hash=AgADRh"
+    },
+    {
+      "title": "5. Diabetic Retinopathy Topic : Retina Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7573/6450b3c295d91c441d1963a9.mp4?hash=AgADRx"
+    },
+    {
+      "title": "6. Hypertensive Retinopathy & Hypertensive Choroidopathy Topic : Retina Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7574/6450b3c295d91c441d1963aa.mp4?hash=AgADSB"
+    },
+    {
+      "title": "7. Retinal Detachment Topic : Retina Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7575/6450b3c295d91c441d1963ab.mp4?hash=AgADSR"
+    },
+    {
+      "title": "8. RP, Retinitis Pigmentosa & ROP Topic : Retina Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7576/6450b3c295d91c441d1963ac.mp4?hash=AgADSh"
+    },
+    {
+      "title": "9. Bull's Eye Maculopathy, ARMD & Macular Pathologies Topic : Retina Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7577/6450b3c295d91c441d1963ad.mp4?hash=AgADSx"
+    },
+    {
+      "title": "10. FFA & ICGA Topic : Retina Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7578/6450b3c295d91c441d19640d.mp4?hash=AgADTB"
+    },
+    {
+      "title": "11. Macular Function Tests Topic : Retina Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7579/6450b3c295d91c441d1963ae.mp4?hash=AgADTR"
+    },
+    {
+      "title": "12. PhotostressTest MFT's Topic : Retina Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7580/6450b3c295d91c441d1963af.mp4?hash=AgADTh"
+    },
+    {
+      "title": "1. Introduction Topic : Neuro Ophthalmology Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7581/6450b3c295d91c441d1963b4.mp4?hash=AgADTx"
+    },
+    {
+      "title": "2. Visual Pathway & Junctional Scotoma Topic : Neuro Ophthalmology Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7582/6450b3c295d91c441d1963b5.mp4?hash=AgADUB"
+    },
+    {
+      "title": "3. Pupillary Reflexes Topic : Neuro Ophthalmology Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7583/6450b3c295d91c441d1963b6.mp4?hash=AgADUh"
+    },
+    {
+      "title": "4. Optic Neuritis Topic : Neuro Ophthalmology Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7584/6450b3c295d91c441d1963b7.mp4?hash=AgADUx"
+    },
+    {
+      "title": "5. Papilloedema & Optic Atropathy Topic : Neuro Ophthalmology Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7585/6450b3c295d91c441d1963b8.mp4?hash=AgADVR"
+    },
+    {
+      "title": "6. Miscellaneous Topic : Neuro Ophthalmology Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7586/6450b3c295d91c441d1963b9.mp4?hash=AgADVx"
+    },
+    {
+      "title": "7. Anisocoria Topic : Neuro Ophthalmology Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7587/6450b3c295d91c441d1963ba.mp4?hash=AgADWB"
+    },
+    {
+      "title": "8. One & Half Syndrome Topic : Neuro Ophthalmology Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7588/6450b3c295d91c441d1963bb.mp4?hash=AgADWR"
+    },
+    {
+      "title": "1. Anatomy Topic : Squint Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7589/6450b3c295d91c441d1963dc.mp4?hash=AgADWh"
+    },
+    {
+      "title": "2. Physiology of Squints Topic : Squint Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7590/6450b3c295d91c441d1963dd.mp4?hash=AgADXR"
+    },
+    {
+      "title": "3. Binocular Single Vision Topic : Squint Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7591/6450b3c295d91c441d1963de.mp4?hash=AgADYB"
+    },
+    {
+      "title": "4. Latent Squint Topic : Squint Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7592/6450b3c295d91c441d1963df.mp4?hash=AgADYx"
+    },
+    {
+      "title": "5. Manifest Squint Topic : Squint Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7593/6450b3c295d91c441d1963e0.mp4?hash=AgADZx"
+    },
+    {
+      "title": "6. Incomitant Topic : Squint Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7594/6450b3c295d91c441d1963e1.mp4?hash=AgADaB"
+    },
+    {
+      "title": "7. Evaluation of Comitant Squint Topic : Squint Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7595/6450b3c295d91c441d1963e2.mp4?hash=AgADaR"
+    },
+    {
+      "title": "8. Evaluation of Incomitant Squint Topic : Squint Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7596/6450b3c295d91c441d1963e3.mp4?hash=AgADah"
+    },
+    {
+      "title": "9. Tests of Stereopsis Topic : Squint Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7597/6450b3c295d91c441d1963e4.mp4?hash=AgADax"
+    },
+    {
+      "title": "10. Isolated Nerve Palsy & Gaze Palsy Topic : Squint Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7598/6450b3c295d91c441d1963e5.mp4?hash=AgADbh"
+    },
+    {
+      "title": "11. Park Test Topic : Squint Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7599/6450b3c295d91c441d1963e6.mp4?hash=AgADbx"
+    },
+    {
+      "title": "12. Maddox Rod Test Topic : Squint Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7600/6450b3c295d91c441d1963e7.mp4?hash=AgADcB"
+    },
+    {
+      "title": "13. Nystagmus Topic : Squint Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7601/6450b3c295d91c441d1963e8.mp4?hash=AgADch"
+    },
+    {
+      "title": "14. Orientation of Extra Ocular Muscles Topic : Squint Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7602/6450b3c295d91c441d19640e.mp4?hash=AgADcx"
+    },
+    {
+      "title": "15. Amblyopia Topic : Squint Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7603/6450b3c295d91c441d1963e9.mp4?hash=AgADdB"
+    },
+    {
+      "title": "1. Spherical Errors Topic : Optics & Refraction Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7604/6450b3c295d91c441d1963d1.mp4?hash=AgADdR"
+    },
+    {
+      "title": "2. High Myopia Topic : Optics & Refraction Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7605/6450b3c295d91c441d1963d2.mp4?hash=AgADdh"
+    },
+    {
+      "title": "3. Astigmatism & Accommodation Topic : Optics & Refraction Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7606/6450b3c295d91c441d1963d3.mp4?hash=AgADdx"
+    },
+    {
+      "title": "4. Calculation of Refractive Error Topic : Optics & Refraction Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7607/6450b3c295d91c441d1963d4.mp4?hash=AgADeB"
+    },
+    {
+      "title": "5. Retinoscopy Topic : Optics & Refraction Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7608/6450b3c295d91c441d1963d5.mp4?hash=AgADeR"
+    },
+    {
+      "title": "6. Angle Kappa Topic : Optics & Refraction Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7609/6450b3c295d91c441d1963d6.mp4?hash=AgADeh"
+    },
+    {
+      "title": "7. Sturm’s Conoid Topic : Optics & Refraction Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7610/6450b3c295d91c441d1963d7.mp4?hash=AgADex"
+    },
+    {
+      "title": "8. Refractive Surgery (Part-1) Topic : Optics & Refraction Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7611/6450b3c295d91c441d1963d8.mp4?hash=AgADfB"
+    },
+    {
+      "title": "9. Refractive Surgery (Part-2) Topic : Optics & Refraction Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7612/6450b3c295d91c441d1963d9.mp4?hash=AgADfR"
+    },
+    {
+      "title": "10. JCC Topic : Optics & Refraction Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7613/6450b3c295d91c441d1963da.mp4?hash=AgADfh"
+    },
+    {
+      "title": "11. Stenopic Slit- Pinhole Topic : Optics & Refraction Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7614/6450b3c295d91c441d1963db.mp4?hash=AgADfx"
+    },
+    {
+      "title": "1. Anatomy Topic : Orbit Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7615/6450b3c295d91c441d1963c1.mp4?hash=AgADgB"
+    },
+    {
+      "title": "2. Diseases of Orbit Topic : Orbit Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7616/6450b3c295d91c441d1963c2.mp4?hash=AgADgR"
+    },
+    {
+      "title": "3. Proptosis Topic : Orbit Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7617/6450b3c295d91c441d1963c3.mp4?hash=AgADgh"
+    },
+    {
+      "title": "4. Blowout Fracture Topic : Orbit Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7618/6450b3c295d91c441d1963c4.mp4?hash=AgADgx"
+    },
+    {
+      "title": "5. Orbital Cellulitis Topic : Orbit Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7619/6450b3c295d91c441d1963c5.mp4?hash=AgADhR"
+    },
+    {
+      "title": "6. Tumours Topic : Orbit Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7620/6450b3c295d91c441d1963c6.mp4?hash=AgADhh"
+    },
+    {
+      "title": "1. Infections Topic : Eye Lids Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7621/6450b3c295d91c441d1963bc.mp4?hash=AgADhx"
+    },
+    {
+      "title": "2. Ptosis Topic : Eye Lids Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7622/6450b3c295d91c441d1963bd.mp4?hash=AgADiB"
+    },
+    {
+      "title": "3. Ectropion & Entropion Topic : Eye Lids Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7623/6450b3c295d91c441d1963be.mp4?hash=AgADiR"
+    },
+    {
+      "title": "4. Ankyloblepharon-Symblepharon Topic : Eye Lids Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7624/6450b3c295d91c441d1963bf.mp4?hash=AgADih"
+    },
+    {
+      "title": "5. Blepharitis Topic : Eye Lids Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7625/6450b3c295d91c441d1963c0.mp4?hash=AgADix"
+    },
+    {
+      "title": "1. Introduction Topic : Conjunctiva Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7626/6450b3c295d91c441d1963b1.mp4?hash=AgADjB"
+    },
+    {
+      "title": "2. Conjuctivitis Topic : Conjunctiva Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7627/6450b3c295d91c441d1963b0.mp4?hash=AgADjh"
+    },
+    {
+      "title": "3. Allergic Conjuctivitis Topic : Conjunctiva Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7628/6450b3c295d91c441d1963b2.mp4?hash=AgADjx"
+    },
+    {
+      "title": "4. Conjuctival Degenerations Topic : Conjunctiva Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7629/6450b3c295d91c441d1963b3.mp4?hash=AgADkB"
+    },
+    {
+      "title": "1. Introduction Topic : Cornea Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7630/6450b3c295d91c441d1963c7.mp4?hash=AgADkR"
+    },
+    {
+      "title": "2. Bacterial Corneal Ulcer Topic : Cornea Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7631/6450b3c295d91c441d1963c8.mp4?hash=AgADkh"
+    },
+    {
+      "title": "3. Viral Corneal Ulcer Topic : Cornea Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7632/6450b3c295d91c441d1963c9.mp4?hash=AgADkx"
+    },
+    {
+      "title": "4. Fungal Corneal Ulcer Topic : Cornea Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7633/6450b3c295d91c441d1963ca.mp4?hash=AgADlB"
+    },
+    {
+      "title": "5. Acanthamoeba Topic : Cornea Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7634/6450b3c295d91c441d1963cb.mp4?hash=AgADlR"
+    },
+    {
+      "title": "6. Keratoconus & Non-Infective Keratitis Topic : Cornea Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7635/6450b3c295d91c441d1963cc.mp4?hash=AgADlh"
+    },
+    {
+      "title": "7. Corneal Dystrophies Topic : Cornea Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7636/6450b3c295d91c441d1963cd.mp4?hash=AgADlx"
+    },
+    {
+      "title": "8. Dermoid –Lipodermoid Topic : Cornea Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7637/6450b3c295d91c441d1963ce.mp4?hash=AgADmR"
+    },
+    {
+      "title": "1. Lacrimal Apparatus Topic : Lacrimal Apparatus Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7638/6450b3c295d91c441d196384.mp4?hash=AgADmx"
+    },
+    {
+      "title": "1. Community Ophthalmology Topic : Community Ophthalmology Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7639/6450b3c295d91c441d1963a2.mp4?hash=AgADnB"
+    },
+    {
+      "title": "2. Vision 2020 Topic : Community Ophthalmology Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7640/6450b3c295d91c441d1963a3.mp4?hash=AgADnR"
+    },
+    {
+      "title": "3. NPCB Topic : Community Ophthalmology Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7641/6450b3c295d91c441d1963a4.mp4?hash=AgADoB"
+    },
+    {
+      "title": "1. Intraocular Tumors Topic : Intraocular Tumors Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7642/6450b3c295d91c441d196383.mp4?hash=AgADoR"
+    },
+    {
+      "title": "1. Sclera Eye Topic : Sclera Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7643/6450b3c295d91c441d196382.mp4?hash=AgADoh"
+    },
+    {
+      "title": "1. Blunt Trauma Topic : Trauma Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7644/6450b3c295d91c441d1963d0.mp4?hash=AgADox"
+    },
+    {
+      "title": "2. Penetrating Trauma Topic : Trauma Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7645/6450b3c295d91c441d196385.mp4?hash=AgADpB"
+    },
+    {
+      "title": "3. Chemical Burns Topic : Trauma Subject : Ophthalmology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7646/6450b3c295d91c441d196386.mp4?hash=AgADpR"
+    }
+  ]
+}

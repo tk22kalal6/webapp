@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search - NEXTPULSE | Find Medical Lectures & Content</title>
+  <meta name="description" content="Search across all NEET PG preparation platforms. Find specific lectures, topics, and subjects from Marrow, DAMS, and PrepLadder.">
+  <meta name="keywords" content="search medical lectures, NEET PG search, find medical content, lecture search">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="src/search/search.css">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <script src="./access-control.js"></script>
+  <script src="./error-handler/link-checker.js"></script>
+</head>
+<body>
+  <script>
+    // Initialize access control for protected page
+    if (!accessControl.initProtectedPage()) {
+      // Page will redirect, so we can stop execution here
+      throw new Error('Access denied - redirecting to index.html');
+    }
+  </script>
+  <header>
+    <div class="header-content">
+      <button onclick="window.location.href='./app.html'" class="back-button">
+        <i class="fas fa-arrow-left"></i>
+      </button>
+      <h1>Search</h1>
+      <p class="header-subtitle">Find Your Medical Content</p>
+      <div class="search-bar">
+        <i class="fas fa-search"></i>
+        <input type="text" placeholder="Search topics, lectures..." id="mainSearchInput">
+      </div>
+    </div>
+  </header>
+  <main>
+    <div class="search-page">
+      <div class="search-container">
+        <div class="enhanced-search-bar">
+          <input type="text" placeholder="Search lectures..." class="search-input" id="enhancedSearchInput">
+        </div>
+      </div>
+      <div class="search-results" id="searchResults">
+        <p class="search-prompt">Enter at least 2 characters to search</p>
+      </div>
+    </div>
+  </main>
+  
+<nav class="bottom-nav">
+  <a href="app.html" class="active"><i class="fas fa-lightbulb"></i><span>Home</span></a>
+  <a href="platforms.html"><i class="fas fa-play-circle"></i><span>Videos</span></a>
+  <a href="search.html"><i class="fas fa-search"></i><span>Search</span></a>
+  <a href="quiz/index.html"><i class="fas fa-question-circle"></i><span>Q Bank</span></a>
+</nav>
+
+  <script>
+    let allLectures = [];
+
+    // Load lecture data using manifest.json
+    async function loadLectureData() {
+      try {
+        const manifestResponse = await fetch('platforms/manifest.json');
+        if (!manifestResponse.ok) {
+          console.error('Could not load manifest.json');
+          return;
+        }
+        
+        const manifest = await manifestResponse.json();
+        
+        for (const platformConfig of manifest) {
+          const { platform, subfolder, files } = platformConfig;
+          
+          const folderPath = subfolder === 'non' ? platform : `${platform}/${subfolder}`;
+          
+          for (const jsonFile of files) {
+            try {
+              const response = await fetch(`platforms/${folderPath}/${jsonFile}`);
+              if (response.ok) {
+                const data = await response.json();
+                if (data.lectures && Array.isArray(data.lectures)) {
+                  data.lectures.forEach(lecture => {
+                    allLectures.push({
+                      title: lecture.title,
+                      subject: data.subjectName || jsonFile.replace('.json', ''),
+                      platform: platform.charAt(0).toUpperCase() + platform.slice(1),
+                      duration: lecture.duration || 'N/A',
+                      url: `platforms/${platform}/${jsonFile.replace('.json', '.html')}`,
+                      streamingUrl: lecture.streamingUrl || lecture.streamUrl
+                    });
+                  });
+                }
+              }
+            } catch (error) {
+              console.log(`Could not load ${folderPath}/${jsonFile}:`, error);
+            }
+          }
+        }
+        
+        console.log('Total lectures loaded:', allLectures.length);
+      } catch (error) {
+        console.error('Error loading lecture data:', error);
+      }
+    }
+
+    function handleSearch(query) {
+      const resultsContainer = document.getElementById('searchResults');
+      
+      if (query.length < 2) {
+        resultsContainer.innerHTML = '<p class="search-prompt">Enter at least 2 characters to search</p>';
+        return;
+      }
+
+      searchLectures(query.toLowerCase(), resultsContainer);
+    }
+
+    function searchLectures(query, resultsContainer) {
+      const results = allLectures.filter(lecture =>
+        lecture.title.toLowerCase().includes(query) ||
+        lecture.subject.toLowerCase().includes(query) ||
+        lecture.platform.toLowerCase().includes(query)
+      );
+
+      displayLectureResults(results, resultsContainer);
+    }
+
+    function displayLectureResults(results, container) {
+      if (results.length === 0) {
+        container.innerHTML = '<p class="no-results">No lectures found</p>';
+        return;
+      }
+
+      container.innerHTML = results.map(lecture => `
+        <div class="search-result-card" onclick="openVideo('${lecture.title}', '${lecture.streamingUrl || lecture.streamUrl || ''}')">
+          <div class="result-header">
+            <i class="fas fa-play-circle"></i>
+            <h3>${lecture.title}</h3>
+          </div>
+          <div class="result-details">
+            <span><i class="fas fa-book-medical"></i> ${lecture.subject}</span>
+            <span><i class="fas fa-building"></i> ${lecture.platform}</span>
+            <span><i class="fas fa-clock"></i> ${lecture.duration}</span>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    // Event listeners
+    document.getElementById('enhancedSearchInput').addEventListener('input', function(e) {
+      handleSearch(e.target.value);
+    });
+
+    document.getElementById('mainSearchInput').addEventListener('input', function(e) {
+      const enhancedInput = document.getElementById('enhancedSearchInput');
+      enhancedInput.value = e.target.value;
+      handleSearch(e.target.value);
+    });
+
+    // Video popup functions (using same styling as platforms)
+    function openVideo(title, url) {
+      if (!url) {
+        alert('Video URL not available for this lecture');
+        return;
+      }
+      
+      const popup = document.createElement('div');
+      popup.className = 'video-popup';
+      popup.innerHTML = `
+        <div class="video-popup-content">
+          <button class="close-popup" onclick="closeVideo(this)">&times;</button>
+          <h2 class="video-title">${title}</h2>
+          <div class="iframe-container">
+            <iframe src="${url}" allowfullscreen></iframe>
+          </div>
+        </div>
+      `;
+      
+      popup.onclick = function(e) {
+        if (e.target === popup) {
+          closeVideo(popup.querySelector('.close-popup'));
+        }
+      };
+      
+      document.body.appendChild(popup);
+    }
+
+    function closeVideo(button) {
+      const popup = button.closest('.video-popup');
+      document.body.removeChild(popup);
+    }
+
+    // Initialize data on page load
+    document.addEventListener('DOMContentLoaded', function() {
+      loadLectureData();
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,209 @@
+{
+  "subjectName": "p6microbiology",
+  "lectures": [
+    {
+      "title": "<b>01 Scientists and Stains</b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/22392/%3Cb%3E01+Scientists+and+Stains%3C%2Fb%3E?hash=AgADyA"
+    },
+    {
+      "title": "<b>02 Microscopes</b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22393/%3Cb%3E02+Microscopes%3C%2Fb%3E?hash=AgADyg"
+    },
+    {
+      "title": "03 Bacterial Anatomy",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22394/03+Bacterial+Anatomy?hash=AgADyw"
+    },
+    {
+      "title": "04 Bacterial Shapes And Physiology",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/22395/04+Bacterial+Shapes+And+Physiology?hash=AgADzA"
+    },
+    {
+      "title": "05 Bacterial Genetics",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/22396/05+Bacterial+Genetics?hash=AgADzQ"
+    },
+    {
+      "title": "06 Culture Media",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22397/06+Culture+Media?hash=AgADzw"
+    },
+    {
+      "title": "07 Sterilization and Disinfection",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22398/07+Sterilization+and+Disinfection?hash=AgAD0A"
+    },
+    {
+      "title": "08 Staphylococcaceae",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22399/08+Staphylococcaceae?hash=AgAD0g"
+    },
+    {
+      "title": "09 Streptococcaceae",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22400/09+Streptococcaceae?hash=AgAD0w"
+    },
+    {
+      "title": "10 Neisseria",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22401/10+Neisseria?hash=AgAD1A"
+    },
+    {
+      "title": "11 Gram Positive Bacilli Part-1",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22402/11+Gram+Positive+Bacilli+Part-1?hash=AgAD1Q"
+    },
+    {
+      "title": "12 Gram Positive Bacilli Part-2",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/22403/12+Gram+Positive+Bacilli+Part-2?hash=AgAD1g"
+    },
+    {
+      "title": "13 Gram Positive Bacilli Part-3",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/22404/13+Gram+Positive+Bacilli+Part-3?hash=AgAD1w"
+    },
+    {
+      "title": "14 Gram Negative Bacteria Part-1",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22405/14+Gram+Negative+Bacteria+Part-1?hash=AgAD2A"
+    },
+    {
+      "title": "15 Gram Negative Bacteria Part-2",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22406/15+Gram+Negative+Bacteria+Part-2?hash=AgAD2Q"
+    },
+    {
+      "title": "17 HBB (Hemophilus, Bordetrlla and Brucella)",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22407/17+HBB+%28Hemophilus%2C+Bordetrlla+and+Brucella%29?hash=AgAD3A"
+    },
+    {
+      "title": "19 Rickettsiae",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22408/19+Rickettsiae?hash=AgAD3g"
+    },
+    {
+      "title": "16 Vibrio and Non Fermenters",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22409/16+Vibrio+and+Non+Fermenters?hash=AgAD2w"
+    },
+    {
+      "title": "18 Spirochetes",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22410/18+Spirochetes?hash=AgAD3Q"
+    },
+    {
+      "title": "20 Chlamydia",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/22411/20+Chlamydia?hash=AgAD3w"
+    },
+    {
+      "title": "21 Miscellaneous Bacteria",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/22412/21+Miscellaneous+Bacteria?hash=AgAD4A"
+    },
+    {
+      "title": "22 Virology General Properties",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22413/22+Virology+General+Properties?hash=AgAD4g"
+    },
+    {
+      "title": "23 DNA Virology Part-1",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22414/23+DNA+Virology+Part-1?hash=AgAD6g"
+    },
+    {
+      "title": "24 DNA Virology Part - 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/22415/24+DNA+Virology+Part+-+2?hash=AgAD7Q"
+    },
+    {
+      "title": "25 DNA Virology Part-3",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/22416/25+DNA+Virology+Part-3?hash=AgAD8A"
+    },
+    {
+      "title": "26 RNA Virus- Myxovirus",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22417/26+RNA+Virus-+Myxovirus?hash=AgAD8Q"
+    },
+    {
+      "title": "27 RNA Virus - Picornaviridae",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22418/27+RNA+Virus+-+Picornaviridae?hash=AgAD8g"
+    },
+    {
+      "title": "28 RNA Virus - Rhabdoviridae",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22419/28+RNA+Virus+-+Rhabdoviridae?hash=AgAD9A"
+    },
+    {
+      "title": "29 RNA Virus - Arboviridae",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22420/29+RNA+Virus+-+Arboviridae?hash=AgAD9Q"
+    },
+    {
+      "title": "30 RNA Virus - Retroviridae",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22421/30+RNA+Virus+-+Retroviridae?hash=AgAD9g"
+    },
+    {
+      "title": "31 RNA Virus - Other RNA Viruses",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22422/31+RNA+Virus+-+Other+RNA+Viruses?hash=AgAD-A"
+    },
+    {
+      "title": "32 RNA Virus - COVID 19",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22423/32+RNA+Virus+-+COVID+19?hash=AgAD_A"
+    },
+    {
+      "title": "33 Mycology introduction and classification",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22424/33+Mycology+introduction+and+classification?hash=AgADa1"
+    },
+    {
+      "title": "34 Superficial and subcutaneous mycosis",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22425/34+Superficial+and+subcutaneous+mycosis?hash=AgADZF"
+    },
+    {
+      "title": "35 Dimorphic fungus",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22426/35+Dimorphic+fungus?hash=AgADXV"
+    },
+    {
+      "title": "36 Mycology Part-2",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22427/36+Mycology+Part-2?hash=AgADAg"
+    },
+    {
+      "title": "37 Parasitology - Classification of Amoeba",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22428/37+Parasitology+-+Classification+of+Amoeba?hash=AgADBA"
+    },
+    {
+      "title": "38 Parasitology- Flagellates",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22429/38+Parasitology-+Flagellates?hash=AgADBg"
+    },
+    {
+      "title": "39 Parasitology- Hemoflagellates",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22430/39+Parasitology-+Hemoflagellates?hash=AgADBw"
+    },
+    {
+      "title": "40 Parasitology- Coccidian Parasites",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22431/40+Parasitology-+Coccidian+Parasites?hash=AgADEA"
+    },
+    {
+      "title": "41 Haematozoa - Plasmodium",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22432/41+Haematozoa+-+Plasmodium?hash=AgADEQ"
+    },
+    {
+      "title": "42 Cestodes",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22433/42+Cestodes?hash=AgADEg"
+    },
+    {
+      "title": "43 Trematodes",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22434/43+Trematodes?hash=AgADEw"
+    },
+    {
+      "title": "44 Nematodes",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/22435/44+Nematodes?hash=AgADFA"
+    },
+    {
+      "title": "45 Types of Immunity",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/22436/45+Types+of+Immunity?hash=AgADFQ"
+    },
+    {
+      "title": "46 Types of Hypersensitivity Reactions",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22437/46+Types+of+Hypersensitivity+Reactions?hash=AgADGA"
+    },
+    {
+      "title": "47 Immunity Tolerance Autoimmune Disorders",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22438/47+Immunity+Tolerance+Autoimmune+Disorders?hash=AgADGQ"
+    },
+    {
+      "title": "48 Immunodeficiency Disorders",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22439/48+Immunodeficiency+Disorders?hash=AgADGg"
+    },
+    {
+      "title": "49 Transplant Immunology",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/22440/49+Transplant+Immunology?hash=AgADGw"
+    },
+    {
+      "title": "50 Antigen and Antibody",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22441/50+Antigen+and+Antibody?hash=AgADHA"
+    },
+    {
+      "title": "51 Antigen Antibody Reactions",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22442/51+Antigen+Antibody+Reactions?hash=AgADHQ"
+    }
+  ]
+}

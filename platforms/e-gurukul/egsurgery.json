@@ -1,0 +1,421 @@
+{
+  "subjectName": "E-Gurukul",
+  "lectures": [
+    {
+      "title": "1. Surgical Anatomy Topic : Breast Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8916/6450b3c295d91c441d1961f8.mp4?hash=AgADhC"
+    },
+    {
+      "title": "2. Approach to Breast Lump Topic : Breast Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8917/6450b3c295d91c441d1961f9.mp4?hash=AgADhS"
+    },
+    {
+      "title": "3. Investigations Topic : Breast Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8918/6450b3c295d91c441d1961fa.mp4?hash=AgADhi"
+    },
+    {
+      "title": "4. Staging of Carcinoma Breast Topic : Breast Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8919/6450b3c295d91c441d1961fb.mp4?hash=AgADhy"
+    },
+    {
+      "title": "5. Classification & Risk Factor Topic : Breast Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8920/6450b3c295d91c441d1961fc.mp4?hash=AgADiC"
+    },
+    {
+      "title": "6. Management (Part-1) Topic : Breast Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8921/6450b3c295d91c441d1961fd.mp4?hash=AgADii"
+    },
+    {
+      "title": "7. Management (Part-2) Topic : Breast Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8922/6450b3c295d91c441d1961fe.mp4?hash=AgADiy"
+    },
+    {
+      "title": "8. Management (Part-3) Topic : Breast Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8923/6450b3c295d91c441d1961ff.mp4?hash=AgADjC"
+    },
+    {
+      "title": "9. Management (Part-4) Topic : Breast Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8924/6450b3c295d91c441d196200.mp4?hash=AgADjS"
+    },
+    {
+      "title": "10. Prognosis Topic : Breast Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8925/6450b3c295d91c441d196201.mp4?hash=AgADji"
+    },
+    {
+      "title": "11. Recent Updates Topic : Breast Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8926/6450b3c295d91c441d196202.mp4?hash=AgADjy"
+    },
+    {
+      "title": "12. Benign Disorders of Breast Topic : Breast Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8927/6450b3c295d91c441d196203.mp4?hash=AgADkC"
+    },
+    {
+      "title": "13. ANDI Topic : Breast Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8928/64786b768ae30a002b983fae.mp4?hash=AgADkS"
+    },
+    {
+      "title": "1. Triage Topic : Trauma Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8929/6450b3c295d91c441d196205.mp4?hash=AgADky"
+    },
+    {
+      "title": "2. Primary Survey Topic : Trauma Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8930/6450b3c295d91c441d196206.mp4?hash=AgADlC"
+    },
+    {
+      "title": "3. Damage Control Surgery Topic : Trauma Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8931/6450b3c295d91c441d196207.mp4?hash=AgADlS"
+    },
+    {
+      "title": "4. Damage Control Resuscitation Topic : Trauma Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8932/6450b3c295d91c441d196208.mp4?hash=AgADli"
+    },
+    {
+      "title": "5. Head and Neck Trauma Topic : Trauma Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8933/6450b3c295d91c441d196209.mp4?hash=AgADly"
+    },
+    {
+      "title": "6. Thoracic Trauma Topic : Trauma Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8934/6450b3c295d91c441d19620a.mp4?hash=AgADmC"
+    },
+    {
+      "title": "7. Abdominal Trauma Topic : Trauma Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8935/6450b3c295d91c441d19620b.mp4?hash=AgADmS"
+    },
+    {
+      "title": "8. Retroperitoneal Injury Topic : Trauma Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8936/6450b3c295d91c441d19620c.mp4?hash=AgADmi"
+    },
+    {
+      "title": "9. Bladder & Urethral Injury Topic : Trauma Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8937/6450b3c295d91c441d19620d.mp4?hash=AgADmy"
+    },
+    {
+      "title": "10. Other Misc Injuries & Scores in Trauma Topic : Trauma Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8938/6450b3c295d91c441d19620e.mp4?hash=AgADnC"
+    },
+    {
+      "title": "11. ANDI Topic : Trauma Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8939/6450b3c295d91c441d196204.mp4?hash=AgADnS"
+    },
+    {
+      "title": "1. Esophagus (Surgical Anatomy and Investigation) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8940/6450b3c295d91c441d19620f.mp4?hash=AgADoC"
+    },
+    {
+      "title": "2. Investigations Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8941/6450b3c295d91c441d196227.mp4?hash=AgADoS"
+    },
+    {
+      "title": "3. Esophagus ( GERD and Functional Disorders) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8942/6450b3c295d91c441d196210.mp4?hash=AgADoi"
+    },
+    {
+      "title": "4. Esophagus (Esophageal Injury and Other Common Conditions) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8943/6450b3c295d91c441d196211.mp4?hash=AgADoy"
+    },
+    {
+      "title": "5. Esophagus (Carcinoma Esophagus ) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8944/6450b3c295d91c441d196212.mp4?hash=AgADpi"
+    },
+    {
+      "title": "6. Stomach (Surgical Anatomy and Stomach Surgeries ) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8945/6450b3c295d91c441d196213.mp4?hash=AgADpy"
+    },
+    {
+      "title": "7. Stomach (Ulcer Diseases ) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8946/6450b3c295d91c441d196214.mp4?hash=AgADqC"
+    },
+    {
+      "title": "8. Stomach (Upper GI Bleed) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8947/6450b3c295d91c441d196215.mp4?hash=AgADqS"
+    },
+    {
+      "title": "9. Stomach (Carcinoma Stomach) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8948/6450b3c295d91c441d196216.mp4?hash=AgADqy"
+    },
+    {
+      "title": "10. Stomach (GIST and other Common Conditions) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8949/6450b3c295d91c441d196217.mp4?hash=AgADrC"
+    },
+    {
+      "title": "11. Gall Bladder (Surgical Anatomy and Investigations) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8950/6450b3c295d91c441d196218.mp4?hash=AgADrS"
+    },
+    {
+      "title": "12. Gallbladder (Gall Stone Disease) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8951/6450b3c295d91c441d196219.mp4?hash=AgADri"
+    },
+    {
+      "title": "13. Gall Bladder (Choledocholithiasis & Bile Duct Injury) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8952/6450b3c295d91c441d19621a.mp4?hash=AgADry"
+    },
+    {
+      "title": "14. Safe Cholecystectomy Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8953/6450b3c295d91c441d196257.mp4?hash=AgADsC"
+    },
+    {
+      "title": "15. Gall bladder (Gall Bladder and Bile Duct Cancer ) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8954/6450b3c295d91c441d19621b.mp4?hash=AgADsS"
+    },
+    {
+      "title": "16. Pancreas (Anomalies and Inflammation ) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8955/6450b3c295d91c441d19621c.mp4?hash=AgADtC"
+    },
+    {
+      "title": "17. Pancreas (Management of Acute and Chronic Pancreatitis) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8956/6450b3c295d91c441d19621d.mp4?hash=AgADui"
+    },
+    {
+      "title": "18. Pancreas (Pancreatic Neoplasm) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8957/6450b3c295d91c441d19621e.mp4?hash=AgADvC"
+    },
+    {
+      "title": "19. Liver (Liver Failure and Portal Hypertension ) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8958/6450b3c295d91c441d19621f.mp4?hash=AgADvS"
+    },
+    {
+      "title": "20. Liver (Liver Infection and Neoplasm) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8959/6450b3c295d91c441d196220.mp4?hash=AgADvi"
+    },
+    {
+      "title": "21. Spleen Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8960/6450b3c295d91c441d196221.mp4?hash=AgADwC"
+    },
+    {
+      "title": "22. Small Intestine (Intestinal Obstruction) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8961/6450b3c295d91c441d196222.mp4?hash=AgADwS"
+    },
+    {
+      "title": "23. Small Intestine (Various Common Small Intestinal Conditions ) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8962/6450b3c295d91c441d196223.mp4?hash=AgADxS"
+    },
+    {
+      "title": "24. Appendix Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8963/6450b3c295d91c441d196224.mp4?hash=AgADxy"
+    },
+    {
+      "title": "25. Large Intestine (Common Large Intestinal Conditions) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8964/6450b3c295d91c441d196225.mp4?hash=AgADyC"
+    },
+    {
+      "title": "26. Large Intestine (Colorectal Cancer) Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8965/6450b3c295d91c441d196254.mp4?hash=AgADyi"
+    },
+    {
+      "title": "27. Anal Canal and It’s Common Conditions Topic : GIT Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8966/6450b3c295d91c441d196226.mp4?hash=AgADzy"
+    },
+    {
+      "title": "1. Kidney (Part-1) Urinary Tract Calculi Topic : Urology Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8967/6450b3c295d91c441d196228.mp4?hash=AgAD0i"
+    },
+    {
+      "title": "2. Kidney (Part-2) Renal Neoplasm Topic : Urology Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8968/6450b3c295d91c441d196229.mp4?hash=AgAD1y"
+    },
+    {
+      "title": "3. Kidney (Part-3) Congenital and Other Benign Disorders Topic : Urology Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8969/6454f106d2c8d5722f17d67f.mp4?hash=AgAD2C"
+    },
+    {
+      "title": "4. Urinary Bladder (Part-1) Urinary Diversion, Retention of Urine And Incontinence Topic : Urology Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8970/6450b3c295d91c441d19622a.mp4?hash=AgAD2S"
+    },
+    {
+      "title": "5. Urinary Bladder (Part-2) Benign and Malignant Disorders Topic : Urology Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8971/6450b3c295d91c441d196258.mp4?hash=AgAD2y"
+    },
+    {
+      "title": "6. Prostate Topic : Urology Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8972/6450b3c295d91c441d19622b.mp4?hash=AgAD3C"
+    },
+    {
+      "title": "7. Urethra & Penis Topic : Urology Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8973/6450b3c295d91c441d19622c.mp4?hash=AgAD3i"
+    },
+    {
+      "title": "8. Testis Topic : Urology Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8974/6450b3c295d91c441d19622d.mp4?hash=AgAD3y"
+    },
+    {
+      "title": "1. Acute and Chronic Limb Ischemia (Part-1) Topic : Arterial Disorders Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8975/6450b3c295d91c441d19622e.mp4?hash=AgAD4C"
+    },
+    {
+      "title": "2. Aneurysm / AV Malformation / Amputation (Part-2) Topic : Arterial Disorders Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8976/6450b3c295d91c441d19622f.mp4?hash=AgAD4i"
+    },
+    {
+      "title": "1. Varicose Vein Topic : Venous Disorders Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8977/6450b3c295d91c441d196230.mp4?hash=AgAD5y"
+    },
+    {
+      "title": "2. Venous Thrombosis Topic : Venous Disorders Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8978/6450b3c295d91c441d196231.mp4?hash=AgAD6C"
+    },
+    {
+      "title": "1. Anatomy & Physiology of Lymphatic System Topic : Lymphatic System Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8979/6450b3c295d91c441d196232.mp4?hash=AgAD6i"
+    },
+    {
+      "title": "2. Lymphedema (Clinical Presentation) Topic : Lymphatic System Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8980/6450b3c295d91c441d196233.mp4?hash=AgAD6y"
+    },
+    {
+      "title": "3. Investigation & Management Topic : Lymphatic System Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8981/6450b3c295d91c441d196234.mp4?hash=AgAD7C"
+    },
+    {
+      "title": "1. Inguinal Hernia Topic : Hernia Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8982/6450b3c295d91c441d196235.mp4?hash=AgAD7S"
+    },
+    {
+      "title": "2. Ventral and Other Types of Hernias Topic : Hernia Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8983/6450b3c295d91c441d196255.mp4?hash=AgAD7i"
+    },
+    {
+      "title": "1. (Part-1) Basic Pathophysiology of Trauma/ Stress Topic : General Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8984/6450b3c295d91c441d196236.mp4?hash=AgAD7y"
+    },
+    {
+      "title": "2. (Part-2) Nutrition Topic : General Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8985/6450b3c295d91c441d196237.mp4?hash=AgAD8C"
+    },
+    {
+      "title": "3. (Part-3) Wound Healing and Infection Topic : General Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8986/6450b3c295d91c441d196238.mp4?hash=AgAD8i"
+    },
+    {
+      "title": "4. (Part-4) Surgical Site Infection Topic : General Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8987/6450b3c295d91c441d196239.mp4?hash=AgAD8y"
+    },
+    {
+      "title": "5. (Part-5) Pre and Postoperative Care Topic : General Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8988/6450b3c295d91c441d19623a.mp4?hash=AgAD9C"
+    },
+    {
+      "title": "6. (Part-6) Shock and Sepsis Topic : General Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8989/6450b3c295d91c441d19623b.mp4?hash=AgAD9i"
+    },
+    {
+      "title": "1. Surgical Incisions, Sutures and Needles (Part-1) Topic : Basic Surgical Skills and Minimal Access Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8990/6454f106d2c8d5722f17d67b.mp4?hash=AgAD9y"
+    },
+    {
+      "title": "2. Types of Closure/ knots and Energy Sources (Part-2) Topic : Basic Surgical Skills and Minimal Access Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8991/6450b3c295d91c441d196256.mp4?hash=AgAD-C"
+    },
+    {
+      "title": "3. Minimal Access Surgery, and Staplers (Part-3) Topic : Basic Surgical Skills and Minimal Access Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8992/6450b3c295d91c441d19623c.mp4?hash=AgAD-y"
+    },
+    {
+      "title": "1. Thyroid (Part-1) Surgical Anatomy and Investigations Topic : Endocrine Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8993/6450b3c295d91c441d196240.mp4?hash=AgAD_C"
+    },
+    {
+      "title": "2. Thyroid (Part-2) Benign Thyroid Disorders Topic : Endocrine Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8994/6450b3c295d91c441d196241.mp4?hash=AgADAi"
+    },
+    {
+      "title": "3. Thyroid (Part-3) Thyroid Neoplasm Topic : Endocrine Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8995/6450b3c295d91c441d196242.mp4?hash=AgADBC"
+    },
+    {
+      "title": "4. Parathyroid (Part-1) Basic Physiology and Primary Hyperparathyroidism Topic : Endocrine Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8996/6450b3c295d91c441d196243.mp4?hash=AgADBi"
+    },
+    {
+      "title": "5. Parathyroid (Part-2) Secondary and Tertiary Hyperparathyroidism Topic : Endocrine Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8997/6450b3c295d91c441d196244.mp4?hash=AgADBy"
+    },
+    {
+      "title": "6. Adrenal Gland (Adrenal Cortex Neoplasm and Pheochromocytoma) Topic : Endocrine Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8998/6450b3c295d91c441d196245.mp4?hash=AgADCi"
+    },
+    {
+      "title": "7. Neuroendocrine (Endocrine Neoplasm of Pancreas and Carcinoid Tumor) Topic : Endocrine Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8999/6450b3c295d91c441d196246.mp4?hash=AgADCy"
+    },
+    {
+      "title": "1. Burns Topic : Burns and Plastic Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9000/6450b3c295d91c441d19623d.mp4?hash=AgADDC"
+    },
+    {
+      "title": "2. Plastic Surgery (Part-1) Skin Grafting Topic : Burns and Plastic Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9001/6450b3c295d91c441d19623e.mp4?hash=AgADDi"
+    },
+    {
+      "title": "3. Plastic Surgery (Part-2) Flaps and Reconstruction Topic : Burns and Plastic Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9002/6450b3c295d91c441d19623f.mp4?hash=AgADES"
+    },
+    {
+      "title": "1. Oral cavity Topic : Oral Cavity Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9003/6454f106d2c8d5722f17d67c.mp4?hash=AgADEi"
+    },
+    {
+      "title": "2. Salivary Glands Topic : Oral Cavity Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9004/6450b3c295d91c441d196247.mp4?hash=AgADEy"
+    },
+    {
+      "title": "1. Transplant Topic : Transplant Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9005/6450b3c295d91c441d196248.mp4?hash=AgADFC"
+    },
+    {
+      "title": "1. Metabolic Surgery Topic : Metabolic Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9006/6450b3c295d91c441d196249.mp4?hash=AgADFi"
+    },
+    {
+      "title": "1. Pediatric Surgery Topic : Pediatric Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9007/6450b3c295d91c441d19624a.mp4?hash=AgADFy"
+    },
+    {
+      "title": "1. Skin and Subcutaneous Tissue (Skin Tumors and Common Skin Conditions) Topic : Skin and Subcutaneous Tissue (Skin Tumors and Common Skin Conditions) Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9008/6450b3c295d91c441d19624b.mp4?hash=AgADGS"
+    },
+    {
+      "title": "1. Surgical Anatomy and Investigations (Part-1) Topic : Thoracic Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9009/6450b3c295d91c441d19624c.mp4?hash=AgADGi"
+    },
+    {
+      "title": "2. Pleural Diseases and Thoracic Outlet Syndrome (Part-2) Topic : Thoracic Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9010/6450b3c295d91c441d19624d.mp4?hash=AgADHS"
+    },
+    {
+      "title": "3. Carcinoma Lung and Mediastinal Conditions (Part-3) Topic : Thoracic Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9011/6450b3c295d91c441d19624e.mp4?hash=AgADHy"
+    },
+    {
+      "title": "1. (Part-1) Surgical Anatomy and Cardiopulmonary Bypass Topic : Cardiac Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9012/6450b3c295d91c441d19624f.mp4?hash=AgADIC"
+    },
+    {
+      "title": "2. (Part-2) IHD and Aortic Dissection Topic : Cardiac Surgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9013/6450b3c295d91c441d196250.mp4?hash=AgADIy"
+    },
+    {
+      "title": "1. Hydrocephalus Topic : Neurosurgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9014/64632fbe279409002b166db8.mp4?hash=AgADJC"
+    },
+    {
+      "title": "2. SAH Topic : Neurosurgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9015/6450b3c295d91c441d196252.mp4?hash=AgADJS"
+    },
+    {
+      "title": "3. Brain Tumors Topic : Neurosurgery Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9016/64632fc7bd9bc0002bff7dd6.mp4?hash=AgADJi"
+    },
+    {
+      "title": "1. Surgery (Q1 to Q50) Topic : Surgery (Part-1) Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9017/653b69c3631b1e002ad74484.mp4?hash=AgADKS"
+    },
+    {
+      "title": "2. Surgery (Q51 to 100) Topic : Surgery (Part-1) Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9018/65269bf0d630db002b27cdf9.mp4?hash=AgADKi"
+    },
+    {
+      "title": "3. Surgery (Q101 to 150) Topic : Surgery (Part-1) Subject : Surgery",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/9019/65269c7f950e38002b4424db.mp4?hash=AgADKy"
+    }
+  ]
+}

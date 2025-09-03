@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prepladder 5 Subjects - NEXTPULSE | NEET PG Video Lectures</title>
+  <meta name="description" content="Access Prepladder 5's comprehensive NEET PG video lectures across all medical subjects including Anatomy, Physiology, Pathology, and more.">
+  <meta name="keywords" content="Prepladder 5, NEET PG, medical subjects, anatomy, physiology, pathology, video lectures">
+  <link rel="stylesheet" href="../../styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <script src="../../access-control.js"></script>
+</head>
+<body>
+  <script>
+    // Initialize access control for protected page
+    if (!accessControl.initProtectedPage()) {
+      // Page will redirect, so we can stop execution here
+      throw new Error('Access denied - redirecting to index.html');
+    }
+  </script>
+  <header>
+    <div class="header-content">
+      <button onclick="window.location.href='../../platforms.html'" class="back-button" style="display: block;">
+        <i class="fas fa-arrow-left"></i>
+      </button>
+      <h1>Prepladder 5 Subjects</h1>
+      <p class="header-subtitle">Expert Faculty Video Lectures</p>
+      <div class="search-bar">
+        <i class="fas fa-search"></i>
+        <input type="text" placeholder="Search subjects..." id="searchInput">
+      </div>
+    </div>
+  </header>
+  <main>
+    <div class="subject-card" onclick="window.location.href='p5anatomy.html'">
+      <i class="fas fa-bone"></i>
+      <span>Anatomy</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5anesthesia.html'">
+      <i class="fas fa-syringe"></i>
+      <span>Anesthesia</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5biochemistry.html'">
+      <i class="fas fa-vials"></i>
+      <span>Biochemistry</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5clinicals.html'">
+      <i class="fas fa-stethoscope"></i>
+      <span>Clinical Subjects</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5dermatology.html'">
+      <i class="fas fa-allergies"></i>
+      <span>Dermatology</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5ent.html'">
+      <i class="fas fa-ear-listen"></i>
+      <span>ENT</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5fmt.html'">
+      <i class="fas fa-scale-balanced"></i>
+      <span>Forensic Medicine</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5microbiology.html'">
+      <i class="fas fa-bacteria"></i>
+      <span>Microbiology</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5obgy.html'">
+      <i class="fas fa-baby"></i>
+      <span>Obstetrics & Gynecology</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5ophthalmology.html'">
+      <i class="fas fa-eye"></i>
+      <span>Ophthalmology</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5orthopedics.html'">
+      <i class="fas fa-crutch"></i>
+      <span>Orthopedics</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5pathology.html'">
+      <i class="fas fa-dna"></i>
+      <span>Pathology</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5pediatrics.html'">
+      <i class="fas fa-child"></i>
+      <span>Pediatrics</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5pharmacology.html'">
+      <i class="fas fa-pills"></i>
+      <span>Pharmacology</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5physiology.html'">
+      <i class="fas fa-heartbeat"></i>
+      <span>Physiology</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5pschiatry.html'">
+      <i class="fas fa-brain"></i>
+      <span>Psychiatry</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5psm.html'">
+      <i class="fas fa-users"></i>
+      <span>PSM (Community Medicine)</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5radiology.html'">
+      <i class="fas fa-x-ray"></i>
+      <span>Radiology</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5rapidrevision.html'">
+      <i class="fas fa-bolt"></i>
+      <span>Rapid Revision</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='p5surgery.html'">
+      <i class="fas fa-scalpel"></i>
+      <span>Surgery</span>
+    </div>
+  </main>
+  
+<nav class="bottom-nav">
+  <a href="../../app.html" class="active"><i class="fas fa-lightbulb"></i><span>Home</span></a>
+  <a href="../../platforms.html"><i class="fas fa-play-circle"></i><span>Videos</span></a>
+  <a href="../../search.html"><i class="fas fa-search"></i><span>Search</span></a>
+  <a href="../../quiz/index.html"><i class="fas fa-question-circle"></i><span>Q Bank</span></a>
+</nav>
+
+  <script>
+    document.getElementById('searchInput').addEventListener('input', function(e) {
+      const query = e.target.value.toLowerCase();
+      const subjects = document.querySelectorAll('.subject-card');
+      subjects.forEach(subject => {
+        const text = subject.textContent.toLowerCase();
+        subject.style.display = text.includes(query) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>

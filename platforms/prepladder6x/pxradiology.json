@@ -1,0 +1,109 @@
+{
+  "subjectName": "pxradiology",
+  "lectures": [
+    {
+      "title": "1. Basics of X Ray, Fluoroscopy and Mammography.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19806/1.+Basics+of+X+Ray%2C+Fluoroscopy+and+Mammography.mp4?hash=AgADjx"
+    },
+    {
+      "title": "2. Basics of CT.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19807/2.+Basics+of+CT.mp4?hash=AgADkh"
+    },
+    {
+      "title": "3. Basics of USG.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19808/3.+Basics+of+USG.mp4?hash=AgADlh"
+    },
+    {
+      "title": "4. Angiography.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19809/4.+Angiography.mp4?hash=AgAD_x"
+    },
+    {
+      "title": "5. Basics of MRI.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19810/5.+Basics+of+MRI.mp4?hash=AgADmx"
+    },
+    {
+      "title": "6. Interventional Radiology.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19811/6.+Interventional+Radiology.mp4?hash=AgADnh"
+    },
+    {
+      "title": "7. Radiation Units , Protection , Dose Limits and Hazards.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19812/7.+Radiation+Units+%2C+Protection+%2C+Dose+Limits+and+Hazards.mp4?hash=AgADoB"
+    },
+    {
+      "title": "8. Contrast Media.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19813/8.+Contrast+Media.mp4?hash=AgADox"
+    },
+    {
+      "title": "9. Respiratory Radiology.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19814/9.+Respiratory+Radiology.mp4?hash=AgADph"
+    },
+    {
+      "title": "10. Cardiovascular Radiology.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19815/10.+Cardiovascular+Radiology.mp4?hash=AgADqh"
+    },
+    {
+      "title": "11. Neuroradiology Part 1.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19816/11.+Neuroradiology+Part+1.mp4?hash=AgADrR"
+    },
+    {
+      "title": "12. Neuroradiology Part 2.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/19817/12.+Neuroradiology+Part+2.mp4?hash=AgADrx"
+    },
+    {
+      "title": "13. Neuroradiology Part 3.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/19818/13.+Neuroradiology+Part+3.mp4?hash=AgADsx"
+    },
+    {
+      "title": "14. Head & Neck Radiology.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/19819/14.+Head+%26+Neck+Radiology.mp4?hash=AgADoh"
+    },
+    {
+      "title": "15. Bipolar Disorders.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/19820/15.+Bipolar+Disorders.mp4?hash=AgADhB"
+    },
+    {
+      "title": "16. Obsessive compulsive and related disorders.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19821/16.+Obsessive+compulsive+and+related+disorders.mp4?hash=AgADhR"
+    },
+    {
+      "title": "17. Personality Disorders.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19822/17.+Personality+Disorders.mp4?hash=AgADiR"
+    },
+    {
+      "title": "18. Forensic Psychiatry.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19823/18.+Forensic+Psychiatry.mp4?hash=AgADih"
+    },
+    {
+      "title": "19. Psychology.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19824/19.+Psychology.mp4?hash=AgADph"
+    },
+    {
+      "title": "20. Brain Stimulation and Psychotherapies.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19825/20.+Brain+Stimulation+and+Psychotherapies.mp4?hash=AgADqB"
+    },
+    {
+      "title": "21. Breast Imaging and Testicular Imaging.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19826/21.+Breast+Imaging+and+Testicular+Imaging.mp4?hash=AgADvR"
+    },
+    {
+      "title": "22. Musculoskeletal Radiology Part 1.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19827/22.+Musculoskeletal+Radiology+Part+1.mp4?hash=AgADvx"
+    },
+    {
+      "title": "23. Musculoskeletal Radiology Part 2.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19828/23.+Musculoskeletal+Radiology+Part+2.mp4?hash=AgADwB"
+    },
+    {
+      "title": "24. Nuclear Medicine.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19829/24.+Nuclear+Medicine.mp4?hash=AgADxR"
+    },
+    {
+      "title": "25. Radiotherapy.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19830/25.+Radiotherapy.mp4?hash=AgADzB"
+    },
+    {
+      "title": "26. MRI, CT Scan & Ultra Sound.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19831/26.+MRI%2C+CT+Scan+%26+Ultra+Sound.mp4?hash=AgADzh"
+    }
+  ]
+}

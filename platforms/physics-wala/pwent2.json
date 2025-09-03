@@ -1,0 +1,405 @@
+{
+  "subjectName": "pwent2",
+  "lectures": [
+    {
+      "title": "Anatomy_of_External_Ear.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/20919/Anatomy_of_External_Ear.mp4?hash=AgADzo"
+    },
+    {
+      "title": "Approach_To_A_Deaf_Child.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/20920/Approach_To_A_Deaf_Child.mp4?hash=AgAD4o"
+    },
+    {
+      "title": "Anatomy_of_Middle_Ear.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/20921/Anatomy_of_Middle_Ear.mp4?hash=AgAD-4"
+    },
+    {
+      "title": "Tympanic_Membrane.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/20922/Tympanic_Membrane.mp4?hash=AgADCY"
+    },
+    {
+      "title": "Anatomy_of_Inner_Ear.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/20923/Anatomy_of_Inner_Ear.mp4?hash=AgADGI"
+    },
+    {
+      "title": "Physiology_Of_Hearing.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/20924/Physiology_Of_Hearing.mp4?hash=AgADKI"
+    },
+    {
+      "title": "Physiology_of_Equilibrium.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/20925/Physiology_of_Equilibrium.mp4?hash=AgADTY"
+    },
+    {
+      "title": "Pure_Tone_Audiometry.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/20926/Pure_Tone_Audiometry.mp4?hash=AgADWo"
+    },
+    {
+      "title": "Impedance_Audiometry_and_Oae.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/20927/Impedance_Audiometry_and_Oae.mp4?hash=AgADX4"
+    },
+    {
+      "title": "Bera.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/20928/Bera.mp4?hash=AgADZ4"
+    },
+    {
+      "title": "Malignant_Otitis_Externa.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/20929/Malignant_Otitis_Externa.mp4?hash=AgADco"
+    },
+    {
+      "title": "Diseases_of_Pinna.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/20930/Diseases_of_Pinna.mp4?hash=AgADno"
+    },
+    {
+      "title": "Conditions_Of_External_Auditory Canal.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/20931/Conditions_Of_External_Auditory+Canal.mp4?hash=AgADy4"
+    },
+    {
+      "title": "Anatomy_of_Eustachian_tube_and_ET function tests.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/20932/Anatomy_of_Eustachian_tube_and_ET+function+tests.mp4?hash=AgAD6Y"
+    },
+    {
+      "title": "Ototoxicity.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/20933/Ototoxicity.mp4?hash=AgAD-I"
+    },
+    {
+      "title": "Otitis_Media_with_Effusion.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/20934/Otitis_Media_with_Effusion.mp4?hash=AgADHo"
+    },
+    {
+      "title": "Acute_Otitis_Media.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/20935/Acute_Otitis_Media.mp4?hash=AgADLo"
+    },
+    {
+      "title": "Sudden_Sensorineural_Hearing_Loss.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/20936/Sudden_Sensorineural_Hearing_Loss.mp4?hash=AgADNo"
+    },
+    {
+      "title": "Presbycusis_and noise trauma.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/20937/Presbycusis_and+noise+trauma.mp4?hash=AgADPY"
+    },
+    {
+      "title": "Chronic_Otitis_Media_Tubotympanic_Type.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/20938/Chronic_Otitis_Media_Tubotympanic_Type.mp4?hash=AgADQI"
+    },
+    {
+      "title": "Chronic_Otitis_Media_Atticoantral_Disease.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/20939/Chronic_Otitis_Media_Atticoantral_Disease.mp4?hash=AgADQo"
+    },
+    {
+      "title": "Complications_of_Chronic_Otitis_Media_Introduction.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/20940/Complications_of_Chronic_Otitis_Media_Introduction.mp4?hash=AgADRI"
+    },
+    {
+      "title": "Mastoiditis.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/20941/Mastoiditis.mp4?hash=AgADSo"
+    },
+    {
+      "title": "Lateral_Sinus_Thrombophlebitis_And_Petrositis.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/20942/Lateral_Sinus_Thrombophlebitis_And_Petrositis.mp4?hash=AgADT4"
+    },
+    {
+      "title": "Meniere's_Disease_Pathophysiology_and_Clinical_Features.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/20943/Meniere%27s_Disease_Pathophysiology_and_Clinical_Features.mp4?hash=AgADWY"
+    },
+    {
+      "title": "Meniere's_Disease_Management.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/20944/Meniere%27s_Disease_Management.mp4?hash=AgADWo"
+    },
+    {
+      "title": "Otosclerosis.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/20945/Otosclerosis.mp4?hash=AgADYo"
+    },
+    {
+      "title": "Otalgia.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/20946/Otalgia.mp4?hash=AgADZY"
+    },
+    {
+      "title": "Hearing_Aids.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/20947/Hearing_Aids.mp4?hash=AgADZo"
+    },
+    {
+      "title": "Vestibular_Schwannoma.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/20948/Vestibular_Schwannoma.mp4?hash=AgADaY"
+    },
+    {
+      "title": "Anatomy_Of_Facial_Nerve.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/20949/Anatomy_Of_Facial_Nerve.mp4?hash=AgADbY"
+    },
+    {
+      "title": "Facial_Palsy.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/20950/Facial_Palsy.mp4?hash=AgADbo"
+    },
+    {
+      "title": "Facial_Nerve_Function_Tests.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/20951/Facial_Nerve_Function_Tests.mp4?hash=AgADb4"
+    },
+    {
+      "title": "Cochlear_Implant.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/20952/Cochlear_Implant.mp4?hash=AgADcI"
+    },
+    {
+      "title": "BPPV.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/20953/BPPV.mp4?hash=AgADcY"
+    },
+    {
+      "title": "Caloric_Tests_For_Vestibular_Function.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/20954/Caloric_Tests_For_Vestibular_Function.mp4?hash=AgADc4"
+    },
+    {
+      "title": "Myringotomy.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/20955/Myringotomy.mp4?hash=AgADd4"
+    },
+    {
+      "title": "Cortical_Mastoidectomy.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/20956/Cortical_Mastoidectomy.mp4?hash=AgADfo"
+    },
+    {
+      "title": "Myringoplasty.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/20957/Myringoplasty.mp4?hash=AgADf4"
+    },
+    {
+      "title": "Anatomy_of_Nasal_Septum.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/20958/Anatomy_of_Nasal_Septum.mp4?hash=AgADgI"
+    },
+    {
+      "title": "Deviated_Nasal_Septum.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/20959/Deviated_Nasal_Septum.mp4?hash=AgADhI"
+    },
+    {
+      "title": "Anatomy_Of_Lateral_Wall_Of_Nose.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/20960/Anatomy_Of_Lateral_Wall_Of_Nose.mp4?hash=AgADiI"
+    },
+    {
+      "title": "Physiology_of_Olfaction.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/20961/Physiology_of_Olfaction.mp4?hash=AgADi4"
+    },
+    {
+      "title": "Anatomy_of_External_Nose.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/20962/Anatomy_of_External_Nose.mp4?hash=AgADjo"
+    },
+    {
+      "title": "Diagnostic_Nasal_Endoscopy.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/20963/Diagnostic_Nasal_Endoscopy.mp4?hash=AgADkY"
+    },
+    {
+      "title": "Allergic_And_Vasomotor_Rhinitis.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/20964/Allergic_And_Vasomotor_Rhinitis.mp4?hash=AgADlY"
+    },
+    {
+      "title": "Atrophic_Rhinitis.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/20965/Atrophic_Rhinitis.mp4?hash=AgADnI"
+    },
+    {
+      "title": "Acute_Sinusitis.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/20966/Acute_Sinusitis.mp4?hash=AgADoo"
+    },
+    {
+      "title": "Complications_of_Rhinosinusitis.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/20967/Complications_of_Rhinosinusitis.mp4?hash=AgADpY"
+    },
+    {
+      "title": "Nasal_Polyps.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/20968/Nasal_Polyps.mp4?hash=AgADqI"
+    },
+    {
+      "title": "Fungal_Rhinosinusitis.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/20969/Fungal_Rhinosinusitis.mp4?hash=AgADqY"
+    },
+    {
+      "title": "Epistaxis_Introduction.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/20970/Epistaxis_Introduction.mp4?hash=AgADqo"
+    },
+    {
+      "title": "Epistaxis_Management.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/20971/Epistaxis_Management.mp4?hash=AgADrI"
+    },
+    {
+      "title": "CSF_Rhinorrhea.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/20972/CSF_Rhinorrhea.mp4?hash=AgADr4"
+    },
+    {
+      "title": "Juvenile_Nasopharyngeal_Angiofibroma.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/20973/Juvenile_Nasopharyngeal_Angiofibroma.mp4?hash=AgADsI"
+    },
+    {
+      "title": "Adenoids.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/20974/Adenoids.mp4?hash=AgADsY"
+    },
+    {
+      "title": "Rhinosporidiosis.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/20975/Rhinosporidiosis.mp4?hash=AgADso"
+    },
+    {
+      "title": "Rhinoscleroma.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/20976/Rhinoscleroma.mp4?hash=AgADs4"
+    },
+    {
+      "title": "Nasopharyngeal_Carcinoma.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/20977/Nasopharyngeal_Carcinoma.mp4?hash=AgADt4"
+    },
+    {
+      "title": "Foreign_Body_Nose_and_Rhinolith.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/20978/Foreign_Body_Nose_and_Rhinolith.mp4?hash=AgADuY"
+    },
+    {
+      "title": "Choanal_Atresia.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/20979/Choanal_Atresia.mp4?hash=AgADvY"
+    },
+    {
+      "title": "Inverted_papilloma.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/20980/Inverted_papilloma.mp4?hash=AgADxI"
+    },
+    {
+      "title": "Septal_Surgeries.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/20981/Septal_Surgeries.mp4?hash=AgADxY"
+    },
+    {
+      "title": "FESS.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/20982/FESS.mp4?hash=AgADx4"
+    },
+    {
+      "title": "Anatomy_of_Larynx_Membranes_And_Cartilages.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/20983/Anatomy_of_Larynx_Membranes_And_Cartilages.mp4?hash=AgAD1o"
+    },
+    {
+      "title": "Muscles_And_Supply_of_Larynx.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/20984/Muscles_And_Supply_of_Larynx.mp4?hash=AgAD34"
+    },
+    {
+      "title": "Laryngomalacia.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/20985/Laryngomalacia.mp4?hash=AgAD4o"
+    },
+    {
+      "title": "Subglottic_Stenosis.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/20986/Subglottic_Stenosis.mp4?hash=AgAD5Y"
+    },
+    {
+      "title": "Approach_To_Stridor.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/20987/Approach_To_Stridor.mp4?hash=AgAD5o"
+    },
+    {
+      "title": "Vocal_Nodule_and_Polyp.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/20988/Vocal_Nodule_and_Polyp.mp4?hash=AgAD7o"
+    },
+    {
+      "title": "Reinkes_Edema.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/20989/Reinkes_Edema.mp4?hash=AgAD8Y"
+    },
+    {
+      "title": "Laryngocele.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/20990/Laryngocele.mp4?hash=AgAD84"
+    },
+    {
+      "title": "Malignancy_of_Larynx.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/20991/Malignancy_of_Larynx.mp4?hash=AgAD9Y"
+    },
+    {
+      "title": "Vocal_Paralysis.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/20992/Vocal_Paralysis.mp4?hash=AgAD-o"
+    },
+    {
+      "title": "Tracheostomy.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/20993/Tracheostomy.mp4?hash=AgAEgw"
+    },
+    {
+      "title": "Acute_laryngitis.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/20994/Acute_laryngitis.mp4?hash=AgADAo"
+    },
+    {
+      "title": "Anatomy_of_Oral_Cavity.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/20995/Anatomy_of_Oral_Cavity.mp4?hash=AgADCo"
+    },
+    {
+      "title": "Premalignant_Lesions_of_Oral_Cavity.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/20996/Premalignant_Lesions_of_Oral_Cavity.mp4?hash=AgADGI"
+    },
+    {
+      "title": "Pharyngeal_Pouch.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/20997/Pharyngeal_Pouch.mp4?hash=AgADGo"
+    },
+    {
+      "title": "Tonsil_Anatomy.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/20998/Tonsil_Anatomy.mp4?hash=AgADII"
+    },
+    {
+      "title": "Acute_&_Chronic_Tonsillitis.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/20999/Acute_%26_Chronic_Tonsillitis.mp4?hash=AgADI4"
+    },
+    {
+      "title": "Tonsillectomy.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/21000/Tonsillectomy.mp4?hash=AgADMY"
+    },
+    {
+      "title": "Adenoidectomy.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/21001/Adenoidectomy.mp4?hash=AgADN4"
+    },
+    {
+      "title": "Retropharyngeal_&_Parapharyngeal_Abscess.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/21002/Retropharyngeal_%26_Parapharyngeal_Abscess.mp4?hash=AgADP4"
+    },
+    {
+      "title": "Ludwig's_Angina_&_Peritonsillar_Abscess.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/21003/Ludwig%27s_Angina_%26_Peritonsillar_Abscess.mp4?hash=AgADQY"
+    },
+    {
+      "title": "Oral_Cavity_Malignancy.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/21004/Oral_Cavity_Malignancy.mp4?hash=AgADiX"
+    },
+    {
+      "title": "Foreign_Body_in_the_Airway.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/21005/Foreign_Body_in_the_Airway.mp4?hash=AgADi3"
+    },
+    {
+      "title": "Foreign_Body_Oesophagus.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/21006/Foreign_Body_Oesophagus.mp4?hash=AgADkX"
+    },
+    {
+      "title": "Salivary_Gland_Tumours.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/21007/Salivary_Gland_Tumours.mp4?hash=AgADln"
+    },
+    {
+      "title": "Anatomy_of_Ear_&_Tests_of_Hearing.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/21008/Anatomy_of_Ear_%26_Tests_of_Hearing.mp4?hash=AgADoX"
+    },
+    {
+      "title": "Diseases_of_External_Ear_&_Otalgia.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/21009/Diseases_of_External_Ear_%26_Otalgia.mp4?hash=AgADpH"
+    },
+    {
+      "title": "Otitis_Media_with_Effusion_&_Acute_Suppurative_Otitis_Media.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/21010/Otitis_Media_with_Effusion_%26_Acute_Suppurative_Otitis_Media.mp4?hash=AgADqX"
+    },
+    {
+      "title": "Chronic_Suppurative_Otitis_Media_&_Its_Complications.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/21011/Chronic_Suppurative_Otitis_Media_%26_Its_Complications.mp4?hash=AgADrn"
+    },
+    {
+      "title": "Otosclerosis_&_Meniere's_Disease.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/21012/Otosclerosis_%26_Meniere%27s_Disease.mp4?hash=AgADt3"
+    },
+    {
+      "title": "Facial_Nerve_&_Its_Disorders.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/21013/Facial_Nerve_%26_Its_Disorders.mp4?hash=AgADwX"
+    },
+    {
+      "title": "Hearing_Loss_&_Rehabilitation.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/21014/Hearing_Loss_%26_Rehabilitation.mp4?hash=AgAD0X"
+    },
+    {
+      "title": "Vestibular_Schwannoma_&_Glomus_Tumours.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/21015/Vestibular_Schwannoma_%26_Glomus_Tumours.mp4?hash=AgAD3H"
+    },
+    {
+      "title": "Anatomy_&_Diseases_of_External_Nose_&_Congenital_Nasal_Anomalies.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/21016/Anatomy_%26_Diseases_of_External_Nose_%26_Congenital_Nasal_Anomalies.mp4?hash=AgAD33"
+    },
+    {
+      "title": "Diseases_of_Nasal_Septum_&_Epistaxis.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/21017/Diseases_of_Nasal_Septum_%26_Epistaxis.mp4?hash=AgAD6H"
+    },
+    {
+      "title": "Anatomy_Lateral_Wall_of_Nose_&_Fess.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/21018/Anatomy_Lateral_Wall_of_Nose_%26_Fess.mp4?hash=AgAD73"
+    }
+  ]
+}

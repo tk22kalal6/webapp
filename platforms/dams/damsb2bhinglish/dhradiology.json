@@ -1,0 +1,49 @@
+{
+  "subjectName": "Damsb2Bhinglish",
+  "lectures": [
+    {
+      "title": "1.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16808/1.mp4?hash=AgADqB"
+    },
+    {
+      "title": "2.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16809/2.mp4?hash=AgADrh"
+    },
+    {
+      "title": "3.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16810/3.mp4?hash=AgADtR"
+    },
+    {
+      "title": "4.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16811/4.mp4?hash=AgADux"
+    },
+    {
+      "title": "5.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16812/5.mp4?hash=AgADwB"
+    },
+    {
+      "title": "6.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16813/6.mp4?hash=AgADwh"
+    },
+    {
+      "title": "7.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16814/7.mp4?hash=AgADxR"
+    },
+    {
+      "title": "8.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16815/8.mp4?hash=AgADyB"
+    },
+    {
+      "title": "9.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16816/9.mp4?hash=AgADyh"
+    },
+    {
+      "title": "10.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16817/10.mp4?hash=AgADzR"
+    },
+    {
+      "title": "11.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16818/11.mp4?hash=AgADzh"
+    }
+  ]
+}

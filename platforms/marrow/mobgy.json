@@ -1,0 +1,441 @@
+{
+  "subjectName": "Marrow",
+  "lectures": [
+    {
+      "title": "1. How to study Obg",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4392/Introduction+Obgy.mp4?hash=AgADqT"
+    },
+    {
+      "title": "2 Gametogenesis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4393/2+Gametogenesis?hash=AgADQg"
+    },
+    {
+      "title": "3 Fertilisation and Implantation",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4394/3+Fertilisation+and+Implantation?hash=AgADQw"
+    },
+    {
+      "title": "4. Teratogenic exposure of conceptus",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4395/Tetratogenic+Exposure+of+Conceptus.mp4?hash=AgADbk"
+    },
+    {
+      "title": "5 fetus",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4396/5+FETUS.mp4?hash=AgAD3w"
+    },
+    {
+      "title": "6. Placenta",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4397/Placenta.mp4?hash=AgADxD"
+    },
+    {
+      "title": "7. Placental Functions",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4398/Placental+Function.mp4?hash=AgADxz"
+    },
+    {
+      "title": "8. Placental anomalies",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4399/Placenta+Anomalies.mp4?hash=AgADwj"
+    },
+    {
+      "title": "9 Cord and Anomalies",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4400/9+Cord+and+Anomalies?hash=AgADUQ"
+    },
+    {
+      "title": "10 amnitic fluid",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4401/10+AMNIOTIC+FLUID+DISORDER+PART+1.mp4?hash=AgAD4A"
+    },
+    {
+      "title": "11 amniotic fluid",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4402/11AMNIOTIC+FLUID+DISORDER.mp4?hash=AgAD4Q"
+    },
+    {
+      "title": "12 Antenatal patients - History",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4403/12+ANTENATAL+PATIENT+HISTORU.mp4?hash=AgAD1w"
+    },
+    {
+      "title": "13 Antenatal patients - Signs, Symptoms and Minor ailments",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4404/13+ANTENATAL+PATIENT+SIGN+AND+NSYMPTOMS.mp4?hash=AgAD3A"
+    },
+    {
+      "title": "14 Antenatal patient - Investigations and Advice",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4405/14+ANC+INVEST+AND+ADVICE.mp4?hash=AgAD3g"
+    },
+    {
+      "title": "15 aneuploid",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4406/15+ANEUPLIOD+TEST.mp4?hash=AgAD1A"
+    },
+    {
+      "title": "16 fetal monitoring",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4407/16+FETAL+MONITORING.mp4?hash=AgAD1Q"
+    },
+    {
+      "title": "17. Maternal adaptation in pregnancy",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4408/Maternal+Adaptation+in+Pregnancy.mp4?hash=AgADtj"
+    },
+    {
+      "title": "18 Obstetrics Pharmacology Integration",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4409/Obs+Pharmacology+integration.mp4?hash=AgADuT"
+    },
+    {
+      "title": "19. Obstetrics Radiology Integration Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4410/Obs+Radiology+Integration+Part+1.mp4?hash=AgADvT"
+    },
+    {
+      "title": "20. Obstetrics Radiology Integration part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4411/Obs+Radiology+Integration+Part+2.mp4?hash=AgADvj"
+    },
+    {
+      "title": "21. Obstetrics Medicine Integration",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4412/Obs+Medicine+Integration.mp4?hash=AgADuD"
+    },
+    {
+      "title": "22 anemia 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4413/22+ANEMIA+part+1.mp4?hash=AgADoR"
+    },
+    {
+      "title": "23 Anemia in pregnancy: Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4414/45_watermarked.mp4?hash=AgAD1x"
+    },
+    {
+      "title": "24 Diabetes in pregnancy. Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4415/46_watermarked.mp4?hash=AgAD2B"
+    },
+    {
+      "title": "25 Diabetes in pregnancy. Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4416/48_watermarked.mp4?hash=AgAD2x"
+    },
+    {
+      "title": "26 Hypertension in pregnancy. Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4417/51_watermarked.mp4?hash=AgAD4B"
+    },
+    {
+      "title": "27 Hypertension in pregnancy: Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4418/53_watermarked.mp4?hash=AgAD4x"
+    },
+    {
+      "title": "28. IUGR",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4419/IUGR.mp4?hash=AgADqz"
+    },
+    {
+      "title": "29 HIV in pregnancy",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4420/57_watermarked.mp4?hash=AgAD6B"
+    },
+    {
+      "title": "30 RH negative Pregnancy",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4421/Rh+Negative++Pregnancy.mp4?hash=AgADWU"
+    },
+    {
+      "title": "31 Twin Pregnancy part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4422/Twin+Pregnancy+Part+1.mp4?hash=AgADe0"
+    },
+    {
+      "title": "32 Twin Pregnancy Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4423/Twin+Pregnancy+Part+2.mp4?hash=AgADjU"
+    },
+    {
+      "title": "33 Preterm Labor part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4424/Preterm+Labour+Part+1.mp4?hash=AgADyT"
+    },
+    {
+      "title": "34 Preterm labor part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4425/Preterm+Labour+Part+2.mp4?hash=AgADyz"
+    },
+    {
+      "title": "35. PROM",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4426/PROM.mp4?hash=AgADzD"
+    },
+    {
+      "title": "36 Abortion: Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4427/71_watermarked.mp4?hash=AgAD9h"
+    },
+    {
+      "title": "37 Abortion: Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4428/72_watermarked.mp4?hash=AgAD9x"
+    },
+    {
+      "title": "38 Ectopic pregnancy. Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4429/74_watermarked.mp4?hash=AgAD-h"
+    },
+    {
+      "title": "39 Ectopic pregnancy. Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4430/77_watermarked.mp4?hash=AgAD_R"
+    },
+    {
+      "title": "40 Gestational trophoblastic disease",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4431/79_watermarked.mp4?hash=AgADAR"
+    },
+    {
+      "title": "41 Antepartum haemorrhage",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4432/81_watermarked.mp4?hash=AgADAx"
+    },
+    {
+      "title": "42 Placenta accreta spectrum",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4433/82_watermarked.mp4?hash=AgADBB"
+    },
+    {
+      "title": "43 Maternal pelvis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4434/85_watermarked.mp4?hash=AgADCx"
+    },
+    {
+      "title": "44 Fetal skull",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4435/87_watermarked.mp4?hash=AgADEB"
+    },
+    {
+      "title": "45 Terminology related to labor",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4436/89_watermarked.mp4?hash=AgADEx"
+    },
+    {
+      "title": "46. Leopold Maneuver and antenatal examination",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4437/90_watermarked.mp4?hash=AgADZT"
+    },
+    {
+      "title": "47. Mechanism of labor",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4438/93_watermarked.mp4?hash=AgADhj"
+    },
+    {
+      "title": "48 Normal labor",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4439/94_watermarked.mp4?hash=AgADHx"
+    },
+    {
+      "title": "49. Induction of labor",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4440/96_watermarked.mp4?hash=AgADkz"
+    },
+    {
+      "title": "50. Stages of labor, Abnormal labor, Partogram part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4441/98_watermarked.mp4?hash=AgADtT"
+    },
+    {
+      "title": "51 Stages of labor, Abnormal labor and Partogram: Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4442/101_watermarked.mp4?hash=AgADKB"
+    },
+    {
+      "title": "52 Complications of third stage of labor - PPH",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4443/103_watermarked.mp4?hash=AgADNh"
+    },
+    {
+      "title": "53. Other complications of third stage of labor",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4444/Other+complication+of+third+Stage+of+Labour.mp4?hash=AgADwD"
+    },
+    {
+      "title": "54. Malpresentation part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4445/Malpresentation+Part+1.mp4?hash=AgADsT"
+    },
+    {
+      "title": "55. Malpresentation part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4446/Malpresentation+Part+2.mp4?hash=AgADsz"
+    },
+    {
+      "title": "56. Instrumental delivery",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4447/Instrumental+delivery.mp4?hash=AgADpz"
+    },
+    {
+      "title": "57 Cesarean section",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4448/109_watermarked.mp4?hash=AgADPh"
+    },
+    {
+      "title": "59. Menstrual Cycle",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4449/Menstrutal+Cycle+1.mp4?hash=AgADqA"
+    },
+    {
+      "title": "60. Atypical Uterine bleeding part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4450/Atypical+Uterine+Bleeding+Part+1.mp4?hash=AgADpg"
+    },
+    {
+      "title": "61. Atypical Uterine bleeding Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4451/Atypical+Uterine+Bleeding+Part+2.mp4?hash=AgADng"
+    },
+    {
+      "title": "62. Dysmenorrhea",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4452/Dysmenorrhea.mp4?hash=AgADjA"
+    },
+    {
+      "title": "63. Gynecology Anatomy Integration part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4453/Gyna+Anatomy+Integration+part+1.mp4?hash=AgADig"
+    },
+    {
+      "title": "64. Gynecology Anatomy Integration Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4454/Gyna+Anatomy+Integration+part+2.mp4?hash=AgADkg"
+    },
+    {
+      "title": "65. Gynecology Anatomy Integration Part 3",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4455/Gyna+Anatomy+Integration+part+3.mp4?hash=AgADoQ"
+    },
+    {
+      "title": "66. Gynecology Anatomy Integration Part 4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4456/Gyna+Anatomy+Integration+part+4.mp4?hash=AgADjQ"
+    },
+    {
+      "title": "67. Gynecology Physiology Integration Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4457/Gyna+Physiology+Integration+part+1.mp4?hash=AgADmg"
+    },
+    {
+      "title": "68. Gynecology Physiology Integration Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4458/Gyn+Physiology+Integration+art+2.mp4?hash=AgADmw"
+    },
+    {
+      "title": "69. Gynecology Pharmacology Integration part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4459/Gynaecology+Pharmacology+integration+Part+1.mp4?hash=AgADoA"
+    },
+    {
+      "title": "70. Gynecology Pharmacology Integration part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4460/Gynaecology+Pharmacology+integration+Part+2.mp4?hash=AgADrA"
+    },
+    {
+      "title": "71. Gynecology Pharmacology Integration part 3",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4461/Gynaecology+Pharmacology+integration+Part+3.mp4?hash=AgADnA"
+    },
+    {
+      "title": "72. Gynecology Pathology integration part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4462/Gynecology+Pathology+integration+part+1.mp4?hash=AgADog"
+    },
+    {
+      "title": "73. Gynecology Pathology Integration part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4463/Gynecology+Pathology+integration+part+2.mp4?hash=AgADow"
+    },
+    {
+      "title": "74. Menopause",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4464/Menopause.mp4?hash=AgADpQ"
+    },
+    {
+      "title": "75. Pcos part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4465/PCOS+1.mp4?hash=AgADqw"
+    },
+    {
+      "title": "76. PCOS PART 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4466/PCOS+Part+2.mp4?hash=AgADqQ"
+    },
+    {
+      "title": "77. Endometrosis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4467/Endometriosis.mp4?hash=AgADrQ"
+    },
+    {
+      "title": "78. Fibroid Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4468/Fibroid+Part+1.mp4?hash=AgADlg"
+    },
+    {
+      "title": "79. Fibroid part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4469/Fibroid+Part+2.mp4?hash=AgADsQ"
+    },
+    {
+      "title": "80. Polyp and adenomyosis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4470/Polyp+and+Adenomyosis.mp4?hash=AgADpA"
+    },
+    {
+      "title": "81. Congenital Malformations of uterus",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4471/Congenital+malformation+in+Uterus.mp4?hash=AgADmQ"
+    },
+    {
+      "title": "82. Prolapse",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4472/Prolapse.mp4?hash=AgADrg"
+    },
+    {
+      "title": "83. Stress urinary incontinence",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4473/Stress+Urine+Incontence.mp4?hash=AgADiw"
+    },
+    {
+      "title": "84. Urinary Fistulas",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4474/Urinary+Fistula.mp4?hash=AgADjg"
+    },
+    {
+      "title": "85. Normal sexual development",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4475/Normal+Sexual+Deveploment.mp4?hash=AgADpw"
+    },
+    {
+      "title": "86. Puberty",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4476/Puberty.mp4?hash=AgADkw"
+    },
+    {
+      "title": "87. Disorders of sexual development part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4477/Disorder+of+Sexual+Deveploment+Part+1.mp4?hash=AgADnw"
+    },
+    {
+      "title": "88. Disorders of sexual development part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4478/Disorder+of+Sexual+Deveploment+Part+2.mp4?hash=AgADmA"
+    },
+    {
+      "title": "89. Primary Amenorrhea",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4479/Primary+Ammenorhea.mp4?hash=AgADlw"
+    },
+    {
+      "title": "90. secondary amenorrhea",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4480/Secondary+Ammenorhea.mp4?hash=AgADsA"
+    },
+    {
+      "title": "91. Vaginitis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4481/Vaginitis.mp4?hash=AgADkQ"
+    },
+    {
+      "title": "92. PID",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4482/PID.mp4?hash=AgADkA"
+    },
+    {
+      "title": "93. Genital TB",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4483/Genital+Tuberculosis.mp4?hash=AgADjw"
+    },
+    {
+      "title": "94. Female Infertility",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4484/Female+Infertility+.mp4?hash=AgADrw"
+    },
+    {
+      "title": "95. Male infertility",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4485/Male+Infertility.mp4?hash=AgADnQ"
+    },
+    {
+      "title": "96. Natural Methods of Contraception",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4486/Natural+Method+of+Contraception+.mp4?hash=AgADlA"
+    },
+    {
+      "title": "97. Barrier Methods of contraception",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4487/Barrier+Method+of+Contraception+.mp4?hash=AgADlQ"
+    },
+    {
+      "title": "98 Estrogen and Progesterone contraceptives",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4488/80_watermarked.mp4?hash=AgADAh"
+    },
+    {
+      "title": "99 Only Progesterone contraceptives",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4489/83_watermarked.mp4?hash=AgADBh"
+    },
+    {
+      "title": "100 IUCDS",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4490/84_watermarked.mp4?hash=AgADCB"
+    },
+    {
+      "title": "101 Permanent methods of contraception",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4491/86_watermarked.mp4?hash=AgADDh"
+    },
+    {
+      "title": "102 Miscellaneous contraception",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4492/88_watermarked.mp4?hash=AgADER"
+    },
+    {
+      "title": "103. Endometrial Hyperplasia",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4493/91_watermarked.mp4?hash=AgADcj"
+    },
+    {
+      "title": "104. Endometrial Cancer",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4494/92_watermarked.mp4?hash=AgADez"
+    },
+    {
+      "title": "105. CIN Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4495/95_watermarked.mp4?hash=AgADjD"
+    },
+    {
+      "title": "106. CIN PART 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4496/97_watermarked.mp4?hash=AgADoT"
+    },
+    {
+      "title": "107. Cancer cervix",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4497/99_watermarked.mp4?hash=AgADxT"
+    },
+    {
+      "title": "108 Ovarian cancer. Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4498/100_watermarked.mp4?hash=AgADJx"
+    },
+    {
+      "title": "109 Ovarian cancer. Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4499/102_watermarked.mp4?hash=AgADNR"
+    },
+    {
+      "title": "110 Vulval cancer",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4500/104_watermarked.mp4?hash=AgADNx"
+    }
+  ]
+}

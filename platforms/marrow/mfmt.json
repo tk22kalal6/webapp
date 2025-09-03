@@ -1,0 +1,157 @@
+{
+  "subjectName": "Marrow",
+  "lectures": [
+    {
+      "title": "01: How to approach Forensic Medicine",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4037/01%3A+How+to+approach+Forensic+Medicine?hash=AgADrg"
+    },
+    {
+      "title": "02: Indian Legal System - Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4038/02%3A+Indian+Legal+System+-+Part+1?hash=AgADrw"
+    },
+    {
+      "title": "03: Indian Legal System - Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4039/03%3A+Indian+Legal+System+-+Part+2?hash=AgADsA"
+    },
+    {
+      "title": "04: Medical Law & Ethics",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4040/04%3A+Medical+Law+%26+Ethics?hash=AgADsQ"
+    },
+    {
+      "title": "05: Medical Negligence",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4041/05%3A+Medical+Negligence?hash=AgADsg"
+    },
+    {
+      "title": "06: Consent in Medical Practice",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4042/06%3A+Consent+in+Medical+Practice?hash=AgADtA"
+    },
+    {
+      "title": "07: Mechanical Injuries - Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4043/07%3A+Mechanical+Injuries+-+Part+1?hash=AgADtQ"
+    },
+    {
+      "title": "08: Mechanical Injuries - Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4044/08%3A+Mechanical+Injuries+-+Part+2?hash=AgADtg"
+    },
+    {
+      "title": "09: Regional Injuries",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4045/09%3A+Regional+Injuries?hash=AgADuA"
+    },
+    {
+      "title": "10: Thermal Injuries",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4046/10%3A+Thermal+Injuries?hash=AgADug"
+    },
+    {
+      "title": "11: Proximal Ballistics",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4047/11%3A+Proximal+Ballistics?hash=AgADuw"
+    },
+    {
+      "title": "12: Intermediate & Terminal Ballistics",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4048/12%3A+Intermediate+%26+Terminal+Ballistics?hash=AgADHA"
+    },
+    {
+      "title": "13: Electrical Injuries, Explosion Injuries & Torture methods",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4049/13%3A+Electrical+Injuries%2C+Explosion+Injuries+%26+Torture+methods?hash=AgADjQ"
+    },
+    {
+      "title": "14: Transportation Injuries",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4050/14%3A+Transportation+Injuries?hash=AgADjw"
+    },
+    {
+      "title": "15: Autopsy Procedures",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4051/15%3A+Autopsy+Procedures?hash=AgADkQ"
+    },
+    {
+      "title": "16: Early Postmortem changes",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4052/16%3A+Early+Postmortem+changes?hash=AgADkg"
+    },
+    {
+      "title": "17: Late Postmortem changes",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4053/17%3A+Late+Postmortem+changes?hash=AgADkw"
+    },
+    {
+      "title": "18: Asphyxial Deaths - Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4054/18%3A+Asphyxial+Deaths+-+Part+1?hash=AgADlg"
+    },
+    {
+      "title": "19: Asphyxial Deaths - Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4055/19%3A+Asphyxial+Deaths+-+Part+2?hash=AgADnA"
+    },
+    {
+      "title": "20: Human Identification - Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4056/20%3A+Human+Identification+-+Part+1?hash=AgADnQ"
+    },
+    {
+      "title": "21: Human Identification - Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4057/21%3A+Human+Identification+-+Part+2?hash=AgADog"
+    },
+    {
+      "title": "22: Human Identification - Part 3",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4058/22%3A+Human+Identification+-+Part+3?hash=AgADpA"
+    },
+    {
+      "title": "23: Impotence, Virginity, Delivery & Abortion",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4059/23%3A+Impotence%2C+Virginity%2C+Delivery+%26+Abortion?hash=AgADpw"
+    },
+    {
+      "title": "24: Infant Deaths & Child Abuse",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4060/24%3A+Infant+Deaths+%26+Child+Abuse?hash=AgADqA"
+    },
+    {
+      "title": "25: Sexual Offences",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4061/25%3A+Sexual+Offences?hash=AgADqQ"
+    },
+    {
+      "title": "26: General Toxicology",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4062/26%3A+General+Toxicology?hash=AgADqg"
+    },
+    {
+      "title": "27: Duties of a Doctor in a Case of Poisoning",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4063/27%3A+Duties+of+a+Doctor+in+a+Case+of+Poisoning?hash=AgADrA"
+    },
+    {
+      "title": "28: Corrosive Poisons",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4064/28%3A+Corrosive+Poisons?hash=AgADsA"
+    },
+    {
+      "title": "29: Metallic & Non-Metallic Irritants",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4065/29%3A+Metallic+%26+Non-Metallic+Irritants?hash=AgADzA"
+    },
+    {
+      "title": "30: Animal & Plant Irritants",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4066/30%3A+Animal+%26+Plant+Irritants?hash=AgAD2Q"
+    },
+    {
+      "title": "31: Neurotoxic Poisons [Deliriants]",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4067/31%3A+Neurotoxic+Poisons+%5BDeliriants%5D?hash=AgAD2w"
+    },
+    {
+      "title": "32: Neurotoxic Poisons [Inebriants]",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4068/32%3A+Neurotoxic+Poisons+%5BInebriants%5D?hash=AgAD4w"
+    },
+    {
+      "title": "33: Neurotoxic Poisons [Somniferous & Spinal Poisons]",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4069/33%3A+Neurotoxic+Poisons+%5BSomniferous+%26+Spinal+Poisons%5D?hash=AgADkg"
+    },
+    {
+      "title": "34: Asphyxiants & Cardiac Poisons",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4070/34%3A+Asphyxiants+%26+Cardiac+Poisons?hash=AgADlQ"
+    },
+    {
+      "title": "35: Agricultural Poisons",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4071/35%3A+Agricultural+Poisons?hash=AgADow"
+    },
+    {
+      "title": "36: Forensic Psychiatry",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4072/36%3A+Forensic+Psychiatry?hash=AgADsw"
+    },
+    {
+      "title": "37: Trace Evidence",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4073/37%3A+Trace+Evidence?hash=AgADmA"
+    },
+    {
+      "title": "38: Acts & Legal sections of Importance",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4074/38%3A+Acts+%26+Legal+sections+of+Importance?hash=AgADmw"
+    }
+  ]
+}

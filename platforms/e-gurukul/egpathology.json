@@ -1,0 +1,769 @@
+{
+  "subjectName": "E-Gurukul",
+  "lectures": [
+    {
+      "title": "1. Crispr Cas9 Topic : The Cell as a Unit of Health and Disease Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7974/6450b3dd95d91c441d1964cb.mp4?hash=AgADZB"
+    },
+    {
+      "title": "1. Introduction To Cell Injury Topic : Cell Injury Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7975/6450b3dd95d91c441d1964cc.mp4?hash=AgADZR"
+    },
+    {
+      "title": "2. Hypertrophy & Hyperplasia Topic : Cell Injury Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7976/6450b3dd95d91c441d1964cd.mp4?hash=AgADZh"
+    },
+    {
+      "title": "3. Metaplasia Topic : Cell Injury Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7977/6450b3dd95d91c441d1964ce.mp4?hash=AgADZx"
+    },
+    {
+      "title": "4. Atrophy Topic : Cell Injury Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7978/6450b3dd95d91c441d1964cf.mp4?hash=AgADaB"
+    },
+    {
+      "title": "5. Reversible Injury Topic : Cell Injury Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7979/6450b3c295d91c441d196439.mp4?hash=AgADaR"
+    },
+    {
+      "title": "6. Necrosis Topic : Cell Injury Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7980/6450b3c295d91c441d19643a.mp4?hash=AgADah"
+    },
+    {
+      "title": "7. Apoptosis Topic : Cell Injury Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7981/6450b3c295d91c441d19643b.mp4?hash=AgADax"
+    },
+    {
+      "title": "8. Caspases And Diagnosis of Apoptosis Topic : Cell Injury Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7982/6450b3dd95d91c441d1964d0.mp4?hash=AgADbB"
+    },
+    {
+      "title": "9. Necroptosis & Pyroptosis & Ferroptosis Topic : Cell Injury Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7983/6450b3dd95d91c441d1964d1.mp4?hash=AgADbR"
+    },
+    {
+      "title": "10. Ferroptosis Topic : Cell Injury Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7984/6450b3dd95d91c441d1964d2.mp4?hash=AgADbh"
+    },
+    {
+      "title": "11. Autophagy Topic : Cell Injury Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7985/6450b3c295d91c441d19643f.mp4?hash=AgADbx"
+    },
+    {
+      "title": "12. Free Radicals Topic : Cell Injury Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7986/6450b3c295d91c441d196440.mp4?hash=AgADcB"
+    },
+    {
+      "title": "13. Intracellular Accumulation Topic : Cell Injury Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7987/6450b3c295d91c441d196441.mp4?hash=AgADcR"
+    },
+    {
+      "title": "14. Cell Adaptation Topic : Cell Injury Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7988/6450b3dd95d91c441d1964ea.mp4?hash=AgADch"
+    },
+    {
+      "title": "15. Cellular Ageing Topic : Cell Injury Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7989/6450b3c295d91c441d196442.mp4?hash=AgADcx"
+    },
+    {
+      "title": "1. Vascular Events Of Inflammation Topic : Inflammation Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7990/6450b3c295d91c441d196443.mp4?hash=AgADdR"
+    },
+    {
+      "title": "2. Cellular Events Of Inflammation Topic : Inflammation Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7991/6450b3c295d91c441d196444.mp4?hash=AgADdh"
+    },
+    {
+      "title": "3. O2 Independent Killing Topic : Inflammation Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7992/6450b3dd95d91c441d1964d3.mp4?hash=AgADdx"
+    },
+    {
+      "title": "4. Mediators Of Inflammation Topic : Inflammation Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7993/6450b3c295d91c441d19643c.mp4?hash=AgADeB"
+    },
+    {
+      "title": "5. Morphological Types Of Acute Inflammation Topic : Inflammation Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7994/6450b3c295d91c441d19643d.mp4?hash=AgADex"
+    },
+    {
+      "title": "6. Neutrophil Extracellular Traps Topic : Inflammation Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7995/6450b3c295d91c441d19643e.mp4?hash=AgADfB"
+    },
+    {
+      "title": "7. Fate of Acute Inflammation Topic : Inflammation Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7996/6450b3dd95d91c441d1964d4.mp4?hash=AgADfx"
+    },
+    {
+      "title": "8. Chronic Inflammation Topic : Inflammation Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7997/6450b3c295d91c441d19646c.mp4?hash=AgADgB"
+    },
+    {
+      "title": "9. Defects of Inflammation Topic : Inflammation Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7998/6450b3dd95d91c441d1964d5.mp4?hash=AgADgR"
+    },
+    {
+      "title": "1. Repair & Regeneration Topic : Repair & Regeneration Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/7999/6450b3c295d91c441d196445.mp4?hash=AgADgh"
+    },
+    {
+      "title": "1. Edema & Its Pathogenesis Topic : Hemodynamic Disorders Thromboembolic Disease and Shock Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8000/6450b3c295d91c441d196446.mp4?hash=AgADgx"
+    },
+    {
+      "title": "2. Thrombosis Topic : Hemodynamic Disorders Thromboembolic Disease and Shock Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8001/6450b3c295d91c441d196447.mp4?hash=AgADhB"
+    },
+    {
+      "title": "3. Morphology Of Thrombosis Topic : Hemodynamic Disorders Thromboembolic Disease and Shock Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8002/6450b3c295d91c441d196448.mp4?hash=AgADhR"
+    },
+    {
+      "title": "4. Infarction And Embolism Topic : Hemodynamic Disorders Thromboembolic Disease and Shock Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8003/6450b3c295d91c441d196449.mp4?hash=AgADhx"
+    },
+    {
+      "title": "5. Shock Topic : Hemodynamic Disorders Thromboembolic Disease and Shock Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8004/6450b3c295d91c441d19644a.mp4?hash=AgADiB"
+    },
+    {
+      "title": "1. Mutation Types And Pathogenesis Topic : Genetics Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8005/6450b3c295d91c441d19644b.mp4?hash=AgADih"
+    },
+    {
+      "title": "2. Genetical Syndromes Topic : Genetics Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8006/6450b3c295d91c441d19644c.mp4?hash=AgADix"
+    },
+    {
+      "title": "3. Mendelian Disorders Topic : Genetics Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8007/6450b3c295d91c441d19644d.mp4?hash=AgADjB"
+    },
+    {
+      "title": "4. Non Mendelian Inheritance (Part -1) Topic : Genetics Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8008/6450b3dd95d91c441d1964d6.mp4?hash=AgADjR"
+    },
+    {
+      "title": "5. Non Mendelian Inheritance (Part-2) Topic : Genetics Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8009/6450b3dd95d91c441d1964d7.mp4?hash=AgADjh"
+    },
+    {
+      "title": "6. Diagnosis Of Genetic Disorders Topic : Genetics Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8010/6450b3c295d91c441d19644e.mp4?hash=AgADkB"
+    },
+    {
+      "title": "7. Non Mendelian Inheritance Topic : Genetics Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8011/6450b3dd95d91c441d1964ec.mp4?hash=AgADkx"
+    },
+    {
+      "title": "1. Introduction To Immune System Innate & Adaptive Immunity Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8012/6450b3c295d91c441d19644f.mp4?hash=AgADlR"
+    },
+    {
+      "title": "2. Toll Like Receptors Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8013/6450b3c295d91c441d196450.mp4?hash=AgADlx"
+    },
+    {
+      "title": "3. Natural Killer Cells Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8014/6450b3c295d91c441d196451.mp4?hash=AgADmB"
+    },
+    {
+      "title": "4. Complement System Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8015/6450b3c295d91c441d196452.mp4?hash=AgADmh"
+    },
+    {
+      "title": "5. Adaptive Immunity -B Lymphocytes Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8016/6450b3c295d91c441d196453.mp4?hash=AgADmx"
+    },
+    {
+      "title": "6. Adaptive Immunity -T Lymphocytes Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8017/6450b3c295d91c441d196454.mp4?hash=AgADnB"
+    },
+    {
+      "title": "7. Antigen Presenting Cells & MHC Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8018/6450b3dd95d91c441d1964d8.mp4?hash=AgADnR"
+    },
+    {
+      "title": "8. Types Of T Helper Cells Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8019/6450b3dd95d91c441d1964d9.mp4?hash=AgADnx"
+    },
+    {
+      "title": "9. Hypersensitivity Reactions Type 1 Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8020/6450b3c295d91c441d196455.mp4?hash=AgADoR"
+    },
+    {
+      "title": "10. Hypersensitivity Reactions Type 2 Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8021/6450b3c295d91c441d196456.mp4?hash=AgADox"
+    },
+    {
+      "title": "11. Hypersensitivity Reactions Type 3 & 4 Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8022/6450b3c295d91c441d196457.mp4?hash=AgADpB"
+    },
+    {
+      "title": "12. Graft Rejection & Gvhd Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8023/6450b3c295d91c441d196458.mp4?hash=AgADpR"
+    },
+    {
+      "title": "13. Amyloidosis Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8024/6450b3c295d91c441d196459.mp4?hash=AgADph"
+    },
+    {
+      "title": "14. Mechanism Of Self Tolerance Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8025/6450b3c295d91c441d19645a.mp4?hash=AgADpx"
+    },
+    {
+      "title": "15. Autoimmunity Mechanisms Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8026/6450b3c295d91c441d19645b.mp4?hash=AgADqB"
+    },
+    {
+      "title": "16. Systemic Lupus Erythematosus Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8027/6450b3c295d91c441d19645c.mp4?hash=AgADqR"
+    },
+    {
+      "title": "17. Sjogren’s Syndrome Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8028/6450b3dd95d91c441d196476.mp4?hash=AgADqh"
+    },
+    {
+      "title": "18. Scleroderma, MCTD, Igg4 Related Disease Topic : Diseases of Immune System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8029/6450b3dd95d91c441d1964da.mp4?hash=AgADqx"
+    },
+    {
+      "title": "1. Neoplasia Basics Topic : Neoplasia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8030/6450b3dd95d91c441d1964c1.mp4?hash=AgADrB"
+    },
+    {
+      "title": "2. Cell Checkpoints Inhibitors Topic : Neoplasia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8031/6450b3dd95d91c441d1964db.mp4?hash=AgADrR"
+    },
+    {
+      "title": "3. Hallmarks Of Cancer & Cell Cycle Topic : Neoplasia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8032/6450b3dd95d91c441d1964c2.mp4?hash=AgADrh"
+    },
+    {
+      "title": "4. Protoncogene and Tumor Suppressor Gene Family Topic : Neoplasia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8033/6450b3dd95d91c441d1964dc.mp4?hash=AgADrx"
+    },
+    {
+      "title": "5. P53 Gene Topic : Neoplasia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8034/6450b3dd95d91c441d1964fa.mp4?hash=AgADsB"
+    },
+    {
+      "title": "6. Rb Gene Topic : Neoplasia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8035/6450b3dd95d91c441d1964ca.mp4?hash=AgADsR"
+    },
+    {
+      "title": "7. Other Hallmarks Of Cancer Topic : Neoplasia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8036/6450b3dd95d91c441d1964c3.mp4?hash=AgADsh"
+    },
+    {
+      "title": "8. Metastasis Topic : Neoplasia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8037/6450b3dd95d91c441d1964dd.mp4?hash=AgADsx"
+    },
+    {
+      "title": "9. Oncometabolism Topic : Neoplasia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8038/6450b3dd95d91c441d196475.mp4?hash=AgADtB"
+    },
+    {
+      "title": "10. Clinical Aspects Of Neoplasia Topic : Neoplasia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8039/6450b3dd95d91c441d1964c4.mp4?hash=AgADtR"
+    },
+    {
+      "title": "11. Lab Diagnosis of Cancer Topic : Neoplasia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8040/6450b3dd95d91c441d1964de.mp4?hash=AgADth"
+    },
+    {
+      "title": "1. Tuberculosis Topic : Infectious Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8041/6450b3dd95d91c441d196473.mp4?hash=AgADtx"
+    },
+    {
+      "title": "2. Leprosy Topic : Infectious Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8042/6450b3dd95d91c441d196474.mp4?hash=AgADuh"
+    },
+    {
+      "title": "1. Neuroblastoma Topic : Diseases of Infancy and Childhood Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8043/6450b3dd95d91c441d1964b0.mp4?hash=AgADux"
+    },
+    {
+      "title": "2. Wilms Tumor Topic : Diseases of Infancy and Childhood Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8044/6450b3dd95d91c441d1964b1.mp4?hash=AgADvB"
+    },
+    {
+      "title": "1. Rbcs & Anemia Basics Topic : RBCS and Anemia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8045/6450b3dd95d91c441d1964b2.mp4?hash=AgADvx"
+    },
+    {
+      "title": "2. Anemia Due to Blood Loss Topic : RBCS and Anemia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8046/6450b3dd95d91c441d1964df.mp4?hash=AgADwB"
+    },
+    {
+      "title": "3. Hemolytic Anemia Classification and Examples Topic : RBCS and Anemia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8047/6450b3dd95d91c441d1964e0.mp4?hash=AgADwR"
+    },
+    {
+      "title": "4. Types Of Anemia Topic : RBCS and Anemia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8048/6450b3dd95d91c441d1964e1.mp4?hash=AgADwh"
+    },
+    {
+      "title": "5. Hemolytic Anemia Topic : RBCS and Anemia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8049/6450b3dd95d91c441d1964ed.mp4?hash=AgADwx"
+    },
+    {
+      "title": "6. Sickle Cell Anemia Topic : RBCS and Anemia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8050/6450b3dd95d91c441d1964ee.mp4?hash=AgADxB"
+    },
+    {
+      "title": "7. Iron Deficiency , Anemia Of Chronic Disease & Sideroblastic Anemia Topic : RBCS and Anemia Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8051/6450b3dd95d91c441d1964ef.mp4?hash=AgADxh"
+    },
+    {
+      "title": "1. Basics Of Hematopoesis & Acute Leukemia Topic : WBCS and Its Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8052/6450b3dd95d91c441d1964be.mp4?hash=AgADxx"
+    },
+    {
+      "title": "2. Acute Leukemia, Clinical Features & Classification Topic : WBCS and Its Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8053/6450b3dd95d91c441d1964bf.mp4?hash=AgADyB"
+    },
+    {
+      "title": "3. Acute Leukemia Diagnosis & Prognosis Topic : WBCS and Its Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8054/6450b3dd95d91c441d1964c0.mp4?hash=AgADyR"
+    },
+    {
+      "title": "4. Chronic Myeloproliferative Neoplasms Introduction Topic : WBCS and Its Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8055/6450b3dd95d91c441d1964b9.mp4?hash=AgADyh"
+    },
+    {
+      "title": "5. Chronic Myeloid Leukemia Topic : WBCS and Its Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8056/6450b3dd95d91c441d1964ba.mp4?hash=AgADyx"
+    },
+    {
+      "title": "6. Polycythemia Vera Topic : WBCS and Its Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8057/6450b3dd95d91c441d1964bb.mp4?hash=AgADzh"
+    },
+    {
+      "title": "7. Essential Thrombocythemia Topic : WBCS and Its Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8058/6450b3dd95d91c441d1964bc.mp4?hash=AgADzx"
+    },
+    {
+      "title": "8. Primary Myelofibrosis Topic : WBCS and Its Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8059/6450b3dd95d91c441d1964bd.mp4?hash=AgAD0B"
+    },
+    {
+      "title": "9. Clpn Basics Topic : WBCS and Its Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8060/6450b3dd95d91c441d1964b3.mp4?hash=AgAD0R"
+    },
+    {
+      "title": "10. Non Hodgkins Lymphoma Topic : WBCS and Its Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8061/6450b3dd95d91c441d1964b4.mp4?hash=AgAD0x"
+    },
+    {
+      "title": "11. Plasma Cell Neoplasms Topic : WBCS and Its Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8062/6450b3dd95d91c441d1964b5.mp4?hash=AgAD1B"
+    },
+    {
+      "title": "12. Hodgkins Lymphoma Topic : WBCS and Its Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8063/6450b3dd95d91c441d1964b6.mp4?hash=AgAD1R"
+    },
+    {
+      "title": "1. Bleeding & Platelet Disorders Topic : Bleeding and Coagulation Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8064/6450b3dd95d91c441d1964b7.mp4?hash=AgAD1h"
+    },
+    {
+      "title": "2. Coagulation Pathways and Disorders Topic : Bleeding and Coagulation Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8065/6450b3dd95d91c441d1964b8.mp4?hash=AgAD1x"
+    },
+    {
+      "title": "3. Disseminated Intravascular Coagulation Topic : Bleeding and Coagulation Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8066/6450b3dd95d91c441d1964f0.mp4?hash=AgAD2B"
+    },
+    {
+      "title": "1. Normal Anatomy & Physiology Topic : Vessels Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8067/6450b3dd95d91c441d1964e2.mp4?hash=AgAD2R"
+    },
+    {
+      "title": "2. Normal Vessel, Hypertensive Changes, Sclerosis Topic : Vessels Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8068/6450b3dd95d91c441d1964e3.mp4?hash=AgAD2h"
+    },
+    {
+      "title": "3. Atherosclerosis Topic : Vessels Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8069/6450b3dd95d91c441d1964e4.mp4?hash=AgAD2x"
+    },
+    {
+      "title": "4. Aneurysm Topic : Vessels Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8070/6450b3dd95d91c441d1964a2.mp4?hash=AgAD3B"
+    },
+    {
+      "title": "5. Vasculitis Topic : Vessels Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8071/6450b3dd95d91c441d1964a3.mp4?hash=AgAD3R"
+    },
+    {
+      "title": "6. Vascular Tumor Topic : Vessels Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8072/6450b3dd95d91c441d1964a4.mp4?hash=AgAD3h"
+    },
+    {
+      "title": "7. Vascular Sclerosis And Atherosclerosis Topic : Vessels Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8073/6450b3dd95d91c441d1964f1.mp4?hash=AgAD4B"
+    },
+    {
+      "title": "1. Ischemic Heart Disease Topic : Heart Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8074/6450b3dd95d91c441d1964a5.mp4?hash=AgAD4h"
+    },
+    {
+      "title": "2. Rheumatic Heart Disease Topic : Heart Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8075/6450b3dd95d91c441d1964a6.mp4?hash=AgAD4x"
+    },
+    {
+      "title": "3. Infective Endocarditis Topic : Heart Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8076/6450b3dd95d91c441d1964a7.mp4?hash=AgAD5B"
+    },
+    {
+      "title": "4. Nonbacterial Thrombotic Endocarditis & Libman Sacks Endocarditis Topic : Heart Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8077/6450b3dd95d91c441d1964a8.mp4?hash=AgAD5R"
+    },
+    {
+      "title": "5. Hypertrophic Cardiomyopathy Topic : Heart Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8078/6450b3dd95d91c441d1964a9.mp4?hash=AgAD5h"
+    },
+    {
+      "title": "6. Tumors of Heart Topic : Heart Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8079/6450b3dd95d91c441d196472.mp4?hash=AgAD5x"
+    },
+    {
+      "title": "1. Lung Basics And Congenital Anomalies Of Lungs Topic : Lungs Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8080/6450b3dd95d91c441d196498.mp4?hash=AgAD6B"
+    },
+    {
+      "title": "2. Atelectasis Topic : Lungs Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8081/6450b3dd95d91c441d196499.mp4?hash=AgAD6R"
+    },
+    {
+      "title": "3. Pulmonary Edema Topic : Lungs Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8082/6450b3dd95d91c441d19649a.mp4?hash=AgAD6h"
+    },
+    {
+      "title": "4. Chronic Pulmonary Disease Classification Topic : Lungs Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8083/6450b3dd95d91c441d19649b.mp4?hash=AgAD7B"
+    },
+    {
+      "title": "5. Emphysema Topic : Lungs Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8084/6450b3dd95d91c441d19649c.mp4?hash=AgAD7R"
+    },
+    {
+      "title": "6. Asthma Topic : Lungs Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8085/6450b3dd95d91c441d19649d.mp4?hash=AgAD7h"
+    },
+    {
+      "title": "7. Chronic Bronchitis Topic : Lungs Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8086/6450b3dd95d91c441d19649e.mp4?hash=AgAD7x"
+    },
+    {
+      "title": "8. Bronchiectasis Topic : Lungs Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8087/6450b3dd95d91c441d19649f.mp4?hash=AgAD8B"
+    },
+    {
+      "title": "9. Pneumonia & Ards Topic : Lungs Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8088/6450b3dd95d91c441d1964a0.mp4?hash=AgAD8R"
+    },
+    {
+      "title": "10. Pneumoconiosis Topic : Lungs Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8089/6450b3c295d91c441d196471.mp4?hash=AgAD8x"
+    },
+    {
+      "title": "11. Hypersensitivity Pneumonitis Topic : Lungs Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8090/6450b3c295d91c441d196470.mp4?hash=AgAD9B"
+    },
+    {
+      "title": "12. Lung Tumors Topic : Lungs Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8091/6450b3dd95d91c441d1964a1.mp4?hash=AgAD9h"
+    },
+    {
+      "title": "1. Esophagus & Stomach Topic : GIT Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8092/6450b3dd95d91c441d1964c5.mp4?hash=AgAD9x"
+    },
+    {
+      "title": "2. Small & Large Intestine Topic : GIT Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8093/6450b3dd95d91c441d1964c6.mp4?hash=AgAD-B"
+    },
+    {
+      "title": "3. Inflammatory Bowel Diseases Topic : GIT Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8094/6450b3c295d91c441d19646f.mp4?hash=AgAD-R"
+    },
+    {
+      "title": "4. Normal Layers Of Intestine Topic : GIT Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8095/6450b3dd95d91c441d1964f2.mp4?hash=AgAD-h"
+    },
+    {
+      "title": "5. Aganglionosis Topic : GIT Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8096/6450b3dd95d91c441d1964f3.mp4?hash=AgAD-x"
+    },
+    {
+      "title": "1. Liver Injury Topic : Liver Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8097/6450b3dd95d91c441d1964c7.mp4?hash=AgAD_B"
+    },
+    {
+      "title": "2. Acute Liver Failure Topic : Liver Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8098/6450b3dd95d91c441d1964c8.mp4?hash=AgAD_R"
+    },
+    {
+      "title": "3. Cirrhosis And Chronic Liver Disease Topic : Liver Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8099/6450b3dd95d91c441d1964c9.mp4?hash=AgAD_h"
+    },
+    {
+      "title": "4. Hepatitis B Topic : Liver Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8100/6450b3dd95d91c441d1964e5.mp4?hash=AgAD_x"
+    },
+    {
+      "title": "5. Hepatitis D Topic : Liver Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8101/6450b3c295d91c441d19646e.mp4?hash=AgAEGA"
+    },
+    {
+      "title": "6. Hepatitis E Topic : Liver Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8102/6450b3dd95d91c441d1964aa.mp4?hash=AgADAR"
+    },
+    {
+      "title": "7. Alcoholic Liver Disease Topic : Liver Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8103/6450b3dd95d91c441d1964ab.mp4?hash=AgADAh"
+    },
+    {
+      "title": "8. NAFLD Topic : Liver Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8104/6450b3dd95d91c441d1964ac.mp4?hash=AgADAx"
+    },
+    {
+      "title": "9. Autoimmune Cholangiopathies Topic : Liver Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8105/6450b3dd95d91c441d1964ad.mp4?hash=AgADBB"
+    },
+    {
+      "title": "10. Hepatocellular Tumors & Carcinoma Topic : Liver Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8106/6450b3dd95d91c441d1964ae.mp4?hash=AgADBh"
+    },
+    {
+      "title": "11. Hepatitis A,B,C Topic : Liver Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8107/6450b3dd95d91c441d1964f9.mp4?hash=AgADBx"
+    },
+    {
+      "title": "1. Normal Anatomy And Histology Of Gb Topic : Gall Bladder Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8108/6450b3dd95d91c441d1964af.mp4?hash=AgADCB"
+    },
+    {
+      "title": "2. Gall Bladder Stones Topic : Gall Bladder Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8109/6450b3dd95d91c441d1964e6.mp4?hash=AgADCR"
+    },
+    {
+      "title": "3. Acute Cholecystitis Topic : Gall Bladder Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8110/6450b3dd95d91c441d196497.mp4?hash=AgADCh"
+    },
+    {
+      "title": "4. Chronic Cholecystitis Topic : Gall Bladder Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8111/6450b3dd95d91c441d196492.mp4?hash=AgADCx"
+    },
+    {
+      "title": "5. Cholangiocarcinoma Topic : Gall Bladder Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8112/6450b3dd95d91c441d196493.mp4?hash=AgADDB"
+    },
+    {
+      "title": "1. Normal Pancreas Histology & Acute Pancreatitis Topic : Pancreas Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8113/6450b3dd95d91c441d196494.mp4?hash=AgADDR"
+    },
+    {
+      "title": "2. Chronic Pancreatitis Topic : Pancreas Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8114/6450b3dd95d91c441d196495.mp4?hash=AgADDh"
+    },
+    {
+      "title": "3. Pancreatic Carcinoma Topic : Pancreas Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8115/6450b3dd95d91c441d196496.mp4?hash=AgADDx"
+    },
+    {
+      "title": "1. Renal Function Test 1 Topic : Renal System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8116/6450b3dd95d91c441d1964e7.mp4?hash=AgADEB"
+    },
+    {
+      "title": "2. Renal Function Test 2 Topic : Renal System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8117/6450b3dd95d91c441d1964e8.mp4?hash=AgADER"
+    },
+    {
+      "title": "3. Glomerulonephritis Basics Topic : Renal System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8118/6450b3dd95d91c441d196485.mp4?hash=AgADEh"
+    },
+    {
+      "title": "4. Psgn Topic : Renal System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8119/6450b3dd95d91c441d196486.mp4?hash=AgADEx"
+    },
+    {
+      "title": "5. Rpgn Topic : Renal System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8120/6450b3dd95d91c441d196487.mp4?hash=AgADFB"
+    },
+    {
+      "title": "6. Iga Nephropathy Topic : Renal System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8121/6450b3dd95d91c441d196488.mp4?hash=AgADFR"
+    },
+    {
+      "title": "7. Nephrotic Syndrome Basics Topic : Renal System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8122/6450b3dd95d91c441d196489.mp4?hash=AgADFh"
+    },
+    {
+      "title": "8. MCD Topic : Renal System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8123/6450b3dd95d91c441d19648a.mp4?hash=AgADFx"
+    },
+    {
+      "title": "9. MGN Topic : Renal System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8124/6450b3dd95d91c441d19648b.mp4?hash=AgADGB"
+    },
+    {
+      "title": "10. FSGS Topic : Renal System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8125/6450b3dd95d91c441d19648c.mp4?hash=AgADGh"
+    },
+    {
+      "title": "11. MPGN Topic : Renal System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8126/6450b3dd95d91c441d19648d.mp4?hash=AgADGx"
+    },
+    {
+      "title": "12. Alport's Syndrome Topic : Renal System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8127/6450b3dd95d91c441d19648e.mp4?hash=AgADHB"
+    },
+    {
+      "title": "13. Congenital Nephrotic Syndrome Topic : Renal System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8128/6450b3dd95d91c441d19648f.mp4?hash=AgADHR"
+    },
+    {
+      "title": "14. Pyelonephritis Topic : Renal System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8129/6450b3dd95d91c441d196490.mp4?hash=AgADHh"
+    },
+    {
+      "title": "15. Renal Tumors Topic : Renal System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8130/6450b3dd95d91c441d196491.mp4?hash=AgADHx"
+    },
+    {
+      "title": "16. Renal Function Test Topic : Renal System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8131/6450b3dd95d91c441d1964f4.mp4?hash=AgADIB"
+    },
+    {
+      "title": "1. Penis Lesions and Tumors Topic : Lower Urinary Tract and Male Genital System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8132/6450b3c295d91c441d19646a.mp4?hash=AgADIR"
+    },
+    {
+      "title": "2. Testis Lesions and Tumors Topic : Lower Urinary Tract and Male Genital System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8133/6450b3c295d91c441d19646b.mp4?hash=AgADIh"
+    },
+    {
+      "title": "3. Normal Anatomy & Histology Of Prostate Topic : Lower Urinary Tract and Male Genital System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8134/6450b3dd95d91c441d196479.mp4?hash=AgADIx"
+    },
+    {
+      "title": "4. Benign Prostate Hyperplasia (Bph) Topic : Lower Urinary Tract and Male Genital System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8135/6450b3dd95d91c441d19647a.mp4?hash=AgADJB"
+    },
+    {
+      "title": "5. Prostate Adenocarcinoma Topic : Lower Urinary Tract and Male Genital System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8136/6450b3dd95d91c441d19647b.mp4?hash=AgADJR"
+    },
+    {
+      "title": "1. Normal Anatomy And Physiology Topic : Female Genital Tract Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8137/6450b3dd95d91c441d19647c.mp4?hash=AgADJh"
+    },
+    {
+      "title": "2. Lesion Of Cervix Topic : Female Genital Tract Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8138/6450b3dd95d91c441d19647d.mp4?hash=AgADJx"
+    },
+    {
+      "title": "3. Diseases Of Uterus Topic : Female Genital Tract Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8139/6450b3dd95d91c441d19647e.mp4?hash=AgADKB"
+    },
+    {
+      "title": "4. Ovarian Tumor Classification Topic : Female Genital Tract Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8140/6450b3dd95d91c441d19647f.mp4?hash=AgADKR"
+    },
+    {
+      "title": "5. Ovarian Tumors Topic : Female Genital Tract Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8141/6450b3dd95d91c441d196480.mp4?hash=AgADKh"
+    },
+    {
+      "title": "1. Breast Normal Histology Topic : Disorders of Breast Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8142/6450b3dd95d91c441d196481.mp4?hash=AgADKx"
+    },
+    {
+      "title": "2. Lesions Of Breast & Breast Ca Topic : Disorders of Breast Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8143/6450b3dd95d91c441d196482.mp4?hash=AgADLB"
+    },
+    {
+      "title": "1. Diabetes Criteria, Classifications, Pathophysiology Topic : Endocrine System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8144/6450b3dd95d91c441d196483.mp4?hash=AgADLh"
+    },
+    {
+      "title": "2. Complications Of Diabetes Topic : Endocrine System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8145/6450b3dd95d91c441d196484.mp4?hash=AgADMR"
+    },
+    {
+      "title": "3. Thyroid Gland Histology And Physiology Topic : Endocrine System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8146/6450b3dd95d91c441d196478.mp4?hash=AgADNR"
+    },
+    {
+      "title": "4. Thyroiditis and Thyroid Cancers Topic : Endocrine System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8147/6450b3dd95d91c441d1964e9.mp4?hash=AgADOR"
+    },
+    {
+      "title": "5. Thyroiditis Topic : Endocrine System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8148/6450b3dd95d91c441d1964f5.mp4?hash=AgADOx"
+    },
+    {
+      "title": "6. Thyroid Cancer Topic : Endocrine System Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8149/6450b3dd95d91c441d1964f6.mp4?hash=AgADPh"
+    },
+    {
+      "title": "1. Dermatology: Basic Anatomy, Physiology & Melanocytic Disorders Topic : The Skin Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8150/6450b3c295d91c441d196468.mp4?hash=AgADQB"
+    },
+    {
+      "title": "2. Papulosquamous Disorders & Blistering Disorders Topic : The Skin Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8151/6450b3c295d91c441d196469.mp4?hash=AgADvR"
+    },
+    {
+      "title": "3. Acute Inflammatory Dermatosis Topic : The Skin Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8152/6450b3c295d91c441d19645e.mp4?hash=AgADwR"
+    },
+    {
+      "title": "4. Skin Tumors Topic : The Skin Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8153/6450b3c295d91c441d19645f.mp4?hash=AgADxR"
+    },
+    {
+      "title": "1. Normal Anatomy and Physiology of Bone Topic : Bone Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8154/6450b3c295d91c441d196460.mp4?hash=AgADxx"
+    },
+    {
+      "title": "2. Osteoporosis Topic : Bone Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8155/6450b3c295d91c441d196461.mp4?hash=AgADyB"
+    },
+    {
+      "title": "3. Osteomyelitis Topic : Bone Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8156/6450b3c295d91c441d196462.mp4?hash=AgADyR"
+    },
+    {
+      "title": "4. Paget’s Disease of Bone Topic : Bone Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8157/6450b3c295d91c441d196463.mp4?hash=AgADyh"
+    },
+    {
+      "title": "5. Bone Tumors Topic : Bone Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8158/6450b3c295d91c441d196464.mp4?hash=AgADyx"
+    },
+    {
+      "title": "1. Nerve Injury and Demyelinating Neuropathy Topic : Peripheral Nerves and Muscle Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8159/6450b3c295d91c441d196465.mp4?hash=AgADzR"
+    },
+    {
+      "title": "2. Myasthenia Gravis and Lems Topic : Peripheral Nerves and Muscle Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8160/6450b3c295d91c441d196466.mp4?hash=AgADzh"
+    },
+    {
+      "title": "3. Charcot Marie Tooth Disease Topic : Peripheral Nerves and Muscle Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8161/6450b3c295d91c441d196467.mp4?hash=AgADzx"
+    },
+    {
+      "title": "4. Muscular Dystrophy & Myopathies Topic : Peripheral Nerves and Muscle Disorders Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8162/6450b3c295d91c441d19645d.mp4?hash=AgAD0B"
+    },
+    {
+      "title": "1. CNS Tumors Topic : CNS Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8163/6450b3dd95d91c441d196477.mp4?hash=AgAD0h"
+    },
+    {
+      "title": "1. Retinoblastoma Topic : Eye Subject : Pathology",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8164/6450b3c295d91c441d19646d.mp4?hash=AgAD0x"
+    }
+  ]
+}

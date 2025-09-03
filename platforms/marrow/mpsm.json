@@ -1,0 +1,413 @@
+{
+  "subjectName": "Marrow",
+  "lectures": [
+    {
+      "title": "1. Concept of Health, Healthcare and Disease",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4501/1_watermarked.mp4?hash=AgADfB"
+    },
+    {
+      "title": "2. Concept of Disease causation and Control",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4502/2_watermarked.mp4?hash=AgADfR"
+    },
+    {
+      "title": "3. Health and Disability indicators",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4503/3_watermarked.mp4?hash=AgADfh"
+    },
+    {
+      "title": "4. Health and Development indices",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4504/4_watermarked.mp4?hash=AgADfx"
+    },
+    {
+      "title": "5. Basics in Epidemiology",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4505/8_watermarked.mp4?hash=AgADgx"
+    },
+    {
+      "title": "6. Descriptive Epidemiology",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4506/9_watermarked.mp4?hash=AgADhB"
+    },
+    {
+      "title": "7. Analytical Epidemiology",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4507/10_watermarked.mp4?hash=AgADhR"
+    },
+    {
+      "title": "8. Advanced analytical study designs",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4508/11_watermarked.mp4?hash=AgADhh"
+    },
+    {
+      "title": "9. Experimental Epidemiology",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4509/12_watermarked.mp4?hash=AgADhx"
+    },
+    {
+      "title": "10. Evidence based medicine",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4510/13_watermarked.mp4?hash=AgADiB"
+    },
+    {
+      "title": "11. Bias and Causality numerical problems",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4511/14_watermarked.mp4?hash=AgADiR"
+    },
+    {
+      "title": "12. Screening of disease concepts",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4512/15_watermarked.mp4?hash=AgADih"
+    },
+    {
+      "title": "13. Determinants in screening of disease",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4513/16_watermarked.mp4?hash=AgADjB"
+    },
+    {
+      "title": "14. Advanced concepts in screening of disease",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4514/17_watermarked.mp4?hash=AgADjR"
+    },
+    {
+      "title": "15. Introduction to data in Biostatistics",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4515/18_watermarked.mp4?hash=AgADjh"
+    },
+    {
+      "title": "16. Measures of Central tendency and Variation",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4516/19_watermarked.mp4?hash=AgADjx"
+    },
+    {
+      "title": "17. Normal distribution curve",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4517/20_watermarked.mp4?hash=AgADkB"
+    },
+    {
+      "title": "18. Concept of Probability value",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4518/21_watermarked.mp4?hash=AgADkR"
+    },
+    {
+      "title": "19. Tests of significance",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4519/22_watermarked.mp4?hash=AgADkh"
+    },
+    {
+      "title": "20. Correlation, Regression and Skew",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4520/23_watermarked.mp4?hash=AgADlB"
+    },
+    {
+      "title": "21. Sampling methods and calculation",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4521/24_watermarked.mp4?hash=AgADlR"
+    },
+    {
+      "title": "22. Probability and Tiles",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4522/25_watermarked.mp4?hash=AgADlh"
+    },
+    {
+      "title": "23. Graphs",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4523/26_watermarked.mp4?hash=AgADlx"
+    },
+    {
+      "title": "24. Biostats review and QA round",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4524/27_watermarked.mp4?hash=AgADmB"
+    },
+    {
+      "title": "25. Infectious disease Epidemiology: Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4525/5_watermarked.mp4?hash=AgADgB"
+    },
+    {
+      "title": "26. Infectious disease Epidemiology: Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4526/6_watermarked.mp4?hash=AgADgR"
+    },
+    {
+      "title": "27. Infectious disease Epidemiology: Part 3",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4527/7_watermarked.mp4?hash=AgADgh"
+    },
+    {
+      "title": "28. Smallpox and Chickenpox",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4528/69_watermarked.mp4?hash=AgADyx"
+    },
+    {
+      "title": "29. Measles, Mumps and Rubella",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4529/70_watermarked.mp4?hash=AgADzR"
+    },
+    {
+      "title": "30. Flu, Diphtheria and Pertussis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4530/71_watermarked.mp4?hash=AgADzh"
+    },
+    {
+      "title": "31. Cholera and Diarrhoeal Disease Control Program",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4531/72_watermarked.mp4?hash=AgADzx"
+    },
+    {
+      "title": "32. Typhoid and Amoebiasis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4532/73_watermarked.mp4?hash=AgAD0B"
+    },
+    {
+      "title": "33. Hepatitis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4533/74_watermarked.mp4?hash=AgAD0R"
+    },
+    {
+      "title": "34. Soil transmitted Helminthic infections",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4534/75_watermarked.mp4?hash=AgAD0h"
+    },
+    {
+      "title": "35. Plague, Yellow fever and KFD",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4535/76_watermarked.mp4?hash=AgAD0x"
+    },
+    {
+      "title": "36. Zoonoses and Rabies",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4536/77_watermarked.mp4?hash=AgAD1R"
+    },
+    {
+      "title": "37. Tetanus",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4537/78_watermarked.mp4?hash=AgAD1h"
+    },
+    {
+      "title": "38. Rickettsia",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4538/79_watermarked.mp4?hash=AgAD1x"
+    },
+    {
+      "title": "39. Ebola, Zika and NIPAH",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4539/80_watermarked.mp4?hash=AgAD2B"
+    },
+    {
+      "title": "40. Non-Communicable diseases",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4540/81_watermarked.mp4?hash=AgAD2R"
+    },
+    {
+      "title": "41. Health care system in India",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4541/28_watermarked.mp4?hash=AgADmR"
+    },
+    {
+      "title": "42. TB: Epidemiology and Diagnosis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4542/29_watermarked.mp4?hash=AgADmh"
+    },
+    {
+      "title": "43. NTEP. Diagnosis and Treatment",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4543/30_watermarked.mp4?hash=AgADmx"
+    },
+    {
+      "title": "44. NTEP. New strategies, Organisation and Evaluation",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4544/31_watermarked.mp4?hash=AgADnB"
+    },
+    {
+      "title": "45. NACP. Targets, Diagnosis and Management",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4545/32_watermarked.mp4?hash=AgADnR"
+    },
+    {
+      "title": "46. NACP. Strategies, Organisation and Indicators",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4546/33_watermarked.mp4?hash=AgADnh"
+    },
+    {
+      "title": "47. Malaria Epidemiology",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4547/34_watermarked.mp4?hash=AgADnx"
+    },
+    {
+      "title": "48. NVBDCP. Diagnosis and Treatment",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4548/35_watermarked.mp4?hash=AgADoh"
+    },
+    {
+      "title": "49. NVBDCP. Strategies",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4549/36_watermarked.mp4?hash=AgADox"
+    },
+    {
+      "title": "50. NVBDCP. Indicators and Recent updates",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4550/37_watermarked.mp4?hash=AgADpB"
+    },
+    {
+      "title": "51. Japanese Encephalitis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4551/38_watermarked.mp4?hash=AgADpR"
+    },
+    {
+      "title": "52. Dengue",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4552/39_watermarked.mp4?hash=AgADph"
+    },
+    {
+      "title": "53. Lymphatic Filariasis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4553/40_watermarked.mp4?hash=AgADpx"
+    },
+    {
+      "title": "54. Kala-Azar",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4554/41_watermarked.mp4?hash=AgADqB"
+    },
+    {
+      "title": "55. National Leprosy Eradication Program",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4555/42_watermarked.mp4?hash=AgADqR"
+    },
+    {
+      "title": "56. National Polio Surveillance Program",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4556/43_watermarked.mp4?hash=AgADqh"
+    },
+    {
+      "title": "57. NIDDCP, IDSP and ICDS",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4557/44_watermarked.mp4?hash=AgADqx"
+    },
+    {
+      "title": "58. ESI and Factories act",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4558/45_watermarked.mp4?hash=AgADrB"
+    },
+    {
+      "title": "59. NMHP and National health policy 2017",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4559/46_watermarked.mp4?hash=AgADrR"
+    },
+    {
+      "title": "60. Recent advances In Community medicine - 2022",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4560/47_watermarked.mp4?hash=AgADrh"
+    },
+    {
+      "title": "61. Demographic cycle",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4561/48_watermarked.mp4?hash=AgADrx"
+    },
+    {
+      "title": "62. Demographic trends",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4562/49_watermarked.mp4?hash=AgADsB"
+    },
+    {
+      "title": "63. Fertility rates",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4563/50_watermarked.mp4?hash=AgADsR"
+    },
+    {
+      "title": "64. Survey techniques",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4564/51_watermarked.mp4?hash=AgADsh"
+    },
+    {
+      "title": "65. Death certificates and Causes of death: 2019 report",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4565/52_watermarked.mp4?hash=AgADsx"
+    },
+    {
+      "title": "66. Family planning and Contraception: Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4566/53_watermarked.mp4?hash=AgADtB"
+    },
+    {
+      "title": "67. Family planning and Contraception: Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4567/54_watermarked.mp4?hash=AgADtR"
+    },
+    {
+      "title": "68. National Family Planning Program",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4568/55_watermarked.mp4?hash=AgADth"
+    },
+    {
+      "title": "69.Indicators of MCH care",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4569/56_watermarked.mp4?hash=AgADuh"
+    },
+    {
+      "title": "70.Preventive Obstetrics",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4570/57_watermarked.mp4?hash=AgADux"
+    },
+    {
+      "title": "71.Preventive Paediatrics: Early care",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4571/58_watermarked.mp4?hash=AgADvB"
+    },
+    {
+      "title": "72.Preventive Paediatrics: Growth and Development",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4572/59_watermarked.mp4?hash=AgADvR"
+    },
+    {
+      "title": "73.Social Paediatrics",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4573/60_watermarked.mp4?hash=AgADvh"
+    },
+    {
+      "title": "74.RMNCH +A: Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4574/61_watermarked.mp4?hash=AgADvx"
+    },
+    {
+      "title": "75.RMNCH +A: Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4575/62_watermarked.mp4?hash=AgADwB"
+    },
+    {
+      "title": "76.Immunization basics",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4576/63_watermarked.mp4?hash=AgADwR"
+    },
+    {
+      "title": "77.National Immunization Schedule",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4577/64_watermarked.mp4?hash=AgADwh"
+    },
+    {
+      "title": "78.Immunization FAQs",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4578/65_watermarked.mp4?hash=AgADwx"
+    },
+    {
+      "title": "79.Cold chain",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4579/66_watermarked.mp4?hash=AgADxB"
+    },
+    {
+      "title": "80.Vaccine strains, GVAP and MCP card",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4580/67_watermarked.mp4?hash=AgADxR"
+    },
+    {
+      "title": "81.Vaccine in Special situations, Waste management and AEFI",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4581/68_watermarked.mp4?hash=AgADyh"
+    },
+    {
+      "title": "82.Nutrition: Concepts and Macronutrients",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4582/82_watermarked.mp4?hash=AgAD2h"
+    },
+    {
+      "title": "83.Nutrition: Micronutrients and RDA 2020",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4583/83_watermarked.mp4?hash=AgAD2x"
+    },
+    {
+      "title": "84.Nutrition: Food products, Adulterants and Standards",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4584/84_watermarked.mp4?hash=AgAD3B"
+    },
+    {
+      "title": "85.Social medicine and Health",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4585/96_watermarked.mp4?hash=AgAD8x"
+    },
+    {
+      "title": "86.Air and Meteorology",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4586/85_watermarked.mp4?hash=AgAD3R"
+    },
+    {
+      "title": "87.Water: Part 1",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4587/86_watermarked.mp4?hash=AgAD3h"
+    },
+    {
+      "title": "88.Water: Part 2",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4588/87_watermarked.mp4?hash=AgAD3x"
+    },
+    {
+      "title": "89.Housing, Ventilation, Light, Sound and Radiation",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4589/88_watermarked.mp4?hash=AgAD5h"
+    },
+    {
+      "title": "90.Waste and Sewage disposal",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4590/89_watermarked.mp4?hash=AgAD6B"
+    },
+    {
+      "title": "91.Entomology: Mosquitoes",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4591/90_watermarked.mp4?hash=AgAD6x"
+    },
+    {
+      "title": "92.Entomology: Lice, Ticks, Mites and Sandfly",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4592/91_watermarked.mp4?hash=AgAD7R"
+    },
+    {
+      "title": "93.Mosquito control measures and Insecticides",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4593/92_watermarked.mp4?hash=AgAD7x"
+    },
+    {
+      "title": "94.Biomedical waste management",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4594/94_watermarked.mp4?hash=AgAD8R"
+    },
+    {
+      "title": "95.DISASTER MANAGEMENT",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4595/95_watermarked.mp4?hash=AgAD8h"
+    },
+    {
+      "title": "96.OCCUPATIONAL HEALTH",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4596/93_watermarked.mp4?hash=AgAD8B"
+    },
+    {
+      "title": "97.Health Communication and Education",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4597/97_watermarked.mp4?hash=AgAD9B"
+    },
+    {
+      "title": "98.Health Planning and Management",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4598/98_watermarked.mp4?hash=AgAD9R"
+    },
+    {
+      "title": "99.International health",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4599/99_watermarked.mp4?hash=AgAD9h"
+    },
+    {
+      "title": "100.History and Evolution of medicine",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4600/100_watermarked.mp4?hash=AgAD9x"
+    },
+    {
+      "title": "101.Preventive Geriatrics",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4601/101_watermarked.mp4?hash=AgAD-B"
+    },
+    {
+      "title": "102.Genetics and Health",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/4602/102_watermarked.mp4?hash=AgAD-R"
+    }
+  ]
+}

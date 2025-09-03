@@ -1,0 +1,245 @@
+{
+  "subjectName": "p6xphysiology",
+  "lectures": [
+    {
+      "title": "01. Homeostasis.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19558/01.+Homeostasis.mp4?hash=AgADYx"
+    },
+    {
+      "title": "02. Body Fluid Compartments.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/19559/02.+Body+Fluid+Compartments.mp4?hash=AgADZB"
+    },
+    {
+      "title": "03. Cellular Physiology.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/19560/03.+Cellular+Physiology.mp4?hash=AgADZx"
+    },
+    {
+      "title": "04. Transport Across Cell Membrane.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19561/04.+Transport+Across+Cell+Membrane.mp4?hash=AgADaB"
+    },
+    {
+      "title": "05. Neuron & Nerve.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19562/05.+Neuron+%26+Nerve.mp4?hash=AgADaR"
+    },
+    {
+      "title": "06. Resting Membrane Potential.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19563/06.+Resting+Membrane+Potential.mp4?hash=AgADah"
+    },
+    {
+      "title": "07. Action Potential in Neuron.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19564/07.+Action+Potential+in+Neuron.mp4?hash=AgADbB"
+    },
+    {
+      "title": "08. Nerve Fibre Classification.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19565/08.+Nerve+Fibre+Classification.mp4?hash=AgADbR"
+    },
+    {
+      "title": "09. Functional Anatomy of Skeletal Muscle.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19566/09.+Functional+Anatomy+of+Skeletal+Muscle.mp4?hash=AgADbh"
+    },
+    {
+      "title": "10. Mechanism of Muscle Contraction.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19567/10.+Mechanism+of+Muscle+Contraction.mp4?hash=AgADbx"
+    },
+    {
+      "title": "11. Smooth Muscle.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19568/11.+Smooth+Muscle.mp4?hash=AgADcB"
+    },
+    {
+      "title": "12. Conducting System of the Heart.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19569/12.+Conducting+System+of+the+Heart.mp4?hash=AgADcR"
+    },
+    {
+      "title": "13. Action Potential in Cardiac Muscle.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19570/13.+Action+Potential+in+Cardiac+Muscle.mp4?hash=AgADch"
+    },
+    {
+      "title": "14. Basics of ECG.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19571/14.+Basics+of+ECG.mp4?hash=AgADcx"
+    },
+    {
+      "title": "15. Cardiac Cycle.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19572/15.+Cardiac+Cycle.mp4?hash=AgADdh"
+    },
+    {
+      "title": "16. Cardiac Output.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/19573/16.+Cardiac+Output.mp4?hash=AgADdx"
+    },
+    {
+      "title": "17. Hemodynamics.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/19574/17.+Hemodynamics.mp4?hash=AgADeB"
+    },
+    {
+      "title": "18. Blood Pressure and it's Regulation.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19575/18.+Blood+Pressure+and+it%27s+Regulation.mp4?hash=AgADeh"
+    },
+    {
+      "title": "19. Functional Anatomy of Renal System.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19576/19.+Functional+Anatomy+of+Renal+System.mp4?hash=AgADfB"
+    },
+    {
+      "title": "20. Glomerular Filtration Rate (GFR).mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19577/20.+Glomerular+Filtration+Rate+%28GFR%29.mp4?hash=AgADfh"
+    },
+    {
+      "title": "21. Juxta-Glomerular Apparatus.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19578/21.+Juxta-Glomerular+Apparatus.mp4?hash=AgADfx"
+    },
+    {
+      "title": "22. Renal Clearance.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19579/22.+Renal+Clearance.mp4?hash=AgADgB"
+    },
+    {
+      "title": "23. Tubular Functions.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19580/23.+Tubular+Functions.mp4?hash=AgADgh"
+    },
+    {
+      "title": "24. Counter Current System.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19581/24.+Counter+Current+System.mp4?hash=AgADgx"
+    },
+    {
+      "title": "25. Functional Anatomy of the Respiratory System.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19582/25.+Functional+Anatomy+of+the+Respiratory+System.mp4?hash=AgADhB"
+    },
+    {
+      "title": "26. Mechanics of Respiration.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19583/26.+Mechanics+of+Respiration.mp4?hash=AgADhh"
+    },
+    {
+      "title": "27. Ventilation - Perfusion of Lungs.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19584/27.+Ventilation+-+Perfusion+of+Lungs.mp4?hash=AgADhx"
+    },
+    {
+      "title": "28. Compliance.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19585/28.+Compliance.mp4?hash=AgADiB"
+    },
+    {
+      "title": "29. Lung Volume and Capacities.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19586/29.+Lung+Volume+and+Capacities.mp4?hash=AgADiR"
+    },
+    {
+      "title": "30. Principles of Gas Diffusion.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19587/30.+Principles+of+Gas+Diffusion.mp4?hash=AgADjB"
+    },
+    {
+      "title": "31. Oxygen Transport.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/19588/31.+Oxygen+Transport.mp4?hash=AgADjh"
+    },
+    {
+      "title": "32. Carbon Dioxide Transport.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19589/32.+Carbon+Dioxide+Transport.mp4?hash=AgADjx"
+    },
+    {
+      "title": "33. Regulation of Respiration.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19590/33.+Regulation+of+Respiration.mp4?hash=AgADkR"
+    },
+    {
+      "title": "34. Hypoxia.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/19591/34.+Hypoxia.mp4?hash=AgADkh"
+    },
+    {
+      "title": "35. High Altitude Physiology.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/19592/35.+High+Altitude+Physiology.mp4?hash=AgADkx"
+    },
+    {
+      "title": "36. Deep Sea Diving.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19593/36.+Deep+Sea+Diving.mp4?hash=AgADlB"
+    },
+    {
+      "title": "37. Gastrointestinal Motility.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19594/37.+Gastrointestinal+Motility.mp4?hash=AgADlR"
+    },
+    {
+      "title": "38. Gastrointestinal Hormones.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19595/38.+Gastrointestinal+Hormones.mp4?hash=AgADlh"
+    },
+    {
+      "title": "39. Secretion and Absorption.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19596/39.+Secretion+and+Absorption.mp4?hash=AgADmB"
+    },
+    {
+      "title": "40. Synaptic Transmission_ Pre Synaptic Events.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19597/40.+Synaptic+Transmission_+Pre+Synaptic+Events.mp4?hash=AgADmh"
+    },
+    {
+      "title": "41. Synaptic Transmission_ Post Synaptic Events.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19598/41.+Synaptic+Transmission_+Post+Synaptic+Events.mp4?hash=AgADmx"
+    },
+    {
+      "title": "42. Somatosensory Receptors_ Tactile.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19599/42.+Somatosensory+Receptors_+Tactile.mp4?hash=AgADnR"
+    },
+    {
+      "title": "43. Nociceptors.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19600/43.+Nociceptors.mp4?hash=AgADnx"
+    },
+    {
+      "title": "44. Proprioceptors and Reflexes.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19601/44.+Proprioceptors+and+Reflexes.mp4?hash=AgADoB"
+    },
+    {
+      "title": "45. Ascending Tracts of Spinal Cord.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/19602/45.+Ascending+Tracts+of+Spinal+Cord.mp4?hash=AgADoR"
+    },
+    {
+      "title": "46. Descending Tracts of Spinal Cord.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19603/46.+Descending+Tracts+of+Spinal+Cord.mp4?hash=AgADoh"
+    },
+    {
+      "title": "47. Basal Ganglia and Cerebellum.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/19604/47.+Basal+Ganglia+and+Cerebellum.mp4?hash=AgADpR"
+    },
+    {
+      "title": "48. Special Senses_ Visual and Auditory Receptors.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19605/48.+Special+Senses_+Visual+and+Auditory+Receptors.mp4?hash=AgADph"
+    },
+    {
+      "title": "49. Special Senses_ Smell and Taste Receptors.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/19606/49.+Special+Senses_+Smell+and+Taste+Receptors.mp4?hash=AgADpx"
+    },
+    {
+      "title": "50. Hypothalamus.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19607/50.+Hypothalamus.mp4?hash=AgADqB"
+    },
+    {
+      "title": "51. Sleep and EEG.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/19608/51.+Sleep+and+EEG.mp4?hash=AgADqR"
+    },
+    {
+      "title": "52. Learning and Memory.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19609/52.+Learning+and+Memory.mp4?hash=AgADqh"
+    },
+    {
+      "title": "53. Mechanisms of Hormone Actions.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/19610/53.+Mechanisms+of+Hormone+Actions.mp4?hash=AgADqx"
+    },
+    {
+      "title": "54. Pituitary Hormones.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19611/54.+Pituitary+Hormones.mp4?hash=AgADrB"
+    },
+    {
+      "title": "55. Thyroid Hormones.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/19612/55.+Thyroid+Hormones.mp4?hash=AgADrR"
+    },
+    {
+      "title": "56. Endocrine Pancreas.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19613/56.+Endocrine+Pancreas.mp4?hash=AgADrh"
+    },
+    {
+      "title": "57. Hormonal Regulation of Calcium Balance.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19614/57.+Hormonal+Regulation+of+Calcium+Balance.mp4?hash=AgADrx"
+    },
+    {
+      "title": "58. Adrenal Hormones.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/19615/58.+Adrenal+Hormones.mp4?hash=AgADsR"
+    },
+    {
+      "title": "59. Male Reproductive Physiology.MUX.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/19616/59.+Male+Reproductive+Physiology.MUX.mp4?hash=AgADsh"
+    },
+    {
+      "title": "60. Female Reproductive Physiology.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/19617/60.+Female+Reproductive+Physiology.mp4?hash=AgADtB"
+    }
+  ]
+}

@@ -1,0 +1,789 @@
+{
+  "subjectName": "Prepladder5",
+  "lectures": [
+    {
+      "title": "Acute Respiratory Infection Dr. Neha Taneja atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6078/Acute+Respiratory+Infection+Dr.+Neha+Taneja+atf.mp4?hash=AgADkw"
+    },
+    {
+      "title": "Antenatal care Dr. Neha Taneja atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6079/Antenatal+care+Dr.+Neha+Taneja+atf.mp4?hash=AgADlA"
+    },
+    {
+      "title": "Diarrhoea Dr. Neha Taneja atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6080/Diarrhoea+Dr.+Neha+Taneja+atf.mp4?hash=AgADlQ"
+    },
+    {
+      "title": "Hypertension Dr.Neha Taneja atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6081/Hypertension+Dr.Neha+Taneja+atf.mp4?hash=AgADlw"
+    },
+    {
+      "title": "Natal Care Dr.Neha Taneja atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6082/Natal+Care+Dr.Neha+Taneja+atf.mp4?hash=AgADmA"
+    },
+    {
+      "title": "Severe Acute Malnutrition Dr. Neha Taneja atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6083/Severe+Acute+Malnutrition+Dr.+Neha+Taneja+atf.mp4?hash=AgADmQ"
+    },
+    {
+      "title": "CNS examination Dr. Rajat Chauhan atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6084/CNS+examination+Dr.+Rajat+Chauhan+atf.mp4?hash=AgADmg"
+    },
+    {
+      "title": "General Physical Examination Dr. Rajat Chauhan atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6085/General+Physical+Examination+Dr.+Rajat+Chauhan+atf.mp4?hash=AgADmw"
+    },
+    {
+      "title": "Normal CVS examination Dr. Rajat-Chauhan atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6086/Normal+CVS+examination+Dr.+Rajat-Chauhan+atf.mp4?hash=AgADnA"
+    },
+    {
+      "title": "Normal GIT Examination Dr. Rajat Chauhan atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6087/Normal+GIT+Examination+Dr.+Rajat+Chauhan+atf.mp4?hash=AgADnQ"
+    },
+    {
+      "title": "Respiratory examination Dr. Rajat Chauhan atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6088/Respiratory+examination+Dr.+Rajat+Chauhan+atf.mp4?hash=AgADng"
+    },
+    {
+      "title": "Basal Cell Carcinoma Dr. Chesta Agarwal atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6089/Basal+Cell+Carcinoma+Dr.+Chesta+Agarwal++atf.mp4?hash=AgADnw"
+    },
+    {
+      "title": "Clinical Case Discussion Atopic Dermatitis Re Render atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6090/Clinical+Case+Discussion+Atopic+Dermatitis+Re+Render++atf.mp4?hash=AgADoA"
+    },
+    {
+      "title": "Clinical Case Discussion Vitiligo Dr. Chesta Aggarwal atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6091/Clinical+Case+Discussion+Vitiligo+Dr.+Chesta+Aggarwal++atf.mp4?hash=AgADoQ"
+    },
+    {
+      "title": "Fixed Drug Eruption Dr. Chesta Agarwal atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6092/Fixed+Drug+Eruption+Dr.+Chesta+Agarwal++atf.mp4?hash=AgADog"
+    },
+    {
+      "title": "Herpes Zoster Dr. Chesta Agarwal atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6093/Herpes+Zoster+Dr.+Chesta+Agarwal++atf.mp4?hash=AgADow"
+    },
+    {
+      "title": "Kaposi Sarcoma Dr. Chesta Agarwal atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6094/Kaposi+Sarcoma+Dr.+Chesta+Agarwal++atf.mp4?hash=AgADpA"
+    },
+    {
+      "title": "Leprosy Dr. Chesta Agarwal atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6095/Leprosy+Dr.+Chesta+Agarwal++atf.mp4?hash=AgADpQ"
+    },
+    {
+      "title": "Lichen Planus Dr. Chesta Agarwal atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6096/Lichen+Planus+Dr.+Chesta+Agarwal++atf.mp4?hash=AgADpg"
+    },
+    {
+      "title": "Malignent Melanoma Dr. Chesta Agarwal atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6097/Malignent+Melanoma+Dr.+Chesta+Agarwal++atf.mp4?hash=AgADpw"
+    },
+    {
+      "title": "Pemphigus Vulgaris Dr. Chesta Agarwal atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6098/Pemphigus+Vulgaris+Dr.+Chesta+Agarwal++atf.mp4?hash=AgADqA"
+    },
+    {
+      "title": "Psoriasis Dr. Chesta Agarwal atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6099/Psoriasis+Dr.+Chesta+Agarwal++atf.mp4?hash=AgADqQ"
+    },
+    {
+      "title": "Scabies Dr. Chesta Agarwal atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6100/Scabies+Dr.+Chesta+Agarwal++atf.mp4?hash=AgADqg"
+    },
+    {
+      "title": "Sjs Dr. Chesta Agarwal atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6101/Sjs+Dr.+Chesta+Agarwal++atf.mp4?hash=AgADqw"
+    },
+    {
+      "title": "ASOM Dr. Vyshnavi atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6102/ASOM+Dr.+Vyshnavi+atf.mp4?hash=AgADrA"
+    },
+    {
+      "title": "Facial Nerve Palsy Dr.Vyshnavi atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6103/Facial+Nerve+Palsy+Dr.Vyshnavi++atf.mp4?hash=AgADrQ"
+    },
+    {
+      "title": "Tonsillitis Dr.Vyshnavi atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6104/Tonsillitis+Dr.Vyshnavi++atf.mp4?hash=AgADrg"
+    },
+    {
+      "title": "Cataract Dr. Sudha Replace atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6105/Cataract+Dr.+Sudha+Replace+atf.mp4?hash=AgADrw"
+    },
+    {
+      "title": "Chronic Dacryocystitis Dr. Sudha atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6106/Chronic+Dacryocystitis+Dr.+Sudha++atf.mp4?hash=AgADsA"
+    },
+    {
+      "title": "Diabetic Retinopathy Dr. Sudha atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6107/Diabetic+Retinopathy+Dr.+Sudha++atf.mp4?hash=AgADsQ"
+    },
+    {
+      "title": "Leucomatous Corneal Opacity Dr. Sudha Replace atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6108/Leucomatous+Corneal+Opacity+Dr.+Sudha+Replace+atf.mp4?hash=AgADsg"
+    },
+    {
+      "title": "Pseudophakia Dr. Sudha atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6109/Pseudophakia+Dr.+Sudha++atf.mp4?hash=AgADsw"
+    },
+    {
+      "title": "Pterygium Dr. Sudha Replace atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6110/Pterygium+Dr.+Sudha+Replace+atf.mp4?hash=AgADtA"
+    },
+    {
+      "title": "Third Nerve Palsy Dr. Sudha Replace atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6111/Third+Nerve+Palsy+Dr.+Sudha+Replace+atf.mp4?hash=AgADtQ"
+    },
+    {
+      "title": "Vernal Kerato Conjunctivitis Dr. Sudha atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6112/Vernal+Kerato+Conjunctivitis+Dr.+Sudha++atf.mp4?hash=AgADtg"
+    },
+    {
+      "title": "Abruptio Placenta Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6113/Abruptio+Placenta+Dr.+Punit+Bhojani++atf.mp4?hash=AgADtw"
+    },
+    {
+      "title": "Amenorrhea Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6114/Amenorrhea+Dr.+Punit+Bhojani++atf.mp4?hash=AgADuA"
+    },
+    {
+      "title": "Anemia in Pregnancy Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6115/Anemia+in+Pregnancy+Dr.+Punit+Bhojani++atf.mp4?hash=AgADuQ"
+    },
+    {
+      "title": "Bad Obg History Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6116/Bad+Obg+History+Dr.+Punit+Bhojani++atf.mp4?hash=AgADug"
+    },
+    {
+      "title": "Breech Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6117/Breech+Dr.+Punit+Bhojani++atf.mp4?hash=AgADuw"
+    },
+    {
+      "title": "Case Discusion Rh Incompatibility Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6118/Case+Discusion+Rh+Incompatibility+Dr.+Punit+Bhojani++atf.mp4?hash=AgADvA"
+    },
+    {
+      "title": "Case Discussio Uterine Prolapase Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6119/Case+Discussio+Uterine+Prolapase+Dr.+Punit+Bhojani++atf.mp4?hash=AgADvQ"
+    },
+    {
+      "title": "Contraception Dr. Puni Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6120/Contraception+Dr.+Puni+Bhojani++atf.mp4?hash=AgADvg"
+    },
+    {
+      "title": "Diabetes Mellitus in Pregnancy Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6121/Diabetes+Mellitus+in+Pregnancy+Dr.+Punit+Bhojani++atf.mp4?hash=AgADvw"
+    },
+    {
+      "title": "Drugs in Pregancy Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6122/Drugs+in+Pregancy+Dr.+Punit+Bhojani++atf.mp4?hash=AgADwQ"
+    },
+    {
+      "title": "Ectopic Pregnency Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6123/Ectopic+Pregnency+Dr.+Punit+Bhojani++atf.mp4?hash=AgADwg"
+    },
+    {
+      "title": "Endometriosis Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6124/Endometriosis+Dr.+Punit+Bhojani++atf.mp4?hash=AgADxA"
+    },
+    {
+      "title": "Fibroid Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6125/Fibroid+Dr.+Punit+Bhojani++atf.mp4?hash=AgADxg"
+    },
+    {
+      "title": "Heart Diseases in Pregnancy Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6126/Heart+Diseases+in+Pregnancy+Dr.+Punit+Bhojani++atf.mp4?hash=AgADxw"
+    },
+    {
+      "title": "IUGR Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6127/IUGR+Dr.+Punit+Bhojani+atf.mp4?hash=AgADyA"
+    },
+    {
+      "title": "Infection Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6128/Infection+Dr.+Punit+Bhojani++atf.mp4?hash=AgADyQ"
+    },
+    {
+      "title": "Infertility Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6129/Infertility+Dr.+Punit+Bhojani++atf.mp4?hash=AgADyg"
+    },
+    {
+      "title": "Menorhagia Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6130/Menorhagia+Dr.+Punit+Bhojani++atf.mp4?hash=AgADyw"
+    },
+    {
+      "title": "Molar Pregnancy Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6131/Molar+Pregnancy+Dr.+Punit+Bhojani++atf.mp4?hash=AgADzA"
+    },
+    {
+      "title": "Neet Pg 1080 Live C a Cervix Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6132/Neet+Pg+1080+Live+C+a+Cervix+Dr.+Punit+Bhojani++atf.mp4?hash=AgADzQ"
+    },
+    {
+      "title": "Oligohydramnios Polyhydramnios Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6133/Oligohydramnios+Polyhydramnios+Dr.+Punit+Bhojani++atf.mp4?hash=AgADzg"
+    },
+    {
+      "title": "Ovarian Cancer Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6134/Ovarian+Cancer+Dr.+Punit+Bhojani++atf.mp4?hash=AgADzw"
+    },
+    {
+      "title": "PCOS Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6135/PCOS+Dr.+Punit+Bhojani+atf.mp4?hash=AgAD0A"
+    },
+    {
+      "title": "PPH Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6136/PPH+Dr.+Punit+Bhojani+atf.mp4?hash=AgAD0Q"
+    },
+    {
+      "title": "Placenta Previa Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6137/Placenta+Previa+Dr.+Punit+Bhojani++atf.mp4?hash=AgAD0g"
+    },
+    {
+      "title": "Post Date Pregnancy Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6138/Post+Date+Pregnancy+Dr.+Punit+Bhojani++atf.mp4?hash=AgAD0w"
+    },
+    {
+      "title": "Pre Eclampsia Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6139/Pre+Eclampsia+Dr.+Punit+Bhojani++atf.mp4?hash=AgAD1A"
+    },
+    {
+      "title": "Pregnancy With Previous LSCS Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6140/Pregnancy+With+Previous+LSCS+Dr.+Punit+Bhojani+atf.mp4?hash=AgAD1Q"
+    },
+    {
+      "title": "Preterm Labor Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6141/Preterm+Labor+Dr.+Punit+Bhojani++atf.mp4?hash=AgAD1g"
+    },
+    {
+      "title": "Tuberculosis Dr. Neha Taneja atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6142/Tuberculosis+Dr.+Neha+Taneja++atf.mp4?hash=AgAD1w"
+    },
+    {
+      "title": "Twin Pregnany Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6143/Twin+Pregnany+Dr.+Punit+Bhojani++atf.mp4?hash=AgAD2A"
+    },
+    {
+      "title": "Acute Epiglotitis Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6144/Acute+Epiglotitis+Dr.+Sanjay+Khatri++atf.mp4?hash=AgAD2Q"
+    },
+    {
+      "title": "Acyanotic Congentinal Heart Disease Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6145/Acyanotic+Congentinal+Heart+Disease+Dr.+Sanjay+Khatri++atf.mp4?hash=AgAD2g"
+    },
+    {
+      "title": "Bronchiolitis Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6146/Bronchiolitis+Dr.+Sanjay+Khatri++atf.mp4?hash=AgAD2w"
+    },
+    {
+      "title": "Congenital Diaphragmatic Hernia Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6147/Congenital+Diaphragmatic+Hernia+Dr.+Sanjay+Khatri++atf.mp4?hash=AgAD3A"
+    },
+    {
+      "title": "Cse Discussion Systic Fibrosis Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6148/Cse+Discussion+Systic+Fibrosis+Dr.+Sanjay+Khatri++atf.mp4?hash=AgAD3Q"
+    },
+    {
+      "title": "Down Syndrome Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6149/Down+Syndrome+Dr.+Sanjay+Khatri++atf.mp4?hash=AgAD3g"
+    },
+    {
+      "title": "Infantile Hypertrophic Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6150/Infantile+Hypertrophic+Dr.+Sanjay+Khatri++atf.mp4?hash=AgAD3w"
+    },
+    {
+      "title": "Kawasaki Disease Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6151/Kawasaki+Disease+Dr.+Sanjay+Khatri++atf.mp4?hash=AgAD4A"
+    },
+    {
+      "title": "Nephrotic Syndrome Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6152/Nephrotic+Syndrome+Dr.+Sanjay+Khatri++atf.mp4?hash=AgAD4Q"
+    },
+    {
+      "title": "Neuroblastoma Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6153/Neuroblastoma+Dr.+Sanjay+Khatri++atf.mp4?hash=AgAD4g"
+    },
+    {
+      "title": "New Born Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6154/New+Born+Dr.+Sanjay+Khatri++atf.mp4?hash=AgAD4w"
+    },
+    {
+      "title": "Pneumonia Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6155/Pneumonia+Dr.+Sanjay+Khatri++atf.mp4?hash=AgAD5A"
+    },
+    {
+      "title": "Post Infectious Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6156/Post+Infectious+Dr.+Sanjay+Khatri++atf.mp4?hash=AgAD5Q"
+    },
+    {
+      "title": "Respiratory Distress Syndrome Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6157/Respiratory+Distress+Syndrome+Dr.+Sanjay+Khatri++atf.mp4?hash=AgAD5g"
+    },
+    {
+      "title": "Rickets Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6158/Rickets+Dr.+Sanjay+Khatri++atf.mp4?hash=AgAD5w"
+    },
+    {
+      "title": "Tettralogy of Fallot Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6159/Tettralogy+of+Fallot+Dr.+Sanjay+Khatri++atf.mp4?hash=AgAD6A"
+    },
+    {
+      "title": "Thalassemia Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6160/Thalassemia+Dr.+Sanjay+Khatri++atf.mp4?hash=AgAD6Q"
+    },
+    {
+      "title": "Wilm's Tumor Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6161/Wilm%27s+Tumor+Dr.+Sanjay+Khatri+atf.mp4?hash=AgAD6g"
+    },
+    {
+      "title": "Abdominal Mass Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6162/Abdominal+Mass+Dr.+Deepak++atf.mp4?hash=AgAD6w"
+    },
+    {
+      "title": "Acute Cholecystitis Dr.Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6163/Acute+Cholecystitis+Dr.Deepak++atf.mp4?hash=AgAD7A"
+    },
+    {
+      "title": "Appendicitis Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6164/Appendicitis+Dr.+Deepak++atf.mp4?hash=AgAD7Q"
+    },
+    {
+      "title": "Benign Prostatic Hyperplasia Dr.Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6165/Benign+Prostatic+Hyperplasia+Dr.Deepak++atf.mp4?hash=AgAD7g"
+    },
+    {
+      "title": "Bleeding per Rectum Dr Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6166/Bleeding+per+Rectum+Dr+Deepak++atf.mp4?hash=AgAD7w"
+    },
+    {
+      "title": "Breast Lump Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6167/Breast+Lump+Dr.+Deepak++atf.mp4?hash=AgAD8A"
+    },
+    {
+      "title": "Carcinoma Esophagus Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6168/Carcinoma+Esophagus+Dr.+Deepak++atf.mp4?hash=AgAD8Q"
+    },
+    {
+      "title": "Carcinoma Prostate Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6169/Carcinoma+Prostate+Dr.+Deepak++atf.mp4?hash=AgAD8g"
+    },
+    {
+      "title": "Carcinoma Tongue Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6170/Carcinoma+Tongue+Dr.+Deepak++atf.mp4?hash=AgAD8w"
+    },
+    {
+      "title": "Carcinoma of Bladder Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6171/Carcinoma+of+Bladder+Dr.+Deepak++atf.mp4?hash=AgAD9A"
+    },
+    {
+      "title": "Cervical Lymphadenopathy Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6172/Cervical+Lymphadenopathy+Dr.+Deepak++atf.mp4?hash=AgAD9Q"
+    },
+    {
+      "title": "Hepatocellular Carcinoma Dr. Deepak 3 June 2022 atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6173/Hepatocellular+Carcinoma+Dr.+Deepak+3+June+2022+atf.mp4?hash=AgAD9g"
+    },
+    {
+      "title": "Inguinal Hernia Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6174/Inguinal+Hernia+Dr.+Deepak++atf.mp4?hash=AgAD9w"
+    },
+    {
+      "title": "Intestinal Obstructon Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6175/Intestinal+Obstructon+Dr.+Deepak++atf.mp4?hash=AgAD-A"
+    },
+    {
+      "title": "Neet Pg 1080 Live C a Penis Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6176/Neet+Pg+1080+Live+C+a+Penis+Dr.+Deepak++atf.mp4?hash=AgAD-Q"
+    },
+    {
+      "title": "Obstructive Jaudice Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6177/Obstructive+Jaudice+Dr.+Deepak++atf.mp4?hash=AgADRg"
+    },
+    {
+      "title": "Paraumbilical Hernia Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6178/Paraumbilical+Hernia+Dr.+Deepak++atf.mp4?hash=AgADRw"
+    },
+    {
+      "title": "Parotid Swelling Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6179/Parotid+Swelling+Dr.+Deepak++atf.mp4?hash=AgADSA"
+    },
+    {
+      "title": "Peripheral Vascular Disease Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6180/Peripheral+Vascular+Disease+Dr.+Deepak++atf.mp4?hash=AgADSQ"
+    },
+    {
+      "title": "Rif Lump Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6181/Rif+Lump+Dr.+Deepak++atf.mp4?hash=AgADSg"
+    },
+    {
+      "title": "Scrotal Swelling Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6182/Scrotal+Swelling+Dr.+Deepak++atf.mp4?hash=AgADTA"
+    },
+    {
+      "title": "Soft Tissue Sarcoma Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6183/Soft+Tissue+Sarcoma+Dr.+Deepak++atf.mp4?hash=AgADTQ"
+    },
+    {
+      "title": "Thyroid Swelling Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6184/Thyroid+Swelling+Dr.+Deepak++atf.mp4?hash=AgADTg"
+    },
+    {
+      "title": "Varicose Vein Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6185/Varicose+Vein+Dr.+Deepak++atf.mp4?hash=AgADTw"
+    },
+    {
+      "title": "Acute Ischemic Contracture Dr. Mukul Mohindra atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6186/Acute+Ischemic+Contracture+Dr.+Mukul+Mohindra++atf.mp4?hash=AgADUA"
+    },
+    {
+      "title": "Bony Swelling Dr. Mukul Mohindra atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6187/Bony+Swelling+Dr.+Mukul+Mohindra++atf.mp4?hash=AgADUQ"
+    },
+    {
+      "title": "Carpal Tunnel Syndrome Dr. Mukul Mohindra atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6188/Carpal+Tunnel+Syndrome+Dr.+Mukul+Mohindra++atf.mp4?hash=AgADUg"
+    },
+    {
+      "title": "Dequervain S Tenosynovitis Dr. Mukul Mohindra atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6189/Dequervain+S+Tenosynovitis+Dr.+Mukul+Mohindra++atf.mp4?hash=AgADUw"
+    },
+    {
+      "title": "Knee Synovitis Dr. Mukul Mohindra atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6190/Knee+Synovitis+Dr.+Mukul+Mohindra++atf.mp4?hash=AgADVA"
+    },
+    {
+      "title": "Malunion Dr. Mukul Mohindra atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6191/Malunion+Dr.+Mukul+Mohindra++atf.mp4?hash=AgADVQ"
+    },
+    {
+      "title": "Non Union Diaphyseal Fracture Dr. Mukul Mohindra atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6192/Non+Union+Diaphyseal+Fracture+Dr.+Mukul+Mohindra++atf.mp4?hash=AgADVg"
+    },
+    {
+      "title": "Osteoarthritis Dr. Mukul Mohindra atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6193/Osteoarthritis+Dr.+Mukul+Mohindra++atf.mp4?hash=AgADVw"
+    },
+    {
+      "title": "Osteoporosis Dr. Mukul Mohindra atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6194/Osteoporosis+Dr.+Mukul+Mohindra++atf.mp4?hash=AgADWA"
+    },
+    {
+      "title": "Pivd Dr. Mukul Mohindra atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6195/Pivd+Dr.+Mukul+Mohindra++atf.mp4?hash=AgADWQ"
+    },
+    {
+      "title": "Rheumatoid Arthritis Dr. Mukul Mohindra atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6196/Rheumatoid+Arthritis+Dr.+Mukul+Mohindra++atf.mp4?hash=AgADWg"
+    },
+    {
+      "title": "Septic Arthritis Dr. Mukul Mohindra atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6197/Septic+Arthritis+Dr.+Mukul+Mohindra++atf.mp4?hash=AgADWw"
+    },
+    {
+      "title": "T.B Spine Dr. Mukul Mohindra atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6198/T.B+Spine+Dr.+Mukul+Mohindra++atf.mp4?hash=AgADXA"
+    },
+    {
+      "title": "Ulnar Nerve Palsy Dr. Mukul Mohindra atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6199/Ulnar+Nerve+Palsy+Dr.+Mukul+Mohindra++atf.mp4?hash=AgADXQ"
+    },
+    {
+      "title": "Anorexia Nervosa Dr. Sandeep Goil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6200/Anorexia+Nervosa+Dr.+Sandeep+Goil++atf.mp4?hash=AgADXg"
+    },
+    {
+      "title": "Autism Dr. Sandeep Govil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6201/Autism+Dr.+Sandeep+Govil++atf.mp4?hash=AgADXw"
+    },
+    {
+      "title": "Bulima Nervosa Dr. Sandeep Govil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6202/Bulima+Nervosa+Dr.+Sandeep+Govil++atf.mp4?hash=AgADYA"
+    },
+    {
+      "title": "Case Discusion Ptsd Dr. Sandeep Govil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6203/Case+Discusion+Ptsd+Dr.+Sandeep+Govil++atf.mp4?hash=AgADYg"
+    },
+    {
+      "title": "Cocaine Intoxication Dr. Sandeep Govil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6204/Cocaine+Intoxication+Dr.+Sandeep+Govil++atf.mp4?hash=AgADYw"
+    },
+    {
+      "title": "Dementia Dr. Sandeep Govil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6205/Dementia+Dr.+Sandeep+Govil++atf.mp4?hash=AgADaA"
+    },
+    {
+      "title": "Depression Dr. Sandeep Govil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6206/Depression+Dr.+Sandeep+Govil++atf.mp4?hash=AgADaQ"
+    },
+    {
+      "title": "Hyperacyivity Disorder Dr. Sandeep Govil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6207/Hyperacyivity+Disorder+Dr.+Sandeep+Govil++atf.mp4?hash=AgADcw"
+    },
+    {
+      "title": "Panic Attack Dr. Sandeep Govil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6208/Panic+Attack+Dr.+Sandeep+Govil++atf.mp4?hash=AgADdA"
+    },
+    {
+      "title": "Acute Bacterial Meningitis Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6209/Acute+Bacterial+Meningitis+Dr.+Santosh+Patil++atf.mp4?hash=AgADdg"
+    },
+    {
+      "title": "Atrial Fibrillation Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6210/Atrial+Fibrillation+Dr.+Santosh+Patil++atf.mp4?hash=AgADdw"
+    },
+    {
+      "title": "Bartter Syndrome Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6211/Bartter+Syndrome+Dr.+Santosh+Patil++atf.mp4?hash=AgADeA"
+    },
+    {
+      "title": "Bronchial Asthma Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6212/Bronchial+Asthma+Dr.+Santosh+Patil++atf.mp4?hash=AgADeg"
+    },
+    {
+      "title": "COPD Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6213/COPD+Dr.+Santosh+Patil+atf.mp4?hash=AgADew"
+    },
+    {
+      "title": "Cerebrovascular Accident Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6214/Cerebrovascular+Accident+Dr.+Santosh+Patil++atf.mp4?hash=AgADfQ"
+    },
+    {
+      "title": "Chronic Kidney Disease Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6215/Chronic+Kidney+Disease+Dr.+Santosh+Patil++atf.mp4?hash=AgADfg"
+    },
+    {
+      "title": "Chronic Stable Angina Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6216/Chronic+Stable+Angina+Dr.+Santosh+Patil++atf.mp4?hash=AgADfw"
+    },
+    {
+      "title": "Coarctation of Arota Dr. Sanjay Khatri atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6217/Coarctation+of+Arota+Dr.+Sanjay+Khatri++atf.mp4?hash=AgADgA"
+    },
+    {
+      "title": "Community Acquired Pneumona Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6218/Community+Acquired+Pneumona+Dr.+Santosh+Patil++atf.mp4?hash=AgADgQ"
+    },
+    {
+      "title": "Congestive Heart Failure Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6219/Congestive+Heart+Failure+Dr.+Santosh+Patil++atf.mp4?hash=AgADgg"
+    },
+    {
+      "title": "Cor Pulmonale Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6220/Cor+Pulmonale+Dr.+Santosh+Patil++atf.mp4?hash=AgADgw"
+    },
+    {
+      "title": "Covid 19 Pneumonia Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6221/Covid+19+Pneumonia+Dr.+Santosh+Patil++atf.mp4?hash=AgADhA"
+    },
+    {
+      "title": "Crohn's Disease Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6222/Crohn%27s+Disease+Dr.+Santosh+Patil+atf.mp4?hash=AgADhQ"
+    },
+    {
+      "title": "Cushing Syndrome Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6223/Cushing+Syndrome+Dr.+Santosh+Patil++atf.mp4?hash=AgADhw"
+    },
+    {
+      "title": "Dengue Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6224/Dengue+Dr.+Santosh+Patil++atf.mp4?hash=AgADiA"
+    },
+    {
+      "title": "Diabetes Insipidus Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6225/Diabetes+Insipidus+Dr.+Santosh+Patil++atf.mp4?hash=AgADiQ"
+    },
+    {
+      "title": "Diabetic Ketoacidosis Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6226/Diabetic+Ketoacidosis+Santosh+Patil++atf.mp4?hash=AgADiw"
+    },
+    {
+      "title": "Dilated Cardiomyopathy Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6227/Dilated+Cardiomyopathy+Dr.+Santosh+Patil++atf.mp4?hash=AgADjw"
+    },
+    {
+      "title": "Dyslipidemia Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6228/Dyslipidemia+Dr.+Santosh+Patil++atf.mp4?hash=AgADkA"
+    },
+    {
+      "title": "Gastritis Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6229/Gastritis+Dr.+Santosh+Patil++atf.mp4?hash=AgADkg"
+    },
+    {
+      "title": "Gbs Dr.Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6230/Gbs+Dr.Santosh+Patil++atf.mp4?hash=AgADkw"
+    },
+    {
+      "title": "Graves Disease Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6231/Graves+Disease+Dr.+Santosh+Patil++atf.mp4?hash=AgADlA"
+    },
+    {
+      "title": "Hemiplegia Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6232/Hemiplegia+Dr.+Santosh+Patil++atf.mp4?hash=AgADlQ"
+    },
+    {
+      "title": "Hip Arthritis Dr. Mukul Mohindra atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6233/Hip+Arthritis+Dr.+Mukul+Mohindra++atf.mp4?hash=AgADlg"
+    },
+    {
+      "title": "Hyperprolactinemia Dr. Santosh Patil 3 June 2022 atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6234/Hyperprolactinemia+Dr.+Santosh+Patil+3+June+2022+atf.mp4?hash=AgADlw"
+    },
+    {
+      "title": "Hypertension Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6235/Hypertension+Dr.+Santosh+Patil++atf.mp4?hash=AgADmA"
+    },
+    {
+      "title": "Hyperthyroidism Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6236/Hyperthyroidism+Dr.+Santosh+Patil++atf.mp4?hash=AgADmQ"
+    },
+    {
+      "title": "Hypertrophic Cardiomyopathy Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6237/Hypertrophic+Cardiomyopathy+Dr.+Santosh+Patil++atf.mp4?hash=AgADmg"
+    },
+    {
+      "title": "Idiopathic Thrombocytopenic Purpura Dr. Punit Bhojani atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6238/Idiopathic+Thrombocytopenic+Purpura+Dr.+Punit+Bhojani++atf.mp4?hash=AgADmw"
+    },
+    {
+      "title": "Inflammatory Bowel Disease Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6239/Inflammatory+Bowel+Disease+Dr.+Santosh+Patil++atf.mp4?hash=AgADnA"
+    },
+    {
+      "title": "Interstitial Lung Diseases Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6240/Interstitial+Lung+Diseases+Dr.+Santosh+Patil++atf.mp4?hash=AgADnQ"
+    },
+    {
+      "title": "Lung Cancer Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6241/Lung+Cancer+Dr.+Santosh+Patil++atf.mp4?hash=AgADng"
+    },
+    {
+      "title": "Matablic Syndrome Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6242/Matablic+Syndrome+Dr.+Santosh+Patil++atf.mp4?hash=AgADnw"
+    },
+    {
+      "title": "Migraine Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6243/Migraine+Dr.+Santosh+Patil++atf.mp4?hash=AgADoA"
+    },
+    {
+      "title": "Mitral Regurgitation Dr. Santosh Patil 3 June 2022 atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6244/Mitral+Regurgitation+Dr.+Santosh+Patil+3+June+2022+atf.mp4?hash=AgADoQ"
+    },
+    {
+      "title": "Mitral Stenosis Final Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6245/Mitral+Stenosis+Final+Dr.+Santosh+Patil++atf.mp4?hash=AgADog"
+    },
+    {
+      "title": "Motor Neuron Disease Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6246/Motor+Neuron+Disease+Dr.+Santosh+Patil++atf.mp4?hash=AgADow"
+    },
+    {
+      "title": "Multiply Melganoma Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6247/Multiply+Melganoma+Dr.+Santosh+Patil++atf.mp4?hash=AgADpg"
+    },
+    {
+      "title": "Muscular Dystrophy Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6248/Muscular+Dystrophy+Dr.+Santosh+Patil++atf.mp4?hash=AgADqQ"
+    },
+    {
+      "title": "Myxedema Coma Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6249/Myxedema+Coma+Dr.+Santosh+Patil++atf.mp4?hash=AgADrQ"
+    },
+    {
+      "title": "Nephritic Syndrome Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6250/Nephritic+Syndrome+Dr.+Santosh+Patil++atf.mp4?hash=AgADrg"
+    },
+    {
+      "title": "Obstructive Sleep Apnea Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6251/Obstructive+Sleep+Apnea+Dr.+Santosh+Patil++atf.mp4?hash=AgADrw"
+    },
+    {
+      "title": "Paraplegia Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6252/Paraplegia+Dr.+Santosh+Patil++atf.mp4?hash=AgADsA"
+    },
+    {
+      "title": "Parkinsons Dr.Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6253/Parkinsons+Dr.Santosh+Patil++atf.mp4?hash=AgADsQ"
+    },
+    {
+      "title": "Peptic Ulcer Disease Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6254/Peptic+Ulcer+Disease+Dr.+Santosh+Patil++atf.mp4?hash=AgADtw"
+    },
+    {
+      "title": "Pericarditis Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6255/Pericarditis+Dr.+Santosh+Patil++atf.mp4?hash=AgADuA"
+    },
+    {
+      "title": "Pheochromocytoma Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6256/Pheochromocytoma+Dr.+Santosh+Patil++atf.mp4?hash=AgADuQ"
+    },
+    {
+      "title": "Pleural Effusion Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6257/Pleural+Effusion+Dr.+Santosh+Patil++atf.mp4?hash=AgADug"
+    },
+    {
+      "title": "Pneumoconosis Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6258/Pneumoconosis+Dr.+Santosh+Patil++atf.mp4?hash=AgADuw"
+    },
+    {
+      "title": "Pneumocystis Pneumonia Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6259/Pneumocystis+Pneumonia+Dr.+Santosh+Patil++atf.mp4?hash=AgADvA"
+    },
+    {
+      "title": "Polycystic Kidney Diesease Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6260/Polycystic+Kidney+Diesease+Dr.+Santosh+Patil++atf.mp4?hash=AgADvg"
+    },
+    {
+      "title": "Pulmonary Tuberculosis Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6261/Pulmonary+Tuberculosis+Dr.+Santosh+Patil++atf.mp4?hash=AgADwA"
+    },
+    {
+      "title": "Renal Lump Dr. Deepak atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6262/Renal+Lump+Dr.+Deepak++atf.mp4?hash=AgADwg"
+    },
+    {
+      "title": "Secondary to Insulinoma Dr. Santosh Patil 3 June 2022 atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6263/Secondary+to+Insulinoma+Dr.+Santosh+Patil+3+June+2022+atf.mp4?hash=AgADxA"
+    },
+    {
+      "title": "Sick Sinus Syndrome Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6264/Sick+Sinus+Syndrome+Dr.+Santosh+Patil++atf.mp4?hash=AgADxQ"
+    },
+    {
+      "title": "Subarachnoid Haemorrhage Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6265/Subarachnoid+Haemorrhage+Dr.+Santosh+Patil++atf.mp4?hash=AgADxg"
+    },
+    {
+      "title": "Subdural Hemorrhagea Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6266/Subdural+Hemorrhagea+Dr.+Santosh+Patil++atf.mp4?hash=AgADxw"
+    },
+    {
+      "title": "Syphilis Dr. Santosh Patil 3 June 2022 atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6267/Syphilis+Dr.+Santosh+Patil+3+June+2022+atf.mp4?hash=AgADyA"
+    },
+    {
+      "title": "Typhoid Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6268/Typhoid+Dr.+Santosh+Patil++atf.mp4?hash=AgADyQ"
+    },
+    {
+      "title": "Ulcerative Colitis Dr. Santosh Patil 3 June 2022 atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6269/Ulcerative+Colitis+Dr.+Santosh+Patil+3+June+2022+atf.mp4?hash=AgADyg"
+    },
+    {
+      "title": "Urticiria Dr. Chesta Agarwal atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6270/Urticiria+Dr.+Chesta+Agarwal++atf.mp4?hash=AgADzA"
+    },
+    {
+      "title": "Viral Hepatitis Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6271/Viral+Hepatitis+Dr.+Santosh+Patil++atf.mp4?hash=AgADzQ"
+    },
+    {
+      "title": "Wilson S Disease Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6272/Wilson+S+Disease+Dr.+Santosh+Patil++atf.mp4?hash=AgADzg"
+    },
+    {
+      "title": "Zollinger Ellison Syndrome Dr. Santosh Patil atf.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/6273/Zollinger+Ellison+Syndrome+Dr.+Santosh+Patil++atf.mp4?hash=AgADzw"
+    }
+  ]
+}

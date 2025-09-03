@@ -1,0 +1,33 @@
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  right: 0;              /* keep aligned to right edge of toggle */
+  margin-top: 6px;
+  background: white;
+  border: 1px solid #cbd5e0;
+  border-radius: 8px;
+  max-height: 350px;
+  overflow-y: auto;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+  min-width: 250px;
+  max-width: 90vw;       /* prevent it from going outside screen */
+  word-wrap: break-word; /* wrap long names */
+  white-space: normal;   /* allow text to wrap */
+  animation: fadeIn 0.2s ease-in-out;
+}
+
+.dropdown-menu button {
+  display: block;
+  width: 100%;
+  text-align: left;
+  margin: 0;
+  padding: 10px 15px;
+  border-radius: 0;
+  background: transparent;
+  color: #2d3748;
+  border: none;
+  border-bottom: 1px solid #edf2f7;
+  font-size: 13px;
+  white-space: normal;   /* allow wrapping inside button */
+  word-break: break-word;
+}

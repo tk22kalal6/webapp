@@ -1,0 +1,333 @@
+{
+  "subjectName": "Damsb2Bhinglish",
+  "lectures": [
+    {
+      "title": "video_2024-03-25_11-34-01_7520663618501738508.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/16368/video_2024-03-25_11-34-01_7520663618501738508.mp4?hash=AgAD4h"
+    },
+    {
+      "title": "video_2024-03-25_11-34-39_7520664168257552400.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16369/video_2024-03-25_11-34-39_7520664168257552400.mp4?hash=AgAD4x"
+    },
+    {
+      "title": "video_2024-03-25_11-34-55_7520664915581861920.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16370/video_2024-03-25_11-34-55_7520664915581861920.mp4?hash=AgAD5B"
+    },
+    {
+      "title": "video_2024-03-25_11-35-40_7520665327898722308.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/16371/video_2024-03-25_11-35-40_7520665327898722308.mp4?hash=AgAD5R"
+    },
+    {
+      "title": "video_2024-03-25_11-36-10_7520665731625648148.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/16372/video_2024-03-25_11-36-10_7520665731625648148.mp4?hash=AgAD5h"
+    },
+    {
+      "title": "video_2024-03-25_11-36-23_7520666393050611736.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16373/video_2024-03-25_11-36-23_7520666393050611736.mp4?hash=AgAD5x"
+    },
+    {
+      "title": "video_2024-03-25_11-36-52_7520666762417799216.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16374/video_2024-03-25_11-36-52_7520666762417799216.mp4?hash=AgAD6h"
+    },
+    {
+      "title": "video_2024-03-25_11-37-02_7520667153259823124.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/16375/video_2024-03-25_11-37-02_7520667153259823124.mp4?hash=AgAD6x"
+    },
+    {
+      "title": "video_2024-03-25_11-37-19_7520667453907533836.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/16376/video_2024-03-25_11-37-19_7520667453907533836.mp4?hash=AgAD7B"
+    },
+    {
+      "title": "video_2024-03-25_11-37-30_7520667660065964036.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16377/video_2024-03-25_11-37-30_7520667660065964036.mp4?hash=AgAD7R"
+    },
+    {
+      "title": "video_2024-03-25_11-37-41_7520667943533805628.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16378/video_2024-03-25_11-37-41_7520667943533805628.mp4?hash=AgAD7h"
+    },
+    {
+      "title": "video_2024-03-25_11-37-55_7520668175462039564.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/16379/video_2024-03-25_11-37-55_7520668175462039564.mp4?hash=AgAD7x"
+    },
+    {
+      "title": "video_2024-03-25_11-33-23_7520668497584586764.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/16380/video_2024-03-25_11-33-23_7520668497584586764.mp4?hash=AgAD8B"
+    },
+    {
+      "title": "video_2024-03-28_20-53-34_7520668961441054732.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/16381/video_2024-03-28_20-53-34_7520668961441054732.mp4?hash=AgAD8x"
+    },
+    {
+      "title": "video_2024-03-28_20-52-05_7520670039477846020.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/16382/video_2024-03-28_20-52-05_7520670039477846020.mp4?hash=AgAD9B"
+    },
+    {
+      "title": "video_2024-03-28_20-54-07_7520670632183332868.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16383/video_2024-03-28_20-54-07_7520670632183332868.mp4?hash=AgAD9R"
+    },
+    {
+      "title": "video_2024-03-28_20-54-21_7520671005845487632.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16384/video_2024-03-28_20-54-21_7520671005845487632.mp4?hash=AgAD9h"
+    },
+    {
+      "title": "video_2024-03-28_20-54-58_7520671302198231060.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16385/video_2024-03-28_20-54-58_7520671302198231060.mp4?hash=AgAD9x"
+    },
+    {
+      "title": "video_2024-03-28_20-51-16_7520671839069143096.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16386/video_2024-03-28_20-51-16_7520671839069143096.mp4?hash=AgAD-B"
+    },
+    {
+      "title": "video_2024-03-28_21-07-51_7520672169781624852.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/16387/video_2024-03-28_21-07-51_7520672169781624852.mp4?hash=AgAD-h"
+    },
+    {
+      "title": "video_2024-03-28_21-14-11_7520672672292798472.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/16388/video_2024-03-28_21-14-11_7520672672292798472.mp4?hash=AgAD-x"
+    },
+    {
+      "title": "video_2024-03-28_21-14-55_7520672994415345684.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/16389/video_2024-03-28_21-14-55_7520672994415345684.mp4?hash=AgAD_R"
+    },
+    {
+      "title": "video_2024-03-28_21-15-14_7520673535581224964.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/16390/video_2024-03-28_21-15-14_7520673535581224964.mp4?hash=AgAD_h"
+    },
+    {
+      "title": "video_2024-03-28_21-18-21_7520673883473575968.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/16391/video_2024-03-28_21-18-21_7520673883473575968.mp4?hash=AgAD_x"
+    },
+    {
+      "title": "video_2024-03-28_21-18-23_7520674484768997380.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/16392/video_2024-03-28_21-18-23_7520674484768997380.mp4?hash=AgAEHw"
+    },
+    {
+      "title": "video_2024-03-28_21-19-29_7520674669452591140.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/16393/video_2024-03-28_21-19-29_7520674669452591140.mp4?hash=AgADAh"
+    },
+    {
+      "title": "video_2024-03-28_21-21-22_7520675403891998724.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/16394/video_2024-03-28_21-21-22_7520675403891998724.mp4?hash=AgADBR"
+    },
+    {
+      "title": "video_2024-03-28_21-23-01_7520676292950228996.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16395/video_2024-03-28_21-23-01_7520676292950228996.mp4?hash=AgADdB"
+    },
+    {
+      "title": "video_2024-03-28_21-24-46_7520677512720941100.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16396/video_2024-03-28_21-24-46_7520677512720941100.mp4?hash=AgADdh"
+    },
+    {
+      "title": "video_2024-03-28_21-26-43_7520678741081587760.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/16397/video_2024-03-28_21-26-43_7520678741081587760.mp4?hash=AgADex"
+    },
+    {
+      "title": "video_2024-03-28_21-34-24_7520680519198048296.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/16398/video_2024-03-28_21-34-24_7520680519198048296.mp4?hash=AgADgR"
+    },
+    {
+      "title": "video_2024-03-28_21-35-17_7520681541400264768.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16399/video_2024-03-28_21-35-17_7520681541400264768.mp4?hash=AgADhh"
+    },
+    {
+      "title": "video_2024-03-28_21-18-23_7520682288724574220.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16400/video_2024-03-28_21-18-23_7520682288724574220.mp4?hash=AgADih"
+    },
+    {
+      "title": "video_2024-03-28_21-36-07_7520682494883004444.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16401/video_2024-03-28_21-36-07_7520682494883004444.mp4?hash=AgADjR"
+    },
+    {
+      "title": "video_2024-09-07_21-03-54_7520682696746467360.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16402/video_2024-09-07_21-03-54_7520682696746467360.mp4?hash=AgADkB"
+    },
+    {
+      "title": "video_2024-03-28_21-36-40_7520682941559603224.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/16403/video_2024-03-28_21-36-40_7520682941559603224.mp4?hash=AgADlR"
+    },
+    {
+      "title": "video_2024-03-28_21-37-03_7520683259387183180.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/16404/video_2024-03-28_21-37-03_7520683259387183180.mp4?hash=AgADlx"
+    },
+    {
+      "title": "video_2024-03-28_21-37-36_7520683564329861128.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16405/video_2024-03-28_21-37-36_7520683564329861128.mp4?hash=AgADnB"
+    },
+    {
+      "title": "video_2024-03-28_21-39-22_7520683976646721604.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16406/video_2024-03-28_21-39-22_7520683976646721604.mp4?hash=AgADnx"
+    },
+    {
+      "title": "video_2024-03-28_21-39-30_7520684247229661224.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/16407/video_2024-03-28_21-39-30_7520684247229661224.mp4?hash=AgADoB"
+    },
+    {
+      "title": "video_2024-03-28_21-39-39_7520684492042797156.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/16408/video_2024-03-28_21-39-39_7520684492042797156.mp4?hash=AgADoR"
+    },
+    {
+      "title": "video_2024-09-07_21-07-47_7520684706791161860.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16409/video_2024-09-07_21-07-47_7520684706791161860.mp4?hash=AgADqR"
+    },
+    {
+      "title": "video_2024-03-28_21-40-27_7520684904359657496.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16410/video_2024-03-28_21-40-27_7520684904359657496.mp4?hash=AgADqh"
+    },
+    {
+      "title": "video_2024-03-28_21-41-06_7520685093338218544.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/16411/video_2024-03-28_21-41-06_7520685093338218544.mp4?hash=AgADrR"
+    },
+    {
+      "title": "video_2024-03-28_21-41-28_7520685368216125464.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/16412/video_2024-03-28_21-41-28_7520685368216125464.mp4?hash=AgADsR"
+    },
+    {
+      "title": "video_2024-09-07_21-10-26_7520685643094032416.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/16413/video_2024-09-07_21-10-26_7520685643094032416.mp4?hash=AgADsx"
+    },
+    {
+      "title": "video_2024-03-28_21-41-57_7520685875022266372.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/16414/video_2024-03-28_21-41-57_7520685875022266372.mp4?hash=AgADtR"
+    },
+    {
+      "title": "video_2024-03-28_21-42-21_7520686167080042520.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16415/video_2024-03-28_21-42-21_7520686167080042520.mp4?hash=AgADuB"
+    },
+    {
+      "title": "video_2024-03-28_21-42-45_7520686459137818636.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16416/video_2024-03-28_21-42-45_7520686459137818636.mp4?hash=AgADux"
+    },
+    {
+      "title": "video_2024-03-28_21-43-10_7520686734015725680.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16417/video_2024-03-28_21-43-10_7520686734015725680.mp4?hash=AgADvh"
+    },
+    {
+      "title": "video_2024-03-28_21-43-50_7520687026073501744.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16418/video_2024-03-28_21-43-50_7520687026073501744.mp4?hash=AgADwR"
+    },
+    {
+      "title": "video_2024-03-28_21-48-22_7520687386850754564.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16419/video_2024-03-28_21-48-22_7520687386850754564.mp4?hash=AgADxx"
+    },
+    {
+      "title": "video_2024-03-28_21-48-38_7520688013915979804.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/16420/video_2024-03-28_21-48-38_7520688013915979804.mp4?hash=AgADyR"
+    },
+    {
+      "title": "video_2024-03-28_21-48-59_7520688404758003796.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/16421/video_2024-03-28_21-48-59_7520688404758003796.mp4?hash=AgADzh"
+    },
+    {
+      "title": "video_2024-03-28_21-49-26_7520688791305060384.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/16422/video_2024-03-28_21-49-26_7520688791305060384.mp4?hash=AgAD1h"
+    },
+    {
+      "title": "video_2024-03-28_21-49-48_7520689349650808868.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16423/video_2024-03-28_21-49-48_7520689349650808868.mp4?hash=AgAD2h"
+    },
+    {
+      "title": "video_2024-03-28_21-49-51_7520689770557603868.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16424/video_2024-03-28_21-49-51_7520689770557603868.mp4?hash=AgAD3B"
+    },
+    {
+      "title": "video_2024-03-28_21-52-58_7520690058320412676.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/16425/video_2024-03-28_21-52-58_7520690058320412676.mp4?hash=AgAD3x"
+    },
+    {
+      "title": "video_2024-03-28_21-53-30_7520690324608385084.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/16426/video_2024-03-28_21-53-30_7520690324608385084.mp4?hash=AgAD5h"
+    },
+    {
+      "title": "video_2024-03-28_21-53-52_7520690762695049252.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16427/video_2024-03-28_21-53-52_7520690762695049252.mp4?hash=AgAD6R"
+    },
+    {
+      "title": "video_2024-03-28_21-53-54_7520691089112563772.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/16428/video_2024-03-28_21-53-54_7520691089112563772.mp4?hash=AgAD6x"
+    },
+    {
+      "title": "video_2024-03-28_21-53-59_7520691282386092048.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16429/video_2024-03-28_21-53-59_7520691282386092048.mp4?hash=AgAD7R"
+    },
+    {
+      "title": "video_2024-03-28_21-54-14_7520691956695957540.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16430/video_2024-03-28_21-54-14_7520691956695957540.mp4?hash=AgAD8B"
+    },
+    {
+      "title": "video_2024-03-28_21-54-20_7520692149969485872.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/16431/video_2024-03-28_21-54-20_7520692149969485872.mp4?hash=AgAD8x"
+    },
+    {
+      "title": "video_2024-03-28_21-54-35_7520692347537981448.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/16432/video_2024-03-28_21-54-35_7520692347537981448.mp4?hash=AgAD9B"
+    },
+    {
+      "title": "video_2024-03-28_21-54-39_7520692553696411656.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/16433/video_2024-03-28_21-54-39_7520692553696411656.mp4?hash=AgAD9R"
+    },
+    {
+      "title": "video_2024-03-28_21-54-53_7520692734085038156.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/16434/video_2024-03-28_21-54-53_7520692734085038156.mp4?hash=AgAD-B"
+    },
+    {
+      "title": "video_2024-03-28_21-59-39_7520693030437781532.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/16435/video_2024-03-28_21-59-39_7520693030437781532.mp4?hash=AgAD-R"
+    },
+    {
+      "title": "video_2024-03-28_22-01-03_7520693215121375424.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/16436/video_2024-03-28_22-01-03_7520693215121375424.mp4?hash=AgAEGA"
+    },
+    {
+      "title": "video_2024-03-28_22-01-08_7520694396237381636.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16437/video_2024-03-28_22-01-08_7520694396237381636.mp4?hash=AgADAh"
+    },
+    {
+      "title": "video_2024-03-28_22-01-11_7520694645345484808.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16438/video_2024-03-28_22-01-11_7520694645345484808.mp4?hash=AgADBB"
+    },
+    {
+      "title": "video_2024-03-28_22-01-34_7520694838619013148.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16439/video_2024-03-28_22-01-34_7520694838619013148.mp4?hash=AgADBR"
+    },
+    {
+      "title": "video_2024-03-28_22-01-38_7520695061957312516.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/16440/video_2024-03-28_22-01-38_7520695061957312516.mp4?hash=AgADCh"
+    },
+    {
+      "title": "video_2024-03-28_22-01-49_7520695246640906248.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/16441/video_2024-03-28_22-01-49_7520695246640906248.mp4?hash=AgADDB"
+    },
+    {
+      "title": "video_2024-03-28_22-02-25_7520695435619467420.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/16442/video_2024-03-28_22-02-25_7520695435619467420.mp4?hash=AgADDh"
+    },
+    {
+      "title": "video_2024-03-28_22-02-55_7520695843641360484.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/16443/video_2024-03-28_22-02-55_7520695843641360484.mp4?hash=AgADDx"
+    },
+    {
+      "title": "video_2024-03-28_22-03-08_7520696251663253556.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/16444/video_2024-03-28_22-03-08_7520696251663253556.mp4?hash=AgADER"
+    },
+    {
+      "title": "video_2024-03-28_22-03-46_7520696509361291420.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16445/video_2024-03-28_22-03-46_7520696509361291420.mp4?hash=AgADFR"
+    },
+    {
+      "title": "video_2024-03-28_22-04-17_7520696852958675080.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/16446/video_2024-03-28_22-04-17_7520696852958675080.mp4?hash=AgADFx"
+    },
+    {
+      "title": "video_2024-03-28_22-04-20_7520697179376189476.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/16447/video_2024-03-28_22-04-20_7520697179376189476.mp4?hash=AgADGB"
+    },
+    {
+      "title": "video_2024-03-28_22-16-56_7520697471433965612.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/16448/video_2024-03-28_22-16-56_7520697471433965612.mp4?hash=AgADGx"
+    },
+    {
+      "title": "video_2024-03-28_22-08-50_7520698321837490192.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/16449/video_2024-03-28_22-08-50_7520698321837490192.mp4?hash=AgADHR"
+    }
+  ]
+}

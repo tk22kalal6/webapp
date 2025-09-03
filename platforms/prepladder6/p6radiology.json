@@ -1,0 +1,81 @@
+{
+  "subjectName": "p6radiology",
+  "lectures": [
+    {
+      "title": "1 basics of radiology part 1 yw.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22883/1+basics+of+radiology+part+1+yw.mp4?hash=AgADzh"
+    },
+    {
+      "title": "2 basics of radiology part 2 yw.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/22884/2+basics+of+radiology+part+2+yw.mp4?hash=AgADzx"
+    },
+    {
+      "title": "3 basics of MRI yw.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22885/3+basics+of+MRI+yw.mp4?hash=AgAD0B"
+    },
+    {
+      "title": "4 interventional radiology yw.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/22886/4+interventional+radiology+yw.mp4?hash=AgAD0R"
+    },
+    {
+      "title": "5 radiation units, protection, dose limits and hazards yw.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22887/5+radiation+units%2C+protection%2C+dose+limits+and+hazards+yw.mp4?hash=AgAD0h"
+    },
+    {
+      "title": "6 contrast media yw.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/22888/6+contrast+media+yw.mp4?hash=AgAD0x"
+    },
+    {
+      "title": "7 respiratory radiology yw.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22889/7+respiratory+radiology+yw.mp4?hash=AgAD1B"
+    },
+    {
+      "title": "8 CVs radiology yw.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/22890/8+CVs+radiology+yw.mp4?hash=AgAD1R"
+    },
+    {
+      "title": "9 neuro radiology part 1 yw.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/22891/9+neuro+radiology+part+1+yw.mp4?hash=AgAD1h"
+    },
+    {
+      "title": "10 neuro radiology part 2 yw.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/22892/10+neuro+radiology+part+2+yw.mp4?hash=AgAD1x"
+    },
+    {
+      "title": "11 head and neck radiology yw",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/22893/11+head+and+neck+radiology+yw?hash=AgADSQ"
+    },
+    {
+      "title": "12 git (gastrointestinal tract) yw",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/22894/12+git+%28gastrointestinal+tract%29+yw?hash=AgADSg"
+    },
+    {
+      "title": "13 heberto biliary and pancreatic radiology yw",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22895/13+heberto+biliary+and+pancreatic+radiology+yw?hash=AgADSw"
+    },
+    {
+      "title": "14 genitol urinary radiology yw",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/22896/14+genitol+urinary+radiology+yw?hash=AgADTA"
+    },
+    {
+      "title": "15 obg y imaging yw15 obg y imaging yw",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22897/15+obg+y+imaging+yw15+obg+y+imaging+yw?hash=AgADTQ"
+    },
+    {
+      "title": "16 breast imaging yw",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/22898/16+breast+imaging+yw?hash=AgADTg"
+    },
+    {
+      "title": "17 msk (musculoskeletal radiology) yw",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22899/17+msk+%28musculoskeletal+radiology%29+yw?hash=AgADTw"
+    },
+    {
+      "title": "18 nuclear medicine yw",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/22900/18+nuclear+medicine+yw?hash=AgADUA"
+    },
+    {
+      "title": "19 radiotherapy yw",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/22901/19+radiotherapy+yw?hash=AgADUQ"
+    }
+  ]
+}

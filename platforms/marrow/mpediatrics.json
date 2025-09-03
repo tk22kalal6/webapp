@@ -1,0 +1,233 @@
+{
+  "subjectName": "Marrow",
+  "lectures": [
+    {
+      "title": "0.How to approach pediatrics",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3847/0.How+to+approach+pediatrics.mp4?hash=AgADXQ"
+    },
+    {
+      "title": "1.Normal Newborn",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3848/1.Normal+Newborn.mp4?hash=AgADYA"
+    },
+    {
+      "title": "2.Routine Newborn Care",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3849/2.Routine+Newborn+Care.mp4?hash=AgADYw"
+    },
+    {
+      "title": "3.Management of LBW Babies",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3850/3.Management+of+LBW+Babies.mp4?hash=AgAD0w"
+    },
+    {
+      "title": "4.Neonatal Resuscitation",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3851/4.Neonatal+Resuscitation.mp4?hash=AgAD1w"
+    },
+    {
+      "title": "5.Infections in neonates",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3852/5.Infections+in+neonates.mp4?hash=AgAD2w"
+    },
+    {
+      "title": "6.Birth asphyxia and neonatal seizures",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3853/6.Birth+asphyxia+and+neonatal+seizures.mp4?hash=AgAD3w"
+    },
+    {
+      "title": "7. NEC",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3854/7.NEC.mp4?hash=AgAD4g"
+    },
+    {
+      "title": "8.Respiratory distress in newborn",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3855/8.Respiratory+distress+in+newborn.mp4?hash=AgAD4w"
+    },
+    {
+      "title": "9.Neonatal hypoglycemia and infant of diabetic mother",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3856/9.Neonatal+hypoglycemia+and+infant+of+diabetic+mother.mp4?hash=AgAD5w"
+    },
+    {
+      "title": "10.Neonatal jaundice",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3857/10.Neonatal+jaundice.mp4?hash=AgAD8w"
+    },
+    {
+      "title": "11. Normal Growth",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3858/11.Normal+growth.mp4?hash=AgAD_Q"
+    },
+    {
+      "title": "12. Abnormalities in head and size",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3859/12.Abnormalities+in+head+%2C+size+and+shape.mp4?hash=AgADAg"
+    },
+    {
+      "title": "13. Short stature",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3860/13.Short+stature.mp4?hash=AgADBA"
+    },
+    {
+      "title": "14. Normal development",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3861/14.Normal+development.mp4?hash=AgADCA"
+    },
+    {
+      "title": "15. Disorders of development",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3862/15.Disorders+of+development.mp4?hash=AgADDA"
+    },
+    {
+      "title": "16. Behavioural disorders in children",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3863/16.Behavioral+disorders+in+children.mp4?hash=AgADDg"
+    },
+    {
+      "title": "17. Breastfeeding",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3864/17.Breastfeeding.mp4?hash=AgADzg"
+    },
+    {
+      "title": "18. Malnutrition",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3865/18.Malnutrition.mp4?hash=AgADzw"
+    },
+    {
+      "title": "19. Rickets and scurvy",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3866/19.Rickets+and+scurvy.mp4?hash=AgAD0A"
+    },
+    {
+      "title": "20. Genetic disorders",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3867/20.Genetic+disorders.mp4?hash=AgAD0w"
+    },
+    {
+      "title": "21. Common childhood infections",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3868/21.Common+childhood+infections.mp4?hash=AgAD1A"
+    },
+    {
+      "title": "22. TORCH Infections",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3869/22.TORCH+infections.mp4?hash=AgAD1Q"
+    },
+    {
+      "title": "23. COVID-19 in children",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3870/23.COVID+19+in+children.mp4?hash=AgAD1g"
+    },
+    {
+      "title": "24. Gastrointestinal anomalies",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3871/24.+Gastrointestinal+anomalies.mp4?hash=AgAD1w"
+    },
+    {
+      "title": "25. Diarrhoea",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3872/25.+Diarrhea.mp4?hash=AgAD2A"
+    },
+    {
+      "title": "26. Miscellaneous topics in GIT",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3873/26.+Miscellaneous+topics+in+GIT.mp4?hash=AgAD2w"
+    },
+    {
+      "title": "27. Neonatal Cholestasis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3874/27.+Neonatal+Cholestiasis.mp4?hash=AgAD3A"
+    },
+    {
+      "title": "28. Metabolic Liver Disease",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3875/28.+Metabolic+Liver+Disease.mp4?hash=AgAD3Q"
+    },
+    {
+      "title": "29. Upper airway disorders",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3876/29.+Upper+airway+disorders.mp4?hash=AgAD3g"
+    },
+    {
+      "title": "30. Foreign body, congenital lung anomalies and asthma",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3877/30.+Foreign+body+congenital+lung+anomalies+and+asthma.mp4?hash=AgAD3w"
+    },
+    {
+      "title": "31. Lower respiratory tract infection",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3878/31.+Lower+respiratory+infections.mp4?hash=AgAD4w"
+    },
+    {
+      "title": "32 . Cystic fibrosis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3879/32.+Cystic+fibrosis.mp4?hash=AgAD5Q"
+    },
+    {
+      "title": "33. Fetal circulation and introduction to congenital heart disease",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3880/33.+Fetal+circulation+and+introduction+to+CHD.mp4?hash=AgAD5w"
+    },
+    {
+      "title": "34. Acynotic congenital heart defects",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3881/34.+Acynotic+congenital+heart+disease.mp4?hash=AgAD6A"
+    },
+    {
+      "title": "35. Cyanotic congenital heart defects",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3882/35.+Cyanotic+congenital+heart+disease.mp4?hash=AgAD6g"
+    },
+    {
+      "title": "36. Acute rheumatic fever",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3883/36.+Acute+rheumatic+fever.mp4?hash=AgAD6w"
+    },
+    {
+      "title": "37. Congenital anomalies of kidney and urinary tract",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3884/37.+Congenital+anomalies+of+kidney+and+urinary+tract.mp4?hash=AgAD7A"
+    },
+    {
+      "title": "38. Glomerulonephritis",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3885/38.+Glomerulonephritis.mp4?hash=AgAD7Q"
+    },
+    {
+      "title": "39. Nephrotic syndrome",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3886/39.+Nephrotic+syndrome.mp4?hash=AgAD7g"
+    },
+    {
+      "title": "40. Inherited tubular disorders",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3887/40.+Inherited+tubular+disease.mp4?hash=AgAD7w"
+    },
+    {
+      "title": "41. Acute kidney injury and chronic kidney disease",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3888/41.+Acute+kidney+injury+and+CKD.mp4?hash=AgAD8A"
+    },
+    {
+      "title": "42. Congenital anomalies and hydrocephalus",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3889/42.+Congenital+Hemolytic+anemia.mp4?hash=AgAD8Q"
+    },
+    {
+      "title": "43. Seizure disorders and epilepsy",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3890/42.Congenital+anomalies+and+hydrocephalus.mp4?hash=AgAD8g"
+    },
+    {
+      "title": "44. Cerebral palsy and CNS infections",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3891/43.Seizure+disorders+and+epilepsy.mp4?hash=AgAD8w"
+    },
+    {
+      "title": "45. Neuromuscular disorders",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3892/44.Cerebral+palsy+and+CNS+examination.mp4?hash=AgAD9A"
+    },
+    {
+      "title": "46. Growth hormone deficiency and hypothyroidism",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3893/45.Neuromuscular+disorders.mp4?hash=AgAD9Q"
+    },
+    {
+      "title": "47. Adrenal disorders",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3894/46.+GH+deficiency+and+hypothyroidism.mp4?hash=AgAD9g"
+    },
+    {
+      "title": "48. Pubertal disorders",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3895/47.+Adrenal+disorders.mp4?hash=AgAD-A"
+    },
+    {
+      "title": "49. Haematological malignancies",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3896/48.+Pubertal+disorders.mp4?hash=AgAD-Q"
+    },
+    {
+      "title": "50. Solid tumors in children",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3897/49.+Haematological+malignancy.mp4?hash=AgAD-g"
+    },
+    {
+      "title": "51. Rheumatic disease of childhood",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3898/50.+Solid+tumors+in+children.mp4?hash=AgAD-w"
+    },
+    {
+      "title": "52. Approach to anemia in children and nutritional anemia",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3899/51.+Rheumatic+disease+of+children.mp4?hash=AgAD_A"
+    },
+    {
+      "title": "53. Congenital Hemolytic Anemia",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3900/52.+App+to+anemia+in+children+nutritional+anemia.mp4?hash=AgAD_Q"
+    },
+    {
+      "title": "54. Bleeding disorders",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3901/54.+Bleeding+disorders.mp4?hash=AgAD_g"
+    },
+    {
+      "title": "55. Shock",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3902/55.+Shock.mp4?hash=AgAD_w"
+    },
+    {
+      "title": "56. PALS Guidelines",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/3903/56.+PALS+guidelines.mp4?hash=AgAEDg"
+    }
+  ]
+}

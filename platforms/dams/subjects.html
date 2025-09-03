@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LASTPULSE - Select Platform | NEET PG Preparation</title>
+  <meta name="description" content="Choose from top NEET PG preparation platforms: Marrow, DAMS, and PrepLadder. Access thousands of video lectures for medical entrance exam preparation.">
+  <meta name="keywords" content="NEET PG, medical entrance, Marrow, DAMS, PrepLadder, video lectures, medical preparation">
+  <link rel="stylesheet" href="../../styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <script src="../../access-control.js"></script>
+</head>
+<body>
+  <script>
+    // Initialize access control for protected page
+    if (!accessControl.initProtectedPage()) {
+      // Page will redirect, so we can stop execution here
+      throw new Error('Access denied - redirecting to index.html');
+    }
+  </script>
+  <header>
+    <div class="header-content">
+      <button onclick="window.location.href='../../../app.html'" class="back-button">
+        <i class="fas fa-arrow-left"></i>
+      </button>
+      <h1>Select Platform</h1>
+      <p class="header-subtitle">Choose Your NEET-PG Preparation Platform</p>
+      <div class="search-bar">
+        <i class="fas fa-search"></i>
+        <input type="text" placeholder="Search platforms..." id="searchInput">
+      </div>
+    </div>
+  </header>
+  <main>
+    <div class="platform-selector">
+      <!-- DAMS -->
+<button onclick="window.location.href='damsb2beng/subjects.html'">
+  <i class="fas fa-university"></i>
+  <div class="platform-name">DAMS English 2025</div>
+  <div class="platform-description">Latest Cycle is at bottom of lectures</div>
+</button>
+
+<!-- PrepLadder 6X -->
+<button onclick="window.location.href='damsb2bhinglish/subjects.html'">
+  <i class="fas fa-layer-group"></i>
+  <div class="platform-name">DAMS Hinglish 2025</div>
+  <div class="platform-description">Latest Cycle is at bottom of lectures</div>
+</button>
+
+<!-- Marrow -->
+<button onclick="window.location.href='damsultlive/subjects.html'">
+  <i class="fas fa-dna"></i>
+  <div class="platform-name">DAMS Ulitimate Live 2025</div>
+  <div class="platform-description">Latest Cycle is at bottom of lectures</div>
+</button>
+
+    </div>
+  </main>
+  
+<nav class="bottom-nav">
+  <a href="../../app.html" class="active"><i class="fas fa-lightbulb"></i><span>Home</span></a>
+  <a href="../../platforms.html"><i class="fas fa-play-circle"></i><span>Videos</span></a>
+  <a href="../../search.html"><i class="fas fa-search"></i><span>Search</span></a>
+  <a href="../../quiz/index.html"><i class="fas fa-question-circle"></i><span>Q Bank</span></a>
+</nav>
+
+  <script>
+    // Simple search functionality
+    document.getElementById('searchInput').addEventListener('input', function(e) {
+      const query = e.target.value.toLowerCase();
+      const buttons = document.querySelectorAll('.platform-selector button');
+      buttons.forEach(button => {
+        const text = button.textContent.toLowerCase();
+        button.style.display = text.includes(query) ? 'flex' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>

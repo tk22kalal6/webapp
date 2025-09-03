@@ -1,0 +1,57 @@
+{
+  "subjectName": "Damsb2Beng",
+  "lectures": [
+    {
+      "title": "B1.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/14180/B1.mp4?hash=AgADch"
+    },
+    {
+      "title": "B2.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/14181/B2.mp4?hash=AgADfB"
+    },
+    {
+      "title": "B3.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14182/B3.mp4?hash=AgADgh"
+    },
+    {
+      "title": "B4.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14183/B4.mp4?hash=AgADiR"
+    },
+    {
+      "title": "B5.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/14184/B5.mp4?hash=AgADkB"
+    },
+    {
+      "title": "B6.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/14185/B6.mp4?hash=AgADkx"
+    },
+    {
+      "title": "B7.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/14186/B7.mp4?hash=AgADlR"
+    },
+    {
+      "title": "B8.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/14187/B8.mp4?hash=AgADlh"
+    },
+    {
+      "title": "B9.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/14188/B9.mp4?hash=AgADmx"
+    },
+    {
+      "title": "B10.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/14189/B10.mp4?hash=AgADnB"
+    },
+    {
+      "title": "B11.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/14190/B11.mp4?hash=AgADnh"
+    },
+    {
+      "title": "B12.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/14191/B12.mp4?hash=AgADoB"
+    },
+    {
+      "title": "B13.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14192/B13.mp4?hash=AgADpR"
+    }
+  ]
+}

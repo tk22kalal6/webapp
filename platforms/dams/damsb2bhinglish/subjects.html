@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DAMS B2B Hinglish Subjects - NEXTPULSE | NEET PG Video Lectures</title>
+  <meta name="description" content="Access DAMS B2B Hinglish comprehensive NEET PG video lectures across all medical subjects including Anatomy, Physiology, Pathology, and more.">
+  <meta name="keywords" content="DAMS B2B Hinglish, NEET PG, medical subjects, anatomy, physiology, pathology, video lectures">
+  <link rel="stylesheet" href="../../../styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <script src="../../../access-control.js"></script>
+</head>
+<body>
+  <script>
+    // Initialize access control for protected page
+    if (!accessControl.initProtectedPage()) {
+      // Page will redirect, so we can stop execution here
+      throw new Error('Access denied - redirecting to index.html');
+    }
+  </script>
+  <header>
+    <div class="header-content">
+      <button onclick="window.location.href='../../platforms.html'" class="back-button" style="display: block;">
+        <i class="fas fa-arrow-left"></i>
+      </button>
+      <h1>DAMS B2B Hinglish Subjects</h1>
+      <p class="header-subtitle">Expert Faculty Video Lectures</p>
+      <div class="search-bar">
+        <i class="fas fa-search"></i>
+        <input type="text" placeholder="Search subjects..." id="searchInput">
+      </div>
+    </div>
+  </header>
+  <main>
+    <div class="subject-card" onclick="window.location.href='anatomy.html'">
+      <i class="fas fa-brain"></i>
+      <span>Anatomy</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='dhanatomy.html'">
+      <i class="fas fa-bone"></i>
+      <span>Dhanatomy</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='dhanesthesia.html'">
+      <i class="fas fa-procedures"></i>
+      <span>Anesthesia</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='dhdermatology.html'">
+      <i class="fas fa-allergies"></i>
+      <span>Dermatology</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='dhfmt.html'">
+      <i class="fas fa-balance-scale"></i>
+      <span>Forensic Medicine</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='dhgyne.html'">
+      <i class="fas fa-female"></i>
+      <span>Gynecology</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='dhmedicine1.html'">
+      <i class="fas fa-stethoscope"></i>
+      <span>Medicine Part 1</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='dhmedicinep2.html'">
+      <i class="fas fa-stethoscope"></i>
+      <span>Medicine Part 2</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='dhobs.html'">
+      <i class="fas fa-baby"></i>
+      <span>Obstetrics</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='dhophthalmology.html'">
+      <i class="fas fa-eye"></i>
+      <span>Ophthalmology</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='dhpathology.html'">
+      <i class="fas fa-vials"></i>
+      <span>Pathology</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='dhpediatrics.html'">
+      <i class="fas fa-child"></i>
+      <span>Pediatrics 1</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='dhpediatrics2.html'">
+      <i class="fas fa-baby-carriage"></i>
+      <span>Pediatrics 2</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='dhpharma.html'">
+      <i class="fas fa-pills"></i>
+      <span>Pharmacology</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='dhpsm.html'">
+      <i class="fas fa-users"></i>
+      <span>PSM</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='dhpsychiatry.html'">
+      <i class="fas fa-brain"></i>
+      <span>Psychiatry</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='dhradiology.html'">
+      <i class="fas fa-x-ray"></i>
+      <span>Radiology</span>
+    </div>
+
+    <div class="subject-card" onclick="window.location.href='dhsurgery.html'">
+      <i class="fas fa-scalpel"></i>
+      <span>Surgery</span>
+    </div>
+  </main>
+  
+<nav class="bottom-nav">
+  <a href="../../../app.html" class="active"><i class="fas fa-lightbulb"></i><span>Home</span></a>
+  <a href="../../../platforms.html"><i class="fas fa-play-circle"></i><span>Videos</span></a>
+  <a href="../../../search.html"><i class="fas fa-search"></i><span>Search</span></a>
+  <a href="../../../quiz/index.html"><i class="fas fa-question-circle"></i><span>Q Bank</span></a>
+</nav>
+
+  <script>
+    document.getElementById('searchInput').addEventListener('input', function(e) {
+      const query = e.target.value.toLowerCase();
+      const subjects = document.querySelectorAll('.subject-card');
+      subjects.forEach(subject => {
+        const text = subject.textContent.toLowerCase();
+        subject.style.display = text.includes(query) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>

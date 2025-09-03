@@ -1,0 +1,361 @@
+{
+  "subjectName": "Damsb2Beng",
+  "lectures": [
+    {
+      "title": "1. Arteriosclerosis and Atherosclerosis.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/14763/1.+Arteriosclerosis+and+Atherosclerosis.mp4?hash=AgAD-h"
+    },
+    {
+      "title": "2. Aneurysm.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14764/2.+Aneurysm.mp4?hash=AgADFx"
+    },
+    {
+      "title": "3. Aortic dissection.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14765/3.+Aortic+dissection.mp4?hash=AgADHB"
+    },
+    {
+      "title": "4. Vasculitis.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14766/4.+Vasculitis.mp4?hash=AgADOR"
+    },
+    {
+      "title": "5. Vascular tumours.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14767/5.+Vascular+tumours.mp4?hash=AgADQR"
+    },
+    {
+      "title": "1. Heart failure.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/14768/1.+Heart+failure.mp4?hash=AgADSh"
+    },
+    {
+      "title": "2. IHD.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/14769/2.+IHD.mp4?hash=AgADTR"
+    },
+    {
+      "title": "3. MI.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14770/3.+MI.mp4?hash=AgADXB"
+    },
+    {
+      "title": "4.RHD.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14771/4.RHD.mp4?hash=AgADZR"
+    },
+    {
+      "title": "5.Infective endocarditis.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/14772/5.Infective+endocarditis.mp4?hash=AgADaR"
+    },
+    {
+      "title": "6. Vascular disorder.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/14773/6.+Vascular+disorder.mp4?hash=AgADbh"
+    },
+    {
+      "title": "7.Cardiomyopathy.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14774/7.Cardiomyopathy.mp4?hash=AgADeh"
+    },
+    {
+      "title": "8.Cardiac tumors.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14775/8.Cardiac+tumors.mp4?hash=AgADfh"
+    },
+    {
+      "title": "1.Pneumonia.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14776/1.Pneumonia.mp4?hash=AgADhR"
+    },
+    {
+      "title": "2. Nephritic syndrome.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14777/2.+Nephritic+syndrome.mp4?hash=AgADjx"
+    },
+    {
+      "title": "3. Emphysema.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14778/3.+Emphysema.mp4?hash=AgADkx"
+    },
+    {
+      "title": "4. ASTHMA.MP4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14779/4.+ASTHMA.MP4?hash=AgADmh"
+    },
+    {
+      "title": "5.Bronchiestasis.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/14780/5.Bronchiestasis.mp4?hash=AgADnR"
+    },
+    {
+      "title": "6. Sarcoidosis.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/14781/6.+Sarcoidosis.mp4?hash=AgADpR"
+    },
+    {
+      "title": "7. Hypersensitivity pnuemonitis.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/14782/7.+Hypersensitivity+pnuemonitis.mp4?hash=AgADqh"
+    },
+    {
+      "title": "8. ARDS.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/14783/8.+ARDS.mp4?hash=AgADsB"
+    },
+    {
+      "title": "9. Pap.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/14784/9.+Pap.mp4?hash=AgADsx"
+    },
+    {
+      "title": "10. Pneumoconiasis.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/14785/10.+Pneumoconiasis.mp4?hash=AgADux"
+    },
+    {
+      "title": "11. Lund cancer.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/14786/11.+Lund+cancer.mp4?hash=AgADyh"
+    },
+    {
+      "title": "1.Introduction to Renal Pathology.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/14787/1.Introduction+to+Renal+Pathology.mp4?hash=AgAD0B"
+    },
+    {
+      "title": "2.Nephritic Syndrome.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/14788/2.Nephritic+Syndrome.mp4?hash=AgAD4x"
+    },
+    {
+      "title": "3.Nephrotic Syndrome.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/14789/3.Nephrotic+Syndrome.mp4?hash=AgAD9B"
+    },
+    {
+      "title": "4.Diabetis and lupus nephritis.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14790/4.Diabetis+and+lupus+nephritis.mp4?hash=AgAD_B"
+    },
+    {
+      "title": "5.Renal casts and stones.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14791/5.Renal+casts+and+stones.mp4?hash=AgADAh"
+    },
+    {
+      "title": "6.Renal Cancer.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/14792/6.Renal+Cancer.mp4?hash=AgADDB"
+    },
+    {
+      "title": "1. Oral & salivary glands.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/14793/1.+Oral+%26+salivary+glands.mp4?hash=AgADKB"
+    },
+    {
+      "title": "2. Esophagus.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14794/2.+Esophagus.mp4?hash=AgADOh"
+    },
+    {
+      "title": "3. Gastritis.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14795/3.+Gastritis.mp4?hash=AgADTh"
+    },
+    {
+      "title": "4. Stomach Cancer.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/14796/4.+Stomach+Cancer.mp4?hash=AgAD1R"
+    },
+    {
+      "title": "5. Malabsorption syndrome.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/14797/5.+Malabsorption+syndrome.mp4?hash=AgAD8x"
+    },
+    {
+      "title": "6. IBD.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/14798/6.+IBD.mp4?hash=AgADEB"
+    },
+    {
+      "title": "7. Polyp & Colon CA.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/14799/7.+Polyp+%26+Colon+CA.mp4?hash=AgADIh"
+    },
+    {
+      "title": "1. Hepatitis and ALD.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14800/1.+Hepatitis+and+ALD.mp4?hash=AgADMh"
+    },
+    {
+      "title": "2. Fe and Cu toxicity.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14801/2.+Fe+and+Cu+toxicity.mp4?hash=AgADNR"
+    },
+    {
+      "title": "3. Liver tumors and bile duct disorders.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/14802/3.+Liver+tumors+and+bile+duct+disorders.mp4?hash=AgADPR"
+    },
+    {
+      "title": "1. Benign breast diseases.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/14803/1.+Benign+breast+diseases.mp4?hash=AgADRB"
+    },
+    {
+      "title": "2. Breast Cancer.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14804/2.+Breast+Cancer.mp4?hash=AgADTx"
+    },
+    {
+      "title": "1. CNS Tumors.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14805/1.+CNS+Tumors.mp4?hash=AgADWR"
+    },
+    {
+      "title": "2. Testicular Tumors.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/14806/2.+Testicular+Tumors.mp4?hash=AgADXh"
+    },
+    {
+      "title": "3. Thyroid CA.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/14807/3.+Thyroid+CA.mp4?hash=AgAD_B"
+    },
+    {
+      "title": "4. Prostate CA.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14808/4.+Prostate+CA.mp4?hash=AgADjB"
+    },
+    {
+      "title": "1. Cell Adaptation.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14809/1.+Cell+Adaptation.mp4?hash=AgADnx"
+    },
+    {
+      "title": "2. Reversible and Irreversible Cell Injury.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/14810/2.+Reversible+and+Irreversible+Cell+Injury.mp4?hash=AgADpR"
+    },
+    {
+      "title": "3. Necrosis.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/14811/3.+Necrosis.mp4?hash=AgADqR"
+    },
+    {
+      "title": "4. Apoptosis.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14812/4.+Apoptosis.mp4?hash=AgADsR"
+    },
+    {
+      "title": "5. Free Radicals and Aging.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14813/5.+Free+Radicals+and+Aging.mp4?hash=AgADuh"
+    },
+    {
+      "title": "6. Calcification, Intracellular Accumulation.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/14814/6.+Calcification%2C+Intracellular+Accumulation.mp4?hash=AgADyB"
+    },
+    {
+      "title": "1. Vascular and Cellular Events in Inflammation.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/14815/1.+Vascular+and+Cellular+Events+in+Inflammation.mp4?hash=AgADGh"
+    },
+    {
+      "title": "2. Chemical Mediators of Inflammation.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/14816/2.+Chemical+Mediators+of+Inflammation.mp4?hash=AgADDx"
+    },
+    {
+      "title": "3. Chronic Inflammation.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/14817/3.+Chronic+Inflammation.mp4?hash=AgADJh"
+    },
+    {
+      "title": "4. Phagocytic Disorders.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/14818/4.+Phagocytic+Disorders.mp4?hash=AgADNB"
+    },
+    {
+      "title": "5. Wound Healing.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/14819/5.+Wound+Healing.mp4?hash=AgADUB"
+    },
+    {
+      "title": "1. Neoplasia.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/14820/1.+Neoplasia.mp4?hash=AgADNx"
+    },
+    {
+      "title": "2. Molecular Hallmarks 1.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/14821/2.+Molecular+Hallmarks+1.mp4?hash=AgADPB"
+    },
+    {
+      "title": "3. Molecular Hallmarks 2.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/14822/3.+Molecular+Hallmarks+2.mp4?hash=AgAD3x"
+    },
+    {
+      "title": "4. Etiology of Neoplasia.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/14823/4.+Etiology+of+Neoplasia.mp4?hash=AgADSh"
+    },
+    {
+      "title": "5. Diagnosis of Cancers.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/14824/5.+Diagnosis+of+Cancers.mp4?hash=AgADTh"
+    },
+    {
+      "title": "1. Immune Cells.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/14825/1.+Immune+Cells.mp4?hash=AgADYx"
+    },
+    {
+      "title": "2. Graft Rejection.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/14826/2.+Graft+Rejection.mp4?hash=AgAD4B"
+    },
+    {
+      "title": "3. Immuno Deficiency Disorders.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/14827/3.+Immuno+Deficiency+Disorders.mp4?hash=AgAD-B"
+    },
+    {
+      "title": "4. Amyloidosis.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14828/4.+Amyloidosis.mp4?hash=AgADAh"
+    },
+    {
+      "title": "5. Hypersensitivity Reaction.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14829/5.+Hypersensitivity+Reaction.mp4?hash=AgADCh"
+    },
+    {
+      "title": "1. Mutation.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14830/1.+Mutation.mp4?hash=AgADLR"
+    },
+    {
+      "title": "2. Mendelian Disorders.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14831/2.+Mendelian+Disorders.mp4?hash=AgADkh"
+    },
+    {
+      "title": "3. Non Mendelian Disorders.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/14832/3.+Non+Mendelian+Disorders.mp4?hash=AgADYh"
+    },
+    {
+      "title": "4. Chromosomal Disorders.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/14833/4.+Chromosomal+Disorders.mp4?hash=AgADdB"
+    },
+    {
+      "title": "1. Normal Hematopoiesis.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/14834/1.+Normal+Hematopoiesis.mp4?hash=AgADnB"
+    },
+    {
+      "title": "2. Microcytic Anaemia.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/14835/2.+Microcytic+Anaemia.mp4?hash=AgADtR"
+    },
+    {
+      "title": "3. Megaloblastic Anaemia.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/14836/3.+Megaloblastic+Anaemia.mp4?hash=AgAD2x"
+    },
+    {
+      "title": "1. Hemolytic Anemia Part 1.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/14837/1.+Hemolytic+Anemia+Part+1.mp4?hash=AgAD-x"
+    },
+    {
+      "title": "2. Hemolytic Anemia Part 2.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14838/2.+Hemolytic+Anemia+Part+2.mp4?hash=AgADGx"
+    },
+    {
+      "title": "3. Hemolytic Anemia Part 3.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/14839/3.+Hemolytic+Anemia+Part+3.mp4?hash=AgADMR"
+    },
+    {
+      "title": "4. Approach to Leukemia.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/14840/4.+Approach+to+Leukemia.mp4?hash=AgADOR"
+    },
+    {
+      "title": "5. Types of Leukemia.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/14841/5.+Types+of+Leukemia.mp4?hash=AgADSB"
+    },
+    {
+      "title": "6. Chronic Myeloproliferative Neoplasm (CMPN).mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/14842/6.+Chronic+Myeloproliferative+Neoplasm+%28CMPN%29.mp4?hash=AgADYB"
+    },
+    {
+      "title": "7. Non-Hodgkin Lymphoma (NHL).mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/14843/7.+Non-Hodgkin+Lymphoma+%28NHL%29.mp4?hash=AgADbB"
+    },
+    {
+      "title": "8. Hodgkin Lymphoma.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14844/8.+Hodgkin+Lymphoma.mp4?hash=AgADdx"
+    },
+    {
+      "title": "1. Platelet Disorders.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/14845/1.+Platelet+Disorders.mp4?hash=AgADnx"
+    },
+    {
+      "title": "2. Clotting Disorders.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/14846/2.+Clotting+Disorders.mp4?hash=AgADrR"
+    },
+    {
+      "title": "3. Plasma Cell Disorders.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/14847/3.+Plasma+Cell+Disorders.mp4?hash=AgADux"
+    },
+    {
+      "title": "4. Lch Mds.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/14848/4.+Lch+Mds.mp4?hash=AgADvR"
+    },
+    {
+      "title": "5. DIC and Thrombotic Disorders.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/14849/5.+DIC+and+Thrombotic+Disorders.mp4?hash=AgADxR"
+    },
+    {
+      "title": "6. Transfusion Medicine.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14850/6.+Transfusion+Medicine.mp4?hash=AgADBR"
+    },
+    {
+      "title": "7. Flow Cytometry and TTG.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/14851/7.+Flow+Cytometry+and+TTG.mp4?hash=AgAD2R"
+    }
+  ]
+}

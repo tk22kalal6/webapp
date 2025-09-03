@@ -1,0 +1,793 @@
+{
+  "subjectName": "E-Gurukul",
+  "lectures": [
+    {
+      "title": "1. Pioneer’s In Public Health Topic : Pioneer’s In Public Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8564/6450b3dd95d91c441d196681.mp4?hash=AgADLB"
+    },
+    {
+      "title": "2. Practice Question (Pioneers In Public Health) Topic : Pioneer’s In Public Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8565/6450b3dd95d91c441d196745.mp4?hash=AgADLR"
+    },
+    {
+      "title": "1. Rate Ratio Proportion Topic : Health Indicators Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8566/6450b3dd95d91c441d196682.mp4?hash=AgADLh"
+    },
+    {
+      "title": "2. Mortality Indicators Topic : Health Indicators Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8567/6450b3dd95d91c441d196683.mp4?hash=AgADLx"
+    },
+    {
+      "title": "3. Incidence Topic : Health Indicators Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8568/6450b3dd95d91c441d196684.mp4?hash=AgADMB"
+    },
+    {
+      "title": "4. Prevalence Topic : Health Indicators Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8569/6450b3dd95d91c441d196685.mp4?hash=AgADMR"
+    },
+    {
+      "title": "5. Dalys,Qalys,Hale Topic : Health Indicators Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8570/6450b3dd95d91c441d1966ed.mp4?hash=AgADMh"
+    },
+    {
+      "title": "6. Direct Standardisation Topic : Health Indicators Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8571/6450b3dd95d91c441d196735.mp4?hash=AgADMx"
+    },
+    {
+      "title": "7. Standardised Mortality Ratio Topic : Health Indicators Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8572/6450b3dd95d91c441d196736.mp4?hash=AgADNB"
+    },
+    {
+      "title": "8. Pq-Health Indicators Topic : Health Indicators Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8573/6450b3dd95d91c441d196727.mp4?hash=AgADNR"
+    },
+    {
+      "title": "1. Health: Definition & Concepts Topic : Concept of Health And Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8574/6450b3dd95d91c441d196686.mp4?hash=AgADNh"
+    },
+    {
+      "title": "2. Indices Of Wellbeing: Hdi, Pqli, Mdpi Topic : Concept of Health And Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8575/6450b3dd95d91c441d196687.mp4?hash=AgADNx"
+    },
+    {
+      "title": "3. Theories Of Disease Topic : Concept of Health And Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8576/6450b3dd95d91c441d196688.mp4?hash=AgADOh"
+    },
+    {
+      "title": "4. Practice Question (Concept Of Health & Disease) Topic : Concept of Health And Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8577/6450b3dd95d91c441d196744.mp4?hash=AgADOx"
+    },
+    {
+      "title": "1. Natural History Of Disease Topic : Infectious Disease Epidemiology Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8578/6450b3dd95d91c441d196728.mp4?hash=AgADPB"
+    },
+    {
+      "title": "2. Iceberg Phenomenon Topic : Infectious Disease Epidemiology Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8579/6450b3dd95d91c441d196729.mp4?hash=AgADPR"
+    },
+    {
+      "title": "3. Reservoir Topic : Infectious Disease Epidemiology Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8580/6450b3dd95d91c441d19672a.mp4?hash=AgADPx"
+    },
+    {
+      "title": "4. Modes Of Transmission Topic : Infectious Disease Epidemiology Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8581/6450b3dd95d91c441d1966f4.mp4?hash=AgADQB"
+    },
+    {
+      "title": "5. Time In Epidemiology Topic : Infectious Disease Epidemiology Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8582/6450b3dd95d91c441d19672b.mp4?hash=AgADQh"
+    },
+    {
+      "title": "6. Incubation Period Topic : Infectious Disease Epidemiology Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8583/6450b3dd95d91c441d1966f3.mp4?hash=AgADRB"
+    },
+    {
+      "title": "7. Attack Rate & Secondary Attack Rate Topic : Infectious Disease Epidemiology Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8584/6450b3dd95d91c441d1966da.mp4?hash=AgADRR"
+    },
+    {
+      "title": "8. Trends Of Disease Topic : Infectious Disease Epidemiology Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8585/6450b3dd95d91c441d1966db.mp4?hash=AgADRh"
+    },
+    {
+      "title": "9. Pattern Of Disease Topic : Infectious Disease Epidemiology Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8586/6450b3dd95d91c441d1966dc.mp4?hash=AgADRx"
+    },
+    {
+      "title": "10. Epidemic Topic : Infectious Disease Epidemiology Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8587/6450b3dd95d91c441d1966f2.mp4?hash=AgADSB"
+    },
+    {
+      "title": "11. Elimination & Eradication Topic : Infectious Disease Epidemiology Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8588/6450b3dd95d91c441d1966ee.mp4?hash=AgADSR"
+    },
+    {
+      "title": "12. Surveillance Topic : Infectious Disease Epidemiology Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8589/6450b3dd95d91c441d1966ef.mp4?hash=AgADSh"
+    },
+    {
+      "title": "13. Isolation/Quarantine Topic : Infectious Disease Epidemiology Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8590/6450b3dd95d91c441d1966f0.mp4?hash=AgADSx"
+    },
+    {
+      "title": "14. Herd Immunity Topic : Infectious Disease Epidemiology Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8591/6450b3dd95d91c441d1966f1.mp4?hash=AgADTB"
+    },
+    {
+      "title": "15. Hills Criteria Topic : Infectious Disease Epidemiology Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8592/6450b3dd95d91c441d196737.mp4?hash=AgADTx"
+    },
+    {
+      "title": "16. Pq- Infectious Disease Epidemiology Topic : Infectious Disease Epidemiology Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8593/6450b3dd95d91c441d1966d2.mp4?hash=AgADUB"
+    },
+    {
+      "title": "1. Levels Of Prevention Topic : Levels of Prevention Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8594/6450b3dd95d91c441d1966d3.mp4?hash=AgADUR"
+    },
+    {
+      "title": "1. Types Of Vaccine Topic : Vaccines Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8595/6450b3dd95d91c441d1966d4.mp4?hash=AgADUh"
+    },
+    {
+      "title": "2. National Immunization Schedule Topic : Vaccines Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8596/6450b3dd95d91c441d1966d5.mp4?hash=AgADUx"
+    },
+    {
+      "title": "3. Vitamin A Prophylaxis Topic : Vaccines Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8597/6450b3dd95d91c441d196738.mp4?hash=AgADVB"
+    },
+    {
+      "title": "4. Bcg & Measles Topic : Vaccines Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8598/6450b3dd95d91c441d1966d6.mp4?hash=AgADVx"
+    },
+    {
+      "title": "5. Opv-Vdpv/Vapp Topic : Vaccines Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8599/6450b3dd95d91c441d1966d7.mp4?hash=AgADWB"
+    },
+    {
+      "title": "6. Dpt Topic : Vaccines Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8600/6450b3dd95d91c441d1966d8.mp4?hash=AgADWR"
+    },
+    {
+      "title": "7. Pentavalent, Rota,Ipv,Pcv,Je Topic : Vaccines Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8601/6450b3dd95d91c441d1966d9.mp4?hash=AgADWx"
+    },
+    {
+      "title": "8. Dose/Route-Simplified Topic : Vaccines Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8602/6450b3dd95d91c441d196740.mp4?hash=AgADXB"
+    },
+    {
+      "title": "9. Aefi Topic : Vaccines Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8603/6450b3dd95d91c441d19672c.mp4?hash=AgADXR"
+    },
+    {
+      "title": "10. Cold Chain Topic : Vaccines Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8604/6450b3dd95d91c441d196741.mp4?hash=AgADYB"
+    },
+    {
+      "title": "11. Delayed Immunization Topic : Vaccines Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8605/6450b3dd95d91c441d1966a6.mp4?hash=AgADYx"
+    },
+    {
+      "title": "12. Extra Edge Updates Topic : Vaccines Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8606/6450b3dd95d91c441d1966a7.mp4?hash=AgADZh"
+    },
+    {
+      "title": "13. Covid Vaccines Topic : Vaccines Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8607/6450b3dd95d91c441d1966a8.mp4?hash=AgADaB"
+    },
+    {
+      "title": "1. Classification Topic : Study Designs Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8608/6450b3dd95d91c441d1966a9.mp4?hash=AgADax"
+    },
+    {
+      "title": "2. Descriptive Studies Topic : Study Designs Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8609/6450b3dd95d91c441d1966aa.mp4?hash=AgADbB"
+    },
+    {
+      "title": "3. Ecological Study Topic : Study Designs Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8610/6450b3dd95d91c441d1966ab.mp4?hash=AgADbR"
+    },
+    {
+      "title": "4. Cross Sectional Study Topic : Study Designs Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8611/6450b3dd95d91c441d1966ac.mp4?hash=AgADcB"
+    },
+    {
+      "title": "5. Case Control Study Topic : Study Designs Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8612/6450b3dd95d91c441d196742.mp4?hash=AgADcx"
+    },
+    {
+      "title": "6. Cohort Study Topic : Study Designs Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8613/6450b3dd95d91c441d1966ad.mp4?hash=AgADdR"
+    },
+    {
+      "title": "7. Retrospective Cohort Study Topic : Study Designs Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8614/6450b3dd95d91c441d1966ae.mp4?hash=AgADeB"
+    },
+    {
+      "title": "8. Cohort Study Vs Case Control Study Topic : Study Designs Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8615/6450b3dd95d91c441d1966af.mp4?hash=AgADeR"
+    },
+    {
+      "title": "9. Rct Topic : Study Designs Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8616/6450b3dd95d91c441d19672d.mp4?hash=AgADeh"
+    },
+    {
+      "title": "10. Cross Over Rct Topic : Study Designs Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8617/6450b3dd95d91c441d1966a1.mp4?hash=AgADex"
+    },
+    {
+      "title": "11. Metanalysis Topic : Study Designs Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8618/6450b3dd95d91c441d1966a2.mp4?hash=AgADfB"
+    },
+    {
+      "title": "1. Precision Topic : Screening Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8619/6450b3dd95d91c441d1966a3.mp4?hash=AgADfR"
+    },
+    {
+      "title": "2. Predictive Values Topic : Screening Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8620/6450b3dd95d91c441d1966a4.mp4?hash=AgADfx"
+    },
+    {
+      "title": "3. Validity- Sensitivity And Specificity Topic : Screening Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8621/6450b3dd95d91c441d1966a5.mp4?hash=AgADgB"
+    },
+    {
+      "title": "4. Calculations Topic : Screening Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8622/6450b3dd95d91c441d19672e.mp4?hash=AgADgR"
+    },
+    {
+      "title": "5. Ppv And Prevalence Topic : Screening Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8623/6450b3dd95d91c441d1966b0.mp4?hash=AgADgh"
+    },
+    {
+      "title": "6. Likelihood Ratio Topic : Screening Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8624/6450b3dd95d91c441d1966b1.mp4?hash=AgADgx"
+    },
+    {
+      "title": "7. Roc Curve Topic : Screening Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8625/6450b3dd95d91c441d1966b2.mp4?hash=AgADhB"
+    },
+    {
+      "title": "8. Multiple Testing Topic : Screening Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8626/6450b3dd95d91c441d19672f.mp4?hash=AgADhR"
+    },
+    {
+      "title": "9. Cutoff For Screening Topic : Screening Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8627/6450b3dd95d91c441d1966b3.mp4?hash=AgADhh"
+    },
+    {
+      "title": "10. Lead Time Topic : Screening Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8628/6450b3dd95d91c441d1966b4.mp4?hash=AgADhx"
+    },
+    {
+      "title": "11. Types Of Screening Topic : Screening Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8629/6450b3dd95d91c441d19669e.mp4?hash=AgADiR"
+    },
+    {
+      "title": "12. Screening Vs Diagnostic Test Topic : Screening Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8630/6450b3dd95d91c441d19669f.mp4?hash=AgADih"
+    },
+    {
+      "title": "13. Screening Criteria Topic : Screening Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8631/6450b3dd95d91c441d1966a0.mp4?hash=AgADix"
+    },
+    {
+      "title": "14. Pq-Screening Topic : Screening Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8632/6450b3dd95d91c441d196722.mp4?hash=AgADjB"
+    },
+    {
+      "title": "1. Variables Topic : Biostatistics Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8633/6450b3dd95d91c441d196730.mp4?hash=AgADjR"
+    },
+    {
+      "title": "2. Data Representation Topic : Biostatistics Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8634/6450b3dd95d91c441d196731.mp4?hash=AgADjh"
+    },
+    {
+      "title": "3. Data Distribution Topic : Biostatistics Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8635/6450b3dd95d91c441d196723.mp4?hash=AgADjx"
+    },
+    {
+      "title": "4. Central Tendency Topic : Biostatistics Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8636/6450b3dd95d91c441d19673f.mp4?hash=AgADkB"
+    },
+    {
+      "title": "5. Skewed Data Topic : Biostatistics Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8637/6450b3dd95d91c441d1966d0.mp4?hash=AgADkR"
+    },
+    {
+      "title": "6. Dispersion Topic : Biostatistics Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8638/6450b3dd95d91c441d1966d1.mp4?hash=AgADkh"
+    },
+    {
+      "title": "7. Z Score Topic : Biostatistics Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8639/6450b3dd95d91c441d1966f6.mp4?hash=AgADkx"
+    },
+    {
+      "title": "8. Quartiles Topic : Biostatistics Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8640/6450b3dd95d91c441d1966f7.mp4?hash=AgADlB"
+    },
+    {
+      "title": "9. Confidence Interval Topic : Biostatistics Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8641/6450b3dd95d91c441d19669b.mp4?hash=AgADlR"
+    },
+    {
+      "title": "10. Sampling Topic : Biostatistics Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8642/6450b3dd95d91c441d19669c.mp4?hash=AgADlh"
+    },
+    {
+      "title": "11. Tests Of Significance Topic : Biostatistics Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8643/6450b3dd95d91c441d19669d.mp4?hash=AgADlx"
+    },
+    {
+      "title": "12. Corelation Topic : Biostatistics Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8644/6450b3dd95d91c441d1966df.mp4?hash=AgADmB"
+    },
+    {
+      "title": "13. Regression Topic : Biostatistics Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8645/6450b3dd95d91c441d1966e0.mp4?hash=AgADmR"
+    },
+    {
+      "title": "14. Hypothesis Testing Topic : Biostatistics Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8646/6450b3dd95d91c441d1966dd.mp4?hash=AgADmh"
+    },
+    {
+      "title": "15. Sample Size Topic : Biostatistics Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8647/6450b3dd95d91c441d196693.mp4?hash=AgADmx"
+    },
+    {
+      "title": "1. Small Pox Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8648/6450b3dd95d91c441d196694.mp4?hash=AgADnB"
+    },
+    {
+      "title": "2. Chicken Pox Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8649/6450b3dd95d91c441d196695.mp4?hash=AgADnR"
+    },
+    {
+      "title": "3. Measles Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8650/6450b3dd95d91c441d196696.mp4?hash=AgADnh"
+    },
+    {
+      "title": "4. Mumps Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8651/6450b3dd95d91c441d196697.mp4?hash=AgADnx"
+    },
+    {
+      "title": "5. Rubella Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8652/6450b3dd95d91c441d196698.mp4?hash=AgADoB"
+    },
+    {
+      "title": "6. Diptheria Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8653/6450b3dd95d91c441d196699.mp4?hash=AgADoR"
+    },
+    {
+      "title": "7. Whooping Cough Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8654/6450b3dd95d91c441d19669a.mp4?hash=AgADoh"
+    },
+    {
+      "title": "8. Meningococca Meningitis Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8655/6450b3dd95d91c441d1966de.mp4?hash=AgADox"
+    },
+    {
+      "title": "9. Influenza Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8656/6450b3dd95d91c441d19668f.mp4?hash=AgADpB"
+    },
+    {
+      "title": "10. Polio- Epidemiology Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8657/6450b3dd95d91c441d19673c.mp4?hash=AgADpR"
+    },
+    {
+      "title": "11. Cholera - Epidemiology Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8658/6450b3dd95d91c441d196690.mp4?hash=AgADph"
+    },
+    {
+      "title": "12. Worm Infestation Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8659/6450b3dd95d91c441d196691.mp4?hash=AgADpx"
+    },
+    {
+      "title": "13. Malaria-Epidemiology Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8660/6450b3dd95d91c441d196692.mp4?hash=AgADqB"
+    },
+    {
+      "title": "14. Filariasis Epidemiology Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8661/6450b3dd95d91c441d1966e1.mp4?hash=AgADqR"
+    },
+    {
+      "title": "15. Japanese Encephalitis Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8662/6450b3dd95d91c441d1966ca.mp4?hash=AgADqh"
+    },
+    {
+      "title": "16. Kyasanur Forest Disease Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8663/6450b3dd95d91c441d1966cb.mp4?hash=AgADqx"
+    },
+    {
+      "title": "17. Yellow Fever Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8664/6450b3dd95d91c441d1966cc.mp4?hash=AgADrB"
+    },
+    {
+      "title": "18. Rabies Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8665/6450b3dd95d91c441d1966cd.mp4?hash=AgADrR"
+    },
+    {
+      "title": "19. Plague Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8666/6450b3dd95d91c441d1966ce.mp4?hash=AgADrh"
+    },
+    {
+      "title": "20. Brucellosis Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8667/6450b3dd95d91c441d1966cf.mp4?hash=AgADrx"
+    },
+    {
+      "title": "21. Tetanus Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8668/6450b3dd95d91c441d196725.mp4?hash=AgADsB"
+    },
+    {
+      "title": "22. Trachoma Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8669/6450b3dd95d91c441d196733.mp4?hash=AgADsR"
+    },
+    {
+      "title": "23. Rickettsial Disease Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8670/6450b3dd95d91c441d196734.mp4?hash=AgADsh"
+    },
+    {
+      "title": "24. Emerging Infections Topic : Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8671/6450b3dd95d91c441d196726.mp4?hash=AgADsx"
+    },
+    {
+      "title": "1. TB Eilimnation Programme Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8672/6450b3dd95d91c441d1966e2.mp4?hash=AgADtB"
+    },
+    {
+      "title": "2. Tb Elimination Plan Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8673/6450b3dd95d91c441d196689.mp4?hash=AgADtR"
+    },
+    {
+      "title": "3. End Tb Strategy Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8674/6450b3dd95d91c441d19668a.mp4?hash=AgADth"
+    },
+    {
+      "title": "4. Adolescent Health : Rmnch+A Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8675/6450b3dd95d91c441d19668b.mp4?hash=AgADtx"
+    },
+    {
+      "title": "5. Schemes For Mother Under Rmnch+A Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8676/6450b3dd95d91c441d19668c.mp4?hash=AgADuB"
+    },
+    {
+      "title": "6. Schemes For Newborn And Child Under Rmnch+A Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8677/6450b3dd95d91c441d19668d.mp4?hash=AgADuR"
+    },
+    {
+      "title": "7. Nvbdcp-Malaria Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8678/6450b3dd95d91c441d19668e.mp4?hash=AgADuh"
+    },
+    {
+      "title": "8. Malaria Elimination Plan Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8679/6450b3dd95d91c441d1966e3.mp4?hash=AgADvB"
+    },
+    {
+      "title": "9. Nvbdcp-Filariasis Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8680/6450b3dd95d91c441d1966c4.mp4?hash=AgADvR"
+    },
+    {
+      "title": "10. Nvbdcp-Kala Azar Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8681/6450b3dd95d91c441d1966c5.mp4?hash=AgADvh"
+    },
+    {
+      "title": "11. National Aids Control Programme Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8682/6450b3dd95d91c441d1966c6.mp4?hash=AgADvx"
+    },
+    {
+      "title": "12. Classification - Based On Hiv Prevalence Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8683/6450b3dd95d91c441d1966c7.mp4?hash=AgADwR"
+    },
+    {
+      "title": "13. Hiv Strategic Plan Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8684/6450b3dd95d91c441d1966c8.mp4?hash=AgADwh"
+    },
+    {
+      "title": "14. Syndromic Management Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8685/6450b3dd95d91c441d1966c9.mp4?hash=AgADwx"
+    },
+    {
+      "title": "15. Polio-Elimination Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8686/6450b3dd95d91c441d1966f5.mp4?hash=AgADxR"
+    },
+    {
+      "title": "16. Afp Surveillance Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8687/6450b3dd95d91c441d1966e4.mp4?hash=AgADxh"
+    },
+    {
+      "title": "17. National Leprosy Elimination Programme Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8688/6450b3dd95d91c441d196732.mp4?hash=AgADyB"
+    },
+    {
+      "title": "18. Schemes Under Mwcd- Icds Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8689/6450b3dd95d91c441d196743.mp4?hash=AgADyR"
+    },
+    {
+      "title": "19. Schemes Under Mwcd Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8690/6450b3dd95d91c441d1966c2.mp4?hash=AgADyh"
+    },
+    {
+      "title": "20. Ayushman Bharat Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8691/6450b3dd95d91c441d1966c3.mp4?hash=AgADyx"
+    },
+    {
+      "title": "21. Sdgs Topic : Health Programmes Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8692/6450b3dd95d91c441d19673e.mp4?hash=AgADzB"
+    },
+    {
+      "title": "1. Introduction To Demography Topic : Demography and Family Planning Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8693/6450b3dd95d91c441d1966bd.mp4?hash=AgADzR"
+    },
+    {
+      "title": "2. Definitions in Demography Topic : Demography and Family Planning Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8694/6450b3dd95d91c441d19673d.mp4?hash=AgADzh"
+    },
+    {
+      "title": "3. Demographic Cycle Topic : Demography and Family Planning Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8695/6450b3dd95d91c441d1966be.mp4?hash=AgADzx"
+    },
+    {
+      "title": "4. Population Growth Models Topic : Demography and Family Planning Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8696/6450b3dd95d91c441d1966c1.mp4?hash=AgAD0B"
+    },
+    {
+      "title": "5. Population Pyramid Topic : Demography and Family Planning Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8697/6450b3dd95d91c441d1966bf.mp4?hash=AgAD0R"
+    },
+    {
+      "title": "6. Demographic Indicators Topic : Demography and Family Planning Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8698/6450b3dd95d91c441d1966c0.mp4?hash=AgAD0h"
+    },
+    {
+      "title": "7. Couple Protection Rate Topic : Demography and Family Planning Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8699/6450b3dd95d91c441d1966b5.mp4?hash=AgAD0x"
+    },
+    {
+      "title": "8. Fertility Indicators Topic : Demography and Family Planning Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8700/6450b3dd95d91c441d1966b6.mp4?hash=AgAD1B"
+    },
+    {
+      "title": "9. Contraceptive Efficacy Topic : Demography and Family Planning Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8701/6450b3dd95d91c441d1966b7.mp4?hash=AgAD1R"
+    },
+    {
+      "title": "10. Mission Parivar Vikas Topic : Demography and Family Planning Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8702/6450b3dd95d91c441d1966b8.mp4?hash=AgAD1h"
+    },
+    {
+      "title": "1. Maternal Health - Antental Care Topic : Maternal and Child Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8703/6450b3dd95d91c441d1966b9.mp4?hash=AgAD1x"
+    },
+    {
+      "title": "2. Maternal Mortality Topic : Maternal and Child Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8704/650d43682779a1002bb8500c.mp4?hash=AgAD2B"
+    },
+    {
+      "title": "3. Child Mortality Topic : Maternal and Child Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8705/6450b3dd95d91c441d1966bb.mp4?hash=AgAD2R"
+    },
+    {
+      "title": "4. School Health Topic : Maternal and Child Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8706/6450b3dd95d91c441d1966bc.mp4?hash=AgAD2h"
+    },
+    {
+      "title": "1. Hardness Of Water Topic : Environment and Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8707/6450b3dd95d91c441d196710.mp4?hash=AgAD2x"
+    },
+    {
+      "title": "2. Chlorination Topic : Environment and Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8708/6450b3dd95d91c441d196711.mp4?hash=AgAD3B"
+    },
+    {
+      "title": "3. Water Quality Topic : Environment and Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8709/6450b3dd95d91c441d196712.mp4?hash=AgAD3R"
+    },
+    {
+      "title": "4. Water Related Disease Topic : Environment and Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8710/6450b3dd95d91c441d196713.mp4?hash=AgAD3h"
+    },
+    {
+      "title": "5. Air Pollution Topic : Environment and Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8711/6450b3dd95d91c441d1966f8.mp4?hash=AgAD3x"
+    },
+    {
+      "title": "6. Light - Parameters Topic : Environment and Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8712/6450b3dd95d91c441d196716.mp4?hash=AgAD4B"
+    },
+    {
+      "title": "7. Overcrowding Topic : Environment and Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8713/6450b3dd95d91c441d196717.mp4?hash=AgAD4R"
+    },
+    {
+      "title": "8. Waste Management Topic : Environment and Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8714/6450b3dd95d91c441d196720.mp4?hash=AgAD4h"
+    },
+    {
+      "title": "9. Entomology Topic : Environment and Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8715/6450b3dd95d91c441d196718.mp4?hash=AgAD4x"
+    },
+    {
+      "title": "10. Insecticides Topic : Environment and Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8716/6450b3dd95d91c441d196719.mp4?hash=AgAD5B"
+    },
+    {
+      "title": "11. Metereology Topic : Environment and Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8717/6450b3dd95d91c441d19671a.mp4?hash=AgAD5R"
+    },
+    {
+      "title": "1. Nutrients Topic : Nutrition Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8718/6450b3dd95d91c441d19671b.mp4?hash=AgAD5h"
+    },
+    {
+      "title": "2. Protein Topic : Nutrition Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8719/6450b3dd95d91c441d19671c.mp4?hash=AgAD5x"
+    },
+    {
+      "title": "3. Vitamin Deficiency Topic : Nutrition Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8720/6450b3dd95d91c441d19671d.mp4?hash=AgAD6B"
+    },
+    {
+      "title": "4. Fatty Acids Topic : Nutrition Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8721/6450b3dd95d91c441d19671e.mp4?hash=AgAD6R"
+    },
+    {
+      "title": "5. Vitamin A Topic : Nutrition Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8722/6450b3dd95d91c441d19671f.mp4?hash=AgAD6h"
+    },
+    {
+      "title": "6. Food Items - Source Topic : Nutrition Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8723/6450b3dd95d91c441d196721.mp4?hash=AgAD6x"
+    },
+    {
+      "title": "7. Milk Topic : Nutrition Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8724/6450b3dd95d91c441d1966e9.mp4?hash=AgAD7B"
+    },
+    {
+      "title": "8. Iodine Topic : Nutrition Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8725/6450b3dd95d91c441d1966ea.mp4?hash=AgAD7R"
+    },
+    {
+      "title": "9. Flourine Topic : Nutrition Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8726/6450b3dd95d91c441d1966eb.mp4?hash=AgAD7h"
+    },
+    {
+      "title": "10. Anemia Mukht Bharat Topic : Nutrition Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8727/6450b3dd95d91c441d1966ec.mp4?hash=AgAD7x"
+    },
+    {
+      "title": "11. Food Adulteration Topic : Nutrition Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8728/6450b3dd95d91c441d1966e5.mp4?hash=AgAD8B"
+    },
+    {
+      "title": "12. Food Standards Topic : Nutrition Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8729/6450b3dd95d91c441d1966e6.mp4?hash=AgAD8R"
+    },
+    {
+      "title": "13. Mid Day Meal Scheme Topic : Nutrition Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8730/6450b3dd95d91c441d1966e7.mp4?hash=AgAD8h"
+    },
+    {
+      "title": "14. Poshan Scheme Topic : Nutrition Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8731/6450b3dd95d91c441d1966e8.mp4?hash=AgAD8x"
+    },
+    {
+      "title": "15. Global Hunger Index Topic : Nutrition Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8732/6450b3dd95d91c441d1966f9.mp4?hash=AgAD9B"
+    },
+    {
+      "title": "16. Malnutrition Assessment Topic : Nutrition Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8733/6450b3dd95d91c441d1966fa.mp4?hash=AgAD9R"
+    },
+    {
+      "title": "17. Nutrition- Values Topic : Nutrition Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8734/6450b3dd95d91c441d1966fb.mp4?hash=AgAD9h"
+    },
+    {
+      "title": "1. Lead Poisoning Topic : Occupational Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8735/6450b3dd95d91c441d196739.mp4?hash=AgAD9x"
+    },
+    {
+      "title": "2. Occupational Cancer Topic : Occupational Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8736/6450b3dd95d91c441d19673a.mp4?hash=AgAD-B"
+    },
+    {
+      "title": "3. Pneumoconioses Topic : Occupational Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8737/6450b3dd95d91c441d19673b.mp4?hash=AgAD-R"
+    },
+    {
+      "title": "4. Prevention (Includes Factory Act and ESI) Topic : Occupational Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8738/6450b3dd95d91c441d196714.mp4?hash=AgAD-h"
+    },
+    {
+      "title": "5. Ergonomics Topic : Occupational Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8739/6450b3dd95d91c441d196724.mp4?hash=AgAD-x"
+    },
+    {
+      "title": "1. Health planning :Introduction Topic : Health Planning Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8740/6450b3dd95d91c441d196715.mp4?hash=AgAD_B"
+    },
+    {
+      "title": "2. Management Methods Topic : Health Planning Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8741/6450b3dd95d91c441d1966fc.mp4?hash=AgAD_R"
+    },
+    {
+      "title": "3. Inventory Control Topic : Health Planning Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8742/6450b3dd95d91c441d1966fd.mp4?hash=AgAD_h"
+    },
+    {
+      "title": "4. Delphi Method Topic : Health Planning Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8743/6450b3dd95d91c441d1966fe.mp4?hash=AgAD_x"
+    },
+    {
+      "title": "5. Health Committee Topic : Health Planning Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8744/6450b3dd95d91c441d1966ff.mp4?hash=AgAEFw"
+    },
+    {
+      "title": "1. Levels of Health Care Topic : Health Care Delivery Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8745/6450b3dd95d91c441d196700.mp4?hash=AgADAR"
+    },
+    {
+      "title": "2. Primary Care-Principles and Elements Topic : Health Care Delivery Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8746/6450b3dd95d91c441d196701.mp4?hash=AgADAh"
+    },
+    {
+      "title": "3. Health Workers Topic : Health Care Delivery Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8747/6450b3dd95d91c441d196702.mp4?hash=AgADAx"
+    },
+    {
+      "title": "1. Health Education and Communication Topic : Health Education and Communication Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8748/6450b3dd95d91c441d196703.mp4?hash=AgADBB"
+    },
+    {
+      "title": "2. Learning Topic : Health Education and Communication Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8749/6450b3dd95d91c441d196704.mp4?hash=AgADBR"
+    },
+    {
+      "title": "1. Coronary Heart Disease Topic : Non Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8750/6450b3dd95d91c441d196709.mp4?hash=AgADBx"
+    },
+    {
+      "title": "2. Hypertension Topic : Non Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8751/6450b3dd95d91c441d19670a.mp4?hash=AgADCB"
+    },
+    {
+      "title": "3. Rheumatic Fever Topic : Non Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8752/6450b3dd95d91c441d19670b.mp4?hash=AgADCR"
+    },
+    {
+      "title": "4. MPOWER Strategy Topic : Non Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8753/6450b3dd95d91c441d19670c.mp4?hash=AgADCh"
+    },
+    {
+      "title": "5. STEPS Protocol Topic : Non Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8754/647855550d68e2002bc3ba87.mp4?hash=AgADCx"
+    },
+    {
+      "title": "6. NCD Global Action Plan Topic : Non Communicable Disease Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8755/6450b3dd95d91c441d19670e.mp4?hash=AgADDB"
+    },
+    {
+      "title": "1. Behavioural Sciences Topic : Behavioural Sciences Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8756/6450b3dd95d91c441d19670f.mp4?hash=AgADDR"
+    },
+    {
+      "title": "1. Biomedical Waste Management Topic : Biomedical Waste Management Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8757/6450b3dd95d91c441d196705.mp4?hash=AgADDh"
+    },
+    {
+      "title": "2. Spill Management Topic : Biomedical Waste Management Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8758/6450b3dd95d91c441d196706.mp4?hash=AgADDx"
+    },
+    {
+      "title": "1. Disaster Management Topic : Disaster Management Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8759/6450b3dd95d91c441d196707.mp4?hash=AgADEB"
+    },
+    {
+      "title": "1. International Health Topic : International Health Subject : PSM",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/8760/6450b3dd95d91c441d196708.mp4?hash=AgADER"
+    }
+  ]
+}

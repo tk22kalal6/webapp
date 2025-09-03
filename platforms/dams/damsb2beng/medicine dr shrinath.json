@@ -1,0 +1,793 @@
+{
+  "subjectName": "Damsb2Beng",
+  "lectures": [
+    {
+      "title": "1. Introduction to Medicine.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15650/1.+Introduction+to+Medicine.mp4?hash=AgADVC"
+    },
+    {
+      "title": "1. Symptomatology - Cough.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15651/1.+Symptomatology+-+Cough.mp4?hash=AgADXC"
+    },
+    {
+      "title": "2. Symtomatology - Breathlessness.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15652/2.+Symtomatology+-+Breathlessness.mp4?hash=AgADZC"
+    },
+    {
+      "title": "3. Introduction to RS MCQs.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15653/3.+Introduction+to+RS+MCQs.mp4?hash=AgADaC"
+    },
+    {
+      "title": "1. Pulmonary Function tests.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15654/1.+Pulmonary+Function+tests.mp4?hash=AgADcy"
+    },
+    {
+      "title": "2. ABG Analysis.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15655/2.+ABG+Analysis.mp4?hash=AgADey"
+    },
+    {
+      "title": "3. Hypoxemia.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15656/3.+Hypoxemia.mp4?hash=AgADgy"
+    },
+    {
+      "title": "4. CO2 defects.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15657/4.+CO2+defects.mp4?hash=AgADiy"
+    },
+    {
+      "title": "5. Respiratory Failure.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15658/5.+Respiratory+Failure.mp4?hash=AgADkS"
+    },
+    {
+      "title": "6. Assessment methods in RS disorders MCQs.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15659/6.+Assessment+methods+in+RS+disorders+MCQs.mp4?hash=AgADlC"
+    },
+    {
+      "title": "1. Approach to ABB defects.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15660/1.+Approach+to+ABB+defects.mp4?hash=AgADnS"
+    },
+    {
+      "title": "2. Metabolic acidosis.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15661/2.+Metabolic+acidosis.mp4?hash=AgADpi"
+    },
+    {
+      "title": "3. Metabolic Alkalosis.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15662/3.+Metabolic+Alkalosis.mp4?hash=AgADvC"
+    },
+    {
+      "title": "4. ABB Defect in Renal Disorders.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15663/4.+ABB+Defect+in+Renal+Disorders.mp4?hash=AgADMh"
+    },
+    {
+      "title": "5. Respiratory ABB defects.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15664/5.+Respiratory+ABB+defects.mp4?hash=AgADOx"
+    },
+    {
+      "title": "1. Asthma.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15665/1.+Asthma.mp4?hash=AgADgR"
+    },
+    {
+      "title": "2. Bronchiectasis.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15666/2.+Bronchiectasis.mp4?hash=AgADnh"
+    },
+    {
+      "title": "3. COPD.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15667/3.+COPD.mp4?hash=AgADtB"
+    },
+    {
+      "title": "4. HP syndromes.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15668/4.+HP+syndromes.mp4?hash=AgADxx"
+    },
+    {
+      "title": "5. Sarcoidosis.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15669/5.+Sarcoidosis.mp4?hash=AgAD5R"
+    },
+    {
+      "title": "6. Silicosis.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15670/6.+Silicosis.mp4?hash=AgADBB"
+    },
+    {
+      "title": "7. Tuberculosis.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15671/7.+Tuberculosis.mp4?hash=AgADOB"
+    },
+    {
+      "title": "8. Obstructive lung diseases MCQs.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15672/8.+Obstructive+lung+diseases+MCQs.mp4?hash=AgADPR"
+    },
+    {
+      "title": "1. Approach to ILD.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15673/1.+Approach+to+ILD.mp4?hash=AgADXR"
+    },
+    {
+      "title": "2. Idiopathic ILD.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15674/2.+Idiopathic+ILD.mp4?hash=AgADmh"
+    },
+    {
+      "title": "3. Interstitial lung disorders MCQs.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15675/3.+Interstitial+lung+disorders+MCQs.mp4?hash=AgADnh"
+    },
+    {
+      "title": "1. Pneumocystis pneumonia.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15676/1.+Pneumocystis+pneumonia.mp4?hash=AgADsh"
+    },
+    {
+      "title": "2. Pneumonia.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15677/2.+Pneumonia.mp4?hash=AgAD6B"
+    },
+    {
+      "title": "3. ARDS.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15678/3.+ARDS.mp4?hash=AgADJB"
+    },
+    {
+      "title": "4. Pleural Effusion.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15679/4.+Pleural+Effusion.mp4?hash=AgADLx"
+    },
+    {
+      "title": "5. Pleural & Parenchymal disorders MCQs.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15680/5.+Pleural+%26+Parenchymal+disorders+MCQs.mp4?hash=AgADMB"
+    },
+    {
+      "title": "1. OSAH syndrome.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15681/1.+OSAH+syndrome.mp4?hash=AgADSh"
+    },
+    {
+      "title": "2. Pulmonary Hypertension.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15682/2.+Pulmonary+Hypertension.mp4?hash=AgADaR"
+    },
+    {
+      "title": "3. Isolated PAH.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15683/3.+Isolated+PAH.mp4?hash=AgADex"
+    },
+    {
+      "title": "4. Pulmonary thromboembolism.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15684/4.+Pulmonary+thromboembolism.mp4?hash=AgADsB"
+    },
+    {
+      "title": "5. Lung Cancers.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15685/5.+Lung+Cancers.mp4?hash=AgAD1B"
+    },
+    {
+      "title": "1. Introduction to Rheumatology & Auto-inflammatory disorders.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15686/1.+Introduction+to+Rheumatology+%26+Auto-inflammatory+disorders.mp4?hash=AgADDR"
+    },
+    {
+      "title": "2. Approach to Rheumatology disorders & ANA testing.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15687/2.+Approach+to+Rheumatology+disorders+%26+ANA+testing.mp4?hash=AgADPx"
+    },
+    {
+      "title": "1. S.L.E.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15688/1.+S.L.E.mp4?hash=AgADoR"
+    },
+    {
+      "title": "2. Systemic sclerosis.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15689/2.+Systemic+sclerosis.mp4?hash=AgADxB"
+    },
+    {
+      "title": "3. Sicca syndrome.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15690/3.+Sicca+syndrome.mp4?hash=AgAD7x"
+    },
+    {
+      "title": "4. Lupus disorders MCQs.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15691/4.+Lupus+disorders+MCQs.mp4?hash=AgAD_x"
+    },
+    {
+      "title": "1. Myositis syndromes.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15692/1.+Myositis+syndromes.mp4?hash=AgADLR"
+    },
+    {
+      "title": "2. Overlap syndromes.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15693/2.+Overlap+syndromes.mp4?hash=AgADNh"
+    },
+    {
+      "title": "1. Approach to Arthritis.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15694/1.+Approach+to+Arthritis.mp4?hash=AgADTh"
+    },
+    {
+      "title": "2. Crystal induced arthritis.mp4",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15695/2.+Crystal+induced+arthritis.mp4?hash=AgADXx"
+    },
+    {
+      "title": "3. Rheumatoid Arthritis.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15696/3.+Rheumatoid+Arthritis.mp4?hash=AgADdR"
+    },
+    {
+      "title": "4. Spondyloarthropathies.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15697/4.+Spondyloarthropathies.mp4?hash=AgADfh"
+    },
+    {
+      "title": "5. Arthritis syndrome MCQ.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15698/5.+Arthritis+syndrome+MCQ.mp4?hash=AgADgx"
+    },
+    {
+      "title": "1. Approach of Vasculitis.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15699/1.+Approach+of+Vasculitis.mp4?hash=AgADjh"
+    },
+    {
+      "title": "2. Large vessel vasculitis.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15700/2.+Large+vessel+vasculitis.mp4?hash=AgADkx"
+    },
+    {
+      "title": "3. Medium vessel vasculitis.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15701/3.+Medium+vessel+vasculitis.mp4?hash=AgADnB"
+    },
+    {
+      "title": "4. Small vessel vasculitis.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15702/4.+Small+vessel+vasculitis.mp4?hash=AgADqB"
+    },
+    {
+      "title": "5. Fibromyalgia.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15703/5.+Fibromyalgia.mp4?hash=AgADsR"
+    },
+    {
+      "title": "6. Vasculitis syndromes-MCQs.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15704/6.+Vasculitis+syndromes-MCQs.mp4?hash=AgADtR"
+    },
+    {
+      "title": "1. Introduction to Cardiology.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15705/1.+Introduction+to+Cardiology.mp4?hash=AgAD0x"
+    },
+    {
+      "title": "2. Approach to CVS disorders.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15706/2.+Approach+to+CVS+disorders.mp4?hash=AgAD3R"
+    },
+    {
+      "title": "3. Approach to Breathlessness.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15707/3.+Approach+to+Breathlessness.mp4?hash=AgAD-x"
+    },
+    {
+      "title": "4. Approach to Chest pain.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/15708/4.+Approach+to+Chest+pain.mp4?hash=AgADJR"
+    },
+    {
+      "title": "5. Palpitations & Edema.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/15709/5.+Palpitations+%26+Edema.mp4?hash=AgADNB"
+    },
+    {
+      "title": "6. Syncope.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15710/6.+Syncope.mp4?hash=AgADPx"
+    },
+    {
+      "title": "1. Arterial Pulse examination.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15711/1.+Arterial+Pulse+examination.mp4?hash=AgADdx"
+    },
+    {
+      "title": "2. JVP examination.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15712/2.+JVP+examination.mp4?hash=AgADfR"
+    },
+    {
+      "title": "3. Pulsus Paradoxus & Kussmaul's sign.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15713/3.+Pulsus+Paradoxus+%26+Kussmaul%27s+sign.mp4?hash=AgADgR"
+    },
+    {
+      "title": "4. Heart sounds.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15714/4.+Heart+sounds.mp4?hash=AgADph"
+    },
+    {
+      "title": "5. Examination of Murmurs.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15715/5.+Examination+of+Murmurs.mp4?hash=AgADqh"
+    },
+    {
+      "title": "6. MCQ - Clinical examination.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15716/6.+MCQ+-+Clinical+examination.mp4?hash=AgADrR"
+    },
+    {
+      "title": "1. Echocardiography.mp4",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15717/1.+Echocardiography.mp4?hash=AgADsx"
+    },
+    {
+      "title": "2. Pericardial disorders.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15718/2.+Pericardial+disorders.mp4?hash=AgADuB"
+    },
+    {
+      "title": "3. MCQ - ECHO & Pericardial disorders.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15719/3.+MCQ+-+ECHO+%26+Pericardial+disorders.mp4?hash=AgADux"
+    },
+    {
+      "title": "1. Electrocardiogram (ECG).mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15720/1.+Electrocardiogram+%28ECG%29.mp4?hash=AgADvx"
+    },
+    {
+      "title": "2. Approach to Arrythmias.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15721/2.+Approach+to+Arrythmias.mp4?hash=AgADwh"
+    },
+    {
+      "title": "3. Heart Block.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15722/3.+Heart+Block.mp4?hash=AgADxh"
+    },
+    {
+      "title": "4. Approach to Tachyarrythmias.mp4",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15723/4.+Approach+to+Tachyarrythmias.mp4?hash=AgADzR"
+    },
+    {
+      "title": "5. Supraventricular arrythmias.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15724/5.+Supraventricular+arrythmias.mp4?hash=AgAD1R"
+    },
+    {
+      "title": "6. Ventricular Tachyarrythmias.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15725/6.+Ventricular+Tachyarrythmias.mp4?hash=AgAD2B"
+    },
+    {
+      "title": "7. MCQ - ECG & Arrythmias.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15726/7.+MCQ+-+ECG+%26+Arrythmias.mp4?hash=AgAD2h"
+    },
+    {
+      "title": "1. Mitral Stenosis.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15727/1.+Mitral+Stenosis.mp4?hash=AgAD3B"
+    },
+    {
+      "title": "2. Aortic Stenosis.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/15728/2.+Aortic+Stenosis.mp4?hash=AgAD3x"
+    },
+    {
+      "title": "3. MR and MVP.mp4",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/15729/3.+MR+and+MVP.mp4?hash=AgAD5B"
+    },
+    {
+      "title": "4. Infective Endocarditis.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15730/4.+Infective+Endocarditis.mp4?hash=AgAD6R"
+    },
+    {
+      "title": "5. MCQ - Valvular HD & IE.mp4",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15731/5.+MCQ+-+Valvular+HD+%26+IE.mp4?hash=AgAD8B"
+    },
+    {
+      "title": "1. Cardiomyopathies.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15732/1.+Cardiomyopathies.mp4?hash=AgAD9R"
+    },
+    {
+      "title": "2. Cardiomyopathies MCQs.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15733/2.+Cardiomyopathies+MCQs.mp4?hash=AgAD9x"
+    },
+    {
+      "title": "1. Hypertension.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15734/1.+Hypertension.mp4?hash=AgAD_B"
+    },
+    {
+      "title": "2. Coronary artery disease.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15735/2.+Coronary+artery+disease.mp4?hash=AgADAR"
+    },
+    {
+      "title": "3. Hypertension & CAD MCQs.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15736/3.+Hypertension+%26+CAD+MCQs.mp4?hash=AgADBB"
+    },
+    {
+      "title": "1. Heart Failure.mp4",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15737/1.+Heart+Failure.mp4?hash=AgADCx"
+    },
+    {
+      "title": "2. Heart Failure MCQs.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15738/2.+Heart+Failure+MCQs.mp4?hash=AgADDh"
+    },
+    {
+      "title": "1. Approach to Medicine.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15739/1.+Approach+to+Medicine.mp4?hash=AgADER"
+    },
+    {
+      "title": "2. Symptomatology of renal disorders.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15740/2.+Symptomatology+of+renal+disorders.mp4?hash=AgADWh"
+    },
+    {
+      "title": "1. Assessment methods in Nephrology.mp4",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15741/1.+Assessment+methods+in+Nephrology.mp4?hash=AgADLB"
+    },
+    {
+      "title": "1. ABB defects in renal disorders.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15742/1.+ABB+defects+in+renal+disorders.mp4?hash=AgADOB"
+    },
+    {
+      "title": "1. Approach to Renal disorders.mp4",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15743/1.+Approach+to+Renal+disorders.mp4?hash=AgADPR"
+    },
+    {
+      "title": "2. Approach to AKI and management.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15744/2.+Approach+to+AKI+and+management.mp4?hash=AgADQh"
+    },
+    {
+      "title": "1. Glomerulonephritis.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15745/1.+Glomerulonephritis.mp4?hash=AgADTh"
+    },
+    {
+      "title": "1. CKD.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15746/1.+CKD.mp4?hash=AgADUR"
+    },
+    {
+      "title": "2. DM nephropathy.mp4",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15747/2.+DM+nephropathy.mp4?hash=AgADVx"
+    },
+    {
+      "title": "3. Inherited causes of CKD.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15748/3.+Inherited+causes+of+CKD.mp4?hash=AgADWh"
+    },
+    {
+      "title": "4. Renal Replacement therapy.mp4",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15749/4.+Renal+Replacement+therapy.mp4?hash=AgADXh"
+    },
+    {
+      "title": "<b>1.0 RS Approach </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15750/%3Cb%3E1.0+RS+Approach%3C%2Fb%3E?hash=AgADxx"
+    },
+    {
+      "title": "<b>1.1 Symtomatology </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15751/%3Cb%3E1.1+Symtomatology%3C%2Fb%3E?hash=AgAD4B"
+    },
+    {
+      "title": "<b>2.1 Pulmonary Function tests </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15752/%3Cb%3E2.1+Pulmonary+Function+tests%3C%2Fb%3E?hash=AgAD6R"
+    },
+    {
+      "title": "<b>2.2 ABG Analysis </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15753/%3Cb%3E2.2+ABG+Analysis%3C%2Fb%3E?hash=AgAD9R"
+    },
+    {
+      "title": "<b>2.3 Hypoxemia </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15754/%3Cb%3E2.3+Hypoxemia%3C%2Fb%3E?hash=AgAD-h"
+    },
+    {
+      "title": "<b>1. Approach to ABB defects </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15755/%3Cb%3E1.+Approach+to+ABB+defects%3C%2Fb%3E?hash=AgAEGQ"
+    },
+    {
+      "title": "<b>2. Metabolic acidosis </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15756/%3Cb%3E2.+Metabolic+acidosis%3C%2Fb%3E?hash=AgADBR"
+    },
+    {
+      "title": "<b>3. Metabolic Alkalosis </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15757/%3Cb%3E3.+Metabolic+Alkalosis%3C%2Fb%3E?hash=AgADCR"
+    },
+    {
+      "title": "<b>4. ABB Defect in Renal Disorders </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15758/%3Cb%3E4.+ABB+Defect+in+Renal+Disorders%3C%2Fb%3E?hash=AgADbh"
+    },
+    {
+      "title": "<b>5. Respiratory ABB defects </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15759/%3Cb%3E5.+Respiratory+ABB+defects%3C%2Fb%3E?hash=AgADeR"
+    },
+    {
+      "title": "<b>Asthma </b><b></b>",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15760/%3Cb%3EAsthma%3C%2Fb%3E?hash=AgADlR"
+    },
+    {
+      "title": "<b>Bronchiectasis </b><b></b>",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15761/%3Cb%3EBronchiectasis%3C%2Fb%3E?hash=AgADtB"
+    },
+    {
+      "title": "<b>COPD </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15762/%3Cb%3ECOPD%3C%2Fb%3E?hash=AgAD9B"
+    },
+    {
+      "title": "<b>HP syndromes </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15763/%3Cb%3EHP+syndromes%3C%2Fb%3E?hash=AgADCB"
+    },
+    {
+      "title": "<b>Sarcoidosis </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15764/%3Cb%3ESarcoidosis%3C%2Fb%3E?hash=AgADKR"
+    },
+    {
+      "title": "<b>Silicosis </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15765/%3Cb%3ESilicosis%3C%2Fb%3E?hash=AgADPB"
+    },
+    {
+      "title": "<b>Tuberculosis </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15766/%3Cb%3ETuberculosis%3C%2Fb%3E?hash=AgADjx"
+    },
+    {
+      "title": "<b>Obstructive lung diseases MCQs </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15767/%3Cb%3EObstructive+lung+diseases+MCQs%3C%2Fb%3E?hash=AgADlR"
+    },
+    {
+      "title": "<b>Approach to ILD </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15768/%3Cb%3EApproach+to+ILD%3C%2Fb%3E?hash=AgADuh"
+    },
+    {
+      "title": "<b>Idiopathic ILD </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15769/%3Cb%3EIdiopathic+ILD%3C%2Fb%3E?hash=AgAD7B"
+    },
+    {
+      "title": "<b>Interstitial lung disorders MCQs </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15770/%3Cb%3EInterstitial+lung+disorders+MCQs%3C%2Fb%3E?hash=AgAD7x"
+    },
+    {
+      "title": "<b>Pneumocystis pneumonia </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15771/%3Cb%3EPneumocystis+pneumonia%3C%2Fb%3E?hash=AgADCB"
+    },
+    {
+      "title": "<b>Pneumonia </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15772/%3Cb%3EPneumonia%3C%2Fb%3E?hash=AgADTR"
+    },
+    {
+      "title": "<b>ARDS </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15773/%3Cb%3EARDS%3C%2Fb%3E?hash=AgADox"
+    },
+    {
+      "title": "<b>Pleural Effusion </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15774/%3Cb%3EPleural+Effusion%3C%2Fb%3E?hash=AgADrx"
+    },
+    {
+      "title": "<b>Pleural Effusion Notes </b><b></b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15775/%3Cb%3EPleural+Effusion+Notes%3C%2Fb%3E?hash=AgADvR"
+    },
+    {
+      "title": "<b>Pleural &amp; Parenchymal disorders MCQs </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/15776/%3Cb%3EPleural+%26amp%3B+Parenchymal+disorders+MCQs%3C%2Fb%3E?hash=AgADvh"
+    },
+    {
+      "title": "<b>OSAH syndrome </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/15777/%3Cb%3EOSAH+syndrome%3C%2Fb%3E?hash=AgADfh"
+    },
+    {
+      "title": "<b>Pulmonary Hypertension </b><b></b>",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15778/%3Cb%3EPulmonary+Hypertension%3C%2Fb%3E?hash=AgADiR"
+    },
+    {
+      "title": "<b>3. Isoalated PAH </b><b></b>",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15779/%3Cb%3E3.+Isoalated+PAH%3C%2Fb%3E?hash=AgADkR"
+    },
+    {
+      "title": "<b>4. Pulmonary thromboembolism </b><b></b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15780/%3Cb%3E4.+Pulmonary+thromboembolism%3C%2Fb%3E?hash=AgADmB"
+    },
+    {
+      "title": "<b>5. Lung Cancers </b><b></b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15781/%3Cb%3E5.+Lung+Cancers%3C%2Fb%3E?hash=AgADmh"
+    },
+    {
+      "title": "<b>1.Introduction to Rheumatology &amp; Auto-inflammatory disorders </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15782/%3Cb%3E1.Introduction+to+Rheumatology+%26amp%3B+Auto-inflammatory+disorders%3C%2Fb%3E?hash=AgADnx"
+    },
+    {
+      "title": "<b>2. Approach to Rheumatology disorders &amp; ANA testing </b><b></b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15783/%3Cb%3E2.+Approach+to+Rheumatology+disorders+%26amp%3B+ANA+testing%3C%2Fb%3E?hash=AgADoh"
+    },
+    {
+      "title": "<b>1.S.L.E </b><b></b>",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15784/%3Cb%3E1.S.L.E%3C%2Fb%3E?hash=AgAD0h"
+    },
+    {
+      "title": "<b>2. Systemic sclerosis </b><b></b>",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15785/%3Cb%3E2.+Systemic+sclerosis%3C%2Fb%3E?hash=AgADNh"
+    },
+    {
+      "title": "<b>3.Sicca syndrome </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15786/%3Cb%3E3.Sicca+syndrome%3C%2Fb%3E?hash=AgADVB"
+    },
+    {
+      "title": "<b>Lupus disorders MCQs </b><b></b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15787/%3Cb%3ELupus+disorders+MCQs%3C%2Fb%3E?hash=AgADXR"
+    },
+    {
+      "title": "<b>1. Myositis syndromes </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15788/%3Cb%3E1.+Myositis+syndromes%3C%2Fb%3E?hash=AgADjR"
+    },
+    {
+      "title": "<b>2. Overlap syndromes </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15789/%3Cb%3E2.+Overlap+syndromes%3C%2Fb%3E?hash=AgADmx"
+    },
+    {
+      "title": "<b>1. Approach to Arthritis </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15790/%3Cb%3E1.+Approach+to+Arthritis%3C%2Fb%3E?hash=AgADex"
+    },
+    {
+      "title": "<b>2. Crystal induced arthritis </b><b></b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15791/%3Cb%3E2.+Crystal+induced+arthritis%3C%2Fb%3E?hash=AgADnx"
+    },
+    {
+      "title": "<b>3. Rheumatoid Arthritis </b><b></b>",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15792/%3Cb%3E3.+Rheumatoid+Arthritis%3C%2Fb%3E?hash=AgAD6h"
+    },
+    {
+      "title": "<b>4. Spondyloarthropathies </b><b></b>",
+      "streamingUrl": "https://stream10.nextpulse.workers.dev/watch/15793/%3Cb%3E4.+Spondyloarthropathies%3C%2Fb%3E?hash=AgAD_B"
+    },
+    {
+      "title": "<b>Arthritis syndrome MCQ </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/15794/%3Cb%3EArthritis+syndrome+MCQ%3C%2Fb%3E?hash=AgADBB"
+    },
+    {
+      "title": "<b>1.Approach of Vasculitis </b><b></b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/15795/%3Cb%3E1.Approach+of+Vasculitis%3C%2Fb%3E?hash=AgADHR"
+    },
+    {
+      "title": "<b>2. Large vessel vasculitis </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15796/%3Cb%3E2.+Large+vessel+vasculitis%3C%2Fb%3E?hash=AgADJB"
+    },
+    {
+      "title": "<b>3. Medium vessel vasculitis </b><b></b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15797/%3Cb%3E3.+Medium+vessel+vasculitis%3C%2Fb%3E?hash=AgADNR"
+    },
+    {
+      "title": "<b>4. Small vessel vasculitis </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15798/%3Cb%3E4.+Small+vessel+vasculitis%3C%2Fb%3E?hash=AgADVB"
+    },
+    {
+      "title": "<b>5. Fibromyalgia </b><b></b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15799/%3Cb%3E5.+Fibromyalgia%3C%2Fb%3E?hash=AgADbB"
+    },
+    {
+      "title": "<b>Vasculitis syndromes-MCQs </b><b></b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15800/%3Cb%3EVasculitis+syndromes-MCQs%3C%2Fb%3E?hash=AgADeB"
+    },
+    {
+      "title": "<b>1. Introduction to Cardiology </b><b></b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15801/%3Cb%3E1.+Introduction+to+Cardiology%3C%2Fb%3E?hash=AgADvh"
+    },
+    {
+      "title": "<b>2. Approach to CVS disorders</b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15802/%3Cb%3E2.+Approach+to+CVS+disorders%3C%2Fb%3E?hash=AgADzh"
+    },
+    {
+      "title": "<b>3. Approach to Breathlessness</b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15803/%3Cb%3E3.+Approach+to+Breathlessness%3C%2Fb%3E?hash=AgAD7B"
+    },
+    {
+      "title": "<b>4. Approach to Chest pain</b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15804/%3Cb%3E4.+Approach+to+Chest+pain%3C%2Fb%3E?hash=AgADNx"
+    },
+    {
+      "title": "<b>5. Palpitations &amp; Edema</b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15805/%3Cb%3E5.+Palpitations+%26amp%3B+Edema%3C%2Fb%3E?hash=AgADWh"
+    },
+    {
+      "title": "<b>6. Syncope</b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15806/%3Cb%3E6.+Syncope%3C%2Fb%3E?hash=AgADfx"
+    },
+    {
+      "title": "<b>1. Arterial Pulse examination</b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15807/%3Cb%3E1.+Arterial+Pulse+examination%3C%2Fb%3E?hash=AgADxB"
+    },
+    {
+      "title": "<b>2. JVP examination</b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15808/%3Cb%3E2.+JVP+examination%3C%2Fb%3E?hash=AgAD0B"
+    },
+    {
+      "title": "<b>3. Pulsus Paradoxus &amp; Kussmauls sign</b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15809/%3Cb%3E3.+Pulsus+Paradoxus+%26amp%3B+Kussmauls+sign%3C%2Fb%3E?hash=AgAD2B"
+    },
+    {
+      "title": "<b>4. Heart sounds</b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15810/%3Cb%3E4.+Heart+sounds%3C%2Fb%3E?hash=AgAD7R"
+    },
+    {
+      "title": "<b>5. Examination of Murmurs</b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15811/%3Cb%3E5.+Examination+of+Murmurs%3C%2Fb%3E?hash=AgADBB"
+    },
+    {
+      "title": "<b>6. MCQ - Clinical examination</b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15812/%3Cb%3E6.+MCQ+-+Clinical+examination%3C%2Fb%3E?hash=AgADDR"
+    },
+    {
+      "title": "<b>1.Echocardiography</b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15813/%3Cb%3E1.Echocardiography%3C%2Fb%3E?hash=AgADGh"
+    },
+    {
+      "title": "<b>2.Pericardial disorders</b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15814/%3Cb%3E2.Pericardial+disorders%3C%2Fb%3E?hash=AgADJR"
+    },
+    {
+      "title": "<b>3. MCQ - ECHO &amp; Pericardial disorders</b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15815/%3Cb%3E3.+MCQ+-+ECHO+%26amp%3B+Pericardial+disorders%3C%2Fb%3E?hash=AgADLx"
+    },
+    {
+      "title": "<b>1. Electrocardiogram (ECG)</b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15816/%3Cb%3E1.+Electrocardiogram+%28ECG%29%3C%2Fb%3E?hash=AgADOB"
+    },
+    {
+      "title": "<b>2. Approach to Arrythmias</b>",
+      "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/15817/%3Cb%3E2.+Approach+to+Arrythmias%3C%2Fb%3E?hash=AgADRB"
+    },
+    {
+      "title": "<b>3. Heart Block</b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15818/%3Cb%3E3.+Heart+Block%3C%2Fb%3E?hash=AgADVR"
+    },
+    {
+      "title": "<b>4. Approach to Tachyarrythmias</b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15819/%3Cb%3E4.+Approach+to+Tachyarrythmias%3C%2Fb%3E?hash=AgADXx"
+    },
+    {
+      "title": "<b>5. Supraventricular arrythmias</b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15820/%3Cb%3E5.+Supraventricular+arrythmias%3C%2Fb%3E?hash=AgADaR"
+    },
+    {
+      "title": "<b>6.Ventricular Tachyarrythmias</b>",
+      "streamingUrl": "https://stream5.nextpulse.workers.dev/watch/15821/%3Cb%3E6.Ventricular+Tachyarrythmias%3C%2Fb%3E?hash=AgADcx"
+    },
+    {
+      "title": "<b>7. MCQ - ECG &amp; Arrythmias</b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15822/%3Cb%3E7.+MCQ+-+ECG+%26amp%3B+Arrythmias%3C%2Fb%3E?hash=AgADdR"
+    },
+    {
+      "title": "<b>1. Mitral Stenosis</b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15823/%3Cb%3E1.+Mitral+Stenosis%3C%2Fb%3E?hash=AgADeR"
+    },
+    {
+      "title": "<b>2. Aortic Stenosis</b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15824/%3Cb%3E2.+Aortic+Stenosis%3C%2Fb%3E?hash=AgADwB"
+    },
+    {
+      "title": "<b>3. MR and MVP</b>",
+      "streamingUrl": "https://stream6.nextpulse.workers.dev/watch/15825/%3Cb%3E3.+MR+and+MVP%3C%2Fb%3E?hash=AgADyR"
+    },
+    {
+      "title": "<b>4. Infective Endocarditis</b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15826/%3Cb%3E4.+Infective+Endocarditis%3C%2Fb%3E?hash=AgADzh"
+    },
+    {
+      "title": "<b>MCQ - Valvular HD &amp; IE</b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15827/%3Cb%3EMCQ+-+Valvular+HD+%26amp%3B+IE%3C%2Fb%3E?hash=AgAD0B"
+    },
+    {
+      "title": "<b>Cardiomyopathies</b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15828/%3Cb%3ECardiomyopathies%3C%2Fb%3E?hash=AgAD3R"
+    },
+    {
+      "title": "<b>Cardiomyopathies MCQs</b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15829/%3Cb%3ECardiomyopathies+MCQs%3C%2Fb%3E?hash=AgAD4h"
+    },
+    {
+      "title": "<b>1. Hypertension</b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15830/%3Cb%3E1.+Hypertension%3C%2Fb%3E?hash=AgAD6R"
+    },
+    {
+      "title": "<b>2. Coronary artery disease</b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15831/%3Cb%3E2.+Coronary+artery+disease%3C%2Fb%3E?hash=AgAD-h"
+    },
+    {
+      "title": "<b>Hypertension &amp; CAD MCQs</b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15832/%3Cb%3EHypertension+%26amp%3B+CAD+MCQs%3C%2Fb%3E?hash=AgAD_x"
+    },
+    {
+      "title": "<b>Heart Failure</b>",
+      "streamingUrl": "https://stream3.nextpulse.workers.dev/watch/15833/%3Cb%3EHeart+Failure%3C%2Fb%3E?hash=AgADCh"
+    },
+    {
+      "title": "<b>Heart Failure MCQs</b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15834/%3Cb%3EHeart+Failure+MCQs%3C%2Fb%3E?hash=AgADDx"
+    },
+    {
+      "title": "<b>1.Approach to Medicine</b>",
+      "streamingUrl": "https://stream1.nextpulse.workers.dev/watch/15835/%3Cb%3E1.Approach+to+Medicine%3C%2Fb%3E?hash=AgADFh"
+    },
+    {
+      "title": "<b>2.Symptomatology of renal disorders</b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15836/%3Cb%3E2.Symptomatology+of+renal+disorders%3C%2Fb%3E?hash=AgADQR"
+    },
+    {
+      "title": "<b>1.Assessment methods in Nephrology</b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15837/%3Cb%3E1.Assessment+methods+in+Nephrology%3C%2Fb%3E?hash=AgADSR"
+    },
+    {
+      "title": "<b>1. ABB defects in renal disorders</b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15838/%3Cb%3E1.+ABB+defects+in+renal+disorders%3C%2Fb%3E?hash=AgADYR"
+    },
+    {
+      "title": "<b>1. Approach to Renal disorders</b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15839/%3Cb%3E1.+Approach+to+Renal+disorders%3C%2Fb%3E?hash=AgADax"
+    },
+    {
+      "title": "<b>2. Approach to AKI and management</b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15840/%3Cb%3E2.+Approach+to+AKI+and+management%3C%2Fb%3E?hash=AgADfR"
+    },
+    {
+      "title": "<b>1. Glomerulonephritis</b>",
+      "streamingUrl": "https://stream8.nextpulse.workers.dev/watch/15841/%3Cb%3E1.+Glomerulonephritis%3C%2Fb%3E?hash=AgADjR"
+    },
+    {
+      "title": "<b>1.CKD</b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15842/%3Cb%3E1.CKD%3C%2Fb%3E?hash=AgADlB"
+    },
+    {
+      "title": "<b>2.DM</b><b> nephropathy</b>",
+      "streamingUrl": "https://stream2.nextpulse.workers.dev/watch/15843/%3Cb%3E2.DM%3C%2Fb%3E%3Cb%3E+nephropathy%3C%2Fb%3E?hash=AgADnh"
+    },
+    {
+      "title": "<b>3. Inherited causes of CKD</b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/15844/%3Cb%3E3.+Inherited+causes+of+CKD%3C%2Fb%3E?hash=AgADpx"
+    },
+    {
+      "title": "<b>4. Renal Replacement therapy</b>",
+      "streamingUrl": "https://stream7.nextpulse.workers.dev/watch/15845/%3Cb%3E4.+Renal+Replacement+therapy%3C%2Fb%3E?hash=AgADth"
+    },
+    {
+      "title": "<b>Medicine Emergency by Dr Srinath</b>",
+      "streamingUrl": "https://stream9.nextpulse.workers.dev/watch/15846/%3Cb%3EMedicine+Emergency+by+Dr+Srinath%3C%2Fb%3E?hash=AgADvR"
+    }
+  ]
+}
